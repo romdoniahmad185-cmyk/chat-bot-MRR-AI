@@ -1,0 +1,126 @@
+{
+  "huruf": "A",
+  "level": "A8",
+  "kosakata": [
+    {
+      "kata": "aksesori",
+      "sinonim": [
+        "perlengkapan",
+        "tambahan",
+        "pelengkap"
+      ],
+      "arti": "Benda tambahan yang digunakan untuk melengkapi sesuatu.",
+      "contoh": [
+        "Toko tersebut menjual aksesori komputer."
+      ]
+    },
+    {
+      "kata": "akrab",
+      "sinonim": [
+        "dekat",
+        "bersahabat",
+        "harmonis"
+      ],
+      "arti": "Hubungan yang dekat dan nyaman antara seseorang dengan orang lain.",
+      "contoh": [
+        "Chatbot harus memiliki gaya komunikasi yang akrab."
+      ]
+    },
+    {
+      "kata": "akreditasi",
+      "sinonim": [
+        "pengakuan",
+        "pengesahan",
+        "sertifikasi"
+      ],
+      "arti": "Pengakuan resmi terhadap kualitas atau standar tertentu.",
+      "contoh": [
+        "Sekolah tersebut memiliki akreditasi yang baik."
+      ]
+    },
+    {
+      "kata": "akumulatif",
+      "sinonim": [
+        "bertambah",
+        "terkumpul",
+        "berangsur"
+      ],
+      "arti": "Sesuatu yang meningkat secara bertahap dari waktu ke waktu.",
+      "contoh": [
+        "Sistem menghitung nilai secara akumulatif."
+      ]
+    },
+    {
+      "kata": "akurasi",
+      "sinonim": [
+        "ketepatan",
+        "presisi",
+        "kebenaran"
+      ],
+      "arti": "Ukuran seberapa tepat suatu hasil atau informasi.",
+      "contoh": [
+        "Akurasi AI dapat meningkat dengan data yang lebih banyak."
+      ]
+    },
+    {
+      "kata": "alasan",
+      "sinonim": [
+        "penyebab",
+        "dasar",
+        "pertimbangan"
+      ],
+      "arti": "Sesuatu yang menjadi penyebab atau latar belakang suatu tindakan.",
+      "contoh": [
+        "Berikan alasan mengapa sistem mengalami error."
+      ]
+    },
+    {
+      "kata": "alat",
+      "sinonim": [
+        "perangkat",
+        "instrumen",
+        "media"
+      ],
+      "arti": "Benda atau sarana yang digunakan untuk membantu pekerjaan.",
+      "contoh": [
+        "Komputer adalah alat untuk membuat program."
+      ]
+    },
+    {
+      "kata": "alihkan",
+      "sinonim": [
+        "pindahkan",
+        "ubah arah",
+        "transfer"
+      ],
+      "arti": "Memindahkan sesuatu dari satu tempat atau tujuan ke tempat lain.",
+      "contoh": [
+        "Silakan alihkan pertanyaan ini ke admin."
+      ]
+    },
+    {
+      "kata": "analogi",
+      "sinonim": [
+        "perbandingan",
+        "persamaan",
+        "gambaran"
+      ],
+      "arti": "Cara menjelaskan sesuatu dengan membandingkan hal yang mirip.",
+      "contoh": [
+        "Gunakan analogi agar pengguna mudah memahami AI."
+      ]
+    },
+    {
+      "kata": "antisipasi",
+      "sinonim": [
+        "persiapan",
+        "pencegahan",
+        "perkiraan"
+      ],
+      "arti": "Tindakan mempersiapkan diri sebelum terjadi sesuatu.",
+      "contoh": [
+        "Sistem melakukan antisipasi terhadap kesalahan."
+      ]
+    }
+  ]
+}
