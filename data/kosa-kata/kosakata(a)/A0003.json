@@ -1,0 +1,127 @@
+{
+  "huruf": "A",
+  "level": "A4",
+  "kosakata": [
+    {
+      "kata": "atur",
+      "sinonim": [
+        "susun",
+        "kelola",
+        "tata"
+      ],
+      "arti": "Mengatur atau membuat sesuatu menjadi lebih teratur.",
+      "contoh": [
+        "Saya akan mengatur jadwal posting.",
+        "Admin dapat mengatur sistem."
+      ]
+    },
+    {
+      "kata": "aturan",
+      "sinonim": [
+        "ketentuan",
+        "syarat",
+        "pedoman"
+      ],
+      "arti": "Sesuatu yang harus dilakukan atau dipatuhi.",
+      "contoh": [
+        "Ikuti aturan penggunaan aplikasi."
+      ]
+    },
+    {
+      "kata": "audit",
+      "sinonim": [
+        "pemeriksaan",
+        "peninjauan",
+        "evaluasi"
+      ],
+      "arti": "Proses memeriksa suatu data atau sistem secara menyeluruh.",
+      "contoh": [
+        "Admin melakukan audit transaksi."
+      ]
+    },
+    {
+      "kata": "avatar",
+      "sinonim": [
+        "foto profil",
+        "karakter digital",
+        "ikon pengguna"
+      ],
+      "arti": "Gambar atau karakter yang mewakili pengguna di dunia digital.",
+      "contoh": [
+        "Pengguna dapat mengganti avatar akun."
+      ]
+    },
+    {
+      "kata": "aksesibilitas",
+      "sinonim": [
+        "kemudahan akses",
+        "keterjangkauan",
+        "kemudahan penggunaan"
+      ],
+      "arti": "Kemampuan suatu sistem untuk mudah digunakan oleh berbagai pengguna.",
+      "contoh": [
+        "Website harus memiliki aksesibilitas yang baik."
+      ]
+    },
+    {
+      "kata": "otomatis",
+      "sinonim": [
+        "auto",
+        "berjalan sendiri",
+        "tanpa manual"
+      ],
+      "arti": "Sesuatu yang bekerja tanpa perlu banyak campur tangan manusia.",
+      "contoh": [
+        "Sistem mengirim pesan otomatis kepada pelanggan."
+      ]
+    },
+    {
+      "kata": "optimasi",
+      "sinonim": [
+        "peningkatan",
+        "perbaikan",
+        "pengoptimalan"
+      ],
+      "arti": "Proses membuat sesuatu menjadi lebih baik atau lebih efektif.",
+      "contoh": [
+        "Optimasi website dapat meningkatkan kecepatan."
+      ]
+    },
+    {
+      "kata": "operasi",
+      "sinonim": [
+        "proses",
+        "kegiatan",
+        "aktivitas"
+      ],
+      "arti": "Kegiatan atau proses menjalankan sesuatu.",
+      "contoh": [
+        "Server sedang dalam operasi normal."
+      ]
+    },
+    {
+      "kata": "organisasi",
+      "sinonim": [
+        "kelompok",
+        "lembaga",
+        "perkumpulan"
+      ],
+      "arti": "Sekumpulan orang yang bekerja bersama untuk tujuan tertentu.",
+      "contoh": [
+        "Organisasi mengelola proyek teknologi."
+      ]
+    },
+    {
+      "kata": "orientasi",
+      "sinonim": [
+        "arah",
+        "tujuan",
+        "pandangan"
+      ],
+      "arti": "Arah atau tujuan utama yang menjadi fokus.",
+      "contoh": [
+        "Orientasi bisnis adalah memberikan layanan terbaik."
+      ]
+    }
+  ]
+}
