@@ -1,0 +1,127 @@
+{
+  "huruf": "A",
+  "level": "A3",
+  "kosakata": [
+    {
+      "kata": "alamat",
+      "sinonim": [
+        "lokasi",
+        "tempat",
+        "domisili"
+      ],
+      "arti": "Keterangan tempat tinggal atau lokasi suatu tempat.",
+      "contoh": [
+        "Silakan masukkan alamat pengiriman.",
+        "Alamat website harus benar."
+      ]
+    },
+    {
+      "kata": "alasan",
+      "sinonim": [
+        "sebab",
+        "penyebab",
+        "dasar"
+      ],
+      "arti": "Hal yang menjadi penyebab atau pertimbangan melakukan sesuatu.",
+      "contoh": [
+        "Apa alasan kamu membuat chatbot?"
+      ]
+    },
+    {
+      "kata": "alami",
+      "sinonim": [
+        "natural",
+        "asli",
+        "wajar"
+      ],
+      "arti": "Sesuatu yang terjadi secara natural atau tidak dibuat-buat.",
+      "contoh": [
+        "AI harus memahami bahasa alami manusia."
+      ]
+    },
+    {
+      "kata": "anggota",
+      "sinonim": [
+        "bagian",
+        "peserta",
+        "member"
+      ],
+      "arti": "Orang atau bagian yang termasuk dalam suatu kelompok.",
+      "contoh": [
+        "Dia adalah anggota komunitas teknologi."
+      ]
+    },
+    {
+      "kata": "angka",
+      "sinonim": [
+        "nomor",
+        "bilangan",
+        "nilai"
+      ],
+      "arti": "Simbol yang digunakan untuk menunjukkan jumlah atau nilai.",
+      "contoh": [
+        "Masukkan angka sesuai data."
+      ]
+    },
+    {
+      "kata": "antarmuka",
+      "sinonim": [
+        "interface",
+        "tampilan",
+        "penghubung"
+      ],
+      "arti": "Bagian yang menghubungkan pengguna dengan sistem.",
+      "contoh": [
+        "Website memiliki antarmuka yang mudah digunakan."
+      ]
+    },
+    {
+      "kata": "antrian",
+      "sinonim": [
+        "barisan",
+        "urutan",
+        "daftar tunggu"
+      ],
+      "arti": "Kumpulan orang atau proses yang menunggu giliran.",
+      "contoh": [
+        "Pesanan sedang masuk dalam antrian sistem."
+      ]
+    },
+    {
+      "kata": "apabila",
+      "sinonim": [
+        "jika",
+        "kalau",
+        "bila"
+      ],
+      "arti": "Kata penghubung yang menunjukkan suatu kondisi.",
+      "contoh": [
+        "Apabila terjadi kesalahan, hubungi admin."
+      ]
+    },
+    {
+      "kata": "arsip",
+      "sinonim": [
+        "dokumen",
+        "catatan",
+        "file"
+      ],
+      "arti": "Kumpulan data atau dokumen yang disimpan.",
+      "contoh": [
+        "Sistem menyimpan arsip transaksi."
+      ]
+    },
+    {
+      "kata": "asisten",
+      "sinonim": [
+        "pembantu",
+        "pendamping",
+        "helper"
+      ],
+      "arti": "Seseorang atau sistem yang membantu pekerjaan.",
+      "contoh": [
+        "Chatbot AI berfungsi sebagai asisten digital."
+      ]
+    }
+  ]
+}
