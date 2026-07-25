@@ -1,0 +1,126 @@
+{
+  "huruf": "A",
+  "level": "A9",
+  "kosakata": [
+    {
+      "kata": "antisipatif",
+      "sinonim": [
+        "siap menghadapi",
+        "waspada",
+        "preventif"
+      ],
+      "arti": "Sikap atau tindakan yang dilakukan untuk menghadapi kemungkinan yang akan terjadi.",
+      "contoh": [
+        "Sistem keamanan harus bersifat antisipatif terhadap serangan."
+      ]
+    },
+    {
+      "kata": "aplikasikan",
+      "sinonim": [
+        "terapkan",
+        "gunakan",
+        "jalankan"
+      ],
+      "arti": "Melakukan atau menerapkan sesuatu dalam praktik.",
+      "contoh": [
+        "Silakan aplikasikan pengaturan baru pada website."
+      ]
+    },
+    {
+      "kata": "aplikasi",
+      "sinonim": [
+        "program",
+        "software",
+        "perangkat lunak"
+      ],
+      "arti": "Program yang dibuat untuk membantu pengguna melakukan tugas tertentu.",
+      "contoh": [
+        "Saya sedang mengembangkan aplikasi chatbot."
+      ]
+    },
+    {
+      "kata": "aplikator",
+      "sinonim": [
+        "penerap",
+        "pengguna",
+        "pelaksana"
+      ],
+      "arti": "Orang atau alat yang menerapkan suatu metode atau sistem.",
+      "contoh": [
+        "Pengembang menjadi aplikator teknologi baru."
+      ]
+    },
+    {
+      "kata": "apresiatif",
+      "sinonim": [
+        "menghargai",
+        "mengakui",
+        "menghormati"
+      ],
+      "arti": "Memiliki sikap memberikan penghargaan terhadap sesuatu.",
+      "contoh": [
+        "Pengguna memberikan komentar apresiatif terhadap layanan."
+      ]
+    },
+    {
+      "kata": "arsipkan",
+      "sinonim": [
+        "simpan",
+        "catat",
+        "dokumentasikan"
+      ],
+      "arti": "Menyimpan data atau dokumen agar dapat digunakan kembali.",
+      "contoh": [
+        "Silakan arsipkan laporan transaksi."
+      ]
+    },
+    {
+      "kata": "asisten",
+      "sinonim": [
+        "pembantu",
+        "pendamping",
+        "helper"
+      ],
+      "arti": "Seseorang atau sistem yang membantu pekerjaan.",
+      "contoh": [
+        "AI chatbot berfungsi sebagai asisten virtual."
+      ]
+    },
+    {
+      "kata": "asosiasi",
+      "sinonim": [
+        "hubungan",
+        "kaitan",
+        "perkumpulan"
+      ],
+      "arti": "Hubungan antara satu hal dengan hal lainnya.",
+      "contoh": [
+        "AI mempelajari asosiasi antar kata."
+      ]
+    },
+    {
+      "kata": "aspek",
+      "sinonim": [
+        "sisi",
+        "bagian",
+        "faktor"
+      ],
+      "arti": "Bagian atau sudut pandang dari suatu hal.",
+      "contoh": [
+        "Keamanan adalah aspek penting dalam website."
+      ]
+    },
+    {
+      "kata": "asupan",
+      "sinonim": [
+        "masukan",
+        "input",
+        "pemberian"
+      ],
+      "arti": "Sesuatu yang diberikan atau dimasukkan ke dalam suatu sistem.",
+      "contoh": [
+        "AI membutuhkan asupan data untuk belajar."
+      ]
+    }
+  ]
+}
