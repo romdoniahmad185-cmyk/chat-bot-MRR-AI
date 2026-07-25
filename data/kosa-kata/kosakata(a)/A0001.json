@@ -1,0 +1,128 @@
+{
+  "huruf": "A",
+  "level": "A2",
+  "kosakata": [
+    {
+      "kata": "aman",
+      "sinonim": [
+        "selamat",
+        "terlindungi",
+        "tidak berbahaya"
+      ],
+      "arti": "Keadaan bebas dari bahaya atau risiko.",
+      "contoh": [
+        "Data pengguna harus tetap aman.",
+        "Apakah perjalanan kamu aman?"
+      ]
+    },
+    {
+      "kata": "ambil",
+      "sinonim": [
+        "mengambil",
+        "memungut",
+        "menerima"
+      ],
+      "arti": "Menggerakkan sesuatu dari tempatnya atau menerima sesuatu.",
+      "contoh": [
+        "Silakan ambil barang tersebut.",
+        "Saya akan mengambil data dari server."
+      ]
+    },
+    {
+      "kata": "analisis",
+      "sinonim": [
+        "pemeriksaan",
+        "penelitian",
+        "pengkajian"
+      ],
+      "arti": "Proses mempelajari sesuatu untuk mendapatkan informasi atau kesimpulan.",
+      "contoh": [
+        "AI melakukan analisis data pengguna."
+      ]
+    },
+    {
+      "kata": "antar",
+      "sinonim": [
+        "kirim",
+        "bawa",
+        "mengantarkan"
+      ],
+      "arti": "Membawa sesuatu dari satu tempat ke tempat lain.",
+      "contoh": [
+        "Saya akan antar pesanan hari ini."
+      ]
+    },
+    {
+      "kata": "aplikasi",
+      "sinonim": [
+        "program",
+        "software",
+        "perangkat lunak"
+      ],
+      "arti": "Program komputer yang dibuat untuk melakukan fungsi tertentu.",
+      "contoh": [
+        "Saya sedang membuat aplikasi chatbot."
+      ]
+    },
+    {
+      "kata": "akses",
+      "sinonim": [
+        "masuk",
+        "membuka",
+        "izin penggunaan"
+      ],
+      "arti": "Hak atau kemampuan untuk menggunakan sesuatu.",
+      "contoh": [
+        "Admin memiliki akses penuh ke sistem."
+      ]
+    },
+    {
+      "kata": "asli",
+      "sinonim": [
+        "original",
+        "palsu lawan kata",
+        "sebenarnya"
+      ],
+      "arti": "Sesuatu yang benar-benar berasal dari sumbernya.",
+      "contoh": [
+        "Gunakan data asli dari server."
+      ]
+    },
+    {
+      "kata": "aturan",
+      "sinonim": [
+        "ketentuan",
+        "peraturan",
+        "pedoman"
+      ],
+      "arti": "Hal yang harus dipatuhi atau dijalankan.",
+      "contoh": [
+        "Sistem memiliki aturan keamanan."
+      ]
+    },
+    {
+      "kata": "awal",
+      "sinonim": [
+        "permulaan",
+        "pertama",
+        "mulai"
+      ],
+      "arti": "Bagian pertama dari suatu proses atau kejadian.",
+      "contoh": [
+        "Ini adalah awal dari proyek AI."
+      ]
+    },
+    {
+      "kata": "akhir",
+      "sinonim": [
+        "selesai",
+        "penutup",
+        "ujung"
+      ],
+      "arti": "Bagian terakhir dari sesuatu.",
+      "contoh": [
+        "Program akan berhenti pada akhir proses."
+      ]
+    }
+  ]
+}
