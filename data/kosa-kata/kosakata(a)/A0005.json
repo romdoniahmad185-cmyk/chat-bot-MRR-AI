@@ -1,0 +1,126 @@
+{
+  "huruf": "A",
+  "level": "A6",
+  "kosakata": [
+    {
+      "kata": "aktifkan",
+      "sinonim": [
+        "nyalakan",
+        "hidupkan",
+        "mulai"
+      ],
+      "arti": "Membuat sesuatu menjadi aktif atau berjalan.",
+      "contoh": [
+        "Silakan aktifkan akun terlebih dahulu.",
+        "Admin dapat mengaktifkan fitur baru."
+      ]
+    },
+    {
+      "kata": "aktivitas",
+      "sinonim": [
+        "kegiatan",
+        "pekerjaan",
+        "proses"
+      ],
+      "arti": "Kegiatan atau tindakan yang dilakukan seseorang atau sistem.",
+      "contoh": [
+        "Sistem mencatat aktivitas pengguna."
+      ]
+    },
+    {
+      "kata": "akurasi",
+      "sinonim": [
+        "ketepatan",
+        "keakuratan",
+        "presisi"
+      ],
+      "arti": "Tingkat kebenaran atau ketepatan suatu hasil.",
+      "contoh": [
+        "AI harus memiliki akurasi jawaban yang tinggi."
+      ]
+    },
+    {
+      "kata": "akurat",
+      "sinonim": [
+        "tepat",
+        "benar",
+        "sesuai"
+      ],
+      "arti": "Sesuatu yang sesuai dengan fakta atau kenyataan.",
+      "contoh": [
+        "Data yang diberikan harus akurat."
+      ]
+    },
+    {
+      "kata": "akibat",
+      "sinonim": [
+        "dampak",
+        "efek",
+        "hasil"
+      ],
+      "arti": "Sesuatu yang terjadi karena adanya penyebab tertentu.",
+      "contoh": [
+        "Kesalahan kode dapat menyebabkan akibat buruk."
+      ]
+    },
+    {
+      "kata": "akumulasi",
+      "sinonim": [
+        "pengumpulan",
+        "penumpukan",
+        "total"
+      ],
+      "arti": "Proses mengumpulkan sesuatu secara bertahap.",
+      "contoh": [
+        "Sistem menghitung akumulasi keuntungan."
+      ]
+    },
+    {
+      "kata": "akunisasi",
+      "sinonim": [
+        "pembuatan akun",
+        "registrasi akun"
+      ],
+      "arti": "Proses membuat atau mengelola akun pengguna.",
+      "contoh": [
+        "Pengguna harus melakukan akunisasi sebelum masuk."
+      ]
+    },
+    {
+      "kata": "alamatkan",
+      "sinonim": [
+        "tujuankan",
+        "kirimkan",
+        "arahkan"
+      ],
+      "arti": "Memberikan tujuan atau mengarahkan sesuatu kepada pihak tertentu.",
+      "contoh": [
+        "Pesan tersebut dialamatkan kepada admin."
+      ]
+    },
+    {
+      "kata": "alternatif",
+      "sinonim": [
+        "pilihan lain",
+        "opsi",
+        "pengganti"
+      ],
+      "arti": "Pilihan berbeda yang dapat digunakan sebagai solusi.",
+      "contoh": [
+        "Gunakan alternatif lain jika sistem bermasalah."
+      ]
+    },
+    {
+      "kata": "amati",
+      "sinonim": [
+        "perhatikan",
+        "lihat",
+        "pantau"
+      ],
+      "arti": "Melihat atau memperhatikan sesuatu dengan teliti.",
+      "contoh": [
+        "AI dapat mengamati pola perilaku pengguna."
+      ]
+    }
+  ]
+}
