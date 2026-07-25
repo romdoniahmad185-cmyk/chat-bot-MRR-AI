@@ -1,0 +1,126 @@
+{
+  "huruf": "A",
+  "level": "A7",
+  "kosakata": [
+    {
+      "kata": "ambilalih",
+      "sinonim": [
+        "menguasai",
+        "mengambil kontrol",
+        "menggantikan"
+      ],
+      "arti": "Mengambil tanggung jawab atau kendali terhadap sesuatu.",
+      "contoh": [
+        "Admin dapat mengambilalih pengelolaan sistem."
+      ]
+    },
+    {
+      "kata": "akseskan",
+      "sinonim": [
+        "berikan akses",
+        "izinkan",
+        "buka akses"
+      ],
+      "arti": "Memberikan izin agar seseorang dapat menggunakan sesuatu.",
+      "contoh": [
+        "Silakan akseskan akun tersebut kepada pengguna."
+      ]
+    },
+    {
+      "kata": "adaptasi",
+      "sinonim": [
+        "penyesuaian",
+        "perubahan",
+        "menyesuaikan"
+      ],
+      "arti": "Proses menyesuaikan diri dengan kondisi baru.",
+      "contoh": [
+        "AI harus melakukan adaptasi terhadap bahasa pengguna."
+      ]
+    },
+    {
+      "kata": "adaptif",
+      "sinonim": [
+        "fleksibel",
+        "mudah menyesuaikan",
+        "responsif"
+      ],
+      "arti": "Kemampuan untuk berubah sesuai keadaan.",
+      "contoh": [
+        "Sistem chatbot harus adaptif terhadap pertanyaan baru."
+      ]
+    },
+    {
+      "kata": "administrator",
+      "sinonim": [
+        "admin",
+        "pengelola",
+        "operator"
+      ],
+      "arti": "Orang yang bertugas mengelola sistem atau layanan.",
+      "contoh": [
+        "Administrator memiliki akses untuk mengatur website."
+      ]
+    },
+    {
+      "kata": "administrasi",
+      "sinonim": [
+        "pengelolaan",
+        "pencatatan",
+        "manajemen"
+      ],
+      "arti": "Kegiatan mengatur dan mengelola data atau pekerjaan.",
+      "contoh": [
+        "Administrasi pelanggan disimpan dalam database."
+      ]
+    },
+    {
+      "kata": "agregasi",
+      "sinonim": [
+        "penggabungan",
+        "pengumpulan",
+        "kombinasi"
+      ],
+      "arti": "Proses menggabungkan beberapa data menjadi satu kesatuan.",
+      "contoh": [
+        "Sistem melakukan agregasi data penjualan."
+      ]
+    },
+    {
+      "kata": "algoritma",
+      "sinonim": [
+        "langkah program",
+        "prosedur",
+        "metode"
+      ],
+      "arti": "Urutan langkah logis untuk menyelesaikan masalah.",
+      "contoh": [
+        "AI menggunakan algoritma untuk mencari jawaban."
+      ]
+    },
+    {
+      "kata": "analitik",
+      "sinonim": [
+        "analisis data",
+        "pengolahan data",
+        "data analysis"
+      ],
+      "arti": "Proses mempelajari data untuk mendapatkan informasi.",
+      "contoh": [
+        "Website menggunakan analitik untuk melihat jumlah pengunjung."
+      ]
+    },
+    {
+      "kata": "antrianisasi",
+      "sinonim": [
+        "pengurutan",
+        "pembuatan antrian",
+        "queue"
+      ],
+      "arti": "Proses mengatur sesuatu berdasarkan urutan tertentu.",
+      "contoh": [
+        "Sistem pembayaran menggunakan antrianisasi transaksi."
+      ]
+    }
+  ]
+}
