@@ -1,0 +1,126 @@
+{
+  "huruf": "A",
+  "level": "A5",
+  "kosakata": [
+    {
+      "kata": "ambilkan",
+      "sinonim": [
+        "tolong ambil",
+        "bawakan",
+        "siapkan"
+      ],
+      "arti": "Meminta seseorang mengambil atau membawa sesuatu.",
+      "contoh": [
+        "Tolong ambilkan data pengguna."
+      ]
+    },
+    {
+      "kata": "analisa",
+      "sinonim": [
+        "analisis",
+        "kajian",
+        "pemeriksaan"
+      ],
+      "arti": "Proses mempelajari sesuatu untuk mendapatkan informasi.",
+      "contoh": [
+        "AI melakukan analisa terhadap data pelanggan."
+      ]
+    },
+    {
+      "kata": "apdet",
+      "sinonim": [
+        "update",
+        "pembaruan",
+        "memperbarui"
+      ],
+      "arti": "Proses memperbarui sesuatu agar menjadi versi terbaru.",
+      "contoh": [
+        "Aplikasi membutuhkan apdet terbaru."
+      ]
+    },
+    {
+      "kata": "aplikatif",
+      "sinonim": [
+        "praktis",
+        "berguna",
+        "dapat diterapkan"
+      ],
+      "arti": "Sesuatu yang dapat digunakan secara langsung dalam kehidupan nyata.",
+      "contoh": [
+        "Ilmu pemrograman harus aplikatif."
+      ]
+    },
+    {
+      "kata": "apresiasi",
+      "sinonim": [
+        "penghargaan",
+        "pujian",
+        "pengakuan"
+      ],
+      "arti": "Penghargaan atau penghormatan terhadap sesuatu.",
+      "contoh": [
+        "Berikan apresiasi kepada pelanggan."
+      ]
+    },
+    {
+      "kata": "arahkan",
+      "sinonim": [
+        "tunjukkan",
+        "bimbing",
+        "pandukan"
+      ],
+      "arti": "Memberikan petunjuk atau tujuan.",
+      "contoh": [
+        "Chatbot dapat mengarahkan pengguna ke halaman pembayaran."
+      ]
+    },
+    {
+      "kata": "arsitektur",
+      "sinonim": [
+        "struktur",
+        "rancangan",
+        "susunan"
+      ],
+      "arti": "Rancangan atau struktur suatu sistem.",
+      "contoh": [
+        "Arsitektur website menggunakan frontend dan backend."
+      ]
+    },
+    {
+      "kata": "aset",
+      "sinonim": [
+        "harta",
+        "kekayaan",
+        "sumber daya"
+      ],
+      "arti": "Sesuatu yang memiliki nilai atau manfaat.",
+      "contoh": [
+        "Data pelanggan merupakan aset penting perusahaan."
+      ]
+    },
+    {
+      "kata": "asumsi",
+      "sinonim": [
+        "perkiraan",
+        "dugaan",
+        "anggapan"
+      ],
+      "arti": "Pendapat sementara yang dianggap benar sebelum dibuktikan.",
+      "contoh": [
+        "AI membuat asumsi berdasarkan data."
+      ]
+    },
+    {
+      "kata": "atur ulang",
+      "sinonim": [
+        "reset",
+        "kembalikan",
+        "susun kembali"
+      ],
+      "arti": "Mengubah sesuatu kembali ke kondisi awal atau susunan baru.",
+      "contoh": [
+        "Silakan atur ulang kata sandi akun."
+      ]
+    }
+  ]
+}
