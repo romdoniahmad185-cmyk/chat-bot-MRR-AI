@@ -1,0 +1,126 @@
+{
+  "huruf": "A",
+  "level": "A10",
+  "kosakata": [
+    {
+      "kata": "atas",
+      "sinonim": [
+        "bagian tinggi",
+        "puncak",
+        "lebih tinggi"
+      ],
+      "arti": "Bagian atau posisi yang lebih tinggi dari sesuatu.",
+      "contoh": [
+        "Letakkan file tersebut di folder atas."
+      ]
+    },
+    {
+      "kata": "atasi",
+      "sinonim": [
+        "selesaikan",
+        "tangani",
+        "perbaiki"
+      ],
+      "arti": "Melakukan tindakan untuk menyelesaikan masalah.",
+      "contoh": [
+        "Tim teknis akan mengatasi masalah server."
+      ]
+    },
+    {
+      "kata": "atur",
+      "sinonim": [
+        "kelola",
+        "susun",
+        "tata"
+      ],
+      "arti": "Mengelola sesuatu agar menjadi lebih teratur.",
+      "contoh": [
+        "Admin dapat mengatur data pengguna."
+      ]
+    },
+    {
+      "kata": "aturannya",
+      "sinonim": [
+        "ketentuannya",
+        "peraturannya",
+        "syaratnya"
+      ],
+      "arti": "Hal yang menjadi ketentuan dalam suatu sistem atau kegiatan.",
+      "contoh": [
+        "Pahami aturannya sebelum menggunakan layanan."
+      ]
+    },
+    {
+      "kata": "autentikasi",
+      "sinonim": [
+        "verifikasi",
+        "pemeriksaan identitas",
+        "validasi"
+      ],
+      "arti": "Proses memastikan identitas pengguna benar.",
+      "contoh": [
+        "Login membutuhkan autentikasi pengguna."
+      ]
+    },
+    {
+      "kata": "otoritas",
+      "sinonim": [
+        "wewenang",
+        "hak",
+        "kekuasaan"
+      ],
+      "arti": "Hak untuk mengatur atau mengambil keputusan.",
+      "contoh": [
+        "Admin memiliki otoritas penuh terhadap sistem."
+      ]
+    },
+    {
+      "kata": "otomatisasi",
+      "sinonim": [
+        "automation",
+        "proses otomatis",
+        "pengoperasian otomatis"
+      ],
+      "arti": "Penggunaan teknologi untuk menjalankan pekerjaan secara otomatis.",
+      "contoh": [
+        "Website menggunakan otomatisasi untuk mengirim notifikasi."
+      ]
+    },
+    {
+      "kata": "output",
+      "sinonim": [
+        "hasil",
+        "keluaran",
+        "produk akhir"
+      ],
+      "arti": "Hasil yang dihasilkan oleh suatu proses atau sistem.",
+      "contoh": [
+        "Chatbot memberikan output berupa jawaban."
+      ]
+    },
+    {
+      "kata": "observasi",
+      "sinonim": [
+        "pengamatan",
+        "pemantauan",
+        "penelitian"
+      ],
+      "arti": "Kegiatan melihat dan mempelajari sesuatu secara teliti.",
+      "contoh": [
+        "AI melakukan observasi terhadap pola pengguna."
+      ]
+    },
+    {
+      "kata": "optimal",
+      "sinonim": [
+        "terbaik",
+        "maksimal",
+        "efisien"
+      ],
+      "arti": "Kondisi terbaik yang dapat dicapai.",
+      "contoh": [
+        "Sistem berjalan dengan performa optimal."
+      ]
+    }
+  ]
+}
