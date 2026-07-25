@@ -1,0 +1,124 @@
+{
+  "huruf": "A",
+  "level": "A1",
+  "kosakata": [
+    {
+      "kata": "abaikan",
+      "sinonim": [
+        "hiraukan",
+        "jangan pedulikan",
+        "lewatkan"
+      ],
+      "arti": "Tidak memperhatikan atau tidak mempedulikan sesuatu.",
+      "contoh": [
+        "Abaikan pesan yang tidak penting.",
+        "Jangan abaikan peringatan sistem."
+      ]
+    },
+    {
+      "kata": "abad",
+      "sinonim": [
+        "seratus tahun",
+        "masa panjang"
+      ],
+      "arti": "Jangka waktu seratus tahun.",
+      "contoh": [
+        "Bangunan itu sudah berdiri selama satu abad."
+      ]
+    },
+    {
+      "kata": "abang",
+      "sinonim": [
+        "kakak laki-laki",
+        "saudara laki-laki"
+      ],
+      "arti": "Panggilan untuk laki-laki yang lebih tua.",
+      "contoh": [
+        "Abang saya bekerja di Jakarta."
+      ]
+    },
+    {
+      "kata": "abadi",
+      "sinonim": [
+        "kekal",
+        "selamanya",
+        "tidak berakhir"
+      ],
+      "arti": "Sesuatu yang berlangsung sangat lama atau tidak berakhir.",
+      "contoh": [
+        "Cinta seorang ibu dianggap abadi."
+      ]
+    },
+    {
+      "kata": "abilitas",
+      "sinonim": [
+        "kemampuan",
+        "keahlian",
+        "kapasitas"
+      ],
+      "arti": "Kemampuan seseorang dalam melakukan sesuatu.",
+      "contoh": [
+        "Dia memiliki abilitas dalam bidang teknologi."
+      ]
+    },
+    {
+      "kata": "acak",
+      "sinonim": [
+        "random",
+        "tidak beraturan",
+        "sembarang"
+      ],
+      "arti": "Tidak memiliki pola atau urutan tertentu.",
+      "contoh": [
+        "Data tersebut dipilih secara acak."
+      ]
+    },
+    {
+      "kata": "acara",
+      "sinonim": [
+        "kegiatan",
+        "event",
+        "agenda"
+      ],
+      "arti": "Suatu kegiatan yang telah direncanakan.",
+      "contoh": [
+        "Besok ada acara penting di sekolah."
+      ]
+    },
+    {
+      "kata": "aktif",
+      "sinonim": [
+        "bergerak",
+        "giat",
+        "bekerja"
+      ],
+      "arti": "Melakukan kegiatan atau tidak diam.",
+      "contoh": [
+        "Dia aktif belajar pemrograman."
+      ]
+    },
+    {
+      "kata": "akun",
+      "sinonim": [
+        "account",
+        "identitas pengguna"
+      ],
+      "arti": "Data pengguna yang digunakan untuk mengakses suatu layanan.",
+      "contoh": [
+        "Silakan login menggunakan akun Anda."
+      ]
+    },
+    {
+      "kata": "alat",
+      "sinonim": [
+        "perangkat",
+        "barang",
+        "instrumen"
+      ],
+      "arti": "Benda yang digunakan untuk membantu pekerjaan.",
+      "contoh": [
+        "Komputer adalah alat untuk bekerja."
+      ]
+    }
+  ]
+}
