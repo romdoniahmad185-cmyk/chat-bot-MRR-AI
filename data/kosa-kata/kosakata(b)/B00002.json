@@ -1,0 +1,183 @@
+{
+  "huruf": "B",
+  "level": "B2",
+  "kosakata": [
+    {
+      "id": "B0011",
+      "kata": "bagikan",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "sebarkan",
+        "berikan",
+        "bagi"
+      ],
+      "arti": "Memberikan sesuatu kepada orang lain atau menyebarkan informasi.",
+      "contoh": [
+        "Silakan bagikan informasi ini kepada pengguna lain."
+      ],
+      "intent": [
+        "berbagi",
+        "informasi"
+      ]
+    },
+    {
+      "id": "B0012",
+      "kata": "bahasa",
+      "kategori": "kata benda",
+      "sinonim": [
+        "bahasa komunikasi",
+        "ucapan",
+        "dialek"
+      ],
+      "arti": "Sistem komunikasi yang digunakan manusia untuk menyampaikan pesan.",
+      "contoh": [
+        "AI harus memahami bahasa manusia."
+      ],
+      "intent": [
+        "komunikasi",
+        "npl"
+      ]
+    },
+    {
+      "id": "B0013",
+      "kata": "bahan",
+      "kategori": "kata benda",
+      "sinonim": [
+        "material",
+        "materi",
+        "komponen"
+      ],
+      "arti": "Sesuatu yang digunakan untuk membuat atau menyusun sesuatu.",
+      "contoh": [
+        "Data adalah bahan utama untuk melatih AI."
+      ],
+      "intent": [
+        "data",
+        "pembuatan"
+      ]
+    },
+    {
+      "id": "B0014",
+      "kata": "bahkan",
+      "kategori": "kata keterangan",
+      "sinonim": [
+        "malah",
+        "justru",
+        "terlebih"
+      ],
+      "arti": "Kata untuk memberikan penekanan terhadap suatu pernyataan.",
+      "contoh": [
+        "AI bahkan dapat membantu analisis data."
+      ],
+      "intent": [
+        "penjelasan"
+      ]
+    },
+    {
+      "id": "B0015",
+      "kata": "balik",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "kembali",
+        "pulang",
+        "berputar"
+      ],
+      "arti": "Kembali ke posisi atau keadaan sebelumnya.",
+      "contoh": [
+        "Silakan balik ke halaman utama."
+      ],
+      "intent": [
+        "navigasi"
+      ]
+    },
+    {
+      "id": "B0016",
+      "kata": "bandingkan",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "periksa",
+        "cocokkan",
+        "evaluasi"
+      ],
+      "arti": "Melihat perbedaan atau persamaan antara beberapa hal.",
+      "contoh": [
+        "AI dapat membandingkan data penjualan."
+      ],
+      "intent": [
+        "analisis",
+        "perbandingan"
+      ]
+    },
+    {
+      "id": "B0017",
+      "kata": "banyak",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "berlimpah",
+        "jumlah besar",
+        "melimpah"
+      ],
+      "arti": "Memiliki jumlah yang besar.",
+      "contoh": [
+        "Database chatbot memiliki banyak kosa kata."
+      ],
+      "intent": [
+        "jumlah",
+        "informasi"
+      ]
+    },
+    {
+      "id": "B0018",
+      "kata": "barangsiapa",
+      "kategori": "kata ganti",
+      "sinonim": [
+        "siapa saja",
+        "orang yang"
+      ],
+      "arti": "Kata yang menunjuk kepada seseorang secara umum.",
+      "contoh": [
+        "Barangsiapa menggunakan layanan harus mengikuti aturan."
+      ],
+      "intent": [
+        "pengguna",
+        "aturan"
+      ]
+    },
+    {
+      "id": "B0019",
+      "kata": "baru-baru",
+      "kategori": "kata keterangan",
+      "sinonim": [
+        "belakangan ini",
+        "terkini",
+        "akhir-akhir"
+      ],
+      "arti": "Menunjukkan waktu yang masih dekat dengan sekarang.",
+      "contoh": [
+        "Sistem baru-baru ini diperbarui."
+      ],
+      "intent": [
+        "waktu",
+        "pembaruan"
+      ]
+    },
+    {
+      "id": "B0020",
+      "kata": "bentuk",
+      "kategori": "kata benda",
+      "sinonim": [
+        "wujud",
+        "model",
+        "format"
+      ],
+      "arti": "Susunan atau tampilan dari sesuatu.",
+      "contoh": [
+        "Data JSON memiliki bentuk struktur tertentu."
+      ],
+      "intent": [
+        "struktur",
+        "format"
+      ]
+    }
+  ]
+}
