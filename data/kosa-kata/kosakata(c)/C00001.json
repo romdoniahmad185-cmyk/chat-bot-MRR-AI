@@ -1,0 +1,186 @@
+{
+  "huruf": "C",
+  "level": "C1",
+  "kosakata": [
+    {
+      "id": "C0001",
+      "kata": "cabang",
+      "kategori": "kata benda",
+      "sinonim": [
+        "perwakilan",
+        "unit",
+        "kantor cabang"
+      ],
+      "arti": "Bagian atau unit dari organisasi atau perusahaan yang berada di lokasi berbeda.",
+      "contoh": [
+        "Perusahaan memiliki cabang di beberapa kota."
+      ],
+      "intent": [
+        "lokasi",
+        "perusahaan"
+      ]
+    },
+    {
+      "id": "C0002",
+      "kata": "cair",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "lancar",
+        "tidak beku",
+        "mengalir"
+      ],
+      "arti": "Berada dalam bentuk yang mudah mengalir atau berjalan dengan lancar.",
+      "contoh": [
+        "Dana berhasil cair ke rekening."
+      ],
+      "intent": [
+        "keuangan",
+        "transaksi"
+      ]
+    },
+    {
+      "id": "C0003",
+      "kata": "calon",
+      "kategori": "kata benda",
+      "sinonim": [
+        "kandidat",
+        "bakal",
+        "pelamar"
+      ],
+      "arti": "Seseorang atau sesuatu yang dipersiapkan untuk menjadi sesuatu di masa depan.",
+      "contoh": [
+        "Calon pelanggan menghubungi layanan chatbot."
+      ],
+      "intent": [
+        "pengguna",
+        "pelanggan"
+      ]
+    },
+    {
+      "id": "C0004",
+      "kata": "campur",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "gabungkan",
+        "satukan",
+        "kombinasikan"
+      ],
+      "arti": "Menggabungkan dua atau lebih hal menjadi satu.",
+      "contoh": [
+        "Jangan mencampur data lama dengan data baru."
+      ],
+      "intent": [
+        "pengolahan_data",
+        "proses"
+      ]
+    },
+    {
+      "id": "C0005",
+      "kata": "cara",
+      "kategori": "kata benda",
+      "sinonim": [
+        "metode",
+        "langkah",
+        "prosedur"
+      ],
+      "arti": "Metode atau langkah untuk melakukan sesuatu.",
+      "contoh": [
+        "Bagaimana cara membuat chatbot?"
+      ],
+      "intent": [
+        "panduan",
+        "tutorial"
+      ]
+    },
+    {
+      "id": "C0006",
+      "kata": "catat",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "tulis",
+        "rekam",
+        "dokumentasikan"
+      ],
+      "arti": "Menuliskan atau menyimpan informasi.",
+      "contoh": [
+        "Sistem mencatat semua transaksi."
+      ],
+      "intent": [
+        "pencatatan",
+        "data"
+      ]
+    },
+    {
+      "id": "C0007",
+      "kata": "catatan",
+      "kategori": "kata benda",
+      "sinonim": [
+        "rekaman",
+        "dokumen",
+        "arsip"
+      ],
+      "arti": "Hasil dari kegiatan mencatat.",
+      "contoh": [
+        "Admin melihat catatan transaksi."
+      ],
+      "intent": [
+        "data",
+        "arsip"
+      ]
+    },
+    {
+      "id": "C0008",
+      "kata": "cari",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "menemukan",
+        "melacak",
+        "mencari"
+      ],
+      "arti": "Berusaha menemukan sesuatu.",
+      "contoh": [
+        "Chatbot mencari jawaban yang sesuai."
+      ],
+      "intent": [
+        "pencarian",
+        "informasi"
+      ]
+    },
+    {
+      "id": "C0009",
+      "kata": "cegah",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "hindari",
+        "menghalangi",
+        "mengantisipasi"
+      ],
+      "arti": "Melakukan tindakan agar sesuatu tidak terjadi.",
+      "contoh": [
+        "Sistem mencegah akses yang tidak sah."
+      ],
+      "intent": [
+        "keamanan",
+        "perlindungan"
+      ]
+    },
+    {
+      "id": "C0010",
+      "kata": "cek",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "periksa",
+        "verifikasi",
+        "konfirmasi"
+      ],
+      "arti": "Memeriksa atau memastikan suatu keadaan.",
+      "contoh": [
+        "Silakan cek status pesanan Anda."
+      ],
+      "intent": [
+        "pemeriksaan",
+        "status"
+      ]
+    }
+  ]
+}
