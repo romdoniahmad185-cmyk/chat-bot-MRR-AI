@@ -1,0 +1,175 @@
+{
+  "huruf": "D",
+  "level": "D7",
+  "kosakata": [
+    {
+      "id": "D0061",
+      "kata": "download database",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "ekspor database",
+        "ambil database"
+      ],
+      "arti": "Proses mengambil salinan database dari sebuah sistem.",
+      "contoh": [
+        "Admin melakukan download database sebagai cadangan."
+      ],
+      "intent": [
+        "database",
+        "backup"
+      ]
+    },
+    {
+      "id": "D0062",
+      "kata": "drag",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "seret",
+        "geser"
+      ],
+      "arti": "Memindahkan objek pada layar dengan menahan dan menggesernya.",
+      "contoh": [
+        "Drag file ke folder tujuan."
+      ],
+      "intent": [
+        "interface",
+        "komputer"
+      ]
+    },
+    {
+      "id": "D0063",
+      "kata": "drag and drop",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "seret dan lepas",
+        "pindahkan objek"
+      ],
+      "arti": "Metode memindahkan objek dengan cara menyeret lalu melepaskannya.",
+      "contoh": [
+        "Website menggunakan fitur drag and drop untuk mengatur tampilan."
+      ],
+      "intent": [
+        "frontend",
+        "desain"
+      ]
+    },
+    {
+      "id": "D0064",
+      "kata": "driver database",
+      "kategori": "kata benda",
+      "sinonim": [
+        "database connector",
+        "penghubung database"
+      ],
+      "arti": "Komponen yang memungkinkan aplikasi berkomunikasi dengan database.",
+      "contoh": [
+        "Aplikasi membutuhkan driver database untuk terhubung."
+      ],
+      "intent": [
+        "database",
+        "backend"
+      ]
+    },
+    {
+      "id": "D0065",
+      "kata": "dump database",
+      "kategori": "kata benda",
+      "sinonim": [
+        "salinan database",
+        "backup database"
+      ],
+      "arti": "File yang berisi isi database untuk dipindahkan atau dipulihkan.",
+      "contoh": [
+        "Simpan dump database sebelum melakukan perubahan besar."
+      ],
+      "intent": [
+        "database",
+        "backup"
+      ]
+    },
+    {
+      "id": "D0066",
+      "kata": "duplikasi data",
+      "kategori": "kata benda",
+      "sinonim": [
+        "data ganda",
+        "duplicate data"
+      ],
+      "arti": "Kondisi ketika data yang sama tersimpan lebih dari satu kali.",
+      "contoh": [
+        "Sistem harus mencegah duplikasi data pelanggan."
+      ],
+      "intent": [
+        "database",
+        "validasi"
+      ]
+    },
+    {
+      "id": "D0067",
+      "kata": "durasi proses",
+      "kategori": "kata benda",
+      "sinonim": [
+        "lama proses",
+        "waktu eksekusi"
+      ],
+      "arti": "Waktu yang dibutuhkan sistem untuk menyelesaikan suatu pekerjaan.",
+      "contoh": [
+        "Durasi proses pembayaran hanya beberapa detik."
+      ],
+      "intent": [
+        "performa",
+        "proses"
+      ]
+    },
+    {
+      "id": "D0068",
+      "kata": "dynamic content",
+      "kategori": "kata benda",
+      "sinonim": [
+        "konten dinamis",
+        "isi berubah"
+      ],
+      "arti": "Konten website yang dapat berubah berdasarkan data atau pengguna.",
+      "contoh": [
+        "Dashboard menggunakan dynamic content untuk menampilkan laporan."
+      ],
+      "intent": [
+        "website",
+        "database"
+      ]
+    },
+    {
+      "id": "D0069",
+      "kata": "dynamic database",
+      "kategori": "kata benda",
+      "sinonim": [
+        "database dinamis",
+        "basis data aktif"
+      ],
+      "arti": "Database yang dapat diperbarui dan berubah sesuai aktivitas sistem.",
+      "contoh": [
+        "Website toko online menggunakan dynamic database."
+      ],
+      "intent": [
+        "database",
+        "website"
+      ]
+    },
+    {
+      "id": "D0070",
+      "kata": "dynamic programming",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pemrograman dinamis"
+      ],
+      "arti": "Teknik pemrograman untuk menyelesaikan masalah dengan memecahnya menjadi bagian kecil.",
+      "contoh": [
+        "Dynamic programming digunakan untuk optimasi algoritma."
+      ],
+      "intent": [
+        "pemrograman",
+        "algoritma"
+      ]
+    }
+  ]
+}
