@@ -1,0 +1,186 @@
+{
+  "huruf": "B",
+  "level": "B3",
+  "kosakata": [
+    {
+      "id": "B0021",
+      "kata": "berbagai",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "bermacam-macam",
+        "aneka",
+        "beragam"
+      ],
+      "arti": "Terdiri dari banyak jenis atau macam.",
+      "contoh": [
+        "Website menyediakan berbagai layanan digital."
+      ],
+      "intent": [
+        "jenis",
+        "pilihan"
+      ]
+    },
+    {
+      "id": "B0022",
+      "kata": "beranda",
+      "kategori": "kata benda",
+      "sinonim": [
+        "halaman utama",
+        "homepage",
+        "menu awal"
+      ],
+      "arti": "Halaman pertama yang ditampilkan pada sebuah website atau aplikasi.",
+      "contoh": [
+        "Silakan kembali ke beranda website."
+      ],
+      "intent": [
+        "navigasi",
+        "website"
+      ]
+    },
+    {
+      "id": "B0023",
+      "kata": "berdasarkan",
+      "kategori": "kata depan",
+      "sinonim": [
+        "menurut",
+        "sesuai",
+        "berpedoman"
+      ],
+      "arti": "Menggunakan sesuatu sebagai dasar atau acuan.",
+      "contoh": [
+        "AI memberikan jawaban berdasarkan data."
+      ],
+      "intent": [
+        "referensi",
+        "data"
+      ]
+    },
+    {
+      "id": "B0024",
+      "kata": "berguna",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "bermanfaat",
+        "berguna",
+        "memiliki manfaat"
+      ],
+      "arti": "Memiliki fungsi atau manfaat bagi seseorang.",
+      "contoh": [
+        "Chatbot dibuat agar berguna bagi pelanggan."
+      ],
+      "intent": [
+        "manfaat",
+        "fungsi"
+      ]
+    },
+    {
+      "id": "B0025",
+      "kata": "berhenti",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "selesai",
+        "berakhir",
+        "tidak berjalan"
+      ],
+      "arti": "Tidak melanjutkan suatu kegiatan atau proses.",
+      "contoh": [
+        "Server berhenti karena terjadi gangguan."
+      ],
+      "intent": [
+        "status",
+        "proses"
+      ]
+    },
+    {
+      "id": "B0026",
+      "kata": "berhasil",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "sukses",
+        "tercapai",
+        "berjalan"
+      ],
+      "arti": "Mencapai tujuan atau mendapatkan hasil yang diinginkan.",
+      "contoh": [
+        "Data berhasil disimpan ke database."
+      ],
+      "intent": [
+        "hasil",
+        "status"
+      ]
+    },
+    {
+      "id": "B0027",
+      "kata": "berikan",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "beri",
+        "kasih",
+        "sediakan"
+      ],
+      "arti": "Menyampaikan atau menyerahkan sesuatu kepada orang lain.",
+      "contoh": [
+        "Berikan informasi akun Anda."
+      ],
+      "intent": [
+        "permintaan",
+        "input"
+      ]
+    },
+    {
+      "id": "B0028",
+      "kata": "berita",
+      "kategori": "kata benda",
+      "sinonim": [
+        "informasi",
+        "kabar",
+        "laporan"
+      ],
+      "arti": "Informasi mengenai suatu kejadian atau keadaan.",
+      "contoh": [
+        "AI dapat membantu mencari berita terbaru."
+      ],
+      "intent": [
+        "informasi",
+        "pencarian"
+      ]
+    },
+    {
+      "id": "B0029",
+      "kata": "berjalan",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "beroperasi",
+        "aktif",
+        "berfungsi"
+      ],
+      "arti": "Melakukan proses atau berfungsi sebagaimana mestinya.",
+      "contoh": [
+        "Sistem chatbot berjalan dengan baik."
+      ],
+      "intent": [
+        "status",
+        "sistem"
+      ]
+    },
+    {
+      "id": "B0030",
+      "kata": "berubah",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "berganti",
+        "beralih",
+        "bertransformasi"
+      ],
+      "arti": "Mengalami perubahan dari kondisi sebelumnya.",
+      "contoh": [
+        "Data dapat berubah sesuai pembaruan sistem."
+      ],
+      "intent": [
+        "perubahan",
+        "update"
+      ]
+    }
+  ]
+}
