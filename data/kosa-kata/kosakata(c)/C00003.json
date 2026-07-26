@@ -1,0 +1,183 @@
+{
+  "huruf": "C",
+  "level": "C3",
+  "kosakata": [
+    {
+      "id": "C0021",
+      "kata": "cukupkan",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "lengkapi",
+        "penuhi",
+        "cukupi"
+      ],
+      "arti": "Memenuhi kebutuhan hingga mencukupi.",
+      "contoh": [
+        "Pastikan saldo mencukupkan kebutuhan transaksi."
+      ],
+      "intent": [
+        "kebutuhan",
+        "transaksi"
+      ]
+    },
+    {
+      "id": "C0022",
+      "kata": "curiga",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "mencurigai",
+        "waspada",
+        "ragu"
+      ],
+      "arti": "Merasa ragu atau menduga adanya sesuatu yang tidak wajar.",
+      "contoh": [
+        "Sistem mendeteksi aktivitas yang mencurigakan."
+      ],
+      "intent": [
+        "keamanan",
+        "deteksi"
+      ]
+    },
+    {
+      "id": "C0023",
+      "kata": "cuaca",
+      "kategori": "kata benda",
+      "sinonim": [
+        "kondisi udara",
+        "iklim harian"
+      ],
+      "arti": "Keadaan udara pada suatu tempat dan waktu tertentu.",
+      "contoh": [
+        "Cuaca hari ini cerah."
+      ],
+      "intent": [
+        "informasi",
+        "lingkungan"
+      ]
+    },
+    {
+      "id": "C0024",
+      "kata": "curi",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "mengambil",
+        "mencuri",
+        "merampas"
+      ],
+      "arti": "Mengambil sesuatu tanpa izin pemiliknya.",
+      "contoh": [
+        "Sistem membantu mencegah pencurian akun."
+      ],
+      "intent": [
+        "keamanan",
+        "akun"
+      ]
+    },
+    {
+      "id": "C0025",
+      "kata": "catatan transaksi",
+      "kategori": "kata benda",
+      "sinonim": [
+        "riwayat transaksi",
+        "log transaksi"
+      ],
+      "arti": "Data yang berisi riwayat pembayaran atau pembelian.",
+      "contoh": [
+        "Admin memeriksa catatan transaksi pelanggan."
+      ],
+      "intent": [
+        "transaksi",
+        "riwayat"
+      ]
+    },
+    {
+      "id": "C0026",
+      "kata": "cadangan",
+      "kategori": "kata benda",
+      "sinonim": [
+        "backup",
+        "salinan",
+        "simpanan"
+      ],
+      "arti": "Salinan data atau sesuatu yang disiapkan untuk keadaan darurat.",
+      "contoh": [
+        "Lakukan cadangan database setiap hari."
+      ],
+      "intent": [
+        "backup",
+        "database"
+      ]
+    },
+    {
+      "id": "C0027",
+      "kata": "cakupan",
+      "kategori": "kata benda",
+      "sinonim": [
+        "lingkup",
+        "jangkauan",
+        "ruang"
+      ],
+      "arti": "Batas atau ruang yang dicakup oleh suatu hal.",
+      "contoh": [
+        "Cakupan layanan chatbot terus diperluas."
+      ],
+      "intent": [
+        "layanan",
+        "informasi"
+      ]
+    },
+    {
+      "id": "C0028",
+      "kata": "calon pelanggan",
+      "kategori": "kata benda",
+      "sinonim": [
+        "prospek",
+        "pelanggan potensial"
+      ],
+      "arti": "Orang yang berpotensi menjadi pelanggan.",
+      "contoh": [
+        "Chatbot melayani calon pelanggan selama 24 jam."
+      ],
+      "intent": [
+        "pelanggan",
+        "bisnis"
+      ]
+    },
+    {
+      "id": "C0029",
+      "kata": "capai",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "raih",
+        "peroleh",
+        "gapai"
+      ],
+      "arti": "Berhasil memperoleh atau mencapai tujuan.",
+      "contoh": [
+        "Target penjualan berhasil dicapai."
+      ],
+      "intent": [
+        "hasil",
+        "target"
+      ]
+    },
+    {
+      "id": "C0030",
+      "kata": "cermat",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "teliti",
+        "hati-hati",
+        "akurat"
+      ],
+      "arti": "Melakukan sesuatu dengan teliti dan hati-hati.",
+      "contoh": [
+        "Periksa data dengan cermat sebelum disimpan."
+      ],
+      "intent": [
+        "validasi",
+        "ketelitian"
+      ]
+    }
+  ]
+}
