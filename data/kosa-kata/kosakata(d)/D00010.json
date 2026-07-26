@@ -1,0 +1,176 @@
+{
+  "huruf": "D",
+  "level": "D10",
+  "kosakata": [
+    {
+      "id": "D0091",
+      "kata": "digital product",
+      "kategori": "kata benda",
+      "sinonim": [
+        "produk digital",
+        "produk online"
+      ],
+      "arti": "Produk yang dibuat dan digunakan dalam bentuk digital.",
+      "contoh": [
+        "Website, aplikasi, dan ebook termasuk digital product."
+      ],
+      "intent": [
+        "bisnis",
+        "produk"
+      ]
+    },
+    {
+      "id": "D0092",
+      "kata": "direct message",
+      "kategori": "kata benda",
+      "sinonim": [
+        "DM",
+        "pesan pribadi"
+      ],
+      "arti": "Pesan langsung yang dikirim kepada pengguna tertentu melalui platform digital.",
+      "contoh": [
+        "Pelanggan menghubungi admin melalui direct message."
+      ],
+      "intent": [
+        "komunikasi",
+        "pelanggan"
+      ]
+    },
+    {
+      "id": "D0093",
+      "kata": "directory",
+      "kategori": "kata benda",
+      "sinonim": [
+        "folder",
+        "daftar file"
+      ],
+      "arti": "Tempat penyimpanan file yang tersusun dalam sistem komputer.",
+      "contoh": [
+        "File chatbot disimpan dalam directory tertentu."
+      ],
+      "intent": [
+        "file",
+        "penyimpanan"
+      ]
+    },
+    {
+      "id": "D0094",
+      "kata": "disable",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "menonaktifkan",
+        "mematikan fitur"
+      ],
+      "arti": "Menghentikan fungsi suatu fitur atau layanan.",
+      "contoh": [
+        "Admin dapat disable fitur sementara."
+      ],
+      "intent": [
+        "pengaturan",
+        "sistem"
+      ]
+    },
+    {
+      "id": "D0095",
+      "kata": "disk space",
+      "kategori": "kata benda",
+      "sinonim": [
+        "ruang penyimpanan",
+        "kapasitas penyimpanan"
+      ],
+      "arti": "Jumlah ruang yang tersedia untuk menyimpan data pada perangkat.",
+      "contoh": [
+        "Server membutuhkan disk space yang cukup."
+      ],
+      "intent": [
+        "server",
+        "storage"
+      ]
+    },
+    {
+      "id": "D0096",
+      "kata": "distributed system",
+      "kategori": "kata benda",
+      "sinonim": [
+        "sistem terdistribusi",
+        "jaringan sistem"
+      ],
+      "arti": "Sistem yang berjalan menggunakan beberapa komputer atau server yang saling terhubung.",
+      "contoh": [
+        "Cloud computing menggunakan konsep distributed system."
+      ],
+      "intent": [
+        "server",
+        "jaringan"
+      ]
+    },
+    {
+      "id": "D0097",
+      "kata": "document database",
+      "kategori": "kata benda",
+      "sinonim": [
+        "database dokumen",
+        "penyimpanan dokumen"
+      ],
+      "arti": "Jenis database yang menyimpan data dalam bentuk dokumen.",
+      "contoh": [
+        "MongoDB menggunakan model document database."
+      ],
+      "intent": [
+        "database",
+        "data"
+      ]
+    },
+    {
+      "id": "D0098",
+      "kata": "domain name system",
+      "kategori": "kata benda",
+      "sinonim": [
+        "DNS",
+        "sistem nama domain"
+      ],
+      "arti": "Sistem yang menerjemahkan nama domain menjadi alamat IP.",
+      "contoh": [
+        "DNS membantu browser menemukan server website."
+      ],
+      "intent": [
+        "domain",
+        "jaringan"
+      ]
+    },
+    {
+      "id": "D0099",
+      "kata": "download manager",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pengelola unduhan",
+        "aplikasi download"
+      ],
+      "arti": "Program yang membantu mengatur proses pengunduhan file.",
+      "contoh": [
+        "Download manager mempercepat pengelolaan file."
+      ],
+      "intent": [
+        "file",
+        "aplikasi"
+      ]
+    },
+    {
+      "id": "D0100",
+      "kata": "drone",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pesawat tanpa awak",
+        "robot terbang"
+      ],
+      "arti": "Perangkat terbang yang dikendalikan secara otomatis atau jarak jauh.",
+      "contoh": [
+        "Drone dapat digunakan untuk mengambil gambar dari udara."
+      ],
+      "intent": [
+        "teknologi",
+        "hardware"
+      ]
+    }
+  ]
+}
