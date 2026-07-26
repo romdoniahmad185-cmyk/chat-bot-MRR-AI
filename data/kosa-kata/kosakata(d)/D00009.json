@@ -1,0 +1,176 @@
+{
+  "huruf": "D",
+  "level": "D9",
+  "kosakata": [
+    {
+      "id": "D0081",
+      "kata": "database management system",
+      "kategori": "kata benda",
+      "sinonim": [
+        "DBMS",
+        "sistem pengelola database"
+      ],
+      "arti": "Perangkat lunak yang digunakan untuk membuat, menyimpan, dan mengelola database.",
+      "contoh": [
+        "MySQL merupakan salah satu database management system."
+      ],
+      "intent": [
+        "database",
+        "software"
+      ]
+    },
+    {
+      "id": "D0082",
+      "kata": "deactivate",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "menonaktifkan",
+        "mematikan"
+      ],
+      "arti": "Menghentikan fungsi atau aktivitas suatu akun maupun fitur.",
+      "contoh": [
+        "Admin dapat deactivate akun pengguna."
+      ],
+      "intent": [
+        "akun",
+        "pengaturan"
+      ]
+    },
+    {
+      "id": "D0083",
+      "kata": "decryption key",
+      "kategori": "kata benda",
+      "sinonim": [
+        "kunci dekripsi",
+        "kunci pembuka"
+      ],
+      "arti": "Kunci yang digunakan untuk membuka data yang telah dienkripsi.",
+      "contoh": [
+        "Sistem membutuhkan decryption key untuk membaca data."
+      ],
+      "intent": [
+        "keamanan",
+        "enkripsi"
+      ]
+    },
+    {
+      "id": "D0084",
+      "kata": "default setting",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pengaturan bawaan",
+        "setting awal"
+      ],
+      "arti": "Konfigurasi awal yang diberikan oleh sistem.",
+      "contoh": [
+        "Aplikasi menggunakan default setting saat pertama dibuka."
+      ],
+      "intent": [
+        "pengaturan",
+        "sistem"
+      ]
+    },
+    {
+      "id": "D0085",
+      "kata": "dependency management",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pengelolaan library",
+        "manajemen dependensi"
+      ],
+      "arti": "Proses mengatur komponen tambahan yang dibutuhkan aplikasi.",
+      "contoh": [
+        "Python menggunakan package manager untuk dependency management."
+      ],
+      "intent": [
+        "programming",
+        "library"
+      ]
+    },
+    {
+      "id": "D0086",
+      "kata": "deployment server",
+      "kategori": "kata benda",
+      "sinonim": [
+        "server rilis",
+        "server produksi"
+      ],
+      "arti": "Server yang digunakan untuk menjalankan aplikasi yang sudah dipublikasikan.",
+      "contoh": [
+        "Website dipasang pada deployment server."
+      ],
+      "intent": [
+        "server",
+        "deploy"
+      ]
+    },
+    {
+      "id": "D0087",
+      "kata": "design pattern",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pola desain",
+        "struktur pemrograman"
+      ],
+      "arti": "Solusi umum untuk menyelesaikan masalah dalam pengembangan software.",
+      "contoh": [
+        "Developer menggunakan design pattern agar kode lebih rapi."
+      ],
+      "intent": [
+        "programming",
+        "software"
+      ]
+    },
+    {
+      "id": "D0088",
+      "kata": "development",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pengembangan",
+        "pembuatan"
+      ],
+      "arti": "Proses membuat atau meningkatkan sebuah sistem atau aplikasi.",
+      "contoh": [
+        "Development chatbot membutuhkan pengujian bertahap."
+      ],
+      "intent": [
+        "software",
+        "project"
+      ]
+    },
+    {
+      "id": "D0089",
+      "kata": "developer tools",
+      "kategori": "kata benda",
+      "sinonim": [
+        "alat pengembang",
+        "dev tools"
+      ],
+      "arti": "Fitur atau aplikasi yang membantu developer membuat dan memperbaiki program.",
+      "contoh": [
+        "Gunakan developer tools browser untuk mengecek error."
+      ],
+      "intent": [
+        "developer",
+        "debug"
+      ]
+    },
+    {
+      "id": "D0090",
+      "kata": "digital marketing",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pemasaran digital",
+        "promosi online"
+      ],
+      "arti": "Strategi pemasaran menggunakan teknologi digital dan internet.",
+      "contoh": [
+        "Bisnis menggunakan digital marketing untuk mendapatkan pelanggan."
+      ],
+      "intent": [
+        "marketing",
+        "bisnis"
+      ]
+    }
+  ]
+}
