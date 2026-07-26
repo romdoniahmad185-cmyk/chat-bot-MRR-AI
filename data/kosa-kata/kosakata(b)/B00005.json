@@ -1,0 +1,186 @@
+{
+  "huruf": "B",
+  "level": "B5",
+  "kosakata": [
+    {
+      "id": "B0041",
+      "kata": "berlangsung",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "terjadi",
+        "berjalan",
+        "berproses"
+      ],
+      "arti": "Suatu kegiatan atau proses yang sedang terjadi.",
+      "contoh": [
+        "Proses instalasi sedang berlangsung."
+      ],
+      "intent": [
+        "status",
+        "proses"
+      ]
+    },
+    {
+      "id": "B0042",
+      "kata": "bermanfaat",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "berguna",
+        "berguna bagi",
+        "memiliki manfaat"
+      ],
+      "arti": "Memberikan kegunaan atau keuntungan.",
+      "contoh": [
+        "Chatbot ini bermanfaat untuk membantu pelanggan."
+      ],
+      "intent": [
+        "manfaat",
+        "fungsi"
+      ]
+    },
+    {
+      "id": "B0043",
+      "kata": "bermasalah",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "error",
+        "terganggu",
+        "mengalami kendala"
+      ],
+      "arti": "Mengalami gangguan atau memiliki masalah.",
+      "contoh": [
+        "Server sedang bermasalah."
+      ],
+      "intent": [
+        "error",
+        "gangguan"
+      ]
+    },
+    {
+      "id": "B0044",
+      "kata": "bernilai",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "berharga",
+        "memiliki nilai",
+        "penting"
+      ],
+      "arti": "Memiliki harga, manfaat, atau arti tertentu.",
+      "contoh": [
+        "Informasi pengguna memiliki nilai penting."
+      ],
+      "intent": [
+        "nilai",
+        "data"
+      ]
+    },
+    {
+      "id": "B0045",
+      "kata": "beroperasi",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "berjalan",
+        "aktif",
+        "bekerja"
+      ],
+      "arti": "Melakukan fungsi atau menjalankan tugas.",
+      "contoh": [
+        "Server harus tetap beroperasi selama 24 jam."
+      ],
+      "intent": [
+        "sistem",
+        "status"
+      ]
+    },
+    {
+      "id": "B0046",
+      "kata": "berorientasi",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "terarah",
+        "bertujuan",
+        "fokus"
+      ],
+      "arti": "Memiliki tujuan atau arah tertentu.",
+      "contoh": [
+        "Bisnis digital harus berorientasi pada pelanggan."
+      ],
+      "intent": [
+        "tujuan",
+        "strategi"
+      ]
+    },
+    {
+      "id": "B0047",
+      "kata": "bersama",
+      "kategori": "kata keterangan",
+      "sinonim": [
+        "bareng",
+        "bersatu",
+        "secara kolektif"
+      ],
+      "arti": "Dilakukan atau dimiliki oleh lebih dari satu pihak.",
+      "contoh": [
+        "Mari belajar membuat AI bersama."
+      ],
+      "intent": [
+        "kerja_sama",
+        "komunikasi"
+      ]
+    },
+    {
+      "id": "B0048",
+      "kata": "bersihkan",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "hapus",
+        "membersihkan",
+        "menghilangkan"
+      ],
+      "arti": "Menghilangkan sesuatu yang tidak diperlukan.",
+      "contoh": [
+        "Bersihkan data yang tidak valid."
+      ],
+      "intent": [
+        "penghapusan",
+        "data"
+      ]
+    },
+    {
+      "id": "B0049",
+      "kata": "bersifat",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "memiliki karakter",
+        "mempunyai sifat",
+        "berkarakter"
+      ],
+      "arti": "Menunjukkan karakter atau ciri tertentu.",
+      "contoh": [
+        "Chatbot harus bersifat responsif."
+      ],
+      "intent": [
+        "karakter",
+        "sifat"
+      ]
+    },
+    {
+      "id": "B0050",
+      "kata": "beserta",
+      "kategori": "kata penghubung",
+      "sinonim": [
+        "bersama",
+        "dengan",
+        "serta"
+      ],
+      "arti": "Menunjukkan sesuatu yang disertakan bersama hal lain.",
+      "contoh": [
+        "Kirim data beserta informasi tambahan."
+      ],
+      "intent": [
+        "tambahan",
+        "informasi"
+      ]
+    }
+  ]
+}
