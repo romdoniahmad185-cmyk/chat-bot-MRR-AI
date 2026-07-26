@@ -1,0 +1,186 @@
+{
+  "huruf": "B",
+  "level": "B7",
+  "kosakata": [
+    {
+      "id": "B0061",
+      "kata": "buat",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "membuat",
+        "menciptakan",
+        "menghasilkan"
+      ],
+      "arti": "Melakukan proses untuk menghasilkan sesuatu.",
+      "contoh": [
+        "Saya ingin buat chatbot sederhana."
+      ],
+      "intent": [
+        "pembuatan",
+        "proses"
+      ]
+    },
+    {
+      "id": "B0062",
+      "kata": "butuh",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "memerlukan",
+        "membutuhkan",
+        "perlu"
+      ],
+      "arti": "Memiliki kebutuhan terhadap sesuatu.",
+      "contoh": [
+        "Sistem butuh data untuk belajar."
+      ],
+      "intent": [
+        "kebutuhan",
+        "permintaan"
+      ]
+    },
+    {
+      "id": "B0063",
+      "kata": "bukti",
+      "kategori": "kata benda",
+      "sinonim": [
+        "fakta",
+        "tanda",
+        "pembuktian"
+      ],
+      "arti": "Sesuatu yang menunjukkan kebenaran suatu hal.",
+      "contoh": [
+        "Berikan bukti pembayaran kepada admin."
+      ],
+      "intent": [
+        "verifikasi",
+        "validasi"
+      ]
+    },
+    {
+      "id": "B0064",
+      "kata": "buka",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "akses",
+        "membuka",
+        "menjalankan"
+      ],
+      "arti": "Membuat sesuatu dapat dilihat atau digunakan.",
+      "contoh": [
+        "Silakan buka halaman website."
+      ],
+      "intent": [
+        "akses",
+        "navigasi"
+      ]
+    },
+    {
+      "id": "B0065",
+      "kata": "bukukan",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "catat",
+        "rekam",
+        "dokumentasikan"
+      ],
+      "arti": "Mencatat sesuatu agar tersimpan sebagai informasi.",
+      "contoh": [
+        "Admin membukukan transaksi pelanggan."
+      ],
+      "intent": [
+        "pencatatan",
+        "data"
+      ]
+    },
+    {
+      "id": "B0066",
+      "kata": "bukti diri",
+      "kategori": "kata benda",
+      "sinonim": [
+        "identitas",
+        "pengenal",
+        "data pribadi"
+      ],
+      "arti": "Informasi yang digunakan untuk menunjukkan identitas seseorang.",
+      "contoh": [
+        "Pengguna harus mengirim bukti diri untuk verifikasi."
+      ],
+      "intent": [
+        "identitas",
+        "keamanan"
+      ]
+    },
+    {
+      "id": "B0067",
+      "kata": "buruk",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "jelek",
+        "tidak baik",
+        "rendah"
+      ],
+      "arti": "Sesuatu yang memiliki kualitas kurang baik.",
+      "contoh": [
+        "Koneksi internet yang buruk dapat mengganggu sistem."
+      ],
+      "intent": [
+        "penilaian",
+        "kualitas"
+      ]
+    },
+    {
+      "id": "B0068",
+      "kata": "butiran",
+      "kategori": "kata benda",
+      "sinonim": [
+        "bagian kecil",
+        "potongan",
+        "detail"
+      ],
+      "arti": "Bagian kecil dari suatu kumpulan.",
+      "contoh": [
+        "AI mempelajari butiran data secara detail."
+      ],
+      "intent": [
+        "detail",
+        "data"
+      ]
+    },
+    {
+      "id": "B0069",
+      "kata": "bobot",
+      "kategori": "kata benda",
+      "sinonim": [
+        "nilai",
+        "berat",
+        "tingkat kepentingan"
+      ],
+      "arti": "Ukuran nilai atau tingkat kepentingan sesuatu.",
+      "contoh": [
+        "Model AI memberikan bobot pada setiap data."
+      ],
+      "intent": [
+        "analisis",
+        "perhitungan"
+      ]
+    },
+    {
+      "id": "B0070",
+      "kata": "bonus",
+      "kategori": "kata benda",
+      "sinonim": [
+        "tambahan",
+        "hadiah",
+        "keuntungan ekstra"
+      ],
+      "arti": "Sesuatu yang diberikan sebagai tambahan dari yang utama.",
+      "contoh": [
+        "Pelanggan mendapatkan bonus setelah transaksi."
+      ],
+      "intent": [
+        "promosi",
+        "hadiah"
+      ]
+    }
+  ]
+}
