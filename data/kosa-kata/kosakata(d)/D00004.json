@@ -1,0 +1,178 @@
+{
+  "huruf": "D",
+  "level": "D4",
+  "kosakata": [
+    {
+      "id": "D0031",
+      "kata": "dampak",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pengaruh",
+        "akibat",
+        "efek"
+      ],
+      "arti": "Hasil atau pengaruh yang terjadi akibat suatu tindakan.",
+      "contoh": [
+        "Perubahan sistem memiliki dampak terhadap pengguna."
+      ],
+      "intent": [
+        "analisis",
+        "evaluasi"
+      ]
+    },
+    {
+      "id": "D0032",
+      "kata": "data analisis",
+      "kategori": "kata benda",
+      "sinonim": [
+        "analisis data",
+        "pengolahan data"
+      ],
+      "arti": "Proses memeriksa dan mengolah data untuk mendapatkan informasi.",
+      "contoh": [
+        "AI melakukan data analisis untuk mencari pola pelanggan."
+      ],
+      "intent": [
+        "ai",
+        "data"
+      ]
+    },
+    {
+      "id": "D0033",
+      "kata": "data mining",
+      "kategori": "kata benda",
+      "sinonim": [
+        "penggalian data",
+        "pencarian pola data"
+      ],
+      "arti": "Proses menemukan pola atau informasi penting dari kumpulan data besar.",
+      "contoh": [
+        "Data mining membantu memahami perilaku pengguna."
+      ],
+      "intent": [
+        "ai",
+        "analisis"
+      ]
+    },
+    {
+      "id": "D0034",
+      "kata": "data valid",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "data benar",
+        "data sah"
+      ],
+      "arti": "Data yang sudah diperiksa dan sesuai dengan kondisi sebenarnya.",
+      "contoh": [
+        "Pastikan data transaksi sudah valid."
+      ],
+      "intent": [
+        "validasi",
+        "database"
+      ]
+    },
+    {
+      "id": "D0035",
+      "kata": "desain",
+      "kategori": "kata benda",
+      "sinonim": [
+        "rancangan",
+        "tampilan",
+        "konsep"
+      ],
+      "arti": "Rencana atau bentuk tampilan yang dibuat sebelum menghasilkan sesuatu.",
+      "contoh": [
+        "Desain website dibuat agar mudah digunakan."
+      ],
+      "intent": [
+        "website",
+        "tampilan"
+      ]
+    },
+    {
+      "id": "D0036",
+      "kata": "deskripsi",
+      "kategori": "kata benda",
+      "sinonim": [
+        "penjelasan",
+        "keterangan"
+      ],
+      "arti": "Informasi yang menjelaskan suatu objek atau hal.",
+      "contoh": [
+        "Tambahkan deskripsi produk pada katalog."
+      ],
+      "intent": [
+        "produk",
+        "informasi"
+      ]
+    },
+    {
+      "id": "D0037",
+      "kata": "detil",
+      "kategori": "kata benda",
+      "sinonim": [
+        "rincian",
+        "detail"
+      ],
+      "arti": "Informasi lengkap mengenai suatu hal.",
+      "contoh": [
+        "Berikan detail transaksi kepada pelanggan."
+      ],
+      "intent": [
+        "informasi",
+        "laporan"
+      ]
+    },
+    {
+      "id": "D0038",
+      "kata": "deteksi wajah",
+      "kategori": "kata benda",
+      "sinonim": [
+        "face detection",
+        "pengenalan wajah"
+      ],
+      "arti": "Teknologi untuk mengenali wajah menggunakan kamera atau AI.",
+      "contoh": [
+        "Sistem menggunakan deteksi wajah untuk keamanan."
+      ],
+      "intent": [
+        "ai",
+        "keamanan"
+      ]
+    },
+    {
+      "id": "D0039",
+      "kata": "devops",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pengembangan operasi",
+        "otomatisasi deployment"
+      ],
+      "arti": "Metode yang menggabungkan pengembangan software dan pengelolaan sistem.",
+      "contoh": [
+        "Tim menggunakan DevOps untuk mempercepat rilis aplikasi."
+      ],
+      "intent": [
+        "server",
+        "development"
+      ]
+    },
+    {
+      "id": "D0040",
+      "kata": "diagram alur",
+      "kategori": "kata benda",
+      "sinonim": [
+        "flowchart",
+        "bagan proses"
+      ],
+      "arti": "Gambar yang menunjukkan urutan langkah dalam sebuah proses.",
+      "contoh": [
+        "Buat diagram alur chatbot sebelum coding."
+      ],
+      "intent": [
+        "perencanaan",
+        "program"
+      ]
+    }
+  ]
+}
