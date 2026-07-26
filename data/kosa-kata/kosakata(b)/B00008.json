@@ -1,0 +1,186 @@
+{
+  "huruf": "B",
+  "level": "B8",
+  "kosakata": [
+    {
+      "id": "B0071",
+      "kata": "bantuan",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pertolongan",
+        "dukungan",
+        "asistensi"
+      ],
+      "arti": "Sesuatu yang diberikan untuk membantu menyelesaikan masalah.",
+      "contoh": [
+        "Pengguna dapat meminta bantuan kepada chatbot."
+      ],
+      "intent": [
+        "bantuan",
+        "dukungan"
+      ]
+    },
+    {
+      "id": "B0072",
+      "kata": "batal",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "dibatalkan",
+        "tidak jadi",
+        "gagal"
+      ],
+      "arti": "Tidak berlaku atau tidak dilanjutkan.",
+      "contoh": [
+        "Pesanan tersebut dibatalkan oleh pengguna."
+      ],
+      "intent": [
+        "pembatalan",
+        "transaksi"
+      ]
+    },
+    {
+      "id": "B0073",
+      "kata": "bantuannya",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pertolongannya",
+        "dukungannya",
+        "bimbingannya"
+      ],
+      "arti": "Bentuk bantuan yang diberikan oleh seseorang atau sistem.",
+      "contoh": [
+        "Terima kasih atas bantuannya."
+      ],
+      "intent": [
+        "ucapan",
+        "bantuan"
+      ]
+    },
+    {
+      "id": "B0074",
+      "kata": "bayar",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "melunasi",
+        "membayar",
+        "melakukan pembayaran"
+      ],
+      "arti": "Memberikan uang sebagai kewajiban atas sesuatu.",
+      "contoh": [
+        "Silakan bayar sesuai jumlah tagihan."
+      ],
+      "intent": [
+        "pembayaran",
+        "transaksi"
+      ]
+    },
+    {
+      "id": "B0075",
+      "kata": "bayaran",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pembayaran",
+        "upah",
+        "biaya"
+      ],
+      "arti": "Jumlah uang yang diberikan sebagai pembayaran.",
+      "contoh": [
+        "Bayaran layanan dilakukan setelah pekerjaan selesai."
+      ],
+      "intent": [
+        "harga",
+        "transaksi"
+      ]
+    },
+    {
+      "id": "B0076",
+      "kata": "beberapa",
+      "kategori": "kata bilangan",
+      "sinonim": [
+        "sejumlah",
+        "sebagian",
+        "lebih dari satu"
+      ],
+      "arti": "Menunjukkan jumlah yang tidak pasti tetapi lebih dari satu.",
+      "contoh": [
+        "Beberapa fitur baru telah ditambahkan."
+      ],
+      "intent": [
+        "jumlah",
+        "informasi"
+      ]
+    },
+    {
+      "id": "B0077",
+      "kata": "bebas",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "merdeka",
+        "tidak terikat",
+        "leluasa"
+      ],
+      "arti": "Tidak memiliki batasan atau ikatan tertentu.",
+      "contoh": [
+        "Pengguna bebas memilih layanan yang tersedia."
+      ],
+      "intent": [
+        "pilihan",
+        "akses"
+      ]
+    },
+    {
+      "id": "B0078",
+      "kata": "beban",
+      "kategori": "kata benda",
+      "sinonim": [
+        "tanggungan",
+        "tekanan",
+        "muatan"
+      ],
+      "arti": "Sesuatu yang harus ditanggung atau diproses.",
+      "contoh": [
+        "Server memiliki beban kerja yang tinggi."
+      ],
+      "intent": [
+        "sistem",
+        "performa"
+      ]
+    },
+    {
+      "id": "B0079",
+      "kata": "beberapa kali",
+      "kategori": "kata keterangan",
+      "sinonim": [
+        "berulang kali",
+        "berkali-kali",
+        "sering"
+      ],
+      "arti": "Terjadi lebih dari satu kali.",
+      "contoh": [
+        "Pengguna mencoba login beberapa kali."
+      ],
+      "intent": [
+        "frekuensi",
+        "aktivitas"
+      ]
+    },
+    {
+      "id": "B0080",
+      "kata": "belajar",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "mempelajari",
+        "memahami",
+        "menuntut ilmu"
+      ],
+      "arti": "Proses memperoleh pengetahuan atau kemampuan baru.",
+      "contoh": [
+        "AI dapat belajar dari data yang diberikan."
+      ],
+      "intent": [
+        "pembelajaran",
+        "training"
+      ]
+    }
+  ]
+}
