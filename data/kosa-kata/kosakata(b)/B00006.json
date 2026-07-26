@@ -1,0 +1,186 @@
+{
+  "huruf": "B",
+  "level": "B6",
+  "kosakata": [
+    {
+      "id": "B0051",
+      "kata": "biaya",
+      "kategori": "kata benda",
+      "sinonim": [
+        "harga",
+        "ongkos",
+        "pengeluaran"
+      ],
+      "arti": "Jumlah uang yang harus dikeluarkan untuk mendapatkan sesuatu.",
+      "contoh": [
+        "Berapa biaya pembuatan website ini?"
+      ],
+      "intent": [
+        "harga",
+        "transaksi"
+      ]
+    },
+    {
+      "id": "B0052",
+      "kata": "biasa",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "umum",
+        "normal",
+        "seperti biasanya"
+      ],
+      "arti": "Sesuatu yang sering terjadi atau tidak khusus.",
+      "contoh": [
+        "Pengguna biasa dapat menggunakan fitur standar."
+      ],
+      "intent": [
+        "status",
+        "kategori"
+      ]
+    },
+    {
+      "id": "B0053",
+      "kata": "bimbing",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "arahkan",
+        "pandukan",
+        "ajari"
+      ],
+      "arti": "Memberikan arahan atau bantuan agar seseorang dapat melakukan sesuatu.",
+      "contoh": [
+        "Chatbot dapat membimbing pengguna baru."
+      ],
+      "intent": [
+        "bantuan",
+        "panduan"
+      ]
+    },
+    {
+      "id": "B0054",
+      "kata": "bidang",
+      "kategori": "kata benda",
+      "sinonim": [
+        "sektor",
+        "bagian",
+        "lingkup"
+      ],
+      "arti": "Area atau bagian tertentu dalam suatu kegiatan.",
+      "contoh": [
+        "Saya belajar bidang teknologi AI."
+      ],
+      "intent": [
+        "kategori",
+        "keahlian"
+      ]
+    },
+    {
+      "id": "B0055",
+      "kata": "bilang",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "katakan",
+        "ucapkan",
+        "sebutkan"
+      ],
+      "arti": "Menyampaikan sesuatu melalui perkataan.",
+      "contoh": [
+        "Silakan bilang kebutuhan Anda."
+      ],
+      "intent": [
+        "komunikasi",
+        "input"
+      ]
+    },
+    {
+      "id": "B0056",
+      "kata": "bisa",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "mampu",
+        "dapat",
+        "sanggup"
+      ],
+      "arti": "Memiliki kemampuan untuk melakukan sesuatu.",
+      "contoh": [
+        "AI bisa membantu menjawab pertanyaan."
+      ],
+      "intent": [
+        "kemampuan",
+        "fitur"
+      ]
+    },
+    {
+      "id": "B0057",
+      "kata": "bisnis",
+      "kategori": "kata benda",
+      "sinonim": [
+        "usaha",
+        "perdagangan",
+        "perusahaan"
+      ],
+      "arti": "Kegiatan yang bertujuan mendapatkan keuntungan.",
+      "contoh": [
+        "Website dapat membantu perkembangan bisnis."
+      ],
+      "intent": [
+        "usaha",
+        "ekonomi"
+      ]
+    },
+    {
+      "id": "B0058",
+      "kata": "blokir",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "tutup",
+        "cegah",
+        "larang"
+      ],
+      "arti": "Menghentikan akses atau aktivitas tertentu.",
+      "contoh": [
+        "Admin dapat memblokir akun yang bermasalah."
+      ],
+      "intent": [
+        "keamanan",
+        "akun"
+      ]
+    },
+    {
+      "id": "B0059",
+      "kata": "bot",
+      "kategori": "kata benda",
+      "sinonim": [
+        "robot",
+        "program otomatis",
+        "asisten digital"
+      ],
+      "arti": "Program yang dapat melakukan tugas secara otomatis.",
+      "contoh": [
+        "Bot chatbot menjawab pertanyaan pelanggan."
+      ],
+      "intent": [
+        "ai",
+        "otomatisasi"
+      ]
+    },
+    {
+      "id": "B0060",
+      "kata": "browser",
+      "kategori": "kata benda",
+      "sinonim": [
+        "peramban",
+        "aplikasi internet",
+        "penjelajah web"
+      ],
+      "arti": "Aplikasi yang digunakan untuk membuka dan menjelajah internet.",
+      "contoh": [
+        "Website dapat dibuka melalui browser."
+      ],
+      "intent": [
+        "internet",
+        "website"
+      ]
+    }
+  ]
+}
