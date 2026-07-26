@@ -1,0 +1,186 @@
+{
+  "huruf": "C",
+  "level": "C2",
+  "kosakata": [
+    {
+      "id": "C0011",
+      "kata": "cepat",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "lekas",
+        "sigap",
+        "tangkas"
+      ],
+      "arti": "Melakukan sesuatu dalam waktu singkat.",
+      "contoh": [
+        "Chatbot memberikan jawaban dengan cepat."
+      ],
+      "intent": [
+        "kecepatan",
+        "respon"
+      ]
+    },
+    {
+      "id": "C0012",
+      "kata": "cerdas",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "pandai",
+        "pintar",
+        "cerdik"
+      ],
+      "arti": "Memiliki kemampuan berpikir dan memahami dengan baik.",
+      "contoh": [
+        "AI yang cerdas dapat memahami banyak pertanyaan."
+      ],
+      "intent": [
+        "kecerdasan",
+        "ai"
+      ]
+    },
+    {
+      "id": "C0013",
+      "kata": "cetak",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "print",
+        "salin",
+        "terbitkan"
+      ],
+      "arti": "Menghasilkan dokumen atau gambar pada media fisik atau digital.",
+      "contoh": [
+        "Silakan cetak bukti pembayaran."
+      ],
+      "intent": [
+        "dokumen",
+        "transaksi"
+      ]
+    },
+    {
+      "id": "C0014",
+      "kata": "cicilan",
+      "kategori": "kata benda",
+      "sinonim": [
+        "angsuran",
+        "pembayaran berkala",
+        "termin"
+      ],
+      "arti": "Pembayaran yang dilakukan secara bertahap dalam jangka waktu tertentu.",
+      "contoh": [
+        "Produk dapat dibeli dengan sistem cicilan."
+      ],
+      "intent": [
+        "pembayaran",
+        "keuangan"
+      ]
+    },
+    {
+      "id": "C0015",
+      "kata": "cipta",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "buat",
+        "hasilkan",
+        "kembangkan"
+      ],
+      "arti": "Membuat atau menghasilkan sesuatu yang baru.",
+      "contoh": [
+        "Programmer menciptakan aplikasi chatbot."
+      ],
+      "intent": [
+        "pengembangan",
+        "pembuatan"
+      ]
+    },
+    {
+      "id": "C0016",
+      "kata": "cocok",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "sesuai",
+        "pas",
+        "tepat"
+      ],
+      "arti": "Sesuatu yang sesuai atau serasi dengan kondisi tertentu.",
+      "contoh": [
+        "Jawaban chatbot cocok dengan pertanyaan pengguna."
+      ],
+      "intent": [
+        "kecocokan",
+        "validasi"
+      ]
+    },
+    {
+      "id": "C0017",
+      "kata": "coba",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "uji",
+        "tes",
+        "praktik"
+      ],
+      "arti": "Melakukan sesuatu untuk mengetahui hasilnya.",
+      "contoh": [
+        "Silakan coba fitur chatbot."
+      ],
+      "intent": [
+        "pengujian",
+        "percobaan"
+      ]
+    },
+    {
+      "id": "C0018",
+      "kata": "contoh",
+      "kategori": "kata benda",
+      "sinonim": [
+        "ilustrasi",
+        "teladan",
+        "sampel"
+      ],
+      "arti": "Sesuatu yang dijadikan acuan atau gambaran.",
+      "contoh": [
+        "Berikan contoh penggunaan API."
+      ],
+      "intent": [
+        "contoh",
+        "penjelasan"
+      ]
+    },
+    {
+      "id": "C0019",
+      "kata": "cukup",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "memadai",
+        "pas",
+        "sesuai"
+      ],
+      "arti": "Memenuhi kebutuhan tanpa berlebihan.",
+      "contoh": [
+        "Data yang tersedia sudah cukup untuk analisis."
+      ],
+      "intent": [
+        "kondisi",
+        "penilaian"
+      ]
+    },
+    {
+      "id": "C0020",
+      "kata": "cuma",
+      "kategori": "kata keterangan",
+      "sinonim": [
+        "hanya",
+        "sekadar",
+        "saja"
+      ],
+      "arti": "Menunjukkan jumlah atau kondisi yang terbatas.",
+      "contoh": [
+        "Saya cuma ingin bertanya tentang produk."
+      ],
+      "intent": [
+        "pembatas",
+        "percakapan"
+      ]
+    }
+  ]
+}
