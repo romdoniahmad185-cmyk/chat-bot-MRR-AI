@@ -1,0 +1,176 @@
+{
+  "huruf": "D",
+  "level": "D5",
+  "kosakata": [
+    {
+      "id": "D0041",
+      "kata": "data center",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pusat data",
+        "server center"
+      ],
+      "arti": "Tempat yang berisi kumpulan server untuk menyimpan dan mengelola data.",
+      "contoh": [
+        "Aplikasi berjalan menggunakan server dari data center."
+      ],
+      "intent": [
+        "server",
+        "penyimpanan"
+      ]
+    },
+    {
+      "id": "D0042",
+      "kata": "data input",
+      "kategori": "kata benda",
+      "sinonim": [
+        "masukan data",
+        "input pengguna"
+      ],
+      "arti": "Data yang dimasukkan ke dalam sistem untuk diproses.",
+      "contoh": [
+        "Chatbot membaca data input dari pengguna."
+      ],
+      "intent": [
+        "input",
+        "data"
+      ]
+    },
+    {
+      "id": "D0043",
+      "kata": "data output",
+      "kategori": "kata benda",
+      "sinonim": [
+        "hasil data",
+        "keluaran sistem"
+      ],
+      "arti": "Hasil yang diberikan sistem setelah melakukan proses.",
+      "contoh": [
+        "Jawaban chatbot merupakan data output."
+      ],
+      "intent": [
+        "output",
+        "sistem"
+      ]
+    },
+    {
+      "id": "D0044",
+      "kata": "data struktur",
+      "kategori": "kata benda",
+      "sinonim": [
+        "struktur data",
+        "susunan data"
+      ],
+      "arti": "Cara mengatur dan menyimpan data agar mudah diproses.",
+      "contoh": [
+        "JSON memiliki struktur data yang mudah dibaca."
+      ],
+      "intent": [
+        "pemrograman",
+        "database"
+      ]
+    },
+    {
+      "id": "D0045",
+      "kata": "data security",
+      "kategori": "kata benda",
+      "sinonim": [
+        "keamanan data",
+        "perlindungan data"
+      ],
+      "arti": "Upaya melindungi data dari akses yang tidak diizinkan.",
+      "contoh": [
+        "Data pelanggan harus memiliki data security yang baik."
+      ],
+      "intent": [
+        "keamanan",
+        "database"
+      ]
+    },
+    {
+      "id": "D0046",
+      "kata": "dekripsi",
+      "kategori": "kata benda",
+      "sinonim": [
+        "decrypt",
+        "membuka enkripsi"
+      ],
+      "arti": "Proses mengubah data terenkripsi kembali menjadi bentuk asli.",
+      "contoh": [
+        "Sistem melakukan dekripsi data saat pengguna login."
+      ],
+      "intent": [
+        "keamanan",
+        "enkripsi"
+      ]
+    },
+    {
+      "id": "D0047",
+      "kata": "dekripsi data",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pemulihan data",
+        "decrypt data"
+      ],
+      "arti": "Proses membaca data yang sebelumnya diamankan dengan enkripsi.",
+      "contoh": [
+        "Server melakukan dekripsi data secara aman."
+      ],
+      "intent": [
+        "keamanan",
+        "server"
+      ]
+    },
+    {
+      "id": "D0048",
+      "kata": "dependensi",
+      "kategori": "kata benda",
+      "sinonim": [
+        "ketergantungan",
+        "library pendukung"
+      ],
+      "arti": "Komponen tambahan yang dibutuhkan agar program dapat berjalan.",
+      "contoh": [
+        "Install dependensi sebelum menjalankan aplikasi."
+      ],
+      "intent": [
+        "program",
+        "instalasi"
+      ]
+    },
+    {
+      "id": "D0049",
+      "kata": "desktop",
+      "kategori": "kata benda",
+      "sinonim": [
+        "komputer meja",
+        "tampilan utama"
+      ],
+      "arti": "Komputer atau area utama pada layar sistem operasi.",
+      "contoh": [
+        "Aplikasi dapat digunakan pada desktop."
+      ],
+      "intent": [
+        "komputer",
+        "aplikasi"
+      ]
+    },
+    {
+      "id": "D0050",
+      "kata": "desain responsif",
+      "kategori": "kata benda",
+      "sinonim": [
+        "responsive design",
+        "tampilan adaptif"
+      ],
+      "arti": "Desain website yang dapat menyesuaikan ukuran layar perangkat.",
+      "contoh": [
+        "Website chatbot harus memiliki desain responsif."
+      ],
+      "intent": [
+        "website",
+        "frontend"
+      ]
+    }
+  ]
+}
