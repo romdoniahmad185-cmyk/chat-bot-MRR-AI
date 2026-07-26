@@ -1,0 +1,176 @@
+{
+  "huruf": "D",
+  "level": "D3",
+  "kosakata": [
+    {
+      "id": "D0021",
+      "kata": "dashboard admin",
+      "kategori": "kata benda",
+      "sinonim": [
+        "panel pengelola",
+        "halaman kontrol"
+      ],
+      "arti": "Halaman khusus administrator untuk mengelola sistem dan data.",
+      "contoh": [
+        "Admin dapat melihat transaksi melalui dashboard admin."
+      ],
+      "intent": [
+        "admin",
+        "pengelolaan"
+      ]
+    },
+    {
+      "id": "D0022",
+      "kata": "data pelanggan",
+      "kategori": "kata benda",
+      "sinonim": [
+        "informasi pelanggan",
+        "database customer"
+      ],
+      "arti": "Kumpulan informasi mengenai pengguna atau pelanggan.",
+      "contoh": [
+        "Data pelanggan disimpan secara aman."
+      ],
+      "intent": [
+        "database",
+        "pelanggan"
+      ]
+    },
+    {
+      "id": "D0023",
+      "kata": "data transaksi",
+      "kategori": "kata benda",
+      "sinonim": [
+        "riwayat pembayaran",
+        "catatan transaksi"
+      ],
+      "arti": "Informasi mengenai aktivitas pembelian atau pembayaran.",
+      "contoh": [
+        "Sistem menyimpan data transaksi otomatis."
+      ],
+      "intent": [
+        "transaksi",
+        "keuangan"
+      ]
+    },
+    {
+      "id": "D0024",
+      "kata": "deteksi",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pengenalan",
+        "identifikasi"
+      ],
+      "arti": "Proses menemukan atau mengenali sesuatu.",
+      "contoh": [
+        "AI melakukan deteksi terhadap kata pengguna."
+      ],
+      "intent": [
+        "ai",
+        "analisis"
+      ]
+    },
+    {
+      "id": "D0025",
+      "kata": "deteksi kesalahan",
+      "kategori": "kata benda",
+      "sinonim": [
+        "error detection",
+        "pemeriksaan error"
+      ],
+      "arti": "Proses menemukan kesalahan dalam sistem atau program.",
+      "contoh": [
+        "Program melakukan deteksi kesalahan sebelum berjalan."
+      ],
+      "intent": [
+        "debug",
+        "pemrograman"
+      ]
+    },
+    {
+      "id": "D0026",
+      "kata": "diagram",
+      "kategori": "kata benda",
+      "sinonim": [
+        "grafik",
+        "ilustrasi"
+      ],
+      "arti": "Gambar yang menjelaskan hubungan atau proses tertentu.",
+      "contoh": [
+        "Diagram alur chatbot membantu memahami sistem."
+      ],
+      "intent": [
+        "desain",
+        "perencanaan"
+      ]
+    },
+    {
+      "id": "D0027",
+      "kata": "download file",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "unduh dokumen",
+        "ambil file"
+      ],
+      "arti": "Mengambil file dari server menuju perangkat pengguna.",
+      "contoh": [
+        "Pengguna dapat download file laporan."
+      ],
+      "intent": [
+        "file",
+        "unduh"
+      ]
+    },
+    {
+      "id": "D0028",
+      "kata": "domain gratis",
+      "kategori": "kata benda",
+      "sinonim": [
+        "alamat website gratis",
+        "subdomain"
+      ],
+      "arti": "Alamat website yang tersedia tanpa biaya tertentu.",
+      "contoh": [
+        "Website dapat menggunakan domain gratis untuk percobaan."
+      ],
+      "intent": [
+        "domain",
+        "website"
+      ]
+    },
+    {
+      "id": "D0029",
+      "kata": "dokumentasi",
+      "kategori": "kata benda",
+      "sinonim": [
+        "panduan",
+        "catatan teknis"
+      ],
+      "arti": "Informasi tertulis yang menjelaskan cara penggunaan atau pengembangan sistem.",
+      "contoh": [
+        "Developer membaca dokumentasi API."
+      ],
+      "intent": [
+        "tutorial",
+        "api"
+      ]
+    },
+    {
+      "id": "D0030",
+      "kata": "download otomatis",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "unduh otomatis",
+        "pengambilan otomatis"
+      ],
+      "arti": "Proses mengambil file secara otomatis tanpa perintah manual.",
+      "contoh": [
+        "Sistem melakukan download otomatis laporan harian."
+      ],
+      "intent": [
+        "otomatisasi",
+        "sistem"
+      ]
+    }
+  ]
+}
