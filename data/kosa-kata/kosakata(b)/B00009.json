@@ -1,0 +1,185 @@
+{
+  "huruf": "B",
+  "level": "B9",
+  "kosakata": [
+    {
+      "id": "B0081",
+      "kata": "belum",
+      "kategori": "kata keterangan",
+      "sinonim": [
+        "tidak pernah",
+        "masih belum",
+        "belum selesai"
+      ],
+      "arti": "Menunjukkan sesuatu yang belum terjadi atau belum dilakukan.",
+      "contoh": [
+        "Data pengguna belum tersimpan."
+      ],
+      "intent": [
+        "status",
+        "proses"
+      ]
+    },
+    {
+      "id": "B0082",
+      "kata": "benar",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "tepat",
+        "sesuai",
+        "valid"
+      ],
+      "arti": "Sesuatu yang sesuai dengan kenyataan atau aturan.",
+      "contoh": [
+        "Pastikan informasi yang dimasukkan benar."
+      ],
+      "intent": [
+        "validasi",
+        "akurasi"
+      ]
+    },
+    {
+      "id": "B0083",
+      "kata": "benda",
+      "kategori": "kata benda",
+      "sinonim": [
+        "barang",
+        "objek",
+        "materi"
+      ],
+      "arti": "Sesuatu yang memiliki bentuk dan dapat dilihat.",
+      "contoh": [
+        "Komputer adalah benda yang digunakan untuk bekerja."
+      ],
+      "intent": [
+        "objek",
+        "produk"
+      ]
+    },
+    {
+      "id": "B0084",
+      "kata": "berarti",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "bermakna",
+        "memiliki arti",
+        "penting"
+      ],
+      "arti": "Memiliki maksud atau nilai tertentu.",
+      "contoh": [
+        "Data tersebut berarti bagi proses AI."
+      ],
+      "intent": [
+        "arti",
+        "makna"
+      ]
+    },
+    {
+      "id": "B0085",
+      "kata": "berencana",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "merencanakan",
+        "memiliki rencana",
+        "menyiapkan"
+      ],
+      "arti": "Memiliki tujuan atau rancangan yang akan dilakukan.",
+      "contoh": [
+        "Saya berencana membuat sistem chatbot."
+      ],
+      "intent": [
+        "rencana",
+        "tujuan"
+      ]
+    },
+    {
+      "id": "B0086",
+      "kata": "berita",
+      "kategori": "kata benda",
+      "sinonim": [
+        "informasi",
+        "kabar",
+        "laporan"
+      ],
+      "arti": "Informasi mengenai suatu kejadian.",
+      "contoh": [
+        "AI dapat membantu mencari berita terbaru."
+      ],
+      "intent": [
+        "informasi",
+        "pencarian"
+      ]
+    },
+    {
+      "id": "B0087",
+      "kata": "besok",
+      "kategori": "kata keterangan",
+      "sinonim": [
+        "hari berikutnya",
+        "esok hari"
+      ],
+      "arti": "Waktu satu hari setelah hari ini.",
+      "contoh": [
+        "Pembaruan sistem dilakukan besok."
+      ],
+      "intent": [
+        "waktu",
+        "jadwal"
+      ]
+    },
+    {
+      "id": "B0088",
+      "kata": "betul",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "benar",
+        "tepat",
+        "sesuai"
+      ],
+      "arti": "Menunjukkan bahwa sesuatu sesuai dengan kenyataan.",
+      "contoh": [
+        "Informasi tersebut betul."
+      ],
+      "intent": [
+        "konfirmasi",
+        "validasi"
+      ]
+    },
+    {
+      "id": "B0089",
+      "kata": "biasa saja",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "normal",
+        "standar",
+        "cukup"
+      ],
+      "arti": "Tidak terlalu istimewa dan berada pada tingkat umum.",
+      "contoh": [
+        "Performa sistem masih biasa saja."
+      ],
+      "intent": [
+        "penilaian",
+        "kualitas"
+      ]
+    },
+    {
+      "id": "B0090",
+      "kata": "bimbingan",
+      "kategori": "kata benda",
+      "sinonim": [
+        "arahan",
+        "panduan",
+        "petunjuk"
+      ],
+      "arti": "Bantuan berupa arahan agar seseorang dapat melakukan sesuatu.",
+      "contoh": [
+        "Pengguna membutuhkan bimbingan saat menggunakan aplikasi."
+      ],
+      "intent": [
+        "bantuan",
+        "panduan"
+      ]
+    }
+  ]
+}
