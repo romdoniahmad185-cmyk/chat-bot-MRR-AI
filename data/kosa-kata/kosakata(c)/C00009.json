@@ -1,0 +1,176 @@
+{
+  "huruf": "C",
+  "level": "C9",
+  "kosakata": [
+    {
+      "id": "C0081",
+      "kata": "chat room",
+      "kategori": "kata benda",
+      "sinonim": [
+        "ruang obrolan",
+        "ruang chat"
+      ],
+      "arti": "Tempat untuk melakukan percakapan secara online.",
+      "contoh": [
+        "Pengguna masuk ke chat room untuk bertanya."
+      ],
+      "intent": [
+        "chat",
+        "komunikasi"
+      ]
+    },
+    {
+      "id": "C0082",
+      "kata": "chat history",
+      "kategori": "kata benda",
+      "sinonim": [
+        "riwayat chat",
+        "riwayat percakapan"
+      ],
+      "arti": "Kumpulan percakapan yang telah terjadi sebelumnya.",
+      "contoh": [
+        "Chat history disimpan untuk membantu pelayanan."
+      ],
+      "intent": [
+        "riwayat",
+        "chat"
+      ]
+    },
+    {
+      "id": "C0083",
+      "kata": "chat session",
+      "kategori": "kata benda",
+      "sinonim": [
+        "sesi chat",
+        "sesi percakapan"
+      ],
+      "arti": "Periode percakapan antara pengguna dan chatbot.",
+      "contoh": [
+        "Chat session akan berakhir setelah 30 menit tidak aktif."
+      ],
+      "intent": [
+        "chat",
+        "session"
+      ]
+    },
+    {
+      "id": "C0084",
+      "kata": "clean",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "bersihkan",
+        "hapus"
+      ],
+      "arti": "Menghapus data atau file yang tidak diperlukan.",
+      "contoh": [
+        "Silakan clean cache browser."
+      ],
+      "intent": [
+        "perawatan",
+        "sistem"
+      ]
+    },
+    {
+      "id": "C0085",
+      "kata": "clear",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "hapus",
+        "kosongkan"
+      ],
+      "arti": "Menghapus isi atau data tertentu.",
+      "contoh": [
+        "Klik tombol Clear untuk menghapus riwayat."
+      ],
+      "intent": [
+        "hapus",
+        "riwayat"
+      ]
+    },
+    {
+      "id": "C0086",
+      "kata": "click",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "klik",
+        "tekan"
+      ],
+      "arti": "Menekan tombol atau elemen pada layar.",
+      "contoh": [
+        "Klik tombol Login untuk masuk."
+      ],
+      "intent": [
+        "navigasi",
+        "website"
+      ]
+    },
+    {
+      "id": "C0087",
+      "kata": "close",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "tutup",
+        "akhiri"
+      ],
+      "arti": "Menutup halaman, aplikasi, atau percakapan.",
+      "contoh": [
+        "Silakan close aplikasi setelah selesai."
+      ],
+      "intent": [
+        "aplikasi",
+        "navigasi"
+      ]
+    },
+    {
+      "id": "C0088",
+      "kata": "cluster",
+      "kategori": "kata benda",
+      "sinonim": [
+        "kelompok",
+        "grup server"
+      ],
+      "arti": "Sekumpulan server atau data yang bekerja bersama.",
+      "contoh": [
+        "Database berjalan pada cluster server."
+      ],
+      "intent": [
+        "server",
+        "database"
+      ]
+    },
+    {
+      "id": "C0089",
+      "kata": "code",
+      "kategori": "kata benda",
+      "sinonim": [
+        "kode",
+        "source code"
+      ],
+      "arti": "Instruksi yang ditulis dalam bahasa pemrograman.",
+      "contoh": [
+        "Code Python berhasil dijalankan."
+      ],
+      "intent": [
+        "pemrograman",
+        "coding"
+      ]
+    },
+    {
+      "id": "C0090",
+      "kata": "command line",
+      "kategori": "kata benda",
+      "sinonim": [
+        "terminal",
+        "CLI"
+      ],
+      "arti": "Antarmuka berbasis teks untuk menjalankan perintah pada komputer.",
+      "contoh": [
+        "Jalankan aplikasi melalui command line."
+      ],
+      "intent": [
+        "terminal",
+        "pemrograman"
+      ]
+    }
+  ]
+}
