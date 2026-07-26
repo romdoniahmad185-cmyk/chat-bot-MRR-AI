@@ -1,0 +1,176 @@
+{
+  "huruf": "D",
+  "level": "D8",
+  "kosakata": [
+    {
+      "id": "D0071",
+      "kata": "data backup",
+      "kategori": "kata benda",
+      "sinonim": [
+        "cadangan data",
+        "salinan data"
+      ],
+      "arti": "Salinan data yang dibuat untuk menghindari kehilangan informasi.",
+      "contoh": [
+        "Sistem melakukan data backup setiap minggu."
+      ],
+      "intent": [
+        "backup",
+        "keamanan"
+      ]
+    },
+    {
+      "id": "D0072",
+      "kata": "data collection",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pengumpulan data",
+        "akuisisi data"
+      ],
+      "arti": "Proses mengumpulkan data dari berbagai sumber.",
+      "contoh": [
+        "AI melakukan data collection dari aktivitas pengguna."
+      ],
+      "intent": [
+        "data",
+        "ai"
+      ]
+    },
+    {
+      "id": "D0073",
+      "kata": "data entry",
+      "kategori": "kata benda",
+      "sinonim": [
+        "input data",
+        "memasukkan data"
+      ],
+      "arti": "Proses memasukkan informasi ke dalam sistem.",
+      "contoh": [
+        "Admin melakukan data entry pelanggan baru."
+      ],
+      "intent": [
+        "input",
+        "database"
+      ]
+    },
+    {
+      "id": "D0074",
+      "kata": "data flow",
+      "kategori": "kata benda",
+      "sinonim": [
+        "alur data",
+        "pergerakan data"
+      ],
+      "arti": "Alur perpindahan data dari satu proses ke proses lainnya.",
+      "contoh": [
+        "Diagram data flow menjelaskan proses chatbot."
+      ],
+      "intent": [
+        "sistem",
+        "analisis"
+      ]
+    },
+    {
+      "id": "D0075",
+      "kata": "data processing",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pengolahan data",
+        "pemrosesan data"
+      ],
+      "arti": "Proses mengubah data mentah menjadi informasi yang berguna.",
+      "contoh": [
+        "Python digunakan untuk data processing."
+      ],
+      "intent": [
+        "python",
+        "data"
+      ]
+    },
+    {
+      "id": "D0076",
+      "kata": "data recovery",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pemulihan data",
+        "restore data"
+      ],
+      "arti": "Proses mengembalikan data yang hilang atau rusak.",
+      "contoh": [
+        "Data recovery dilakukan setelah server mengalami masalah."
+      ],
+      "intent": [
+        "backup",
+        "keamanan"
+      ]
+    },
+    {
+      "id": "D0077",
+      "kata": "data source",
+      "kategori": "kata benda",
+      "sinonim": [
+        "sumber data",
+        "asal data"
+      ],
+      "arti": "Tempat atau sumber asal data diperoleh.",
+      "contoh": [
+        "API menjadi data source untuk aplikasi."
+      ],
+      "intent": [
+        "api",
+        "database"
+      ]
+    },
+    {
+      "id": "D0078",
+      "kata": "data type",
+      "kategori": "kata benda",
+      "sinonim": [
+        "tipe data",
+        "jenis data"
+      ],
+      "arti": "Jenis nilai yang dapat disimpan oleh program.",
+      "contoh": [
+        "String dan integer adalah contoh data type."
+      ],
+      "intent": [
+        "pemrograman",
+        "database"
+      ]
+    },
+    {
+      "id": "D0079",
+      "kata": "data update",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pembaruan data",
+        "perubahan data"
+      ],
+      "arti": "Proses memperbarui informasi yang tersimpan dalam sistem.",
+      "contoh": [
+        "Admin melakukan data update harga produk."
+      ],
+      "intent": [
+        "database",
+        "produk"
+      ]
+    },
+    {
+      "id": "D0080",
+      "kata": "database server",
+      "kategori": "kata benda",
+      "sinonim": [
+        "server database",
+        "mesin database"
+      ],
+      "arti": "Server yang digunakan untuk menyimpan dan mengelola database.",
+      "contoh": [
+        "Website terhubung ke database server."
+      ],
+      "intent": [
+        "server",
+        "database"
+      ]
+    }
+  ]
+}
