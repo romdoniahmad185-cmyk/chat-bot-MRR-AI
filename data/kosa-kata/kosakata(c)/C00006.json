@@ -1,0 +1,176 @@
+{
+  "huruf": "C",
+  "level": "C6",
+  "kosakata": [
+    {
+      "id": "C0051",
+      "kata": "cache",
+      "kategori": "kata benda",
+      "sinonim": [
+        "memori sementara",
+        "penyimpanan sementara"
+      ],
+      "arti": "Penyimpanan sementara untuk mempercepat akses data.",
+      "contoh": [
+        "Hapus cache browser jika website tidak diperbarui."
+      ],
+      "intent": [
+        "browser",
+        "performa"
+      ]
+    },
+    {
+      "id": "C0052",
+      "kata": "callback",
+      "kategori": "kata benda",
+      "sinonim": [
+        "panggilan balik",
+        "respons otomatis"
+      ],
+      "arti": "Mekanisme ketika sistem memanggil fungsi atau mengirim respons setelah suatu proses selesai.",
+      "contoh": [
+        "API mengirim callback setelah pembayaran berhasil."
+      ],
+      "intent": [
+        "api",
+        "pembayaran"
+      ]
+    },
+    {
+      "id": "C0053",
+      "kata": "captcha",
+      "kategori": "kata benda",
+      "sinonim": [
+        "verifikasi manusia",
+        "anti bot"
+      ],
+      "arti": "Sistem yang digunakan untuk membedakan manusia dan bot.",
+      "contoh": [
+        "Pengguna harus menyelesaikan captcha sebelum login."
+      ],
+      "intent": [
+        "keamanan",
+        "login"
+      ]
+    },
+    {
+      "id": "C0054",
+      "kata": "command",
+      "kategori": "kata benda",
+      "sinonim": [
+        "perintah",
+        "instruksi"
+      ],
+      "arti": "Perintah yang diberikan kepada komputer atau program.",
+      "contoh": [
+        "Masukkan command untuk menjalankan server."
+      ],
+      "intent": [
+        "pemrograman",
+        "server"
+      ]
+    },
+    {
+      "id": "C0055",
+      "kata": "commit",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "simpan perubahan",
+        "unggah perubahan"
+      ],
+      "arti": "Menyimpan perubahan pada sistem kontrol versi seperti Git.",
+      "contoh": [
+        "Lakukan commit setelah selesai mengedit kode."
+      ],
+      "intent": [
+        "github",
+        "git"
+      ]
+    },
+    {
+      "id": "C0056",
+      "kata": "container",
+      "kategori": "kata benda",
+      "sinonim": [
+        "wadah",
+        "lingkungan aplikasi"
+      ],
+      "arti": "Lingkungan yang digunakan untuk menjalankan aplikasi secara terisolasi.",
+      "contoh": [
+        "Aplikasi berjalan di dalam container."
+      ],
+      "intent": [
+        "server",
+        "docker"
+      ]
+    },
+    {
+      "id": "C0057",
+      "kata": "core",
+      "kategori": "kata benda",
+      "sinonim": [
+        "inti",
+        "pusat"
+      ],
+      "arti": "Bagian utama atau inti dari sistem atau prosesor.",
+      "contoh": [
+        "Prosesor memiliki delapan core."
+      ],
+      "intent": [
+        "hardware",
+        "komputer"
+      ]
+    },
+    {
+      "id": "C0058",
+      "kata": "cron",
+      "kategori": "kata benda",
+      "sinonim": [
+        "penjadwalan",
+        "task scheduler"
+      ],
+      "arti": "Sistem penjadwalan tugas otomatis pada server.",
+      "contoh": [
+        "Cron menjalankan backup setiap malam."
+      ],
+      "intent": [
+        "server",
+        "otomatisasi"
+      ]
+    },
+    {
+      "id": "C0059",
+      "kata": "CSS",
+      "kategori": "kata benda",
+      "sinonim": [
+        "stylesheet",
+        "gaya halaman"
+      ],
+      "arti": "Bahasa yang digunakan untuk mengatur tampilan halaman web.",
+      "contoh": [
+        "CSS membuat website terlihat lebih menarik."
+      ],
+      "intent": [
+        "website",
+        "frontend"
+      ]
+    },
+    {
+      "id": "C0060",
+      "kata": "CSV",
+      "kategori": "kata benda",
+      "sinonim": [
+        "file data",
+        "comma separated values"
+      ],
+      "arti": "Format file untuk menyimpan data dalam bentuk tabel sederhana.",
+      "contoh": [
+        "Data pelanggan diekspor ke file CSV."
+      ],
+      "intent": [
+        "data",
+        "file"
+      ]
+    }
+  ]
+}
