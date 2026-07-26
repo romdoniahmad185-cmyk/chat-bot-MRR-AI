@@ -1,0 +1,186 @@
+{
+  "huruf": "B",
+  "level": "B4",
+  "kosakata": [
+    {
+      "id": "B0031",
+      "kata": "berbagi",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "membagikan",
+        "memberikan",
+        "berbagi informasi"
+      ],
+      "arti": "Memberikan sebagian sesuatu kepada orang lain.",
+      "contoh": [
+        "Pengguna dapat berbagi informasi melalui aplikasi."
+      ],
+      "intent": [
+        "berbagi",
+        "komunikasi"
+      ]
+    },
+    {
+      "id": "B0032",
+      "kata": "berbeda",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "tidak sama",
+        "berlainan",
+        "beragam"
+      ],
+      "arti": "Memiliki perbedaan dari sesuatu yang lain.",
+      "contoh": [
+        "Setiap pengguna memiliki kebutuhan yang berbeda."
+      ],
+      "intent": [
+        "perbandingan",
+        "variasi"
+      ]
+    },
+    {
+      "id": "B0033",
+      "kata": "berdasar",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "berlandaskan",
+        "bersumber",
+        "mengacu"
+      ],
+      "arti": "Memiliki dasar atau acuan tertentu.",
+      "contoh": [
+        "Keputusan dibuat berdasar data yang tersedia."
+      ],
+      "intent": [
+        "data",
+        "referensi"
+      ]
+    },
+    {
+      "id": "B0034",
+      "kata": "berfikir",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "memikirkan",
+        "merenung",
+        "menganalisis"
+      ],
+      "arti": "Menggunakan pikiran untuk memahami atau menyelesaikan sesuatu.",
+      "contoh": [
+        "AI dirancang untuk membantu manusia berpikir lebih cepat."
+      ],
+      "intent": [
+        "pemikiran",
+        "analisis"
+      ]
+    },
+    {
+      "id": "B0035",
+      "kata": "berfungsi",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "bekerja",
+        "berjalan",
+        "aktif"
+      ],
+      "arti": "Melakukan tugas sesuai dengan kegunaannya.",
+      "contoh": [
+        "Fitur chatbot sudah berfungsi dengan baik."
+      ],
+      "intent": [
+        "status",
+        "sistem"
+      ]
+    },
+    {
+      "id": "B0036",
+      "kata": "berharga",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "bernilai",
+        "penting",
+        "bermakna"
+      ],
+      "arti": "Memiliki nilai atau manfaat yang tinggi.",
+      "contoh": [
+        "Data pelanggan merupakan aset yang berharga."
+      ],
+      "intent": [
+        "nilai",
+        "kepentingan"
+      ]
+    },
+    {
+      "id": "B0037",
+      "kata": "berhubungan",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "berkaitan",
+        "terhubung",
+        "berkoneksi"
+      ],
+      "arti": "Memiliki hubungan atau kaitan dengan sesuatu.",
+      "contoh": [
+        "Database berhubungan dengan sistem backend."
+      ],
+      "intent": [
+        "hubungan",
+        "koneksi"
+      ]
+    },
+    {
+      "id": "B0038",
+      "kata": "berikut",
+      "kategori": "kata keterangan",
+      "sinonim": [
+        "selanjutnya",
+        "setelah ini",
+        "yang akan datang"
+      ],
+      "arti": "Menunjukkan sesuatu yang berada setelah atau selanjutnya.",
+      "contoh": [
+        "Berikut langkah untuk membuat chatbot."
+      ],
+      "intent": [
+        "urutan",
+        "instruksi"
+      ]
+    },
+    {
+      "id": "B0039",
+      "kata": "berkembang",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "maju",
+        "bertumbuh",
+        "meningkat"
+      ],
+      "arti": "Mengalami pertumbuhan atau perubahan menjadi lebih baik.",
+      "contoh": [
+        "AI terus berkembang mengikuti teknologi."
+      ],
+      "intent": [
+        "perkembangan",
+        "kemajuan"
+      ]
+    },
+    {
+      "id": "B0040",
+      "kata": "berkualitas",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "bermutu",
+        "unggul",
+        "baik"
+      ],
+      "arti": "Memiliki kualitas atau standar yang tinggi.",
+      "contoh": [
+        "Website membutuhkan desain yang berkualitas."
+      ],
+      "intent": [
+        "kualitas",
+        "penilaian"
+      ]
+    }
+  ]
+}
