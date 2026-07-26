@@ -1,0 +1,185 @@
+{
+  "huruf": "B",
+  "level": "B1",
+  "kosakata": [
+    {
+      "id": "B0001",
+      "kata": "baik",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "bagus",
+        "positif",
+        "benar"
+      ],
+      "arti": "Sesuatu yang memiliki nilai positif atau sesuai dengan harapan.",
+      "contoh": [
+        "Pelayanan chatbot ini sangat baik.",
+        "Pastikan data yang diberikan baik dan benar."
+      ],
+      "intent": [
+        "penilaian",
+        "kualitas"
+      ]
+    },
+    {
+      "id": "B0002",
+      "kata": "bantu",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "tolong",
+        "membantu",
+        "menolong"
+      ],
+      "arti": "Memberikan pertolongan atau dukungan kepada seseorang.",
+      "contoh": [
+        "Saya akan membantu pengguna menyelesaikan masalah."
+      ],
+      "intent": [
+        "permintaan_bantuan"
+      ]
+    },
+    {
+      "id": "B0003",
+      "kata": "baru",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "terkini",
+        "modern",
+        "fresh"
+      ],
+      "arti": "Sesuatu yang belum lama ada atau dibuat.",
+      "contoh": [
+        "Aplikasi mendapatkan fitur baru."
+      ],
+      "intent": [
+        "informasi",
+        "pembaruan"
+      ]
+    },
+    {
+      "id": "B0004",
+      "kata": "baca",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "lihat",
+        "pelajari",
+        "pahami"
+      ],
+      "arti": "Melihat dan memahami tulisan atau informasi.",
+      "contoh": [
+        "AI membaca data dari file JSON."
+      ],
+      "intent": [
+        "pemrosesan_data"
+      ]
+    },
+    {
+      "id": "B0005",
+      "kata": "bagian",
+      "kategori": "kata benda",
+      "sinonim": [
+        "komponen",
+        "sisi",
+        "potongan"
+      ],
+      "arti": "Salah satu unsur atau elemen dari keseluruhan.",
+      "contoh": [
+        "Backend adalah bagian penting dari website."
+      ],
+      "intent": [
+        "struktur",
+        "komponen"
+      ]
+    },
+    {
+      "id": "B0006",
+      "kata": "barang",
+      "kategori": "kata benda",
+      "sinonim": [
+        "produk",
+        "benda",
+        "item"
+      ],
+      "arti": "Sesuatu yang memiliki bentuk dan dapat digunakan atau diperjualbelikan.",
+      "contoh": [
+        "Pelanggan membeli barang melalui website."
+      ],
+      "intent": [
+        "produk",
+        "pembelian"
+      ]
+    },
+    {
+      "id": "B0007",
+      "kata": "basis",
+      "kategori": "kata benda",
+      "sinonim": [
+        "dasar",
+        "landasan",
+        "pondasi"
+      ],
+      "arti": "Dasar yang menjadi tempat berdirinya sesuatu.",
+      "contoh": [
+        "Database menjadi basis penyimpanan informasi."
+      ],
+      "intent": [
+        "teknologi",
+        "data"
+      ]
+    },
+    {
+      "id": "B0008",
+      "kata": "batas",
+      "kategori": "kata benda",
+      "sinonim": [
+        "limit",
+        "pembatas",
+        "maksimal"
+      ],
+      "arti": "Suatu titik akhir atau ketentuan yang tidak boleh dilewati.",
+      "contoh": [
+        "Sistem memiliki batas jumlah permintaan."
+      ],
+      "intent": [
+        "aturan",
+        "sistem"
+      ]
+    },
+    {
+      "id": "B0009",
+      "kata": "bekerja",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "beraktivitas",
+        "bertugas",
+        "melakukan pekerjaan"
+      ],
+      "arti": "Melakukan suatu kegiatan atau tugas.",
+      "contoh": [
+        "Server bekerja selama 24 jam."
+      ],
+      "intent": [
+        "aktivitas",
+        "status"
+      ]
+    },
+    {
+      "id": "B0010",
+      "kata": "berhasil",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "sukses",
+        "tercapai",
+        "berjalan"
+      ],
+      "arti": "Mencapai tujuan atau mendapatkan hasil yang diinginkan.",
+      "contoh": [
+        "Proses login berhasil."
+      ],
+      "intent": [
+        "status",
+        "hasil"
+      ]
+    }
+  ]
+}
