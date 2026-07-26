@@ -1,0 +1,178 @@
+{
+  "huruf": "D",
+  "level": "D1",
+  "kosakata": [
+    {
+      "id": "D0001",
+      "kata": "daftar",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "registrasi",
+        "mendaftar",
+        "bergabung"
+      ],
+      "arti": "Melakukan proses pendaftaran untuk menjadi anggota atau pengguna.",
+      "contoh": [
+        "Silakan daftar terlebih dahulu sebelum menggunakan layanan."
+      ],
+      "intent": [
+        "registrasi",
+        "akun"
+      ]
+    },
+    {
+      "id": "D0002",
+      "kata": "data",
+      "kategori": "kata benda",
+      "sinonim": [
+        "informasi",
+        "rekaman",
+        "catatan"
+      ],
+      "arti": "Sekumpulan informasi yang dapat diolah oleh sistem.",
+      "contoh": [
+        "Data pelanggan disimpan di database."
+      ],
+      "intent": [
+        "database",
+        "informasi"
+      ]
+    },
+    {
+      "id": "D0003",
+      "kata": "database",
+      "kategori": "kata benda",
+      "sinonim": [
+        "basis data",
+        "penyimpanan data"
+      ],
+      "arti": "Tempat untuk menyimpan dan mengelola data secara terstruktur.",
+      "contoh": [
+        "Semua transaksi disimpan di database."
+      ],
+      "intent": [
+        "database",
+        "server"
+      ]
+    },
+    {
+      "id": "D0004",
+      "kata": "dashboard",
+      "kategori": "kata benda",
+      "sinonim": [
+        "panel admin",
+        "halaman utama"
+      ],
+      "arti": "Halaman yang menampilkan informasi dan kontrol utama sistem.",
+      "contoh": [
+        "Admin melihat laporan melalui dashboard."
+      ],
+      "intent": [
+        "admin",
+        "website"
+      ]
+    },
+    {
+      "id": "D0005",
+      "kata": "debug",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "perbaiki error",
+        "lacak bug"
+      ],
+      "arti": "Proses mencari dan memperbaiki kesalahan pada program.",
+      "contoh": [
+        "Programmer sedang melakukan debug pada aplikasi."
+      ],
+      "intent": [
+        "pemrograman",
+        "perbaikan"
+      ]
+    },
+    {
+      "id": "D0006",
+      "kata": "default",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "bawaan",
+        "standar"
+      ],
+      "arti": "Nilai atau pengaturan awal yang digunakan sistem.",
+      "contoh": [
+        "Gunakan pengaturan default jika belum yakin."
+      ],
+      "intent": [
+        "pengaturan",
+        "sistem"
+      ]
+    },
+    {
+      "id": "D0007",
+      "kata": "delete",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "hapus",
+        "hilangkan"
+      ],
+      "arti": "Menghapus data atau file dari sistem.",
+      "contoh": [
+        "Klik Delete untuk menghapus data."
+      ],
+      "intent": [
+        "hapus",
+        "data"
+      ]
+    },
+    {
+      "id": "D0008",
+      "kata": "demo",
+      "kategori": "kata benda",
+      "sinonim": [
+        "contoh",
+        "percobaan"
+      ],
+      "arti": "Versi percobaan atau contoh penggunaan suatu aplikasi.",
+      "contoh": [
+        "Silakan coba versi demo terlebih dahulu."
+      ],
+      "intent": [
+        "percobaan",
+        "aplikasi"
+      ]
+    },
+    {
+      "id": "D0009",
+      "kata": "deploy",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "rilis",
+        "publikasikan"
+      ],
+      "arti": "Menerbitkan aplikasi agar dapat digunakan oleh pengguna.",
+      "contoh": [
+        "Website berhasil di-deploy ke server."
+      ],
+      "intent": [
+        "server",
+        "website"
+      ]
+    },
+    {
+      "id": "D0010",
+      "kata": "developer",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pengembang",
+        "programmer"
+      ],
+      "arti": "Orang yang membuat dan mengembangkan perangkat lunak.",
+      "contoh": [
+        "Developer sedang menambahkan fitur baru."
+      ],
+      "intent": [
+        "pemrograman",
+        "pengembang"
+      ]
+    }
+  ]
+}
