@@ -1,0 +1,177 @@
+{
+  "huruf": "C",
+  "level": "C10",
+  "kosakata": [
+    {
+      "id": "C0091",
+      "kata": "connection timeout",
+      "kategori": "kata benda",
+      "sinonim": [
+        "koneksi habis waktu",
+        "timeout"
+      ],
+      "arti": "Kondisi ketika koneksi gagal karena melebihi batas waktu.",
+      "contoh": [
+        "Terjadi connection timeout saat menghubungi server."
+      ],
+      "intent": [
+        "server",
+        "error"
+      ]
+    },
+    {
+      "id": "C0092",
+      "kata": "content",
+      "kategori": "kata benda",
+      "sinonim": [
+        "konten",
+        "isi"
+      ],
+      "arti": "Isi atau materi yang ditampilkan pada website atau aplikasi.",
+      "contoh": [
+        "Content website diperbarui setiap hari."
+      ],
+      "intent": [
+        "website",
+        "informasi"
+      ]
+    },
+    {
+      "id": "C0093",
+      "kata": "control panel",
+      "kategori": "kata benda",
+      "sinonim": [
+        "panel kontrol",
+        "dashboard"
+      ],
+      "arti": "Halaman untuk mengatur dan mengelola sistem atau layanan.",
+      "contoh": [
+        "Admin masuk ke control panel."
+      ],
+      "intent": [
+        "admin",
+        "pengaturan"
+      ]
+    },
+    {
+      "id": "C0094",
+      "kata": "copy link",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "salin tautan",
+        "salin URL"
+      ],
+      "arti": "Menyalin alamat tautan untuk dibagikan atau digunakan kembali.",
+      "contoh": [
+        "Klik Copy Link untuk membagikan halaman."
+      ],
+      "intent": [
+        "website",
+        "berbagi"
+      ]
+    },
+    {
+      "id": "C0095",
+      "kata": "crash",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "gagal",
+        "berhenti",
+        "error"
+      ],
+      "arti": "Kondisi ketika aplikasi berhenti bekerja secara tiba-tiba.",
+      "contoh": [
+        "Aplikasi mengalami crash saat dijalankan."
+      ],
+      "intent": [
+        "error",
+        "aplikasi"
+      ]
+    },
+    {
+      "id": "C0096",
+      "kata": "create project",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "buat proyek",
+        "buat project"
+      ],
+      "arti": "Membuat proyek baru di dalam aplikasi atau sistem.",
+      "contoh": [
+        "Klik Create Project untuk memulai pekerjaan baru."
+      ],
+      "intent": [
+        "proyek",
+        "pengembangan"
+      ]
+    },
+    {
+      "id": "C0097",
+      "kata": "customer",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pelanggan",
+        "konsumen"
+      ],
+      "arti": "Orang yang membeli atau menggunakan produk maupun layanan.",
+      "contoh": [
+        "Customer dapat menghubungi chatbot kapan saja."
+      ],
+      "intent": [
+        "pelanggan",
+        "layanan"
+      ]
+    },
+    {
+      "id": "C0098",
+      "kata": "customer service",
+      "kategori": "kata benda",
+      "sinonim": [
+        "CS",
+        "layanan pelanggan"
+      ],
+      "arti": "Layanan yang membantu pelanggan dalam mendapatkan informasi atau menyelesaikan masalah.",
+      "contoh": [
+        "Customer Service siap membantu selama 24 jam."
+      ],
+      "intent": [
+        "bantuan",
+        "pelayanan"
+      ]
+    },
+    {
+      "id": "C0099",
+      "kata": "custom domain",
+      "kategori": "kata benda",
+      "sinonim": [
+        "domain pribadi",
+        "domain khusus"
+      ],
+      "arti": "Nama domain yang dimiliki dan digunakan secara khusus oleh pemilik website.",
+      "contoh": [
+        "Website sudah menggunakan custom domain."
+      ],
+      "intent": [
+        "domain",
+        "website"
+      ]
+    },
+    {
+      "id": "C0100",
+      "kata": "cursor",
+      "kategori": "kata benda",
+      "sinonim": [
+        "penunjuk",
+        "kursor"
+      ],
+      "arti": "Penunjuk pada layar yang menunjukkan posisi saat mengetik atau memilih objek.",
+      "contoh": [
+        "Letakkan cursor pada kolom pencarian."
+      ],
+      "intent": [
+        "komputer",
+        "antarmuka"
+      ]
+    }
+  ]
+}
