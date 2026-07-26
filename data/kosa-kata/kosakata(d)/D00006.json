@@ -1,0 +1,177 @@
+{
+  "huruf": "D",
+  "level": "D6",
+  "kosakata": [
+    {
+      "id": "D0051",
+      "kata": "desain antarmuka",
+      "kategori": "kata benda",
+      "sinonim": [
+        "UI design",
+        "rancangan tampilan"
+      ],
+      "arti": "Proses membuat tampilan agar pengguna mudah berinteraksi dengan aplikasi.",
+      "contoh": [
+        "Desain antarmuka chatbot dibuat sederhana agar mudah digunakan."
+      ],
+      "intent": [
+        "ui",
+        "desain"
+      ]
+    },
+    {
+      "id": "D0052",
+      "kata": "desain pengalaman pengguna",
+      "kategori": "kata benda",
+      "sinonim": [
+        "UX design",
+        "rancangan pengalaman"
+      ],
+      "arti": "Proses merancang pengalaman pengguna saat memakai sebuah produk digital.",
+      "contoh": [
+        "UX design yang baik membuat pengguna nyaman."
+      ],
+      "intent": [
+        "ux",
+        "website"
+      ]
+    },
+    {
+      "id": "D0053",
+      "kata": "desktop application",
+      "kategori": "kata benda",
+      "sinonim": [
+        "aplikasi desktop",
+        "software komputer"
+      ],
+      "arti": "Aplikasi yang berjalan pada komputer desktop.",
+      "contoh": [
+        "Developer membuat desktop application untuk admin."
+      ],
+      "intent": [
+        "aplikasi",
+        "software"
+      ]
+    },
+    {
+      "id": "D0054",
+      "kata": "deteksi pola",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pattern recognition",
+        "pengenalan pola"
+      ],
+      "arti": "Proses menemukan pola tertentu dari data.",
+      "contoh": [
+        "AI melakukan deteksi pola dari perilaku pelanggan."
+      ],
+      "intent": [
+        "ai",
+        "machine_learning"
+      ]
+    },
+    {
+      "id": "D0055",
+      "kata": "diagnosis",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pemeriksaan",
+        "analisis masalah"
+      ],
+      "arti": "Proses mencari penyebab dari suatu masalah.",
+      "contoh": [
+        "Sistem melakukan diagnosis ketika terjadi error."
+      ],
+      "intent": [
+        "error",
+        "analisis"
+      ]
+    },
+    {
+      "id": "D0056",
+      "kata": "dinamis",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "berubah",
+        "fleksibel"
+      ],
+      "arti": "Dapat berubah atau menyesuaikan dengan kondisi tertentu.",
+      "contoh": [
+        "Website dinamis dapat menampilkan data pengguna."
+      ],
+      "intent": [
+        "website",
+        "sistem"
+      ]
+    },
+    {
+      "id": "D0057",
+      "kata": "distribusi",
+      "kategori": "kata benda",
+      "sinonim": [
+        "penyaluran",
+        "pembagian"
+      ],
+      "arti": "Proses menyebarkan atau menyalurkan sesuatu.",
+      "contoh": [
+        "Distribusi data dilakukan melalui jaringan."
+      ],
+      "intent": [
+        "jaringan",
+        "data"
+      ]
+    },
+    {
+      "id": "D0058",
+      "kata": "divisi",
+      "kategori": "kata benda",
+      "sinonim": [
+        "bagian",
+        "departemen"
+      ],
+      "arti": "Kelompok atau bagian dalam sebuah organisasi.",
+      "contoh": [
+        "Divisi teknologi mengembangkan sistem baru."
+      ],
+      "intent": [
+        "organisasi",
+        "bisnis"
+      ]
+    },
+    {
+      "id": "D0059",
+      "kata": "dokumen",
+      "kategori": "kata benda",
+      "sinonim": [
+        "berkas",
+        "file",
+        "arsip"
+      ],
+      "arti": "Kumpulan informasi dalam bentuk tulisan atau digital.",
+      "contoh": [
+        "Pengguna dapat mengunggah dokumen melalui website."
+      ],
+      "intent": [
+        "file",
+        "upload"
+      ]
+    },
+    {
+      "id": "D0060",
+      "kata": "domain authority",
+      "kategori": "kata benda",
+      "sinonim": [
+        "nilai otoritas domain",
+        "peringkat domain"
+      ],
+      "arti": "Ukuran tingkat kepercayaan atau kekuatan sebuah domain website.",
+      "contoh": [
+        "Domain authority dapat memengaruhi posisi website di mesin pencari."
+      ],
+      "intent": [
+        "seo",
+        "website"
+      ]
+    }
+  ]
+}
