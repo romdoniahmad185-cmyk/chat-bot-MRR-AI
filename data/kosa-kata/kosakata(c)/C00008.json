@@ -1,0 +1,176 @@
+{
+  "huruf": "C",
+  "level": "C8",
+  "kosakata": [
+    {
+      "id": "C0071",
+      "kata": "controller",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pengendali",
+        "kontrol"
+      ],
+      "arti": "Bagian program yang mengatur alur kerja aplikasi.",
+      "contoh": [
+        "Controller menerima permintaan dari pengguna."
+      ],
+      "intent": [
+        "pemrograman",
+        "backend"
+      ]
+    },
+    {
+      "id": "C0072",
+      "kata": "convert",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "ubah",
+        "konversi"
+      ],
+      "arti": "Mengubah data atau file ke format lain.",
+      "contoh": [
+        "Program mengubah file JSON menjadi CSV."
+      ],
+      "intent": [
+        "konversi",
+        "data"
+      ]
+    },
+    {
+      "id": "C0073",
+      "kata": "copy",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "salin",
+        "duplikasi"
+      ],
+      "arti": "Membuat salinan dari suatu data atau file.",
+      "contoh": [
+        "Silakan salin kode API."
+      ],
+      "intent": [
+        "file",
+        "data"
+      ]
+    },
+    {
+      "id": "C0074",
+      "kata": "create account",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "buat akun",
+        "registrasi"
+      ],
+      "arti": "Proses membuat akun baru pada suatu layanan.",
+      "contoh": [
+        "Klik Create Account untuk mendaftar."
+      ],
+      "intent": [
+        "akun",
+        "registrasi"
+      ]
+    },
+    {
+      "id": "C0075",
+      "kata": "credential",
+      "kategori": "kata benda",
+      "sinonim": [
+        "data login",
+        "identitas login"
+      ],
+      "arti": "Informasi seperti username dan password yang digunakan untuk masuk ke sistem.",
+      "contoh": [
+        "Jangan membagikan credential Anda."
+      ],
+      "intent": [
+        "login",
+        "keamanan"
+      ]
+    },
+    {
+      "id": "C0076",
+      "kata": "cross platform",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "lintas platform",
+        "multi platform"
+      ],
+      "arti": "Dapat dijalankan di berbagai sistem operasi atau perangkat.",
+      "contoh": [
+        "Aplikasi ini bersifat cross platform."
+      ],
+      "intent": [
+        "aplikasi",
+        "teknologi"
+      ]
+    },
+    {
+      "id": "C0077",
+      "kata": "cyber",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "dunia maya",
+        "siber"
+      ],
+      "arti": "Segala sesuatu yang berhubungan dengan jaringan komputer dan internet.",
+      "contoh": [
+        "Keamanan cyber sangat penting."
+      ],
+      "intent": [
+        "keamanan",
+        "internet"
+      ]
+    },
+    {
+      "id": "C0078",
+      "kata": "cyber security",
+      "kategori": "kata benda",
+      "sinonim": [
+        "keamanan siber",
+        "keamanan digital"
+      ],
+      "arti": "Upaya melindungi sistem, jaringan, dan data dari ancaman digital.",
+      "contoh": [
+        "Perusahaan meningkatkan cyber security."
+      ],
+      "intent": [
+        "keamanan",
+        "server"
+      ]
+    },
+    {
+      "id": "C0079",
+      "kata": "client request",
+      "kategori": "kata benda",
+      "sinonim": [
+        "permintaan pengguna",
+        "request"
+      ],
+      "arti": "Permintaan yang dikirim dari aplikasi pengguna ke server.",
+      "contoh": [
+        "Server menerima client request."
+      ],
+      "intent": [
+        "api",
+        "server"
+      ]
+    },
+    {
+      "id": "C0080",
+      "kata": "client response",
+      "kategori": "kata benda",
+      "sinonim": [
+        "respons server",
+        "response"
+      ],
+      "arti": "Jawaban yang diterima pengguna dari server setelah mengirim permintaan.",
+      "contoh": [
+        "Client menerima response dalam format JSON."
+      ],
+      "intent": [
+        "api",
+        "server"
+      ]
+    }
+  ]
+}
