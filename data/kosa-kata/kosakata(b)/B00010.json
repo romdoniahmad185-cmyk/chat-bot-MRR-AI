@@ -1,0 +1,186 @@
+{
+  "huruf": "B",
+  "level": "B10",
+  "kosakata": [
+    {
+      "id": "B0091",
+      "kata": "butuhkan",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "perlukan",
+        "memerlukan",
+        "membutuhkan"
+      ],
+      "arti": "Memerlukan sesuatu untuk tujuan tertentu.",
+      "contoh": [
+        "Sistem membutuhkan data untuk proses analisis."
+      ],
+      "intent": [
+        "kebutuhan",
+        "permintaan"
+      ]
+    },
+    {
+      "id": "B0092",
+      "kata": "banyaknya",
+      "kategori": "kata benda",
+      "sinonim": [
+        "jumlahnya",
+        "kuantitas",
+        "volume"
+      ],
+      "arti": "Menunjukkan jumlah atau ukuran sesuatu.",
+      "contoh": [
+        "AI menghitung banyaknya data yang masuk."
+      ],
+      "intent": [
+        "jumlah",
+        "perhitungan"
+      ]
+    },
+    {
+      "id": "B0093",
+      "kata": "berani",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "percaya diri",
+        "tidak takut",
+        "yakin"
+      ],
+      "arti": "Memiliki keberanian untuk melakukan sesuatu.",
+      "contoh": [
+        "Pengembang berani mencoba teknologi baru."
+      ],
+      "intent": [
+        "sikap",
+        "motivasi"
+      ]
+    },
+    {
+      "id": "B0094",
+      "kata": "berat",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "sulit",
+        "besar",
+        "tinggi"
+      ],
+      "arti": "Memiliki ukuran besar atau tingkat kesulitan tinggi.",
+      "contoh": [
+        "Server mengalami beban berat saat banyak pengguna."
+      ],
+      "intent": [
+        "performa",
+        "tingkat"
+      ]
+    },
+    {
+      "id": "B0095",
+      "kata": "berisi",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "memuat",
+        "mengandung",
+        "terdapat"
+      ],
+      "arti": "Memiliki sesuatu di dalamnya.",
+      "contoh": [
+        "File JSON berisi data kosa kata chatbot."
+      ],
+      "intent": [
+        "data",
+        "isi"
+      ]
+    },
+    {
+      "id": "B0096",
+      "kata": "berikutnya",
+      "kategori": "kata keterangan",
+      "sinonim": [
+        "selanjutnya",
+        "setelah ini",
+        "kemudian"
+      ],
+      "arti": "Menunjukkan sesuatu yang akan datang setelahnya.",
+      "contoh": [
+        "Kita akan membuat fitur berikutnya."
+      ],
+      "intent": [
+        "urutan",
+        "rencana"
+      ]
+    },
+    {
+      "id": "B0097",
+      "kata": "bersama-sama",
+      "kategori": "kata keterangan",
+      "sinonim": [
+        "bersama",
+        "bareng",
+        "secara kolektif"
+      ],
+      "arti": "Dilakukan oleh beberapa pihak secara bersamaan.",
+      "contoh": [
+        "Tim bekerja bersama-sama membuat aplikasi."
+      ],
+      "intent": [
+        "kerja_sama",
+        "aktivitas"
+      ]
+    },
+    {
+      "id": "B0098",
+      "kata": "berikutnya",
+      "kategori": "kata keterangan",
+      "sinonim": [
+        "selanjutnya",
+        "lanjutan",
+        "tahap berikut"
+      ],
+      "arti": "Bagian atau langkah yang akan dilakukan setelah tahap sekarang.",
+      "contoh": [
+        "Tahap berikutnya adalah menghubungkan API."
+      ],
+      "intent": [
+        "proses",
+        "tahapan"
+      ]
+    },
+    {
+      "id": "B0099",
+      "kata": "berubah",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "berganti",
+        "bertransformasi",
+        "beralih"
+      ],
+      "arti": "Mengalami perbedaan dari kondisi sebelumnya.",
+      "contoh": [
+        "Data dapat berubah setelah diperbarui."
+      ],
+      "intent": [
+        "perubahan",
+        "update"
+      ]
+    },
+    {
+      "id": "B0100",
+      "kata": "bobot",
+      "kategori": "kata benda",
+      "sinonim": [
+        "nilai",
+        "tingkat",
+        "ukuran kepentingan"
+      ],
+      "arti": "Nilai atau tingkat pengaruh suatu hal dalam perhitungan.",
+      "contoh": [
+        "Model machine learning memberikan bobot pada data."
+      ],
+      "intent": [
+        "machine_learning",
+        "analisis"
+      ]
+    }
+  ]
+}
