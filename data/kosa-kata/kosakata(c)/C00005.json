@@ -1,0 +1,186 @@
+{
+  "huruf": "C",
+  "level": "C5",
+  "kosakata": [
+    {
+      "id": "C0041",
+      "kata": "chat",
+      "kategori": "kata benda",
+      "sinonim": [
+        "percakapan",
+        "obrolan",
+        "komunikasi"
+      ],
+      "arti": "Percakapan yang dilakukan melalui media digital.",
+      "contoh": [
+        "Silakan mulai chat dengan chatbot."
+      ],
+      "intent": [
+        "percakapan",
+        "komunikasi"
+      ]
+    },
+    {
+      "id": "C0042",
+      "kata": "chatbot",
+      "kategori": "kata benda",
+      "sinonim": [
+        "bot",
+        "asisten virtual",
+        "AI chatbot"
+      ],
+      "arti": "Program yang dapat melakukan percakapan secara otomatis dengan pengguna.",
+      "contoh": [
+        "Chatbot membantu pelanggan selama 24 jam."
+      ],
+      "intent": [
+        "ai",
+        "chatbot"
+      ]
+    },
+    {
+      "id": "C0043",
+      "kata": "client",
+      "kategori": "kata benda",
+      "sinonim": [
+        "klien",
+        "pelanggan",
+        "pengguna"
+      ],
+      "arti": "Pihak yang menggunakan layanan atau jasa.",
+      "contoh": [
+        "Client meminta pembuatan website perusahaan."
+      ],
+      "intent": [
+        "pelanggan",
+        "layanan"
+      ]
+    },
+    {
+      "id": "C0044",
+      "kata": "cloud",
+      "kategori": "kata benda",
+      "sinonim": [
+        "komputasi awan",
+        "penyimpanan online",
+        "server online"
+      ],
+      "arti": "Layanan penyimpanan atau komputasi yang berjalan melalui internet.",
+      "contoh": [
+        "Data disimpan di cloud agar lebih aman."
+      ],
+      "intent": [
+        "server",
+        "penyimpanan"
+      ]
+    },
+    {
+      "id": "C0045",
+      "kata": "coding",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pemrograman",
+        "programming",
+        "penulisan kode"
+      ],
+      "arti": "Proses menulis kode program untuk membuat perangkat lunak.",
+      "contoh": [
+        "Saya sedang belajar coding Python."
+      ],
+      "intent": [
+        "pemrograman",
+        "belajar"
+      ]
+    },
+    {
+      "id": "C0046",
+      "kata": "compile",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "kompilasi",
+        "susun",
+        "bangun"
+      ],
+      "arti": "Proses mengubah kode program menjadi bentuk yang dapat dijalankan.",
+      "contoh": [
+        "Program berhasil di-compile tanpa error."
+      ],
+      "intent": [
+        "pemrograman",
+        "proses"
+      ]
+    },
+    {
+      "id": "C0047",
+      "kata": "cookie",
+      "kategori": "kata benda",
+      "sinonim": [
+        "data sesi",
+        "session",
+        "data browser"
+      ],
+      "arti": "Data kecil yang disimpan browser untuk mengingat informasi pengguna.",
+      "contoh": [
+        "Website menggunakan cookie untuk menyimpan sesi login."
+      ],
+      "intent": [
+        "website",
+        "login"
+      ]
+    },
+    {
+      "id": "C0048",
+      "kata": "CPU",
+      "kategori": "kata benda",
+      "sinonim": [
+        "prosesor",
+        "processor",
+        "unit pemroses"
+      ],
+      "arti": "Komponen utama komputer yang menjalankan instruksi program.",
+      "contoh": [
+        "CPU memproses semua perintah dari sistem."
+      ],
+      "intent": [
+        "hardware",
+        "komputer"
+      ]
+    },
+    {
+      "id": "C0049",
+      "kata": "create",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "buat",
+        "ciptakan",
+        "hasilkan"
+      ],
+      "arti": "Membuat sesuatu yang baru.",
+      "contoh": [
+        "Klik tombol Create untuk membuat akun baru."
+      ],
+      "intent": [
+        "pembuatan",
+        "akun"
+      ]
+    },
+    {
+      "id": "C0050",
+      "kata": "config",
+      "kategori": "kata benda",
+      "sinonim": [
+        "konfigurasi",
+        "pengaturan",
+        "setting"
+      ],
+      "arti": "Pengaturan yang digunakan agar sistem berjalan sesuai kebutuhan.",
+      "contoh": [
+        "Periksa file config sebelum menjalankan server."
+      ],
+      "intent": [
+        "pengaturan",
+        "server"
+      ]
+    }
+  ]
+}
