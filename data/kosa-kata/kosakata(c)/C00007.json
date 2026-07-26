@@ -1,0 +1,175 @@
+{
+  "huruf": "C",
+  "level": "C7",
+  "kosakata": [
+    {
+      "id": "C0061",
+      "kata": "client_id",
+      "kategori": "kata benda",
+      "sinonim": [
+        "id klien",
+        "identitas aplikasi"
+      ],
+      "arti": "Kode identitas yang digunakan aplikasi saat terhubung ke API.",
+      "contoh": [
+        "Masukkan client_id sebelum mengakses API."
+      ],
+      "intent": [
+        "api",
+        "autentikasi"
+      ]
+    },
+    {
+      "id": "C0062",
+      "kata": "client_secret",
+      "kategori": "kata benda",
+      "sinonim": [
+        "kunci rahasia",
+        "secret key"
+      ],
+      "arti": "Kunci rahasia yang digunakan bersama client_id untuk autentikasi aplikasi.",
+      "contoh": [
+        "Jangan membagikan client_secret kepada siapa pun."
+      ],
+      "intent": [
+        "api",
+        "keamanan"
+      ]
+    },
+    {
+      "id": "C0063",
+      "kata": "certificate",
+      "kategori": "kata benda",
+      "sinonim": [
+        "sertifikat",
+        "sertifikat digital"
+      ],
+      "arti": "Dokumen digital yang digunakan untuk memverifikasi identitas dan keamanan koneksi.",
+      "contoh": [
+        "Website menggunakan certificate SSL."
+      ],
+      "intent": [
+        "ssl",
+        "keamanan"
+      ]
+    },
+    {
+      "id": "C0064",
+      "kata": "certificate authority",
+      "kategori": "kata benda",
+      "sinonim": [
+        "CA",
+        "otoritas sertifikat"
+      ],
+      "arti": "Lembaga yang menerbitkan sertifikat digital.",
+      "contoh": [
+        "Certificate Authority memverifikasi sertifikat website."
+      ],
+      "intent": [
+        "ssl",
+        "keamanan"
+      ]
+    },
+    {
+      "id": "C0065",
+      "kata": "checksum",
+      "kategori": "kata benda",
+      "sinonim": [
+        "kode verifikasi",
+        "hash pemeriksaan"
+      ],
+      "arti": "Nilai yang digunakan untuk memastikan data tidak berubah.",
+      "contoh": [
+        "Checksum digunakan untuk memverifikasi file."
+      ],
+      "intent": [
+        "validasi",
+        "keamanan"
+      ]
+    },
+    {
+      "id": "C0066",
+      "kata": "client server",
+      "kategori": "kata benda",
+      "sinonim": [
+        "arsitektur client-server"
+      ],
+      "arti": "Model komunikasi antara aplikasi pengguna dan server.",
+      "contoh": [
+        "Website menggunakan arsitektur client server."
+      ],
+      "intent": [
+        "server",
+        "jaringan"
+      ]
+    },
+    {
+      "id": "C0067",
+      "kata": "compress",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "kompres",
+        "perkecil ukuran"
+      ],
+      "arti": "Mengurangi ukuran file tanpa menghilangkan fungsi utamanya.",
+      "contoh": [
+        "Gambar dikompres agar website lebih cepat."
+      ],
+      "intent": [
+        "file",
+        "optimasi"
+      ]
+    },
+    {
+      "id": "C0068",
+      "kata": "connection",
+      "kategori": "kata benda",
+      "sinonim": [
+        "koneksi",
+        "hubungan"
+      ],
+      "arti": "Hubungan antara dua perangkat atau sistem.",
+      "contoh": [
+        "Connection ke database berhasil."
+      ],
+      "intent": [
+        "database",
+        "server"
+      ]
+    },
+    {
+      "id": "C0069",
+      "kata": "console",
+      "kategori": "kata benda",
+      "sinonim": [
+        "terminal",
+        "command line"
+      ],
+      "arti": "Antarmuka berbasis teks untuk menjalankan perintah pada komputer.",
+      "contoh": [
+        "Jalankan program melalui console."
+      ],
+      "intent": [
+        "pemrograman",
+        "terminal"
+      ]
+    },
+    {
+      "id": "C0070",
+      "kata": "cookie session",
+      "kategori": "kata benda",
+      "sinonim": [
+        "session cookie",
+        "cookie login"
+      ],
+      "arti": "Cookie yang menyimpan informasi sesi pengguna selama menggunakan website.",
+      "contoh": [
+        "Cookie session digunakan agar pengguna tetap login."
+      ],
+      "intent": [
+        "login",
+        "website"
+      ]
+    }
+  ]
+}
