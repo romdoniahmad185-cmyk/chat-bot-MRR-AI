@@ -1,0 +1,185 @@
+{
+  "huruf": "C",
+  "level": "C4",
+  "kosakata": [
+    {
+      "id": "C0031",
+      "kata": "cerita",
+      "kategori": "kata benda",
+      "sinonim": [
+        "kisah",
+        "narasi",
+        "dongeng"
+      ],
+      "arti": "Rangkaian peristiwa yang disampaikan secara lisan atau tulisan.",
+      "contoh": [
+        "AI dapat membuat cerita berdasarkan tema yang diberikan."
+      ],
+      "intent": [
+        "cerita",
+        "konten"
+      ]
+    },
+    {
+      "id": "C0032",
+      "kata": "cermin",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pantulan",
+        "refleksi"
+      ],
+      "arti": "Benda yang memantulkan bayangan atau sesuatu yang menjadi gambaran.",
+      "contoh": [
+        "Laporan tersebut menjadi cermin perkembangan bisnis."
+      ],
+      "intent": [
+        "analisis",
+        "evaluasi"
+      ]
+    },
+    {
+      "id": "C0033",
+      "kata": "cerah",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "terang",
+        "bersinar",
+        "jelas"
+      ],
+      "arti": "Memiliki cahaya yang terang atau kondisi yang baik.",
+      "contoh": [
+        "Tampilan website terlihat cerah dan mudah dibaca."
+      ],
+      "intent": [
+        "desain",
+        "tampilan"
+      ]
+    },
+    {
+      "id": "C0034",
+      "kata": "cermati",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "perhatikan",
+        "teliti",
+        "amati"
+      ],
+      "arti": "Memperhatikan sesuatu dengan teliti.",
+      "contoh": [
+        "Cermati data sebelum dikirim ke server."
+      ],
+      "intent": [
+        "validasi",
+        "analisis"
+      ]
+    },
+    {
+      "id": "C0035",
+      "kata": "ciptaan",
+      "kategori": "kata benda",
+      "sinonim": [
+        "hasil karya",
+        "kreasi",
+        "inovasi"
+      ],
+      "arti": "Sesuatu yang berhasil dibuat atau diciptakan.",
+      "contoh": [
+        "Chatbot adalah ciptaan berbasis kecerdasan buatan."
+      ],
+      "intent": [
+        "pengembangan",
+        "teknologi"
+      ]
+    },
+    {
+      "id": "C0036",
+      "kata": "ciri",
+      "kategori": "kata benda",
+      "sinonim": [
+        "karakteristik",
+        "tanda",
+        "identitas"
+      ],
+      "arti": "Karakter atau tanda yang membedakan sesuatu.",
+      "contoh": [
+        "Setiap produk memiliki ciri yang berbeda."
+      ],
+      "intent": [
+        "identifikasi",
+        "produk"
+      ]
+    },
+    {
+      "id": "C0037",
+      "kata": "cocokkan",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "bandingkan",
+        "sesuaikan",
+        "verifikasi"
+      ],
+      "arti": "Membandingkan agar sesuai atau sama.",
+      "contoh": [
+        "Sistem mencocokkan data pengguna dengan database."
+      ],
+      "intent": [
+        "verifikasi",
+        "database"
+      ]
+    },
+    {
+      "id": "C0038",
+      "kata": "cukupi",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "penuhi",
+        "lengkapi",
+        "cukupkan"
+      ],
+      "arti": "Memenuhi kebutuhan hingga memadai.",
+      "contoh": [
+        "Pastikan saldo mencukupi sebelum melakukan pembayaran."
+      ],
+      "intent": [
+        "transaksi",
+        "saldo"
+      ]
+    },
+    {
+      "id": "C0039",
+      "kata": "curah",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "ungkapkan",
+        "tuangkan",
+        "sampaikan"
+      ],
+      "arti": "Menyampaikan atau mengungkapkan sesuatu.",
+      "contoh": [
+        "Silakan curahkan pertanyaan Anda kepada chatbot."
+      ],
+      "intent": [
+        "percakapan",
+        "komunikasi"
+      ]
+    },
+    {
+      "id": "C0040",
+      "kata": "custom",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "kustom",
+        "khusus",
+        "disesuaikan"
+      ],
+      "arti": "Dibuat atau diatur sesuai kebutuhan tertentu.",
+      "contoh": [
+        "Website memiliki desain custom sesuai permintaan pelanggan."
+      ],
+      "intent": [
+        "layanan",
+        "website"
+      ]
+    }
+  ]
+}
