@@ -1,0 +1,177 @@
+{
+  "huruf": "D",
+  "level": "D2",
+  "kosakata": [
+    {
+      "id": "D0011",
+      "kata": "device",
+      "kategori": "kata benda",
+      "sinonim": [
+        "perangkat",
+        "alat",
+        "gawai"
+      ],
+      "arti": "Perangkat elektronik yang digunakan untuk menjalankan aplikasi atau sistem.",
+      "contoh": [
+        "Website dapat dibuka di berbagai device."
+      ],
+      "intent": [
+        "hardware",
+        "perangkat"
+      ]
+    },
+    {
+      "id": "D0012",
+      "kata": "digital",
+      "kategori": "kata sifat",
+      "sinonim": [
+        "elektronik",
+        "berbasis komputer"
+      ],
+      "arti": "Berhubungan dengan teknologi komputer atau data elektronik.",
+      "contoh": [
+        "Pembayaran dilakukan secara digital."
+      ],
+      "intent": [
+        "teknologi",
+        "pembayaran"
+      ]
+    },
+    {
+      "id": "D0013",
+      "kata": "direktori",
+      "kategori": "kata benda",
+      "sinonim": [
+        "folder",
+        "direktori file"
+      ],
+      "arti": "Tempat untuk menyimpan dan mengelompokkan file.",
+      "contoh": [
+        "Simpan file pada direktori chatbot/data."
+      ],
+      "intent": [
+        "file",
+        "penyimpanan"
+      ]
+    },
+    {
+      "id": "D0014",
+      "kata": "diskon",
+      "kategori": "kata benda",
+      "sinonim": [
+        "potongan harga",
+        "promo"
+      ],
+      "arti": "Pengurangan harga dari harga normal suatu produk atau layanan.",
+      "contoh": [
+        "Hari ini tersedia diskon untuk top up game."
+      ],
+      "intent": [
+        "promo",
+        "produk"
+      ]
+    },
+    {
+      "id": "D0015",
+      "kata": "domain",
+      "kategori": "kata benda",
+      "sinonim": [
+        "alamat website",
+        "nama domain"
+      ],
+      "arti": "Nama unik yang digunakan untuk mengakses sebuah website.",
+      "contoh": [
+        "Website menggunakan domain sendiri."
+      ],
+      "intent": [
+        "website",
+        "hosting"
+      ]
+    },
+    {
+      "id": "D0016",
+      "kata": "download",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "unduh",
+        "ambil file"
+      ],
+      "arti": "Mengambil file dari internet ke perangkat pengguna.",
+      "contoh": [
+        "Silakan download laporan transaksi."
+      ],
+      "intent": [
+        "file",
+        "unduh"
+      ]
+    },
+    {
+      "id": "D0017",
+      "kata": "driver",
+      "kategori": "kata benda",
+      "sinonim": [
+        "pengendali perangkat",
+        "device driver"
+      ],
+      "arti": "Perangkat lunak yang memungkinkan sistem operasi berkomunikasi dengan perangkat keras.",
+      "contoh": [
+        "Driver printer harus diinstal terlebih dahulu."
+      ],
+      "intent": [
+        "hardware",
+        "instalasi"
+      ]
+    },
+    {
+      "id": "D0018",
+      "kata": "dropdown",
+      "kategori": "kata benda",
+      "sinonim": [
+        "menu tarik turun",
+        "menu pilihan"
+      ],
+      "arti": "Komponen antarmuka yang menampilkan daftar pilihan.",
+      "contoh": [
+        "Pilih game melalui menu dropdown."
+      ],
+      "intent": [
+        "website",
+        "form"
+      ]
+    },
+    {
+      "id": "D0019",
+      "kata": "duplicate",
+      "kategori": "kata kerja",
+      "sinonim": [
+        "duplikasi",
+        "salin"
+      ],
+      "arti": "Membuat salinan data atau file.",
+      "contoh": [
+        "Jangan membuat data yang duplicate."
+      ],
+      "intent": [
+        "database",
+        "data"
+      ]
+    },
+    {
+      "id": "D0020",
+      "kata": "durasi",
+      "kategori": "kata benda",
+      "sinonim": [
+        "lama waktu",
+        "jangka waktu"
+      ],
+      "arti": "Rentang waktu yang dibutuhkan atau berlangsungnya suatu proses.",
+      "contoh": [
+        "Durasi proses top up sekitar 1 menit."
+      ],
+      "intent": [
+        "waktu",
+        "proses"
+      ]
+    }
+  ]
+}
