@@ -32,17 +32,13 @@ def home():
         "versi": "1.0.0"
     }
 
-# ===============================
-# Endpoint Chat
-# ===============================
-
 @app.post("/chat")
 def chat(data: ChatRequest):
 
     pertanyaan = data.pesan
 
-    # sementara jawaban sederhana
-    jawaban = f"Anda bertanya : {pertanyaan}"
+    # Kirim pertanyaan ke Chatbot
+    jawaban = bot.jawab(pertanyaan)
 
     return {
         "status": True,
