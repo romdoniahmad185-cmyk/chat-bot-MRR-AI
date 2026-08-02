@@ -39,12 +39,13 @@ class Chatbot:
             return
 
 
-        for file in os.listdir(folder):
+        for root, folders, files in os.walk(folder):
 
-            if file.endswith(".json"):
+    for file in files:
 
-                lokasi = os.path.join(folder,file)
+        if file.endswith(".json"):
 
+            lokasi = os.path.join(root, file)
 
                 with open(lokasi,"r",encoding="utf-8") as f:
 
