@@ -1,4 +1,4 @@
-
+from fastapi.middleware.cors import CORSMiddleware
 from chatbot import Chatbot
 from fastapi import FastAPI
 from pydantic import BaseModel
