@@ -1,3 +1,5 @@
+
+from chatbot import Chatbot
 from fastapi import FastAPI
 from pydantic import BaseModel
 
@@ -6,7 +8,11 @@ app = FastAPI(
     description="API AI Chatbot WEBKITA",
     version="1.0.0"
 )
+# ===============================
+# Inisialisasi Chatbot
+# ===============================
 
+bot = Chatbot()
 # ===============================
 # Model Data dari HTML
 # ===============================
