@@ -27,7 +27,7 @@ class Chatbot:
 
 
     # =====================================
-    # Membaca data JSON
+    # Membaca semua data JSON
     # =====================================
 
     def load_kosakata(self):
@@ -36,22 +36,70 @@ class Chatbot:
 
 
         if not os.path.exists(folder):
+
+            print("Folder kosakata tidak ditemukan")
+
             return
+
 
 
         for root, folders, files in os.walk(folder):
 
-    for file in files:
+            for file in files:
 
-        if file.endswith(".json"):
 
-            lokasi = os.path.join(root, file)
+                if file.endswith(".json"):
 
-                with open(lokasi,"r",encoding="utf-8") as f:
 
-                    data_json = json.load(f)
+                    lokasi = os.path.join(root, file)
 
-                    self.data.extend(data_json)
+
+                    try:
+
+                        with open(
+                            lokasi,
+                            "r",
+                            encoding="utf-8"
+                        ) as f:
+
+
+                            data_json = json.load(f)
+
+
+                            if isinstance(data_json, list):
+
+                                self.data.extend(data_json)
+
+
+                            else:
+
+                                print(
+                                    "Format JSON salah:",
+                                    lokasi
+                                )
+
+
+                            print(
+                                "Berhasil membaca:",
+                                lokasi
+                            )
+
+
+                    except Exception as error:
+
+                        print(
+                            "Gagal membaca:",
+                            lokasi
+                        )
+
+                        print(error)
+
+
+
+        print(
+            "Total kosakata:",
+            len(self.data)
+        )
 
 
 
@@ -61,10 +109,13 @@ class Chatbot:
 
     def jawab(self, pertanyaan):
 
+
         pertanyaan = pertanyaan.strip().lower()
 
 
+
         if pertanyaan == "":
+
             return "Silakan masukkan pertanyaan."
 
 
@@ -72,10 +123,18 @@ class Chatbot:
         for item in self.data:
 
 
+            if "tanya" not in item or "jawab" not in item:
+
+                continue
+
+
+
             kata = item["tanya"].lower()
 
 
+
             if kata in pertanyaan:
+
 
                 return item["jawab"]
 
