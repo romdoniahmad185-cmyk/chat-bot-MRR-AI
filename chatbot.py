@@ -1,143 +1,31 @@
-#"""
-#=========================================
-#WEBKITA AI
-#Chatbot Engine
-#=========================================
-#"""
+def jawab(self, pertanyaan):
 
-import json
-import os
+    pertanyaan = pertanyaan.lower().strip()
 
-from config import NOT_FOUND_MESSAGE
+    if not pertanyaan:
+        return "Silakan masukkan pertanyaan."
 
+    skor_tertinggi = 0
+    jawaban = None
 
-# =========================================
-# Mesin Chatbot
-# =========================================
+    for item in self.data:
 
-class Chatbot:
+        if "tanya" not in item or "jawab" not in item:
+            continue
 
+        kata = item["tanya"].lower()
 
-    def __init__(self):
+        skor = 0
 
-        self.data = []
+        for k in kata.split():
+            if k in pertanyaan:
+                skor += 1
 
-        self.load_kosakata()
+        if skor > skor_tertinggi:
+            skor_tertinggi = skor
+            jawaban = item["jawab"]
 
+    if jawaban:
+        return jawaban
 
-
-    # =====================================
-    # Membaca semua data JSON
-    # =====================================
-
-    def load_kosakata(self):
-
-        folder = "data/kosakata"
-
-
-        if not os.path.exists(folder):
-
-            print("Folder kosakata tidak ditemukan")
-
-            return
-
-
-
-        for root, folders, files in os.walk(folder):
-
-            for file in files:
-
-
-                if file.endswith(".json"):
-
-
-                    lokasi = os.path.join(root, file)
-
-
-                    try:
-
-                        with open(
-                            lokasi,
-                            "r",
-                            encoding="utf-8"
-                        ) as f:
-
-
-                            data_json = json.load(f)
-
-
-                            if isinstance(data_json, list):
-
-                                self.data.extend(data_json)
-
-
-                            else:
-
-                                print(
-                                    "Format JSON salah:",
-                                    lokasi
-                                )
-
-
-                            print(
-                                "Berhasil membaca:",
-                                lokasi
-                            )
-
-
-                    except Exception as error:
-
-                        print(
-                            "Gagal membaca:",
-                            lokasi
-                        )
-
-                        print(error)
-
-
-
-        print(
-            "Total kosakata:",
-            len(self.data)
-        )
-
-
-
-    # =====================================
-    # Menjawab pertanyaan
-    # =====================================
-
-    def jawab(self, pertanyaan):
-
-
-        pertanyaan = pertanyaan.strip().lower()
-
-
-
-        if pertanyaan == "":
-
-            return "Silakan masukkan pertanyaan."
-
-
-
-        for item in self.data:
-
-
-            if "tanya" not in item or "jawab" not in item:
-
-                continue
-
-
-
-            kata = item["tanya"].lower()
-
-
-
-            if kata in pertanyaan:
-
-
-                return item["jawab"]
-
-
-
-        return NOT_FOUND_MESSAGE
+    return NOT_FOUND_MESSAGE
