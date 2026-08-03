@@ -1,4 +1,19 @@
-[
+{
+  "percakapan": [
+    "percakapan/P00001.json",
+    "percakapan/P00002.json",
+    "percakapan/P00003.json",
+    "percakapan/P00004.json",
+    "percakapan/P00005.json",
+    "percakapan/P00006.json",
+    "percakapan/P00007.json",
+    "percakapan/P00008.json",
+    "percakapan/P00009.json",
+    "percakapan/P00010.json"
+  ],
+ 
+
+  "kosakata": [
     "data/kosakata/kosakata(a)/A00001.json",
     "data/kosakata/kosakata(a)/A00002.json",
     "data/kosakata/kosakata(a)/A00003.json",
@@ -87,3 +102,4 @@
     "data/kosakata/kosakata(h)/H00009.json",
     "data/kosakata/kosakata(h)/H00010.json"
 ]
+}
