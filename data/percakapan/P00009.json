@@ -1,1 +1,104 @@
-
+{
+  "kategori": "percakapan",
+  "kode": "P00009",
+  "data": [
+    {
+      "pertanyaan": [
+        "saya ingin belajar ai",
+        "belajar kecerdasan buatan",
+        "belajar artificial intelligence"
+      ],
+      "jawaban": [
+        "Tentu. Saya siap membantu Anda mempelajari dasar-dasar Artificial Intelligence secara bertahap."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "saya ingin belajar pemrograman",
+        "belajar coding",
+        "belajar program"
+      ],
+      "jawaban": [
+        "Dengan senang hati. Anda dapat belajar HTML, CSS, JavaScript, PHP, Python, dan bahasa pemrograman lainnya bersama saya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bisakah anda menjadi guru saya",
+        "anda menjadi mentor saya",
+        "bimbing saya belajar"
+      ],
+      "jawaban": [
+        "Tentu. Saya akan membantu Anda belajar langkah demi langkah sesuai kemampuan dan kebutuhan Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "saya belum mengerti",
+        "saya masih bingung",
+        "saya tidak paham"
+      ],
+      "jawaban": [
+        "Tidak apa-apa. Silakan beri tahu bagian yang belum dipahami, saya akan mencoba menjelaskannya dengan lebih sederhana."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "jelaskan dengan mudah",
+        "gunakan bahasa sederhana",
+        "lebih sederhana"
+      ],
+      "jawaban": [
+        "Baik. Saya akan menjelaskan dengan bahasa yang lebih sederhana dan mudah dipahami."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "berikan contoh",
+        "contohnya bagaimana",
+        "contoh penggunaannya"
+      ],
+      "jawaban": [
+        "Baik. Saya akan memberikan contoh agar penjelasan lebih mudah dipahami."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah saya bisa belajar dari nol",
+        "saya pemula",
+        "saya baru belajar"
+      ],
+      "jawaban": [
+        "Tentu bisa. Saya akan membantu Anda belajar mulai dari dasar hingga tingkat yang lebih lanjut."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "berapa lama belajar",
+        "butuh waktu berapa lama"
+      ],
+      "jawaban": [
+        "Lama belajar bergantung pada konsistensi dan waktu yang Anda luangkan. Belajar sedikit demi sedikit setiap hari akan memberikan hasil yang baik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "terima kasih sudah mengajari saya",
+        "terima kasih sudah membimbing saya"
+      ],
+      "jawaban": [
+        "Sama-sama. Saya senang dapat membantu proses belajar Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "ayo mulai belajar",
+        "mari kita belajar",
+        "mulai belajar"
+      ],
+      "jawaban": [
+        "Baik. Mari kita mulai belajar. Silakan pilih materi yang ingin dipelajari terlebih dahulu."
+      ]
+    }
+  ]
+}
