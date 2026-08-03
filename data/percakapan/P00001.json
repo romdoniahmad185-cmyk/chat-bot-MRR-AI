@@ -1,1 +1,97 @@
-
+{
+  "kategori": "percakapan",
+  "kode": "P00001",
+  "data": [
+    {
+      "pertanyaan": [
+        "hai",
+        "halo",
+        "hello",
+        "hei"
+      ],
+      "jawaban": [
+        "Halo 👋 Ada yang bisa saya bantu?"
+      ]
+    },
+    {
+      "pertanyaan": [
+        "selamat pagi"
+      ],
+      "jawaban": [
+        "Selamat pagi 😊 Semoga harimu menyenangkan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "selamat siang"
+      ],
+      "jawaban": [
+        "Selamat siang 😊 Ada yang bisa saya bantu?"
+      ]
+    },
+    {
+      "pertanyaan": [
+        "selamat sore"
+      ],
+      "jawaban": [
+        "Selamat sore 😊 Semoga harimu menyenangkan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "selamat malam"
+      ],
+      "jawaban": [
+        "Selamat malam 🌙 Ada yang bisa saya bantu?"
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa kabar",
+        "bagaimana kabarmu"
+      ],
+      "jawaban": [
+        "Alhamdulillah baik. Terima kasih sudah bertanya 😊"
+      ]
+    },
+    {
+      "pertanyaan": [
+        "siapa kamu",
+        "kamu siapa"
+      ],
+      "jawaban": [
+        "Saya adalah WEBKITA AI, asisten virtual yang siap membantu Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bolehkah saya bertanya",
+        "saya ingin bertanya",
+        "apakah boleh bertanya"
+      ],
+      "jawaban": [
+        "Tentu saja. Silakan ajukan pertanyaan Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "terima kasih",
+        "makasih",
+        "thanks"
+      ],
+      "jawaban": [
+        "Sama-sama 😊 Senang bisa membantu."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "selamat tinggal",
+        "dadah",
+        "bye"
+      ],
+      "jawaban": [
+        "Sampai jumpa lagi 👋 Semoga harimu menyenangkan."
+      ]
+    }
+  ]
+}
