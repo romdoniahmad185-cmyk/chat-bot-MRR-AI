@@ -1,1 +1,104 @@
-
+{
+  "kategori": "percakapan",
+  "kode": "P00008",
+  "data": [
+    {
+      "pertanyaan": [
+        "saya ingin membuat website",
+        "ingin buat website",
+        "mau buat website"
+      ],
+      "jawaban": [
+        "Tentu. WEBKITA siap membantu pembuatan website sesuai kebutuhan Anda. Silakan jelaskan jenis website yang ingin dibuat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "saya ingin konsultasi",
+        "ingin konsultasi",
+        "bisa konsultasi"
+      ],
+      "jawaban": [
+        "Tentu. Silakan jelaskan kebutuhan atau pertanyaan Anda, saya akan membantu memberikan informasi yang tersedia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara memesan",
+        "cara order",
+        "cara memesan website"
+      ],
+      "jawaban": [
+        "Silakan hubungi tim WEBKITA melalui kontak resmi, kemudian jelaskan kebutuhan Anda agar kami dapat memberikan penawaran yang sesuai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah bisa kerja sama",
+        "ingin bekerja sama",
+        "kerja sama dengan webkita"
+      ],
+      "jawaban": [
+        "Tentu. WEBKITA terbuka untuk berbagai bentuk kerja sama yang saling menguntungkan. Silakan hubungi tim kami untuk berdiskusi lebih lanjut."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah bisa membuat aplikasi",
+        "buat aplikasi",
+        "ingin membuat aplikasi"
+      ],
+      "jawaban": [
+        "Silakan jelaskan kebutuhan aplikasi Anda. Tim WEBKITA akan membantu memberikan solusi yang sesuai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah bisa membuat chatbot",
+        "buat chatbot ai",
+        "ingin chatbot"
+      ],
+      "jawaban": [
+        "Ya. WEBKITA menyediakan layanan pembuatan AI Chatbot yang dapat disesuaikan dengan kebutuhan bisnis maupun organisasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah bisa membuat toko online",
+        "buat toko online",
+        "website ecommerce"
+      ],
+      "jawaban": [
+        "Ya. WEBKITA dapat membantu membuat website toko online lengkap dengan fitur yang dibutuhkan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah bisa membuat website perusahaan",
+        "website company profile"
+      ],
+      "jawaban": [
+        "Tentu. WEBKITA melayani pembuatan website company profile yang profesional dan responsif."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "kapan bisa mulai",
+        "bisa mulai sekarang",
+        "mulai proyek"
+      ],
+      "jawaban": [
+        "Proyek dapat dimulai setelah kebutuhan disepakati dan proses administrasi selesai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "terima kasih atas informasinya",
+        "informasinya sangat membantu"
+      ],
+      "jawaban": [
+        "Sama-sama. Terima kasih telah mempercayai WEBKITA. Semoga informasi yang saya berikan bermanfaat."
+      ]
+    }
+  ]
+}
