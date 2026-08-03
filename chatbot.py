@@ -258,70 +258,78 @@ class Chatbot:
 
         return hasil
 
-
-    # =====================================
+        # =====================================
     # Menghitung skor kecocokan
     # =====================================
 
-   def hitung_skor(self, kata_dicari, item):
+    def hitung_skor(self, kata_dicari, item):
 
-           skor = 0
-
-
-    # =========================
-    # Database kosakata
-    # =========================
-
-         if "kata" in item:
-
-        kata = item["kata"].lower()
-
-        if kata == kata_dicari:
-
-            skor += 100
-
-        elif kata_dicari in kata:
-
-            skor += 50
+        skor = 0
 
 
+        # =========================
+        # Database kosakata
+        # =========================
 
-    if "sinonim" in item:
+        if "kata" in item:
 
-        for sinonim in item["sinonim"]:
+            kata = item["kata"].lower()
 
-            sinonim = sinonim.lower()
 
-            if sinonim == kata_dicari:
+            if kata == kata_dicari:
 
-                skor += 80
+                skor += 100
 
-            elif kata_dicari in sinonim:
 
-                skor += 40
+            elif kata_dicari in kata:
+
+                skor += 50
 
 
 
-    # =========================
-    # Database percakapan
-    # =========================
+        # Cek sinonim
 
-    if "pertanyaan" in item:
+        if "sinonim" in item:
 
-        for pertanyaan in item["pertanyaan"]:
+            for sinonim in item["sinonim"]:
 
-            pertanyaan = pertanyaan.lower()
-
-            if pertanyaan == kata_dicari:
-
-                skor += 120
-
-            elif kata_dicari in pertanyaan:
-
-                skor += 60
+                sinonim = sinonim.lower()
 
 
-    return skor
+                if sinonim == kata_dicari:
+
+                    skor += 80
+
+
+                elif kata_dicari in sinonim:
+
+                    skor += 40
+
+
+
+        # =========================
+        # Database percakapan
+        # =========================
+
+        if "pertanyaan" in item:
+
+            for pertanyaan in item["pertanyaan"]:
+
+                pertanyaan = pertanyaan.lower()
+
+
+                if pertanyaan == kata_dicari:
+
+                    skor += 120
+
+
+                elif kata_dicari in pertanyaan:
+
+                    skor += 60
+
+
+
+        return skor
 
     # =====================================
     # Mencari kata terbaik
