@@ -170,10 +170,10 @@ class Chatbot:
                         elif isinstance(
                             data_json,
                             dict
-                        ) and "kosakata" in data_json:
+                        ) and "kosa-kata" in data_json:
 
 
-                            for item in data_json["kosakata"]:
+                            for item in data_json["kosa-kata"]:
 
                                 if isinstance(item, dict):
 
