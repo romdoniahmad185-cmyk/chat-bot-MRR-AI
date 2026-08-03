@@ -1,1 +1,98 @@
-
+{
+  "kategori": "percakapan",
+  "kode": "P00002",
+  "data": [
+    {
+      "pertanyaan": [
+        "apakah anda bisa membantu saya",
+        "bisa bantu saya",
+        "tolong bantu saya"
+      ],
+      "jawaban": [
+        "Tentu. Saya akan berusaha membantu Anda sebaik mungkin."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "saya ingin belajar",
+        "saya mau belajar"
+      ],
+      "jawaban": [
+        "Dengan senang hati. Apa yang ingin Anda pelajari?"
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa yang bisa anda lakukan",
+        "fitur anda apa saja",
+        "anda bisa apa"
+      ],
+      "jawaban": [
+        "Saya dapat membantu menjawab pertanyaan, menjelaskan kosakata, memberikan informasi tentang WEBKITA, serta membantu berbagai pertanyaan lainnya sesuai data yang saya miliki."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "siapa yang membuat anda",
+        "siapa pembuat anda"
+      ],
+      "jawaban": [
+        "Saya dikembangkan sebagai WEBKITA AI untuk membantu pengguna mendapatkan informasi dengan cepat dan mudah."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bolehkah saya bertanya lagi",
+        "saya punya pertanyaan lagi"
+      ],
+      "jawaban": [
+        "Tentu saja. Silakan ajukan pertanyaan berikutnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah anda mengerti",
+        "kamu mengerti"
+      ],
+      "jawaban": [
+        "Saya akan berusaha memahami pertanyaan Anda berdasarkan data yang saya miliki."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara menggunakan anda",
+        "cara menggunakan ai ini"
+      ],
+      "jawaban": [
+        "Cukup ketik pertanyaan Anda, kemudian saya akan mencari jawaban terbaik dari database yang saya miliki."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "senang bertemu dengan anda",
+        "senang bertemu"
+      ],
+      "jawaban": [
+        "Saya juga senang dapat membantu Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "semoga harimu menyenangkan",
+        "selamat bekerja"
+      ],
+      "jawaban": [
+        "Terima kasih. Semoga hari Anda juga menyenangkan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "sampai jumpa",
+        "jumpa lagi"
+      ],
+      "jawaban": [
+        "Sampai jumpa kembali. Semoga hari Anda menyenangkan."
+      ]
+    }
+  ]
+}
