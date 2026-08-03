@@ -273,6 +273,33 @@ class Chatbot:
             if len(item["jawaban"]) > 0:
 
                 return item["jawaban"][0]
+# =====================================
+# Merangkai Kalimat
+# =====================================
+
+def rangkai_kalimat(self, item):
+
+    if "kata" in item:
+
+        jawaban = (
+            f"Kata '{item['kata']}' berarti "
+            f"{item['arti']}"
+        )
+
+        if "contoh" in item and len(item["contoh"]) > 0:
+
+            jawaban += (
+                "\n\nContohnya:\n- "
+                + "\n- ".join(item["contoh"])
+            )
+
+        return jawaban
+
+    if "jawaban" in item:
+
+        return item["jawaban"][0]
+
+    return NOT_FOUND_MESSAGE
 
 
         # =========================
