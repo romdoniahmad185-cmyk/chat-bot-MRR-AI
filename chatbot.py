@@ -22,114 +22,124 @@ class Chatbot:
         self.load_database()
 
 
+   
     # =====================================
-    # Membaca seluruh file JSON
-    # ===================================
-    # =====================================
-    # Membaca database melalui index.json
-    # =====================================
+# Membaca database melalui index.json
+# =====================================
 
-    def load_database(self):
+def load_database(self):
 
-        index_file = "index.json"
+    index_file = "index.json"
 
+    if not os.path.exists(index_file):
 
-        if not os.path.exists(index_file):
+        print("Index database tidak ditemukan :", index_file)
 
-            print("Index database tidak ditemukan :", index_file)
+        return
 
-            return
-
-
-        print("================================")
-        print("Memuat database WEBKITA AI...")
-        print("================================")
-
-
-        try:
-
-            with open(
-                index_file,
-                "r",
-                encoding="utf-8"
-            ) as f:
-
-                index_data = json.load(f)
-
-
-        except Exception as error:
-
-            print("Gagal membaca index.json")
-            print(error)
-
-            return
-
-
-
-      # Gabungkan semua file database
-database_list = []
-
-database_list.extend(
-    index_data.get("percakapan", [])
-)
-
-database_list.extend(
-    index_data.get("kosa-kata", [])
-)
-
-for lokasi in database_list:
-
-    if not os.path.exists(lokasi):
-
-        print("File tidak ditemukan :", lokasi)
-        continue
+    print("================================")
+    print("Memuat database WEBKITA AI...")
+    print("================================")
 
     try:
 
         with open(
-            lokasi,
+            index_file,
             "r",
             encoding="utf-8"
         ) as f:
 
-            data_json = json.load(f)
-
-        # Database percakapan
-        if (
-            isinstance(data_json, dict)
-            and "data" in data_json
-        ):
-
-            for item in data_json["data"]:
-
-                if isinstance(item, dict):
-                    self.data.append(item)
-
-        # Database kosakata
-        elif (
-            isinstance(data_json, dict)
-            and "kosakata" in data_json
-        ):
-
-            for item in data_json["kosakata"]:
-
-                if isinstance(item, dict):
-                    self.data.append(item)
-
-        self.total_file += 1
-
-        print("Berhasil :", lokasi)
+            index_data = json.load(f)
 
     except Exception as error:
 
-        print("Gagal :", lokasi)
+        print("Gagal membaca index.json")
         print(error)
 
+        return
 
-        print("================================")
-        print("Total File     :", self.total_file)
-        print("Total Data AI  :", len(self.data))
-        print("================================")
+    # =====================================
+    # Gabungkan seluruh daftar file database
+    # =====================================
+
+    database_list = []
+
+    database_list.extend(
+        index_data.get("percakapan", [])
+    )
+
+    database_list.extend(
+        index_data.get("kosa-kata", [])
+    )
+
+    # =====================================
+    # Membaca setiap file JSON
+    # =====================================
+
+    for lokasi in database_list:
+
+        if not os.path.exists(lokasi):
+
+            print("File tidak ditemukan :", lokasi)
+
+            continue
+
+        try:
+
+            with open(
+                lokasi,
+                "r",
+                encoding="utf-8"
+            ) as f:
+
+                data_json = json.load(f)
+
+            # Database percakapan
+            if (
+                isinstance(data_json, dict)
+                and "data" in data_json
+            ):
+
+                for item in data_json["data"]:
+
+                    if isinstance(item, dict):
+
+                        self.data.append(item)
+
+            # Database kosakata
+            elif (
+                isinstance(data_json, dict)
+                and "kosakata" in data_json
+            ):
+
+                for item in data_json["kosakata"]:
+
+                    if isinstance(item, dict):
+
+                        self.data.append(item)
+
+            # Format list langsung
+            elif isinstance(data_json, list):
+
+                for item in data_json:
+
+                    if isinstance(item, dict):
+
+                        self.data.append(item)
+
+            self.total_file += 1
+
+            print("Berhasil :", lokasi)
+
+        except Exception as error:
+
+            print("Gagal :", lokasi)
+            print(error)
+
+    print("================================")
+    print("Total File     :", self.total_file)
+    print("Total Data AI  :", len(self.data))
+    print("================================")
     # =====================================
     # Membersihkan pertanyaan
     # =====================================
