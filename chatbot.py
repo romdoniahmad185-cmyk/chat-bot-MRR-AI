@@ -19,7 +19,7 @@ class Chatbot:
 
         self.total_file = 0
 
-        self.load_kosakata()
+        self.load_database()
 
 
     # =====================================
@@ -460,7 +460,7 @@ class Chatbot:
 
         self.total_file = 0
 
-        self.load_kosakata()
+        self.load_database()
 
         return True
 
