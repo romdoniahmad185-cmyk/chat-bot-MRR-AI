@@ -317,3 +317,89 @@ class Chatbot:
 
 
         return NOT_FOUND_MESSAGE
+    # =====================================
+    # Menampilkan informasi database
+    # =====================================
+
+    def info(self):
+
+        return {
+            "total_kosakata": len(self.data),
+            "total_file": self.total_file
+        }
+
+
+    # =====================================
+    # Reload Database
+    # =====================================
+
+    def reload(self):
+
+        self.data = []
+
+        self.total_file = 0
+
+        self.load_kosakata()
+
+        return True
+
+
+    # =====================================
+    # Menambahkan Data Baru
+    # =====================================
+
+    def tambah_data(self, data_baru):
+
+        if isinstance(data_baru, dict):
+
+            self.data.append(data_baru)
+
+            return True
+
+        return False
+
+
+    # =====================================
+    # Mengecek apakah kata tersedia
+    # =====================================
+
+    def ada_kata(self, kata):
+
+        kata = kata.lower()
+
+        for item in self.data:
+
+            if not isinstance(item, dict):
+                continue
+
+            if "kata" not in item:
+                continue
+
+            if item["kata"].lower() == kata:
+
+                return True
+
+        return False
+
+
+    # =====================================
+    # Mengambil data kata
+    # =====================================
+
+    def ambil_kata(self, kata):
+
+        kata = kata.lower()
+
+        for item in self.data:
+
+            if not isinstance(item, dict):
+                continue
+
+            if "kata" not in item:
+                continue
+
+            if item["kata"].lower() == kata:
+
+                return item
+
+        return None
