@@ -265,14 +265,14 @@ class Chatbot:
 
    def hitung_skor(self, kata_dicari, item):
 
-    skor = 0
+           skor = 0
 
 
     # =========================
     # Database kosakata
     # =========================
 
-    if "kata" in item:
+         if "kata" in item:
 
         kata = item["kata"].lower()
 
