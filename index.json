@@ -1,15 +1,15 @@
 {
   "percakapan": [
-    "percakapan/P00001.json",
-    "percakapan/P00002.json",
-    "percakapan/P00003.json",
-    "percakapan/P00004.json",
-    "percakapan/P00005.json",
-    "percakapan/P00006.json",
-    "percakapan/P00007.json",
-    "percakapan/P00008.json",
-    "percakapan/P00009.json",
-    "percakapan/P00010.json"
+    "data/percakapan/P00001.json",
+    "data/percakapan/P00002.json",
+    "data/percakapan/P00003.json",
+    "data/percakapan/P00004.json",
+    "data/percakapan/P00005.json",
+    "data/percakapan/P00006.json",
+    "data/percakapan/P00007.json",
+    "data/percakapan/P00008.json",
+    "data/percakapan/P00009.json",
+    "data/percakapan/P00010.json"
   ],
  
 
