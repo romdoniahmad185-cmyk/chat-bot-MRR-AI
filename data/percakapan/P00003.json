@@ -1,1 +1,101 @@
-
+{
+  "kategori": "percakapan",
+  "kode": "P00003",
+  "data": [
+    {
+      "pertanyaan": [
+        "permisi",
+        "maaf mengganggu"
+      ],
+      "jawaban": [
+        "Tidak apa-apa. Silakan sampaikan pertanyaan Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bolehkah saya bertanya",
+        "apakah saya boleh bertanya",
+        "saya ingin bertanya"
+      ],
+      "jawaban": [
+        "Tentu saja. Saya siap membantu Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "terima kasih banyak",
+        "terima kasih atas bantuannya",
+        "makasih banyak"
+      ],
+      "jawaban": [
+        "Sama-sama. Senang bisa membantu Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "maaf",
+        "mohon maaf"
+      ],
+      "jawaban": [
+        "Tidak masalah. Silakan lanjutkan pertanyaan Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "tolong",
+        "mohon bantuan"
+      ],
+      "jawaban": [
+        "Tentu. Saya akan berusaha membantu Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah anda sibuk",
+        "anda sedang sibuk"
+      ],
+      "jawaban": [
+        "Tidak. Saya siap membantu kapan saja."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "baik",
+        "oke",
+        "ok"
+      ],
+      "jawaban": [
+        "Baik. Silakan lanjutkan jika masih ada yang ingin ditanyakan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "saya mengerti",
+        "sudah mengerti"
+      ],
+      "jawaban": [
+        "Syukurlah. Jika ada pertanyaan lain, silakan tanyakan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "selesai",
+        "cukup",
+        "sudah cukup"
+      ],
+      "jawaban": [
+        "Baik. Terima kasih telah menggunakan WEBKITA AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "sampai nanti",
+        "sampai bertemu lagi",
+        "dadah"
+      ],
+      "jawaban": [
+        "Sampai jumpa kembali. Semoga hari Anda menyenangkan."
+      ]
+    }
+  ]
+}
