@@ -277,9 +277,9 @@ class Chatbot:
 # Merangkai Kalimat
 # =====================================
 
-def rangkai_kalimat(self, item):
+    def rangkai_kalimat(self, item):
 
-    if "kata" in item:
+        if "kata" in item:
 
         jawaban = (
             f"Kata '{item['kata']}' berarti "
