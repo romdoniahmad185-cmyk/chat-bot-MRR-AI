@@ -1,1 +1,105 @@
-
+{
+  "kategori": "percakapan",
+  "kode": "P00005",
+  "data": [
+    {
+      "pertanyaan": [
+        "berapa harga website",
+        "harga website",
+        "biaya membuat website"
+      ],
+      "jawaban": [
+        "Harga website disesuaikan dengan kebutuhan dan fitur yang diinginkan. Silakan konsultasikan kebutuhan Anda agar kami dapat memberikan penawaran terbaik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "berapa lama pembuatan website",
+        "berapa hari membuat website",
+        "lama pengerjaan website"
+      ],
+      "jawaban": [
+        "Waktu pengerjaan website bergantung pada tingkat kesulitan dan fitur yang diminta. Tim WEBKITA akan memberikan estimasi setelah kebutuhan Anda diketahui."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah bisa revisi",
+        "bisa revisi website",
+        "apakah ada revisi"
+      ],
+      "jawaban": [
+        "Ya. WEBKITA menyediakan revisi sesuai dengan ketentuan yang telah disepakati pada saat pemesanan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara pembayaran",
+        "cara bayar",
+        "metode pembayaran"
+      ],
+      "jawaban": [
+        "Pembayaran dilakukan sesuai metode yang disediakan oleh WEBKITA. Informasi lengkap akan diberikan saat proses pemesanan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah harus membayar dp",
+        "apakah ada uang muka",
+        "harus dp"
+      ],
+      "jawaban": [
+        "Untuk memulai pengerjaan proyek, biasanya diperlukan pembayaran uang muka (DP) sesuai kesepakatan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah website bisa diakses di hp",
+        "website di android",
+        "website di iphone"
+      ],
+      "jawaban": [
+        "Ya. Website yang dibuat WEBKITA dirancang responsif sehingga dapat diakses melalui komputer, tablet, maupun smartphone."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah website seo friendly",
+        "website mendukung seo"
+      ],
+      "jawaban": [
+        "Ya. WEBKITA berusaha membuat website yang ramah SEO agar lebih mudah ditemukan di mesin pencari."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah bisa custom",
+        "website sesuai keinginan",
+        "desain custom"
+      ],
+      "jawaban": [
+        "Tentu. Website dapat disesuaikan dengan kebutuhan, desain, dan fitur yang Anda inginkan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara menghubungi webkita",
+        "kontak webkita",
+        "hubungi admin"
+      ],
+      "jawaban": [
+        "Silakan hubungi kontak resmi WEBKITA yang tersedia di website atau media sosial untuk mendapatkan bantuan lebih lanjut."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "siap memulai",
+        "saya ingin memesan",
+        "saya ingin order website"
+      ],
+      "jawaban": [
+        "Terima kasih atas kepercayaannya. Silakan sampaikan kebutuhan website Anda, dan tim WEBKITA akan membantu proses konsultasi hingga website selesai dibuat."
+      ]
+    }
+  ]
+}
