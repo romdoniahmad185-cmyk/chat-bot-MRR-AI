@@ -66,157 +66,64 @@ class Chatbot:
 
 
 
-        database_list = index_data.get(
-            "database",
-            []
-        )
+      # Gabungkan semua file database
+database_list = []
 
+database_list.extend(
+    index_data.get("percakapan", [])
+)
 
-        for database in database_list:
+database_list.extend(
+    index_data.get("kosa-kata", [])
+)
 
+for lokasi in database_list:
 
-            # cek database aktif
+    if not os.path.exists(lokasi):
 
-            if not database.get(
-                "aktif",
-                False
-            ):
+        print("File tidak ditemukan :", lokasi)
+        continue
 
-                continue
+    try:
 
+        with open(
+            lokasi,
+            "r",
+            encoding="utf-8"
+        ) as f:
 
+            data_json = json.load(f)
 
-            folder = database.get(
-                "folder"
-            )
+        # Database percakapan
+        if (
+            isinstance(data_json, dict)
+            and "data" in data_json
+        ):
 
+            for item in data_json["data"]:
 
-            if not folder:
+                if isinstance(item, dict):
+                    self.data.append(item)
 
-                continue
+        # Database kosakata
+        elif (
+            isinstance(data_json, dict)
+            and "kosakata" in data_json
+        ):
 
+            for item in data_json["kosakata"]:
 
+                if isinstance(item, dict):
+                    self.data.append(item)
 
-            if not os.path.exists(folder):
+        self.total_file += 1
 
-                print(
-                    "Folder tidak ditemukan :",
-                    folder
-                )
+        print("Berhasil :", lokasi)
 
-                continue
+    except Exception as error:
 
-
-
-            print(
-                "Memuat :",
-                folder
-            )
-
-
-
-            for root, dirs, files in os.walk(folder):
-
-                files.sort()
-
-
-                for file in files:
-
-
-                    if not file.endswith(".json"):
-
-                        continue
-
-
-
-                    lokasi = os.path.join(
-                        root,
-                        file
-                    )
-
-
-
-                    try:
-
-                        with open(
-                            lokasi,
-                            "r",
-                            encoding="utf-8"
-                        ) as f:
-
-
-                            data_json = json.load(f)
-
-
-
-                        # Format database baru
-
-                        if isinstance(
-                            data_json,
-                            dict
-                        ) and "data" in data_json:
-
-
-                            for item in data_json["data"]:
-
-                                if isinstance(item, dict):
-
-                                    self.data.append(item)
-
-
-
-                        # Format kosakata lama
-
-                        elif isinstance(
-                            data_json,
-                            dict
-                        ) and "kosa-kata" in data_json:
-
-
-                            for item in data_json["kosa-kata"]:
-
-                                if isinstance(item, dict):
-
-                                    self.data.append(item)
-
-
-
-                        # Format list langsung
-
-                        elif isinstance(
-                            data_json,
-                            list
-                        ):
-
-
-                            for item in data_json:
-
-                                if isinstance(item, dict):
-
-                                    self.data.append(item)
-
-
-
-                        self.total_file += 1
-
-
-                        print(
-                            "Berhasil :",
-                            lokasi
-                        )
-
-
-
-                    except Exception as error:
-
-
-                        print(
-                            "Gagal :",
-                            lokasi
-                        )
-
-                        print(error)
-
+        print("Gagal :", lokasi)
+        print(error)
 
 
         print("================================")
