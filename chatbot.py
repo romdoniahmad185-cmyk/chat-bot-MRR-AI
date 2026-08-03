@@ -331,37 +331,35 @@ class Chatbot:
 
         return skor
 
-    # =====================================
+       # =====================================
     # Mencari kata terbaik
     # =====================================
 
     def cari_kata(self, pertanyaan):
 
-        kata_dicari = self.bersihkan_pertanyaan(
-            pertanyaan
-        )
+        pertanyaan = pertanyaan.lower().strip()
 
         hasil = None
 
         skor_tertinggi = 0
 
-        for kata in kata_dicari:
 
-            for item in self.data:
+        for item in self.data:
 
-                skor = self.hitung_skor(
-                    kata,
-                    item
-                )
+            skor = self.hitung_skor(
+                pertanyaan,
+                item
+            )
 
-                if skor > skor_tertinggi:
 
-                    skor_tertinggi = skor
+            if skor > skor_tertinggi:
 
-                    hasil = item
+                skor_tertinggi = skor
+
+                hasil = item
+
 
         return hasil
-
     # =====================================
     # Format jawaban
     # =====================================
