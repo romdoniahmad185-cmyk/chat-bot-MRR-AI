@@ -1,1 +1,102 @@
-
+{
+  "kategori": "percakapan",
+  "kode": "P00007",
+  "data": [
+    {
+      "pertanyaan": [
+        "website saya error",
+        "website saya bermasalah",
+        "website tidak bisa dibuka"
+      ],
+      "jawaban": [
+        "Saya turut prihatin. Silakan jelaskan pesan error atau masalah yang terjadi agar saya dapat membantu memberikan solusi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "login gagal",
+        "tidak bisa login",
+        "gagal masuk akun"
+      ],
+      "jawaban": [
+        "Pastikan email dan kata sandi yang digunakan sudah benar. Jika masih mengalami kendala, silakan hubungi administrator."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "lupa password",
+        "saya lupa kata sandi"
+      ],
+      "jawaban": [
+        "Silakan gunakan fitur 'Lupa Password' pada halaman login untuk mengatur ulang kata sandi Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "website lambat",
+        "website loading lama",
+        "website lemot"
+      ],
+      "jawaban": [
+        "Kecepatan website dapat dipengaruhi oleh koneksi internet, server, atau ukuran konten. Silakan jelaskan kondisi yang Anda alami agar dapat dianalisis lebih lanjut."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara menghubungi admin",
+        "hubungi admin",
+        "kontak admin"
+      ],
+      "jawaban": [
+        "Silakan hubungi admin melalui kontak resmi WEBKITA yang tersedia pada website atau media sosial."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara menggunakan website",
+        "cara memakai website"
+      ],
+      "jawaban": [
+        "Silakan pilih menu yang tersedia sesuai kebutuhan Anda. Jika mengalami kesulitan, saya siap membantu memberikan panduan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah website ini aman",
+        "website ini aman"
+      ],
+      "jawaban": [
+        "WEBKITA berupaya menjaga keamanan sistem dan data pengguna dengan menerapkan praktik keamanan yang baik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara mendaftar",
+        "cara registrasi",
+        "buat akun"
+      ],
+      "jawaban": [
+        "Silakan pilih menu Daftar atau Registrasi, kemudian lengkapi data yang diminta untuk membuat akun baru."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara mengubah profil",
+        "edit profil",
+        "ubah data akun"
+      ],
+      "jawaban": [
+        "Masuk ke menu Profil atau Pengaturan Akun, kemudian ubah data yang diinginkan dan simpan perubahan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "terima kasih atas bantuannya",
+        "bantuan anda sangat membantu"
+      ],
+      "jawaban": [
+        "Terima kasih kembali. Senang bisa membantu Anda. Semoga informasi yang saya berikan bermanfaat."
+      ]
+    }
+  ]
+}
