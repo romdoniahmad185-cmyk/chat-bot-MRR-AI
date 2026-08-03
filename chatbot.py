@@ -263,39 +263,65 @@ class Chatbot:
     # Menghitung skor kecocokan
     # =====================================
 
-    def hitung_skor(self, kata_dicari, item):
+   def hitung_skor(self, kata_dicari, item):
 
-        skor = 0
-
-        # Cek kata utama
-        if "kata" in item:
-
-            if item["kata"].lower() == kata_dicari:
-
-                skor += 100
-
-            elif kata_dicari in item["kata"].lower():
-
-                skor += 50
+    skor = 0
 
 
-        # Cek sinonim
-        if "sinonim" in item:
+    # =========================
+    # Database kosakata
+    # =========================
 
-            for sinonim in item["sinonim"]:
+    if "kata" in item:
 
-                sinonim = sinonim.lower()
+        kata = item["kata"].lower()
 
-                if sinonim == kata_dicari:
+        if kata == kata_dicari:
 
-                    skor += 80
+            skor += 100
 
-                elif kata_dicari in sinonim:
+        elif kata_dicari in kata:
 
-                    skor += 40
+            skor += 50
 
-        return skor
 
+
+    if "sinonim" in item:
+
+        for sinonim in item["sinonim"]:
+
+            sinonim = sinonim.lower()
+
+            if sinonim == kata_dicari:
+
+                skor += 80
+
+            elif kata_dicari in sinonim:
+
+                skor += 40
+
+
+
+    # =========================
+    # Database percakapan
+    # =========================
+
+    if "pertanyaan" in item:
+
+        for pertanyaan in item["pertanyaan"]:
+
+            pertanyaan = pertanyaan.lower()
+
+            if pertanyaan == kata_dicari:
+
+                skor += 120
+
+            elif kata_dicari in pertanyaan:
+
+                skor += 60
+
+
+    return skor
 
     # =====================================
     # Mencari kata terbaik
