@@ -293,17 +293,7 @@ class Chatbot:
                 "Selamat malam 😊"
 
         }
-# ==============================
-# Cari Percakapan
-# ==============================
 
-#hasil_percakapan = self.cari_percakapan(
-#    pertanyaan
-#)
-
-#if hasil_percakapan:
-
-    #return hasil_percakapan
 
 
 # ==============================
@@ -328,28 +318,6 @@ if hasil:
 return NOT_FOUND_MESSAGE
 
 
-      #  if pertanyaan in sapaan:
-
-          #  return sapaan[pertanyaan]
-
-
-        # ==============================
-        # Cari database
-        # ==============================
-
-       # hasil = self.cari_kata(
-            pertanyaan
-       # )
-
-
-       # if hasil:
-
-          #  return self.format_jawaban(
-               # hasil
-          #  )
-
-
-       # return NOT_FOUND_MESSAGE
     # =====================================
     # Menampilkan informasi database
     # =====================================
