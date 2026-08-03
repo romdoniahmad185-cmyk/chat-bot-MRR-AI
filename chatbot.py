@@ -295,6 +295,16 @@ class Chatbot:
         }
 
 
+# ==============================
+# Cari Percakapan
+# ==============================
+
+hasil_percakapan = self.cari_percakapan(
+   pertanyaan
+)
+if hasil_percakapan:
+
+    return hasil_percakapan
 
 # ==============================
 # Cari Kosakata
