@@ -207,6 +207,7 @@ class Chatbot:
                     hasil = item
 
         return hasil
+
     # =====================================
     # Format jawaban
     # =====================================
@@ -295,39 +296,28 @@ class Chatbot:
         }
 
 
-# ==============================
-# Cari Percakapan
-# ==============================
+        if pertanyaan in sapaan:
 
-hasil_percakapan = self.cari_percakapan(
-   pertanyaan
-)
-if hasil_percakapan:
-
-    return hasil_percakapan
-
-# ==============================
-# Cari Kosakata
-# ==============================
-
-hasil = self.cari_kata(
-    pertanyaan
-)
-
-if hasil:
-
-    return self.format_jawaban(
-        hasil
-    )
+            return sapaan[pertanyaan]
 
 
-# ==============================
-# Tidak ditemukan
-# ==============================
+        # ==============================
+        # Cari database
+        # ==============================
 
-return NOT_FOUND_MESSAGE
+        hasil = self.cari_kata(
+            pertanyaan
+        )
 
 
+        if hasil:
+
+            return self.format_jawaban(
+                hasil
+            )
+
+
+        return NOT_FOUND_MESSAGE
     # =====================================
     # Menampilkan informasi database
     # =====================================
