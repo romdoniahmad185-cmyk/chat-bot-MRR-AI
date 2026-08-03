@@ -24,15 +24,19 @@ class Chatbot:
 
     # =====================================
     # Membaca seluruh file JSON
+    # ===================================
+    # =====================================
+    # Membaca database melalui index.json
     # =====================================
 
-    def load_kosakata(self):
+    def load_database(self):
 
-        folder = "data/kosa-kata"
+        index_file = "data/index.json"
 
-        if not os.path.exists(folder):
 
-            print("Folder tidak ditemukan :", folder)
+        if not os.path.exists(index_file):
+
+            print("Index database tidak ditemukan :", index_file)
 
             return
 
@@ -42,34 +46,132 @@ class Chatbot:
         print("================================")
 
 
-        for root, dirs, files in os.walk(folder):
+        try:
 
-            files.sort()
+            with open(
+                index_file,
+                "r",
+                encoding="utf-8"
+            ) as f:
 
-            for file in files:
+                index_data = json.load(f)
 
-                if not file.endswith(".json"):
 
-                    continue
+        except Exception as error:
 
-                lokasi = os.path.join(root, file)
+            print("Gagal membaca index.json")
+            print(error)
 
-                try:
+            return
 
-                    with open(
-                        lokasi,
-                        "r",
-                        encoding="utf-8"
-                    ) as f:
 
-                        data_json = json.load(f)
+
+        database_list = index_data.get(
+            "database",
+            []
+        )
+
+
+        for database in database_list:
+
+
+            # cek database aktif
+
+            if not database.get(
+                "aktif",
+                False
+            ):
+
+                continue
+
+
+
+            folder = database.get(
+                "folder"
+            )
+
+
+            if not folder:
+
+                continue
+
+
+
+            if not os.path.exists(folder):
+
+                print(
+                    "Folder tidak ditemukan :",
+                    folder
+                )
+
+                continue
+
+
+
+            print(
+                "Memuat :",
+                folder
+            )
+
+
+
+            for root, dirs, files in os.walk(folder):
+
+                files.sort()
+
+
+                for file in files:
+
+
+                    if not file.endswith(".json"):
+
+                        continue
+
+
+
+                    lokasi = os.path.join(
+                        root,
+                        file
+                    )
+
+
+
+                    try:
+
+                        with open(
+                            lokasi,
+                            "r",
+                            encoding="utf-8"
+                        ) as f:
+
+
+                            data_json = json.load(f)
+
 
 
                         # Format database baru
-                        if (
-                            isinstance(data_json, dict)
-                            and "kosakata" in data_json
-                        ):
+
+                        if isinstance(
+                            data_json,
+                            dict
+                        ) and "data" in data_json:
+
+
+                            for item in data_json["data"]:
+
+                                if isinstance(item, dict):
+
+                                    self.data.append(item)
+
+
+
+                        # Format kosakata lama
+
+                        elif isinstance(
+                            data_json,
+                            dict
+                        ) and "kosakata" in data_json:
+
 
                             for item in data_json["kosakata"]:
 
@@ -78,8 +180,14 @@ class Chatbot:
                                     self.data.append(item)
 
 
-                        # Format lama
-                        elif isinstance(data_json, list):
+
+                        # Format list langsung
+
+                        elif isinstance(
+                            data_json,
+                            list
+                        ):
+
 
                             for item in data_json:
 
@@ -88,20 +196,32 @@ class Chatbot:
                                     self.data.append(item)
 
 
+
                         self.total_file += 1
 
-                        print("Berhasil :", lokasi)
 
-                except Exception as error:
+                        print(
+                            "Berhasil :",
+                            lokasi
+                        )
 
-                    print("Gagal :", lokasi)
 
-                    print(error)
+
+                    except Exception as error:
+
+
+                        print(
+                            "Gagal :",
+                            lokasi
+                        )
+
+                        print(error)
+
 
 
         print("================================")
-        print("Total File      :", self.total_file)
-        print("Total Kosakata  :", len(self.data))
+        print("Total File     :", self.total_file)
+        print("Total Data AI  :", len(self.data))
         print("================================")
     # =====================================
     # Membersihkan pertanyaan
