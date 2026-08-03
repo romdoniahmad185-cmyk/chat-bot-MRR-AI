@@ -1,1 +1,94 @@
-
+{
+  "kategori": "percakapan",
+  "kode": "P00004",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu webkita",
+        "webkita itu apa",
+        "jelaskan webkita"
+      ],
+      "jawaban": [
+        "WEBKITA adalah layanan pembuatan website dan solusi AI yang membantu individu, UMKM, serta perusahaan dalam mengembangkan bisnis secara digital."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu webkita ai",
+        "jelaskan webkita ai"
+      ],
+      "jawaban": [
+        "WEBKITA AI adalah asisten virtual yang dikembangkan untuk membantu menjawab pertanyaan, memberikan informasi, dan mendukung layanan digital WEBKITA."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "layanan webkita apa saja",
+        "apa saja layanan webkita",
+        "fitur webkita"
+      ],
+      "jawaban": [
+        "WEBKITA menyediakan layanan pembuatan website, AI Chatbot, AI Digital Marketing, AI Social Media, AI Management System, hosting, dan maintenance website."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah webkita membuat website",
+        "bisa buat website"
+      ],
+      "jawaban": [
+        "Ya. WEBKITA melayani pembuatan berbagai jenis website sesuai kebutuhan pelanggan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "website apa saja yang bisa dibuat",
+        "jenis website"
+      ],
+      "jawaban": [
+        "WEBKITA dapat membuat website perusahaan, UMKM, toko online, sekolah, portofolio, berita, komunitas, undangan digital, dan berbagai website lainnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah webkita menyediakan hosting"
+      ],
+      "jawaban": [
+        "Ya. WEBKITA menyediakan layanan hosting untuk mendukung website pelanggan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah webkita menyediakan maintenance"
+      ],
+      "jawaban": [
+        "Ya. WEBKITA menyediakan layanan maintenance agar website tetap aman, stabil, dan selalu diperbarui."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara memesan website",
+        "cara order website"
+      ],
+      "jawaban": [
+        "Silakan hubungi tim WEBKITA melalui kontak resmi, kemudian konsultasikan kebutuhan website Anda untuk mendapatkan penawaran terbaik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah bisa konsultasi"
+      ],
+      "jawaban": [
+        "Tentu. Anda dapat berkonsultasi terlebih dahulu mengenai kebutuhan website atau layanan AI yang diinginkan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "terima kasih webkita"
+      ],
+      "jawaban": [
+        "Sama-sama. Terima kasih telah mempercayai layanan WEBKITA."
+      ]
+    }
+  ]
+}
