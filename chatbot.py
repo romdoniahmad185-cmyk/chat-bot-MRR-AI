@@ -207,3 +207,113 @@ class Chatbot:
                     hasil = item
 
         return hasil
+    # =====================================
+    # Format jawaban
+    # =====================================
+
+    def format_jawaban(self, item):
+
+        jawaban = ""
+
+        # Kata
+        if "kata" in item:
+
+            jawaban += f"Kata : {item['kata']}\n\n"
+
+        # Arti
+        if "arti" in item:
+
+            jawaban += f"Arti :\n{item['arti']}\n\n"
+
+        # Sinonim
+        if "sinonim" in item:
+
+            if len(item["sinonim"]) > 0:
+
+                jawaban += "Sinonim :\n"
+
+                for sinonim in item["sinonim"]:
+
+                    jawaban += f"- {sinonim}\n"
+
+                jawaban += "\n"
+
+        # Contoh
+        if "contoh" in item:
+
+            if len(item["contoh"]) > 0:
+
+                jawaban += "Contoh :\n"
+
+                for contoh in item["contoh"]:
+
+                    jawaban += f"- {contoh}\n"
+
+        return jawaban.strip()
+
+
+    # =====================================
+    # Menjawab pertanyaan
+    # =====================================
+
+    def jawab(self, pertanyaan):
+
+        pertanyaan = pertanyaan.lower().strip()
+
+        if pertanyaan == "":
+
+            return "Silakan masukkan pertanyaan."
+
+
+        # ==============================
+        # Sapaan
+        # ==============================
+
+        sapaan = {
+
+            "hai": "Halo 👋 Ada yang bisa saya bantu?",
+
+            "halo": "Halo 👋 Ada yang bisa saya bantu?",
+
+            "hello": "Halo 👋 Ada yang bisa saya bantu?",
+
+            "assalamualaikum":
+                "Waalaikumsalam warahmatullahi wabarakatuh.",
+
+            "selamat pagi":
+                "Selamat pagi 😊",
+
+            "selamat siang":
+                "Selamat siang 😊",
+
+            "selamat sore":
+                "Selamat sore 😊",
+
+            "selamat malam":
+                "Selamat malam 😊"
+
+        }
+
+
+        if pertanyaan in sapaan:
+
+            return sapaan[pertanyaan]
+
+
+        # ==============================
+        # Cari database
+        # ==============================
+
+        hasil = self.cari_kata(
+            pertanyaan
+        )
+
+
+        if hasil:
+
+            return self.format_jawaban(
+                hasil
+            )
+
+
+        return NOT_FOUND_MESSAGE
