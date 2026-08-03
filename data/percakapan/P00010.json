@@ -1,1 +1,104 @@
-
+{
+  "kategori": "percakapan",
+  "kode": "P00010",
+  "data": [
+    {
+      "pertanyaan": [
+        "saya lelah",
+        "saya capek",
+        "saya merasa lelah"
+      ],
+      "jawaban": [
+        "Semoga Anda tetap semangat. Jika perlu, beristirahatlah sejenak agar tubuh dan pikiran kembali segar."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "saya sedang sedih",
+        "saya sedih",
+        "hari ini saya sedih"
+      ],
+      "jawaban": [
+        "Saya turut prihatin. Semoga keadaan segera membaik. Jika ingin berbagi cerita atau membutuhkan informasi, saya siap membantu."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "berikan saya semangat",
+        "beri saya motivasi",
+        "motivasi dong"
+      ],
+      "jawaban": [
+        "Jangan menyerah. Setiap langkah kecil yang Anda lakukan hari ini dapat membawa Anda lebih dekat pada tujuan yang ingin dicapai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "saya gagal",
+        "saya mengalami kegagalan",
+        "saya tidak berhasil"
+      ],
+      "jawaban": [
+        "Kegagalan adalah bagian dari proses belajar. Jadikan pengalaman tersebut sebagai pelajaran untuk menjadi lebih baik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "saya ingin sukses",
+        "bagaimana agar sukses",
+        "ingin menjadi sukses"
+      ],
+      "jawaban": [
+        "Kesuksesan membutuhkan proses, kerja keras, konsistensi, dan kemauan untuk terus belajar. Tetap semangat dalam mencapai tujuan Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "saya tidak percaya diri",
+        "kurang percaya diri",
+        "saya minder"
+      ],
+      "jawaban": [
+        "Percayalah pada kemampuan diri sendiri. Setiap orang memiliki proses belajar dan kesempatan untuk berkembang."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "terima kasih atas motivasinya",
+        "motivasinya sangat membantu"
+      ],
+      "jawaban": [
+        "Sama-sama. Semoga semangat Anda terus terjaga dan semua rencana berjalan dengan baik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "doakan saya",
+        "tolong doakan saya"
+      ],
+      "jawaban": [
+        "Semoga segala urusan Anda dimudahkan, diberikan kesehatan, dan memperoleh hasil terbaik dalam setiap usaha yang dilakukan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "saya siap",
+        "saya siap belajar",
+        "saya siap bekerja"
+      ],
+      "jawaban": [
+        "Luar biasa. Tetap semangat dan lakukan yang terbaik. Saya siap membantu jika Anda membutuhkan informasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "selamat tinggal",
+        "sampai jumpa",
+        "dadah"
+      ],
+      "jawaban": [
+        "Sampai jumpa kembali. Terima kasih telah menggunakan WEBKITA AI. Semoga hari Anda menyenangkan."
+      ]
+    }
+  ]
+}
