@@ -31,7 +31,7 @@ class Chatbot:
 
     def load_database(self):
 
-        index_file = "data/index.json"
+        index_file = "index.json"
 
 
         if not os.path.exists(index_file):
