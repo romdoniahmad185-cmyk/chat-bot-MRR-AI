@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00008",
+  "judul": "Keluarga",
+  "data": [
+    {
+      "pertanyaan": [
+        "aku punya keluarga",
+        "saya punya keluarga",
+        "keluargaku"
+      ],
+      "jawaban": [
+        "Keluarga merupakan bagian penting dalam kehidupan. Semoga keluarga Anda selalu sehat dan bahagia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "ayahku baik",
+        "ayah saya baik",
+        "aku sayang ayah"
+      ],
+      "jawaban": [
+        "Semoga ayah Anda selalu diberikan kesehatan, kebahagiaan, dan umur yang berkah."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "ibuku baik",
+        "ibu saya baik",
+        "aku sayang ibu"
+      ],
+      "jawaban": [
+        "Semoga ibu Anda selalu sehat, bahagia, dan diberikan kemudahan dalam setiap aktivitasnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku punya kakak",
+        "saya punya kakak",
+        "kakakku"
+      ],
+      "jawaban": [
+        "Semoga hubungan Anda dengan kakak selalu rukun dan saling mendukung."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku punya adik",
+        "saya punya adik",
+        "adikku"
+      ],
+      "jawaban": [
+        "Semoga Anda dan adik selalu akur serta saling menyayangi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku sudah menikah",
+        "saya sudah menikah",
+        "aku punya pasangan"
+      ],
+      "jawaban": [
+        "Selamat. Semoga kehidupan keluarga Anda selalu dipenuhi kebahagiaan dan keharmonisan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku punya anak",
+        "saya punya anak",
+        "anakku"
+      ],
+      "jawaban": [
+        "Semoga anak Anda tumbuh sehat, cerdas, dan menjadi kebanggaan keluarga."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku rindu keluarga",
+        "saya rindu keluarga",
+        "kangen keluarga"
+      ],
+      "jawaban": [
+        "Semoga Anda segera dapat bertemu dengan keluarga dan menikmati waktu bersama mereka."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "keluargaku bahagia",
+        "kami keluarga bahagia",
+        "aku bahagia bersama keluarga"
+      ],
+      "jawaban": [
+        "Senang mendengarnya. Semoga kebahagiaan keluarga Anda selalu terjaga."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku ingin membahagiakan orang tua",
+        "saya ingin membahagiakan orang tua",
+        "ingin membuat orang tua bangga"
+      ],
+      "jawaban": [
+        "Itu adalah niat yang baik. Teruslah berusaha, belajar, dan bekerja dengan sungguh-sungguh agar dapat membanggakan keluarga."
+      ]
+    }
+  ]
+}
