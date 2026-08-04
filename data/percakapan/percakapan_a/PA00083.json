@@ -1,0 +1,108 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00083",
+  "judul": "Dialogue Management AI",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu dialogue management ai",
+        "jelaskan dialogue management",
+        "pengertian dialogue management",
+        "apa itu manajemen percakapan ai"
+      ],
+      "jawaban": [
+        "Dialogue Management AI adalah sistem yang mengatur alur percakapan antara AI dan pengguna agar percakapan berjalan sesuai konteks dan tujuan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi dialogue management",
+        "fungsi dialogue management ai",
+        "kegunaan dialogue management"
+      ],
+      "jawaban": [
+        "Dialogue Management berfungsi menentukan respons AI, mengingat konteks percakapan, mengatur giliran komunikasi, dan menjaga percakapan tetap relevan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa dialogue management penting",
+        "kenapa manajemen percakapan penting",
+        "manfaat dialogue management"
+      ],
+      "jawaban": [
+        "Dialogue Management penting karena membuat AI mampu melakukan percakapan panjang tanpa kehilangan konteks dan tujuan pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana dialogue management bekerja",
+        "cara kerja dialogue management",
+        "alur percakapan ai"
+      ],
+      "jawaban": [
+        "Dialogue Management bekerja dengan membaca pesan pengguna, memahami konteks sebelumnya, menentukan tindakan, lalu memilih respons yang sesuai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "komponen dialogue management ai",
+        "bagian dialogue management",
+        "struktur percakapan ai"
+      ],
+      "jawaban": [
+        "Komponen Dialogue Management meliputi pengelolaan konteks, riwayat percakapan, pengambilan keputusan, dan sistem pembuatan respons."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan dialogue management dengan chatbot",
+        "dialogue management chatbot",
+        "chatbot menggunakan dialogue management"
+      ],
+      "jawaban": [
+        "Dialogue Management membantu chatbot memahami percakapan yang berlangsung dan memberikan respons yang sesuai dengan pembicaraan sebelumnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan dialogue management dengan memory ai",
+        "dialogue management dan memory",
+        "memory dalam percakapan ai"
+      ],
+      "jawaban": [
+        "Dialogue Management menggunakan Memory AI untuk mengingat informasi penting sehingga percakapan dapat berjalan secara berkelanjutan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan dialogue management dengan nlu",
+        "dialogue management dan nlu",
+        "nlu dalam percakapan"
+      ],
+      "jawaban": [
+        "NLU memahami maksud pengguna, sedangkan Dialogue Management menentukan bagaimana AI harus merespons dan melanjutkan percakapan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana dialogue management digunakan pada mrr ai",
+        "dialogue management mrr ai",
+        "sistem percakapan mrr ai"
+      ],
+      "jawaban": [
+        "Pada MRR AI, Dialogue Management digunakan untuk mengatur percakapan pengguna, menyimpan konteks, dan memastikan AI memberikan respons yang sesuai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat dialogue management ai",
+        "cara membuat sistem percakapan ai",
+        "membangun dialogue manager"
+      ],
+      "jawaban": [
+        "Membangun Dialogue Management AI membutuhkan sistem konteks percakapan, memory, aturan keputusan, NLP, NLU, dan sistem generasi respons."
+      ]
+    }
+  ]
+}
