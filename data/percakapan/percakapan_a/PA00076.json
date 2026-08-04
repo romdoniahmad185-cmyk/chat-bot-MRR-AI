@@ -1,0 +1,108 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00076",
+  "judul": "Vector Database AI",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu vector database ai",
+        "jelaskan vector database",
+        "pengertian database vektor",
+        "apa itu database vektor ai"
+      ],
+      "jawaban": [
+        "Vector Database AI adalah sistem penyimpanan yang menyimpan data dalam bentuk vektor atau embedding sehingga AI dapat mencari informasi berdasarkan kemiripan makna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi vector database",
+        "fungsi vector database ai",
+        "kegunaan database vektor"
+      ],
+      "jawaban": [
+        "Vector Database berfungsi membantu AI menemukan informasi yang relevan dengan cepat berdasarkan arti dan konteks, bukan hanya berdasarkan kata yang sama."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa vector database penting untuk ai",
+        "kenapa ai membutuhkan vector database",
+        "manfaat vector database"
+      ],
+      "jawaban": [
+        "Vector Database penting karena memungkinkan AI melakukan pencarian semantik sehingga dapat memahami hubungan antar informasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana vector database bekerja",
+        "cara kerja vector database",
+        "alur vector database"
+      ],
+      "jawaban": [
+        "Vector Database bekerja dengan mengubah data menjadi embedding, menyimpan representasi tersebut, lalu mencari data yang memiliki kemiripan makna ketika diperlukan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu embedding ai",
+        "jelaskan embedding",
+        "fungsi embedding dalam ai"
+      ],
+      "jawaban": [
+        "Embedding adalah proses mengubah teks, gambar, atau data lain menjadi bentuk angka yang dapat dipahami dan dibandingkan oleh sistem AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan database biasa dan vector database",
+        "beda database dengan vector database",
+        "database vs vector database"
+      ],
+      "jawaban": [
+        "Database biasa biasanya mencari berdasarkan nilai atau kata tertentu, sedangkan Vector Database mencari berdasarkan kemiripan makna dan konteks."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan vector database dengan rag",
+        "vector database dan rag",
+        "rag menggunakan vector database"
+      ],
+      "jawaban": [
+        "Dalam sistem RAG, Vector Database digunakan untuk mencari informasi yang paling relevan sebelum AI membuat jawaban."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan vector database dengan llm",
+        "vector database dan llm",
+        "llm menggunakan vector database"
+      ],
+      "jawaban": [
+        "LLM menggunakan informasi dari Vector Database sebagai sumber pengetahuan tambahan agar dapat memberikan jawaban yang lebih akurat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana vector database digunakan pada mrr ai",
+        "vector database mrr ai",
+        "database pencarian mrr ai"
+      ],
+      "jawaban": [
+        "Pada MRR AI, Vector Database dapat digunakan untuk mencari data percakapan, kosakata, dan pengetahuan berdasarkan makna sehingga respons AI menjadi lebih tepat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat vector database ai",
+        "cara membuat database vektor",
+        "membangun vector database"
+      ],
+      "jawaban": [
+        "Membangun Vector Database membutuhkan proses membuat embedding, menyimpan vektor, membuat sistem pencarian, dan menghubungkannya dengan mesin AI."
+      ]
+    }
+  ]
+}
