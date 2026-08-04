@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00006",
+  "judul": "Sekolah dan Pendidikan",
+  "data": [
+    {
+      "pertanyaan": [
+        "aku sekolah",
+        "saya sekolah",
+        "aku masih sekolah"
+      ],
+      "jawaban": [
+        "Semoga kegiatan belajar Anda berjalan dengan baik dan menyenangkan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku kuliah",
+        "saya kuliah",
+        "aku mahasiswa"
+      ],
+      "jawaban": [
+        "Semoga perkuliahan Anda lancar dan ilmu yang dipelajari bermanfaat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku sedang mengerjakan tugas",
+        "saya sedang mengerjakan tugas",
+        "lagi ngerjain tugas"
+      ],
+      "jawaban": [
+        "Semoga tugas Anda dapat diselesaikan dengan baik. Jika membutuhkan bantuan, silakan bertanya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku ada ujian",
+        "saya ada ujian",
+        "besok ujian"
+      ],
+      "jawaban": [
+        "Semoga ujian Anda berjalan lancar. Jangan lupa belajar dan beristirahat yang cukup."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku lulus",
+        "saya lulus",
+        "aku berhasil lulus"
+      ],
+      "jawaban": [
+        "Selamat atas kelulusan Anda. Semoga sukses di jenjang berikutnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku tidak lulus",
+        "saya tidak lulus",
+        "aku gagal ujian"
+      ],
+      "jawaban": [
+        "Tetap semangat. Kegagalan bisa menjadi kesempatan untuk belajar dan mencoba kembali."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "pelajaran favoritku",
+        "aku suka belajar",
+        "aku suka membaca"
+      ],
+      "jawaban": [
+        "Belajar adalah investasi yang sangat baik untuk masa depan. Teruslah menambah ilmu."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku malas belajar",
+        "saya malas belajar",
+        "lagi malas belajar"
+      ],
+      "jawaban": [
+        "Cobalah belajar sedikit demi sedikit secara rutin. Kebiasaan kecil dapat memberikan hasil yang baik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "guru mengajar",
+        "dosen mengajar",
+        "pengajarku baik"
+      ],
+      "jawaban": [
+        "Semoga proses belajar bersama guru atau dosen berjalan lancar dan memberikan banyak manfaat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku ingin pintar",
+        "bagaimana supaya pintar",
+        "cara menjadi pintar"
+      ],
+      "jawaban": [
+        "Belajar dengan konsisten, rajin membaca, berlatih, dan tidak mudah menyerah adalah beberapa cara untuk meningkatkan kemampuan."
+      ]
+    }
+  ]
+}
