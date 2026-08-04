@@ -1,0 +1,105 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00036",
+  "judul": "Transformer",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu transformer",
+        "jelaskan transformer",
+        "pengertian transformer ai"
+      ],
+      "jawaban": [
+        "Transformer adalah arsitektur jaringan saraf yang dirancang untuk memahami hubungan antar kata dalam sebuah kalimat secara efisien. Arsitektur ini menjadi dasar bagi banyak Large Language Model modern."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi transformer",
+        "fungsi transformer",
+        "kegunaan transformer"
+      ],
+      "jawaban": [
+        "Transformer digunakan untuk memahami konteks bahasa, menerjemahkan teks, merangkum dokumen, menjawab pertanyaan, dan menghasilkan teks."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan transformer dengan llm",
+        "transformer bagian dari llm",
+        "hubungan transformer dan llm"
+      ],
+      "jawaban": [
+        "Transformer merupakan arsitektur utama yang digunakan untuk membangun sebagian besar Large Language Model modern."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu attention",
+        "jelaskan attention",
+        "pengertian attention pada ai"
+      ],
+      "jawaban": [
+        "Attention adalah mekanisme yang memungkinkan model menentukan bagian mana dari suatu kalimat yang paling penting ketika memproses sebuah kata."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu self attention",
+        "jelaskan self attention",
+        "pengertian self attention"
+      ],
+      "jawaban": [
+        "Self-Attention adalah mekanisme yang membuat setiap kata dalam sebuah kalimat dapat memperhatikan hubungan dengan kata-kata lainnya untuk memahami konteks secara lebih baik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa transformer penting",
+        "kenapa transformer penting",
+        "manfaat transformer"
+      ],
+      "jawaban": [
+        "Transformer memungkinkan pemrosesan data secara paralel sehingga pelatihan model menjadi lebih cepat dan hasil pemahaman konteks menjadi lebih baik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa kelebihan transformer",
+        "kelebihan transformer"
+      ],
+      "jawaban": [
+        "Transformer memiliki kemampuan memahami konteks yang panjang, lebih cepat dilatih dibanding beberapa arsitektur lama, dan mampu menghasilkan performa yang tinggi pada berbagai tugas NLP."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa kekurangan transformer",
+        "kelemahan transformer"
+      ],
+      "jawaban": [
+        "Transformer membutuhkan data dalam jumlah besar, sumber daya komputasi yang tinggi, serta memori yang besar terutama untuk memproses teks yang panjang."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh penggunaan transformer",
+        "transformer digunakan dimana",
+        "contoh transformer"
+      ],
+      "jawaban": [
+        "Transformer digunakan pada chatbot, penerjemah bahasa, sistem pencarian, peringkas dokumen, asisten virtual, dan berbagai Large Language Model."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana belajar transformer",
+        "cara belajar transformer",
+        "ingin belajar transformer"
+      ],
+      "jawaban": [
+        "Belajar Transformer sebaiknya dimulai dengan memahami Neural Network, Deep Learning, NLP, Attention Mechanism, dan Machine Learning."
+      ]
+    }
+  ]
+}
