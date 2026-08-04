@@ -1,0 +1,108 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00090",
+  "judul": "Tool Use AI",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu tool use ai",
+        "jelaskan ai tool use",
+        "pengertian penggunaan tools ai",
+        "apa itu ai menggunakan alat"
+      ],
+      "jawaban": [
+        "Tool Use AI adalah kemampuan AI untuk menggunakan alat eksternal seperti API, database, aplikasi, atau sistem lain untuk menyelesaikan tugas tertentu."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi tool use ai",
+        "fungsi ai tools",
+        "kegunaan tool use"
+      ],
+      "jawaban": [
+        "Tool Use AI berfungsi memperluas kemampuan AI agar dapat melakukan tindakan nyata seperti mengambil data, menjalankan program, dan mengakses layanan eksternal."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa ai membutuhkan tools",
+        "kenapa ai menggunakan api",
+        "manfaat ai tools"
+      ],
+      "jawaban": [
+        "AI membutuhkan tools agar tidak hanya menghasilkan teks, tetapi juga dapat melakukan pekerjaan dan berinteraksi dengan sistem di dunia nyata."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana tool use ai bekerja",
+        "cara kerja ai menggunakan tools",
+        "alur tool use"
+      ],
+      "jawaban": [
+        "Tool Use AI bekerja dengan memahami kebutuhan pengguna, memilih tools yang sesuai, mengirim permintaan, menerima hasil, lalu menggunakan hasil tersebut untuk memberikan solusi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh tools yang digunakan ai",
+        "contoh ai menggunakan api",
+        "jenis tools ai"
+      ],
+      "jawaban": [
+        "Contoh tools AI adalah API, mesin pencari, database, kalkulator, sistem pembayaran, kalender, email, dan aplikasi bisnis."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan tool use dengan ai agent",
+        "tool use dan ai agent",
+        "agent menggunakan tools"
+      ],
+      "jawaban": [
+        "AI Agent menggunakan Tool Use agar dapat melakukan tindakan seperti mengambil informasi, menjalankan tugas, dan berinteraksi dengan layanan eksternal."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan tool use dengan api",
+        "ai menggunakan api",
+        "api untuk ai"
+      ],
+      "jawaban": [
+        "API menjadi salah satu tools yang memungkinkan AI berkomunikasi dengan aplikasi atau layanan lain untuk mendapatkan dan mengirim data."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh tool use pada bisnis",
+        "ai tools untuk bisnis",
+        "penggunaan ai dalam bisnis"
+      ],
+      "jawaban": [
+        "Contoh penggunaan Tool Use AI dalam bisnis adalah mengambil data pelanggan, membuat laporan, mengelola transaksi, dan membantu otomatisasi pekerjaan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana tool use digunakan pada mrr ai",
+        "tool use mrr ai",
+        "ai agent mrr ai menggunakan tools"
+      ],
+      "jawaban": [
+        "Pada MRR AI, Tool Use digunakan agar AI dapat terhubung dengan database, website, sistem bisnis, dan berbagai layanan untuk membantu pengguna secara otomatis."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat sistem tool use ai",
+        "cara membuat ai tools system",
+        "membangun tool use ai"
+      ],
+      "jawaban": [
+        "Membangun Tool Use AI membutuhkan AI Agent, sistem API, keamanan akses, daftar tools yang tersedia, dan mekanisme pemilihan tools yang tepat."
+      ]
+    }
+  ]
+}
