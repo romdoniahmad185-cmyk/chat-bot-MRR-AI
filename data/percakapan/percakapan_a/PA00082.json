@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00082",
+  "judul": "Natural Language Generation AI",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu natural language generation",
+        "jelaskan nlg ai",
+        "pengertian nlg",
+        "apa itu pembuatan bahasa alami"
+      ],
+      "jawaban": [
+        "Natural Language Generation atau NLG adalah teknologi AI yang memungkinkan komputer menghasilkan teks atau bahasa manusia berdasarkan data dan informasi yang tersedia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi nlg ai",
+        "fungsi natural language generation",
+        "kegunaan nlg"
+      ],
+      "jawaban": [
+        "NLG berfungsi mengubah data, informasi, atau hasil analisis menjadi kalimat yang mudah dipahami oleh manusia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan nlu dan nlg",
+        "beda nlu dengan nlg",
+        "nlu vs nlg"
+      ],
+      "jawaban": [
+        "NLU berfungsi memahami bahasa manusia, sedangkan NLG berfungsi menghasilkan bahasa manusia dari informasi yang telah dipahami AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa nlg penting untuk ai",
+        "kenapa ai membutuhkan nlg",
+        "manfaat nlg"
+      ],
+      "jawaban": [
+        "NLG penting karena membuat AI dapat berkomunikasi dengan manusia menggunakan bahasa yang alami, jelas, dan mudah dipahami."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana nlg bekerja",
+        "cara kerja nlg ai",
+        "proses nlg"
+      ],
+      "jawaban": [
+        "NLG bekerja dengan mengambil informasi, memahami konteks, menyusun struktur kalimat, lalu menghasilkan teks yang sesuai dengan kebutuhan pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh penggunaan nlg",
+        "contoh nlg ai"
+      ],
+      "jawaban": [
+        "Contoh NLG adalah chatbot AI, pembuatan laporan otomatis, pembuatan artikel, ringkasan dokumen, dan pembuatan rekomendasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan nlg dengan llm",
+        "nlg dan llm",
+        "llm menghasilkan teks"
+      ],
+      "jawaban": [
+        "LLM merupakan teknologi modern yang memiliki kemampuan NLG untuk menghasilkan teks yang menyerupai bahasa manusia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan nlg dengan chatbot",
+        "nlg pada chatbot",
+        "chatbot menggunakan nlg"
+      ],
+      "jawaban": [
+        "NLG memungkinkan chatbot membuat jawaban yang alami sehingga percakapan terasa lebih seperti komunikasi dengan manusia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana nlg digunakan pada mrr ai",
+        "nlg mrr ai",
+        "generasi bahasa mrr ai"
+      ],
+      "jawaban": [
+        "Pada MRR AI, NLG digunakan untuk menghasilkan jawaban, laporan, rekomendasi bisnis, dan komunikasi otomatis kepada pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat sistem nlg ai",
+        "cara membuat nlg",
+        "membangun natural language generation"
+      ],
+      "jawaban": [
+        "Membangun sistem NLG membutuhkan model bahasa, dataset teks, kemampuan memahami konteks, dan sistem untuk menghasilkan kalimat sesuai tujuan."
+      ]
+    }
+  ]
+}
