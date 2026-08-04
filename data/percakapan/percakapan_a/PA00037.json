@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00037",
+  "judul": "Token",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu token",
+        "jelaskan token",
+        "pengertian token pada ai"
+      ],
+      "jawaban": [
+        "Token adalah satuan data yang digunakan oleh model AI untuk memproses teks. Sebuah token dapat berupa kata, bagian dari kata, tanda baca, atau simbol."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi token",
+        "fungsi token",
+        "kegunaan token"
+      ],
+      "jawaban": [
+        "Token digunakan agar model AI dapat memecah dan memproses teks menjadi bagian-bagian yang lebih mudah dipahami."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu tokenisasi",
+        "jelaskan tokenisasi",
+        "pengertian tokenisasi"
+      ],
+      "jawaban": [
+        "Tokenisasi adalah proses memecah teks menjadi token sebelum diproses oleh model Artificial Intelligence."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa token penting",
+        "kenapa token penting",
+        "manfaat token"
+      ],
+      "jawaban": [
+        "Token penting karena menjadi dasar bagi model AI untuk memahami struktur dan makna sebuah kalimat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana token bekerja",
+        "cara kerja token",
+        "token bekerja bagaimana"
+      ],
+      "jawaban": [
+        "Model AI mengubah kalimat menjadi kumpulan token, kemudian setiap token diproses untuk memahami hubungan antar token sehingga dapat menghasilkan jawaban."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah satu kata sama dengan satu token",
+        "satu kata satu token",
+        "kata dan token"
+      ],
+      "jawaban": [
+        "Tidak selalu. Satu kata dapat menjadi satu token, beberapa token, atau bahkan beberapa kata dapat menjadi satu token, tergantung metode tokenisasi yang digunakan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan token dengan llm",
+        "hubungan token dan llm",
+        "token pada large language model"
+      ],
+      "jawaban": [
+        "Large Language Model memproses seluruh masukan dan keluaran dalam bentuk token, bukan langsung sebagai kalimat utuh."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh token",
+        "contoh penggunaan token",
+        "contoh token ai"
+      ],
+      "jawaban": [
+        "Sebagai contoh, kalimat 'Saya belajar AI.' akan dipecah menjadi beberapa token sesuai dengan aturan tokenisasi yang digunakan oleh model."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "berapa banyak token yang bisa diproses ai",
+        "batas token ai",
+        "context window token"
+      ],
+      "jawaban": [
+        "Jumlah token yang dapat diproses bergantung pada model AI yang digunakan. Setiap model memiliki batas maksimum token yang disebut context window."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana belajar token",
+        "cara belajar token ai",
+        "ingin belajar token"
+      ],
+      "jawaban": [
+        "Untuk memahami token, pelajari konsep tokenisasi, NLP, Transformer, dan cara Large Language Model memproses bahasa."
+      ]
+    }
+  ]
+}
