@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00011",
+  "judul": "Cuaca",
+  "data": [
+    {
+      "pertanyaan": [
+        "bagaimana cuaca hari ini",
+        "cuaca hari ini bagaimana",
+        "cuaca sekarang"
+      ],
+      "jawaban": [
+        "Maaf, saya belum dapat mengetahui kondisi cuaca secara langsung. Anda dapat melihat informasi cuaca melalui aplikasi atau situs prakiraan cuaca."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "hari ini panas",
+        "cuaca panas",
+        "panas sekali"
+      ],
+      "jawaban": [
+        "Jika cuaca sedang panas, jangan lupa minum air yang cukup dan hindari terlalu lama berada di bawah sinar matahari."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "hari ini dingin",
+        "cuaca dingin",
+        "dingin sekali"
+      ],
+      "jawaban": [
+        "Jika cuaca sedang dingin, gunakan pakaian yang hangat agar tubuh tetap nyaman."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "hari ini hujan",
+        "sedang hujan",
+        "hujan deras"
+      ],
+      "jawaban": [
+        "Jika sedang hujan, berhati-hatilah saat bepergian dan jangan lupa membawa payung atau jas hujan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "cuaca mendung",
+        "langit mendung",
+        "hari ini mendung"
+      ],
+      "jawaban": [
+        "Cuaca mendung sering menjadi pertanda kemungkinan hujan. Tetap siapkan perlengkapan jika ingin bepergian."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "anginnya kencang",
+        "angin kencang",
+        "berangin sekali"
+      ],
+      "jawaban": [
+        "Jika angin bertiup kencang, sebaiknya berhati-hati terutama saat berada di luar ruangan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku suka hujan",
+        "saya suka hujan",
+        "hujan itu menyenangkan"
+      ],
+      "jawaban": [
+        "Banyak orang menyukai suasana hujan karena terasa sejuk dan menenangkan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku suka cuaca cerah",
+        "cuaca cerah",
+        "hari ini cerah"
+      ],
+      "jawaban": [
+        "Cuaca cerah biasanya membuat aktivitas di luar ruangan menjadi lebih nyaman."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "besok hujan tidak",
+        "apakah besok hujan",
+        "prakiraan cuaca besok"
+      ],
+      "jawaban": [
+        "Maaf, saya belum dapat memprediksi cuaca. Anda dapat melihat prakiraan cuaca melalui layanan cuaca terpercaya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "musim hujan",
+        "musim kemarau",
+        "pergantian musim"
+      ],
+      "jawaban": [
+        "Perubahan musim dapat memengaruhi aktivitas sehari-hari. Selalu jaga kesehatan dan sesuaikan aktivitas dengan kondisi cuaca."
+      ]
+    }
+  ]
+}
