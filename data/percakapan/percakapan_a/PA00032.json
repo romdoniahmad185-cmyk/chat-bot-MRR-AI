@@ -1,0 +1,108 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00032",
+  "judul": "Neural Network",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu neural network",
+        "jelaskan neural network",
+        "pengertian neural network",
+        "apa itu jaringan saraf tiruan"
+      ],
+      "jawaban": [
+        "Neural Network atau Jaringan Saraf Tiruan adalah model komputasi yang meniru cara kerja jaringan saraf pada otak manusia untuk mempelajari pola dari data."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi neural network",
+        "fungsi neural network",
+        "kegunaan neural network"
+      ],
+      "jawaban": [
+        "Neural Network digunakan untuk mengenali pola, melakukan klasifikasi, membuat prediksi, dan menyelesaikan berbagai permasalahan kecerdasan buatan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan neural network dengan deep learning",
+        "neural network bagian dari deep learning",
+        "hubungan neural network dan deep learning"
+      ],
+      "jawaban": [
+        "Neural Network merupakan dasar dari Deep Learning. Deep Learning menggunakan Neural Network yang memiliki banyak lapisan untuk mempelajari pola yang lebih kompleks."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu neuron",
+        "jelaskan neuron pada ai",
+        "pengertian neuron"
+      ],
+      "jawaban": [
+        "Neuron adalah unit dasar dalam Neural Network yang menerima masukan, memprosesnya, kemudian menghasilkan keluaran untuk diteruskan ke neuron lainnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu input layer",
+        "jelaskan input layer",
+        "pengertian input layer"
+      ],
+      "jawaban": [
+        "Input Layer adalah lapisan pertama pada Neural Network yang menerima data sebelum diproses oleh lapisan berikutnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu hidden layer",
+        "jelaskan hidden layer",
+        "pengertian hidden layer"
+      ],
+      "jawaban": [
+        "Hidden Layer adalah lapisan yang berada di antara input layer dan output layer, tempat proses pembelajaran pola berlangsung."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu output layer",
+        "jelaskan output layer",
+        "pengertian output layer"
+      ],
+      "jawaban": [
+        "Output Layer adalah lapisan terakhir pada Neural Network yang menghasilkan prediksi atau keputusan berdasarkan hasil pemrosesan data."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana neural network bekerja",
+        "cara kerja neural network",
+        "neural network bekerja bagaimana"
+      ],
+      "jawaban": [
+        "Neural Network bekerja dengan menerima data pada input layer, memprosesnya melalui satu atau lebih hidden layer, kemudian menghasilkan keluaran pada output layer."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh neural network",
+        "contoh penggunaan neural network",
+        "neural network digunakan dimana"
+      ],
+      "jawaban": [
+        "Neural Network digunakan pada pengenalan wajah, pengenalan suara, chatbot, kendaraan otonom, sistem rekomendasi, dan analisis citra medis."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana belajar neural network",
+        "cara belajar neural network",
+        "ingin belajar neural network"
+      ],
+      "jawaban": [
+        "Untuk mempelajari Neural Network, sebaiknya memahami dasar Machine Learning, matematika, Python, dan konsep Deep Learning secara bertahap."
+      ]
+    }
+  ]
+}
