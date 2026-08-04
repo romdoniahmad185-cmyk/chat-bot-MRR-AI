@@ -1,0 +1,108 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00100",
+  "judul": "MRR AI Core Architecture",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu mrr ai core architecture",
+        "jelaskan arsitektur inti mrr ai",
+        "pengertian core system mrr ai",
+        "apa itu inti sistem ai"
+      ],
+      "jawaban": [
+        "MRR AI Core Architecture adalah rancangan utama yang mengatur seluruh komponen kecerdasan MRR AI agar dapat bekerja sebagai satu sistem AI pusat yang terintegrasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi core architecture mrr ai",
+        "fungsi inti mrr ai",
+        "kegunaan core system ai"
+      ],
+      "jawaban": [
+        "Core Architecture berfungsi menghubungkan seluruh bagian AI seperti bahasa, memori, pengetahuan, reasoning, agent, keamanan, dan infrastruktur."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "komponen utama mrr ai",
+        "bagian sistem mrr ai",
+        "arsitektur mrr ai"
+      ],
+      "jawaban": [
+        "Komponen utama MRR AI meliputi NLP, NLU, NLG, Memory System, Knowledge Base, Reasoning Engine, AI Agent, Tool Use, Security, Monitoring, dan Scalability."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana arsitektur mrr ai bekerja",
+        "cara kerja sistem mrr ai",
+        "alur mrr ai"
+      ],
+      "jawaban": [
+        "MRR AI bekerja dengan menerima input pengguna, memahami bahasa, mengambil pengetahuan, melakukan penalaran, membuat keputusan, lalu menghasilkan respons."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa tujuan membuat mrr ai",
+        "visi mrr ai",
+        "tujuan sistem ai pusat"
+      ],
+      "jawaban": [
+        "Tujuan MRR AI adalah membangun sistem AI pusat yang mampu membantu manusia dalam berbagai bidang seperti bisnis, teknologi, pendidikan, dan otomatisasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah mrr ai bisa menjadi ai besar",
+        "masa depan mrr ai",
+        "potensi mrr ai"
+      ],
+      "jawaban": [
+        "MRR AI dapat berkembang menjadi sistem AI besar dengan membangun fondasi data, infrastruktur, model AI, keamanan, dan kemampuan belajar berkelanjutan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan semua sistem ai dengan mrr ai",
+        "komponen ai dalam mrr",
+        "integrasi sistem ai"
+      ],
+      "jawaban": [
+        "Setiap komponen AI menjadi bagian dari ekosistem MRR AI yang bekerja bersama untuk menciptakan sistem kecerdasan buatan yang lengkap."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana mrr ai menangani pengguna besar",
+        "skalabilitas mrr ai",
+        "mrr ai jutaan pengguna"
+      ],
+      "jawaban": [
+        "MRR AI menggunakan konsep scalability dan distributed system agar mampu menangani banyak pengguna, data besar, dan proses AI yang kompleks."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana mrr ai menggunakan keamanan",
+        "security mrr ai",
+        "perlindungan sistem mrr ai"
+      ],
+      "jawaban": [
+        "MRR AI menggunakan sistem keamanan untuk melindungi data pengguna, model AI, database, API, dan seluruh infrastruktur."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membangun mrr ai",
+        "cara membuat sistem mrr ai",
+        "langkah membangun ai pusat"
+      ],
+      "jawaban": [
+        "Membangun MRR AI membutuhkan pengembangan bertahap mulai dari dataset, mesin percakapan, knowledge base, reasoning, agent, infrastruktur, keamanan, dan sistem pembelajaran."
+      ]
+    }
+  ]
+}
