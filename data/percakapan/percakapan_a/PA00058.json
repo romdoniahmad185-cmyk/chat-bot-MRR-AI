@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00058",
+  "judul": "Fine Tuning",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu fine tuning",
+        "jelaskan fine tuning",
+        "pengertian fine tuning ai",
+        "apa itu pelatihan model ai"
+      ],
+      "jawaban": [
+        "Fine Tuning adalah proses menyesuaikan model AI yang sudah ada dengan data khusus agar memiliki kemampuan, gaya bahasa, atau pengetahuan yang lebih sesuai dengan kebutuhan tertentu."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi fine tuning",
+        "fungsi fine tuning",
+        "kegunaan fine tuning"
+      ],
+      "jawaban": [
+        "Fine Tuning berfungsi membuat model AI lebih spesifik terhadap bidang tertentu, seperti bisnis, pendidikan, kesehatan, atau layanan pelanggan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa fine tuning penting",
+        "kenapa fine tuning penting",
+        "manfaat fine tuning"
+      ],
+      "jawaban": [
+        "Fine Tuning penting karena membantu AI memiliki kemampuan khusus yang lebih sesuai dengan kebutuhan pengguna dan karakter sistem yang dibuat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana fine tuning bekerja",
+        "cara kerja fine tuning",
+        "fine tuning bekerja bagaimana"
+      ],
+      "jawaban": [
+        "Fine Tuning bekerja dengan memberikan data pelatihan tambahan kepada model AI agar model mempelajari pola, gaya, dan informasi baru tanpa membuat model dari awal."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh fine tuning",
+        "contoh penggunaan fine tuning"
+      ],
+      "jawaban": [
+        "Contohnya model AI umum dilatih dengan data perusahaan sehingga mampu memahami produk, layanan, dan gaya komunikasi perusahaan tersebut."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan rag dan fine tuning",
+        "beda rag dengan fine tuning",
+        "rag vs fine tuning"
+      ],
+      "jawaban": [
+        "RAG memberikan informasi tambahan kepada AI saat digunakan, sedangkan Fine Tuning mengubah kemampuan model melalui proses pelatihan menggunakan data khusus."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah webkita ai membutuhkan fine tuning",
+        "fine tuning untuk webkita ai",
+        "webkita ai perlu training"
+      ],
+      "jawaban": [
+        "WEBKITA AI dapat menggunakan Fine Tuning jika membutuhkan gaya komunikasi khusus atau kemampuan tertentu yang sulit dicapai hanya dengan database pengetahuan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa data untuk fine tuning",
+        "dataset fine tuning",
+        "data pelatihan ai"
+      ],
+      "jawaban": [
+        "Data Fine Tuning biasanya berupa contoh percakapan, instruksi, pertanyaan dan jawaban, dokumen khusus, serta contoh perilaku AI yang diinginkan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah json bisa digunakan untuk fine tuning",
+        "json untuk training ai",
+        "dataset json ai"
+      ],
+      "jawaban": [
+        "Format JSON dapat digunakan sebagai dataset Fine Tuning karena dapat menyimpan pasangan instruksi, pertanyaan, dan jawaban secara terstruktur."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat fine tuning ai",
+        "cara melakukan fine tuning",
+        "ingin melatih model ai"
+      ],
+      "jawaban": [
+        "Fine Tuning dilakukan dengan menyiapkan dataset berkualitas, memilih model yang sesuai, melakukan proses pelatihan, dan mengevaluasi hasil model."
+      ]
+    }
+  ]
+}
