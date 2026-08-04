@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00020",
+  "judul": "Internet dan Komputer",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu internet",
+        "jelaskan internet",
+        "pengertian internet"
+      ],
+      "jawaban": [
+        "Internet adalah jaringan komputer yang saling terhubung di seluruh dunia sehingga memungkinkan pertukaran informasi dan komunikasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu website",
+        "jelaskan website",
+        "pengertian website"
+      ],
+      "jawaban": [
+        "Website adalah kumpulan halaman yang dapat diakses melalui internet menggunakan browser."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu browser",
+        "jelaskan browser",
+        "pengertian browser"
+      ],
+      "jawaban": [
+        "Browser adalah aplikasi yang digunakan untuk membuka dan menampilkan halaman website di internet."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu komputer",
+        "jelaskan komputer",
+        "pengertian komputer"
+      ],
+      "jawaban": [
+        "Komputer adalah perangkat elektronik yang digunakan untuk mengolah, menyimpan, dan menampilkan data menjadi informasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu laptop",
+        "jelaskan laptop",
+        "pengertian laptop"
+      ],
+      "jawaban": [
+        "Laptop adalah komputer portabel yang dapat digunakan di berbagai tempat karena memiliki baterai dan ukuran yang ringkas."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu keyboard",
+        "jelaskan keyboard",
+        "fungsi keyboard"
+      ],
+      "jawaban": [
+        "Keyboard adalah perangkat input yang digunakan untuk memasukkan huruf, angka, dan perintah ke dalam komputer."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu mouse",
+        "jelaskan mouse",
+        "fungsi mouse"
+      ],
+      "jawaban": [
+        "Mouse adalah perangkat input yang digunakan untuk menggerakkan kursor serta memilih menu atau objek pada komputer."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "internetku lambat",
+        "koneksi internet lambat",
+        "internet lemot"
+      ],
+      "jawaban": [
+        "Koneksi internet yang lambat dapat disebabkan oleh kualitas jaringan, banyaknya pengguna, atau gangguan pada penyedia layanan internet."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "komputerku lambat",
+        "laptopku lemot",
+        "komputer lemot"
+      ],
+      "jawaban": [
+        "Komputer yang lambat dapat disebabkan oleh penyimpanan yang hampir penuh, terlalu banyak aplikasi berjalan, atau spesifikasi perangkat yang terbatas."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa manfaat internet",
+        "manfaat internet",
+        "kegunaan internet"
+      ],
+      "jawaban": [
+        "Internet memudahkan komunikasi, pencarian informasi, pembelajaran, bisnis, hiburan, dan berbagai aktivitas digital lainnya."
+      ]
+    }
+  ]
+}
