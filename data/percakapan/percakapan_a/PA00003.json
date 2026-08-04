@@ -1,0 +1,102 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00003",
+  "judul": "Ucapan Terima Kasih dan Permintaan Maaf",
+  "data": [
+    {
+      "pertanyaan": [
+        "terima kasih",
+        "makasih",
+        "thanks",
+        "thank you"
+      ],
+      "jawaban": [
+        "Sama-sama. Senang bisa membantu Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "terima kasih banyak",
+        "makasih banyak",
+        "terima kasih ya"
+      ],
+      "jawaban": [
+        "Dengan senang hati. Semoga informasi yang saya berikan bermanfaat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "maaf",
+        "maaf ya",
+        "mohon maaf"
+      ],
+      "jawaban": [
+        "Tidak apa-apa. Mari kita lanjutkan percakapan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "tolong",
+        "bisakah kamu membantu",
+        "minta bantuan"
+      ],
+      "jawaban": [
+        "Tentu. Silakan sampaikan pertanyaan atau kebutuhan Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "permisi"
+      ],
+      "jawaban": [
+        "Silakan, ada yang bisa saya bantu?"
+      ]
+    },
+    {
+      "pertanyaan": [
+        "sampai jumpa",
+        "dadah",
+        "bye",
+        "selamat tinggal"
+      ],
+      "jawaban": [
+        "Sampai jumpa lagi. Semoga harimu menyenangkan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "selamat bekerja",
+        "semangat bekerja"
+      ],
+      "jawaban": [
+        "Terima kasih. Semoga aktivitas Anda juga berjalan lancar."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "selamat belajar",
+        "semangat belajar"
+      ],
+      "jawaban": [
+        "Terima kasih. Semoga belajar Anda menyenangkan dan mendapatkan hasil terbaik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "selamat istirahat"
+      ],
+      "jawaban": [
+        "Terima kasih. Semoga Anda juga dapat beristirahat dengan baik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "semoga sukses",
+        "semoga berhasil"
+      ],
+      "jawaban": [
+        "Terima kasih atas doa dan dukungannya."
+      ]
+    }
+  ]
+}
