@@ -1,0 +1,108 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00040",
+  "judul": "Retrieval-Augmented Generation",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu rag",
+        "apa itu retrieval augmented generation",
+        "jelaskan rag",
+        "pengertian rag"
+      ],
+      "jawaban": [
+        "Retrieval-Augmented Generation atau RAG adalah teknik AI yang menggabungkan pencarian informasi dari sumber data dengan kemampuan model bahasa untuk menghasilkan jawaban yang lebih relevan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi rag",
+        "fungsi rag",
+        "kegunaan rag"
+      ],
+      "jawaban": [
+        "RAG digunakan untuk mengambil informasi yang relevan dari basis pengetahuan sebelum AI menyusun jawaban."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana rag bekerja",
+        "cara kerja rag",
+        "rag bekerja bagaimana"
+      ],
+      "jawaban": [
+        "RAG bekerja dengan mencari data yang paling relevan menggunakan embedding dan vector database, kemudian informasi tersebut digunakan sebagai referensi untuk menghasilkan jawaban."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan rag dengan vector database",
+        "hubungan rag dan vector database",
+        "rag menggunakan vector database"
+      ],
+      "jawaban": [
+        "Vector Database digunakan oleh RAG untuk menemukan informasi yang paling relevan berdasarkan kemiripan makna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan rag dengan embedding",
+        "hubungan rag dan embedding",
+        "rag menggunakan embedding"
+      ],
+      "jawaban": [
+        "RAG menggunakan embedding untuk mengubah pertanyaan menjadi vektor sehingga dapat mencari referensi yang memiliki makna serupa."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan rag dengan llm",
+        "hubungan rag dan llm",
+        "rag pada large language model"
+      ],
+      "jawaban": [
+        "LLM menggunakan informasi yang ditemukan oleh RAG sebagai referensi sebelum menghasilkan jawaban kepada pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa rag penting",
+        "kenapa rag penting",
+        "manfaat rag"
+      ],
+      "jawaban": [
+        "RAG membantu AI memberikan jawaban yang lebih akurat, relevan, dan sesuai dengan data yang dimiliki tanpa harus menghafal seluruh informasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh penggunaan rag",
+        "rag digunakan dimana",
+        "contoh rag"
+      ],
+      "jawaban": [
+        "RAG digunakan pada chatbot perusahaan, sistem pencarian dokumen, layanan pelanggan, asisten AI, dan sistem tanya jawab berbasis pengetahuan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa kelebihan rag",
+        "kelebihan retrieval augmented generation",
+        "manfaat retrieval augmented generation"
+      ],
+      "jawaban": [
+        "RAG memungkinkan AI menggunakan informasi terbaru dari basis pengetahuan tanpa harus melatih ulang seluruh model."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana belajar rag",
+        "cara belajar rag",
+        "ingin belajar retrieval augmented generation"
+      ],
+      "jawaban": [
+        "Untuk mempelajari RAG, sebaiknya memahami NLP, Transformer, Embedding, Vector Database, dan Large Language Model."
+      ]
+    }
+  ]
+}
