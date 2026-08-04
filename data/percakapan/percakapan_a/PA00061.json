@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00061",
+  "judul": "Neural Network",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu neural network",
+        "jelaskan neural network",
+        "pengertian neural network",
+        "apa itu jaringan saraf tiruan"
+      ],
+      "jawaban": [
+        "Neural Network adalah model komputasi dalam AI yang terinspirasi dari cara kerja otak manusia, menggunakan kumpulan neuron buatan untuk memproses informasi dan mengenali pola."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi neural network",
+        "fungsi neural network",
+        "kegunaan neural network"
+      ],
+      "jawaban": [
+        "Neural Network berfungsi untuk mempelajari pola dari data, melakukan klasifikasi, prediksi, pengenalan gambar, dan memahami bahasa."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa neural network penting",
+        "kenapa neural network penting",
+        "manfaat neural network"
+      ],
+      "jawaban": [
+        "Neural Network penting karena mampu mempelajari hubungan kompleks dalam data yang sulit dilakukan dengan aturan pemrograman biasa."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana neural network bekerja",
+        "cara kerja neural network",
+        "neural network bekerja bagaimana"
+      ],
+      "jawaban": [
+        "Neural Network bekerja dengan menerima input, memprosesnya melalui lapisan neuron, menghitung pola, lalu menghasilkan output berdasarkan hasil pembelajaran."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa saja bagian neural network",
+        "struktur neural network",
+        "lapisan neural network"
+      ],
+      "jawaban": [
+        "Neural Network umumnya terdiri dari input layer, hidden layer, dan output layer yang bekerja bersama untuk memproses informasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu neuron pada ai",
+        "neuron buatan",
+        "fungsi neuron artificial intelligence"
+      ],
+      "jawaban": [
+        "Neuron pada AI adalah unit kecil dalam Neural Network yang menerima informasi, melakukan perhitungan, dan meneruskan hasilnya ke neuron berikutnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan neural network dengan deep learning",
+        "neural network dan deep learning",
+        "deep learning menggunakan neural network"
+      ],
+      "jawaban": [
+        "Deep Learning menggunakan Neural Network dengan banyak lapisan sehingga mampu mempelajari pola yang lebih kompleks."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan neural network dengan machine learning",
+        "neural network dan machine learning",
+        "machine learning menggunakan neural network"
+      ],
+      "jawaban": [
+        "Neural Network merupakan salah satu metode yang digunakan dalam Machine Learning untuk membuat sistem belajar dari data."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh penggunaan neural network",
+        "neural network digunakan dimana"
+      ],
+      "jawaban": [
+        "Neural Network digunakan pada pengenalan wajah, chatbot AI, penerjemahan bahasa, prediksi data, dan sistem rekomendasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana neural network digunakan pada webkita ai",
+        "neural network webkita ai",
+        "implementasi neural network ai"
+      ],
+      "jawaban": [
+        "Pada WEBKITA AI, Neural Network dapat digunakan untuk memahami pola percakapan, meningkatkan klasifikasi pertanyaan, dan membantu sistem menghasilkan respons yang lebih cerdas."
+      ]
+    }
+  ]
+}
