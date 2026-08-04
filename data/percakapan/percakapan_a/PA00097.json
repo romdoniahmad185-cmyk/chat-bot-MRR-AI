@@ -1,0 +1,108 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00097",
+  "judul": "AI Security System",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu ai security system",
+        "jelaskan keamanan ai",
+        "pengertian sistem keamanan ai",
+        "apa itu ai security"
+      ],
+      "jawaban": [
+        "AI Security System adalah sistem keamanan yang melindungi model AI, data, infrastruktur, dan pengguna dari ancaman serta penyalahgunaan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi ai security",
+        "fungsi keamanan ai",
+        "kegunaan ai security system"
+      ],
+      "jawaban": [
+        "AI Security berfungsi menjaga kerahasiaan data, mencegah serangan, melindungi model AI, dan memastikan sistem berjalan dengan aman."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa keamanan ai penting",
+        "kenapa ai membutuhkan security",
+        "manfaat keamanan ai"
+      ],
+      "jawaban": [
+        "Keamanan AI penting karena sistem AI menggunakan data dan teknologi yang harus dilindungi dari akses tidak sah, manipulasi, dan penyalahgunaan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana ai security bekerja",
+        "cara kerja keamanan ai",
+        "proses perlindungan ai"
+      ],
+      "jawaban": [
+        "AI Security bekerja dengan menerapkan kontrol akses, enkripsi data, pemantauan ancaman, pengujian keamanan, dan perlindungan model."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "ancaman terhadap ai",
+        "jenis serangan ai",
+        "risiko keamanan ai"
+      ],
+      "jawaban": [
+        "Ancaman AI meliputi pencurian data, manipulasi input, serangan terhadap model, kebocoran informasi, dan penggunaan AI yang tidak sesuai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu data security ai",
+        "keamanan data ai",
+        "perlindungan data ai"
+      ],
+      "jawaban": [
+        "Data Security AI adalah perlindungan terhadap data yang digunakan dan dihasilkan AI agar tetap aman, privat, dan tidak disalahgunakan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan security dengan privacy ai",
+        "keamanan dan privasi ai",
+        "ai privacy system"
+      ],
+      "jawaban": [
+        "AI Security melindungi sistem dari ancaman, sedangkan AI Privacy memastikan data pengguna tetap terlindungi dan digunakan secara tepat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan security dengan ai agent",
+        "keamanan ai agent",
+        "melindungi autonomous ai"
+      ],
+      "jawaban": [
+        "AI Security diperlukan pada AI Agent untuk memastikan tindakan otomatis yang dilakukan tetap aman dan sesuai aturan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana ai security digunakan pada mrr ai",
+        "ai security mrr ai",
+        "keamanan sistem mrr ai"
+      ],
+      "jawaban": [
+        "Pada MRR AI, AI Security digunakan untuk melindungi data pengguna, model AI, database, API, dan seluruh infrastruktur sistem."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat ai security system",
+        "cara membuat keamanan ai",
+        "membangun sistem keamanan ai"
+      ],
+      "jawaban": [
+        "Membangun AI Security System membutuhkan autentikasi, enkripsi, kontrol akses, monitoring keamanan, pengujian sistem, dan perlindungan data."
+      ]
+    }
+  ]
+}
