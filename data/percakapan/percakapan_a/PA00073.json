@@ -1,0 +1,106 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00073",
+  "judul": "Data Annotation AI",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu data annotation ai",
+        "jelaskan data annotation",
+        "pengertian data annotation",
+        "apa itu anotasi data ai"
+      ],
+      "jawaban": [
+        "Data Annotation AI adalah proses memberikan label atau tanda pada data agar sistem AI dapat memahami, mengenali, dan mempelajari pola tertentu."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi data annotation",
+        "fungsi data annotation ai",
+        "kegunaan anotasi data"
+      ],
+      "jawaban": [
+        "Data Annotation berfungsi membantu AI memahami arti dari data seperti teks, gambar, suara, dan video sehingga model dapat belajar dengan lebih baik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa data annotation penting",
+        "kenapa anotasi data penting",
+        "manfaat data annotation"
+      ],
+      "jawaban": [
+        "Data Annotation penting karena banyak sistem AI membutuhkan data berlabel agar dapat mengenali pola dan membuat prediksi yang akurat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana data annotation bekerja",
+        "cara kerja data annotation",
+        "proses anotasi data"
+      ],
+      "jawaban": [
+        "Data Annotation bekerja dengan memberikan kategori, tag, atau informasi tambahan pada data sehingga AI dapat memahami hubungan antara data dan hasil yang diinginkan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh data annotation",
+        "contoh anotasi data ai"
+      ],
+      "jawaban": [
+        "Contoh Data Annotation adalah memberi label pada gambar kucing, menandai emosi dalam teks, atau mengelompokkan percakapan berdasarkan tujuan pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "jenis jenis data annotation",
+        "macam macam anotasi data"
+      ],
+      "jawaban": [
+        "Jenis Data Annotation meliputi text annotation, image annotation, audio annotation, video annotation, dan data classification."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan data annotation dengan machine learning",
+        "data annotation dan machine learning",
+        "label data untuk training"
+      ],
+      "jawaban": [
+        "Machine Learning menggunakan data berlabel hasil Data Annotation agar model dapat belajar mengenali pola dan membuat prediksi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan data annotation dengan dataset ai",
+        "annotation dataset",
+        "dataset berlabel ai"
+      ],
+      "jawaban": [
+        "Data Annotation membuat dataset menjadi lebih terstruktur karena setiap data memiliki informasi tambahan yang membantu proses pembelajaran AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana data annotation digunakan pada mrr ai",
+        "data annotation mrr ai",
+        "label data mrr ai"
+      ],
+      "jawaban": [
+        "Pada MRR AI, Data Annotation dapat digunakan untuk memberi kategori pada percakapan, mengelompokkan pengetahuan, dan membantu AI memahami berbagai jenis pertanyaan pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat sistem data annotation",
+        "cara membuat anotasi data otomatis",
+        "otomatisasi data annotation"
+      ],
+      "jawaban": [
+        "Sistem Data Annotation dapat dibuat dengan aturan klasifikasi, tools anotasi, model AI bantuan, dan proses validasi agar label data tetap akurat."
+      ]
+    }
+  ]
+}
