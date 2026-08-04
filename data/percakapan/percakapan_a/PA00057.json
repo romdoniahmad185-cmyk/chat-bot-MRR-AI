@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00057",
+  "judul": "Retrieval Augmented Generation",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu retrieval augmented generation",
+        "jelaskan rag ai",
+        "pengertian rag",
+        "apa itu rag"
+      ],
+      "jawaban": [
+        "Retrieval Augmented Generation atau RAG adalah metode AI yang menggabungkan sistem pencarian informasi dengan kemampuan menghasilkan jawaban menggunakan model bahasa."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi rag",
+        "fungsi retrieval augmented generation",
+        "kegunaan rag ai"
+      ],
+      "jawaban": [
+        "RAG berfungsi membantu AI mendapatkan informasi dari sumber data tertentu sebelum membuat jawaban sehingga hasilnya lebih akurat dan sesuai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa rag penting",
+        "kenapa rag penting",
+        "manfaat rag ai"
+      ],
+      "jawaban": [
+        "RAG penting karena AI tidak hanya mengandalkan pengetahuan bawaan model, tetapi dapat menggunakan data tambahan yang diberikan oleh pemilik sistem."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana rag bekerja",
+        "cara kerja rag",
+        "alur kerja rag ai"
+      ],
+      "jawaban": [
+        "RAG bekerja dengan mencari informasi yang relevan dari database, mengambil data tersebut, kemudian menggunakannya sebagai referensi untuk menghasilkan jawaban."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh rag",
+        "contoh penggunaan rag"
+      ],
+      "jawaban": [
+        "Contoh RAG adalah chatbot perusahaan yang mengambil informasi produk dari database perusahaan lalu membuat jawaban berdasarkan data tersebut."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan rag dengan vector database",
+        "rag dan vector database",
+        "vector database pada rag"
+      ],
+      "jawaban": [
+        "Vector Database menjadi tempat penyimpanan embedding yang digunakan RAG untuk mencari informasi berdasarkan kemiripan makna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan rag dengan knowledge base",
+        "rag dan knowledge base",
+        "knowledge base untuk rag"
+      ],
+      "jawaban": [
+        "Knowledge Base menyediakan informasi, sedangkan RAG mengambil informasi tersebut dan menggunakannya untuk membantu AI menghasilkan jawaban."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan rag dengan llm",
+        "rag dan llm",
+        "llm menggunakan rag"
+      ],
+      "jawaban": [
+        "RAG melengkapi LLM dengan memberikan informasi tambahan dari sumber eksternal sehingga jawaban yang dihasilkan lebih relevan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah rag bisa digunakan untuk webkita ai",
+        "rag pada webkita ai",
+        "implementasi rag webkita ai"
+      ],
+      "jawaban": [
+        "RAG sangat cocok digunakan pada WEBKITA AI karena memungkinkan AI menggunakan data percakapan, kosakata, matematika, dan informasi bisnis sebagai sumber pengetahuan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat sistem rag",
+        "cara membuat rag ai",
+        "ingin membuat rag"
+      ],
+      "jawaban": [
+        "Membuat sistem RAG dapat dilakukan dengan menyiapkan data, membuat embedding, menyimpan data dalam Vector Database, melakukan pencarian informasi, lalu mengirim hasilnya ke mesin pembuat jawaban."
+      ]
+    }
+  ]
+}
