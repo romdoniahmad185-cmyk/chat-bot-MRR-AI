@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00069",
+  "judul": "AI Planning System",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu ai planning system",
+        "jelaskan ai planning",
+        "pengertian ai planning system",
+        "apa itu sistem perencanaan ai"
+      ],
+      "jawaban": [
+        "AI Planning System adalah kemampuan AI untuk membuat rencana langkah demi langkah dalam menyelesaikan tujuan tertentu berdasarkan informasi yang tersedia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi ai planning",
+        "fungsi ai planning system",
+        "kegunaan ai planning"
+      ],
+      "jawaban": [
+        "AI Planning berfungsi membantu AI menentukan urutan tindakan, memilih strategi, dan menyelesaikan tugas secara lebih terstruktur."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa ai planning penting",
+        "kenapa ai planning penting",
+        "manfaat ai planning"
+      ],
+      "jawaban": [
+        "AI Planning penting karena membuat AI mampu menyelesaikan masalah kompleks dengan membagi tujuan besar menjadi beberapa langkah kecil."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana ai planning bekerja",
+        "cara kerja ai planning",
+        "alur ai planning"
+      ],
+      "jawaban": [
+        "AI Planning bekerja dengan memahami tujuan, menganalisis kondisi saat ini, menentukan langkah yang diperlukan, lalu menjalankan rencana untuk mencapai hasil."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh ai planning",
+        "contoh penggunaan ai planning"
+      ],
+      "jawaban": [
+        "Contoh AI Planning adalah AI yang membuat strategi pemasaran, menyusun jadwal pekerjaan, merancang perjalanan, atau mengatur proses bisnis."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan ai planning dengan ai agent",
+        "ai planning dan ai agent",
+        "agent menggunakan planning"
+      ],
+      "jawaban": [
+        "AI Agent menggunakan AI Planning untuk menentukan langkah-langkah yang harus dilakukan dalam menyelesaikan tugas pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan ai planning dengan reasoning engine",
+        "planning dan reasoning",
+        "reasoning menggunakan planning"
+      ],
+      "jawaban": [
+        "Reasoning Engine membantu AI memahami masalah, sedangkan AI Planning membantu menentukan urutan tindakan untuk mencapai tujuan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh ai planning untuk bisnis",
+        "ai planning bisnis",
+        "perencanaan bisnis menggunakan ai"
+      ],
+      "jawaban": [
+        "AI Planning dapat membantu membuat rencana bisnis seperti strategi pemasaran, target pelanggan, jadwal konten, dan rekomendasi pengembangan usaha."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana ai planning digunakan pada webkita ai",
+        "ai planning webkita ai",
+        "implementasi planning ai"
+      ],
+      "jawaban": [
+        "Pada WEBKITA AI, AI Planning dapat digunakan untuk membantu pelanggan membuat rencana digital bisnis seperti strategi website, pemasaran, dan pengembangan usaha."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat ai planning system",
+        "cara membuat sistem perencanaan ai",
+        "ingin membuat ai planner"
+      ],
+      "jawaban": [
+        "Membuat AI Planning System membutuhkan tujuan yang jelas, data pendukung, kemampuan analisis, aturan pengambilan keputusan, dan kemampuan menjalankan langkah yang telah direncanakan."
+      ]
+    }
+  ]
+}
