@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00021",
+  "judul": "Pemrograman Dasar",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu pemrograman",
+        "jelaskan pemrograman",
+        "pengertian pemrograman"
+      ],
+      "jawaban": [
+        "Pemrograman adalah proses membuat instruksi atau kode agar komputer dapat menjalankan tugas tertentu."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu bahasa pemrograman",
+        "jelaskan bahasa pemrograman",
+        "pengertian bahasa pemrograman"
+      ],
+      "jawaban": [
+        "Bahasa pemrograman adalah bahasa yang digunakan untuk menulis kode agar dapat dipahami dan dijalankan oleh komputer."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu python",
+        "jelaskan python",
+        "pengertian python"
+      ],
+      "jawaban": [
+        "Python adalah bahasa pemrograman yang sederhana, mudah dipelajari, dan banyak digunakan untuk pengembangan web, analisis data, kecerdasan buatan, serta otomatisasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu html",
+        "jelaskan html",
+        "pengertian html"
+      ],
+      "jawaban": [
+        "HTML atau HyperText Markup Language adalah bahasa markup yang digunakan untuk membuat struktur halaman web."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu css",
+        "jelaskan css",
+        "pengertian css"
+      ],
+      "jawaban": [
+        "CSS atau Cascading Style Sheets digunakan untuk mengatur tampilan dan desain halaman web."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu javascript",
+        "jelaskan javascript",
+        "pengertian javascript"
+      ],
+      "jawaban": [
+        "JavaScript adalah bahasa pemrograman yang digunakan untuk membuat halaman web menjadi interaktif."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu php",
+        "jelaskan php",
+        "pengertian php"
+      ],
+      "jawaban": [
+        "PHP adalah bahasa pemrograman yang banyak digunakan untuk membangun aplikasi web di sisi server."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu json",
+        "jelaskan json",
+        "pengertian json"
+      ],
+      "jawaban": [
+        "JSON atau JavaScript Object Notation adalah format pertukaran data yang ringan, mudah dibaca manusia, dan mudah diproses oleh program."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa belajar pemrograman",
+        "kenapa belajar coding",
+        "apa manfaat belajar coding"
+      ],
+      "jawaban": [
+        "Belajar pemrograman membantu mengembangkan kemampuan berpikir logis, memecahkan masalah, dan membuka peluang di berbagai bidang teknologi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku ingin belajar pemrograman",
+        "saya ingin belajar coding",
+        "ingin menjadi programmer"
+      ],
+      "jawaban": [
+        "Belajar secara bertahap, mulai dari dasar-dasar pemrograman, sering berlatih membuat proyek, dan terus mencoba memecahkan masalah adalah cara yang baik untuk menjadi programmer."
+      ]
+    }
+  ]
+}
