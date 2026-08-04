@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00089",
+  "judul": "AI Agent System",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu ai agent system",
+        "jelaskan ai agent",
+        "pengertian agen ai",
+        "apa itu sistem agen ai"
+      ],
+      "jawaban": [
+        "AI Agent System adalah sistem AI yang mampu memahami tujuan, membuat keputusan, melakukan tindakan, dan menyelesaikan tugas secara otomatis dengan sedikit campur tangan manusia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi ai agent",
+        "fungsi sistem agen ai",
+        "kegunaan ai agent"
+      ],
+      "jawaban": [
+        "AI Agent berfungsi membantu pengguna menjalankan tugas seperti mencari informasi, membuat rencana, mengelola pekerjaan, dan mengambil tindakan berdasarkan tujuan tertentu."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa ai agent penting",
+        "kenapa menggunakan ai agent",
+        "manfaat ai agent"
+      ],
+      "jawaban": [
+        "AI Agent penting karena dapat mengubah AI dari sistem yang hanya menjawab menjadi sistem yang mampu membantu menyelesaikan pekerjaan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana ai agent bekerja",
+        "cara kerja ai agent",
+        "alur sistem agen ai"
+      ],
+      "jawaban": [
+        "AI Agent bekerja dengan menerima tujuan, memahami kondisi, melakukan perencanaan, menggunakan tools, menjalankan tindakan, dan mengevaluasi hasil."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "komponen ai agent system",
+        "bagian bagian ai agent",
+        "struktur agen ai"
+      ],
+      "jawaban": [
+        "Komponen AI Agent terdiri dari model AI, memory, reasoning engine, planning system, tools, knowledge base, dan sistem evaluasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan chatbot dan ai agent",
+        "beda chatbot dengan ai agent",
+        "chatbot vs ai agent"
+      ],
+      "jawaban": [
+        "Chatbot biasanya fokus menjawab percakapan, sedangkan AI Agent dapat merencanakan dan melakukan tindakan untuk mencapai tujuan pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh ai agent",
+        "contoh penggunaan agen ai"
+      ],
+      "jawaban": [
+        "Contoh AI Agent adalah asisten bisnis otomatis, AI customer service, AI marketing agent, AI coding assistant, dan AI administrasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan ai agent dengan planning system",
+        "ai agent menggunakan planning",
+        "agent dan planning"
+      ],
+      "jawaban": [
+        "AI Agent menggunakan Planning System untuk menentukan langkah yang harus dilakukan agar tujuan pengguna dapat tercapai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana ai agent digunakan pada mrr ai",
+        "ai agent mrr ai",
+        "agen otomatis mrr ai"
+      ],
+      "jawaban": [
+        "Pada MRR AI, AI Agent dapat digunakan untuk membantu bisnis, mengelola tugas, memberikan konsultasi, dan menjalankan proses otomatis berdasarkan kebutuhan pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat ai agent system",
+        "cara membuat agen ai",
+        "membangun ai agent"
+      ],
+      "jawaban": [
+        "Membangun AI Agent membutuhkan model bahasa, memory, reasoning engine, planning system, tools, database, dan mekanisme pengambilan keputusan."
+      ]
+    }
+  ]
+}
