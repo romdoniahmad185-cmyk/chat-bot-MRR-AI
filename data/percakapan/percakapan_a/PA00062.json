@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00062",
+  "judul": "Transformer Architecture",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu transformer architecture",
+        "jelaskan transformer",
+        "pengertian transformer ai",
+        "apa itu arsitektur transformer"
+      ],
+      "jawaban": [
+        "Transformer Architecture adalah arsitektur jaringan saraf dalam AI yang dirancang untuk memahami hubungan antar kata dalam sebuah teks menggunakan mekanisme attention."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi transformer",
+        "fungsi transformer ai",
+        "kegunaan transformer"
+      ],
+      "jawaban": [
+        "Transformer berfungsi membantu AI memahami konteks bahasa, memproses teks dalam jumlah besar, dan menghasilkan respons yang lebih akurat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa transformer penting",
+        "kenapa transformer penting",
+        "manfaat transformer ai"
+      ],
+      "jawaban": [
+        "Transformer penting karena mampu memahami hubungan antar kata dalam kalimat dan menjadi dasar banyak model AI bahasa modern."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana transformer bekerja",
+        "cara kerja transformer",
+        "transformer bekerja bagaimana"
+      ],
+      "jawaban": [
+        "Transformer bekerja dengan memproses token, menggunakan mekanisme attention untuk memahami hubungan antar bagian teks, lalu menghasilkan representasi informasi yang lebih bermakna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu attention dalam transformer",
+        "fungsi attention transformer",
+        "self attention ai"
+      ],
+      "jawaban": [
+        "Attention adalah mekanisme yang memungkinkan model AI memberikan fokus lebih besar pada kata atau bagian teks yang penting dalam memahami sebuah kalimat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan transformer dengan llm",
+        "transformer dan llm",
+        "llm menggunakan transformer"
+      ],
+      "jawaban": [
+        "Sebagian besar Large Language Model modern menggunakan arsitektur Transformer sebagai dasar untuk memahami dan menghasilkan bahasa."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan transformer dengan chatgpt",
+        "transformer pada chatgpt",
+        "chatgpt menggunakan transformer"
+      ],
+      "jawaban": [
+        "Model seperti ChatGPT menggunakan teknologi berbasis Transformer untuk memahami pertanyaan dan menghasilkan jawaban menggunakan bahasa alami."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan neural network dan transformer",
+        "beda neural network dengan transformer",
+        "transformer vs neural network"
+      ],
+      "jawaban": [
+        "Transformer adalah jenis arsitektur Neural Network yang dirancang khusus untuk menangani hubungan antar data berurutan seperti bahasa."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh penggunaan transformer",
+        "transformer digunakan dimana"
+      ],
+      "jawaban": [
+        "Transformer digunakan pada chatbot AI, penerjemah bahasa, pencarian pintar, analisis teks, dan berbagai sistem AI modern."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana transformer digunakan pada webkita ai",
+        "transformer webkita ai",
+        "implementasi transformer ai"
+      ],
+      "jawaban": [
+        "Pada WEBKITA AI, konsep Transformer dapat digunakan untuk meningkatkan pemahaman bahasa, analisis konteks percakapan, dan pembuatan jawaban yang lebih alami."
+      ]
+    }
+  ]
+}
