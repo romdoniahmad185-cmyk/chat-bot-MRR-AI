@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00027",
+  "judul": "Domain dan DNS",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu domain",
+        "jelaskan domain",
+        "pengertian domain"
+      ],
+      "jawaban": [
+        "Domain adalah nama unik yang digunakan untuk mengakses sebuah website di internet, sehingga pengguna tidak perlu mengingat alamat IP."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi domain",
+        "fungsi domain",
+        "kegunaan domain"
+      ],
+      "jawaban": [
+        "Domain berfungsi sebagai alamat yang mudah diingat untuk mengakses website atau layanan di internet."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu dns",
+        "jelaskan dns",
+        "pengertian dns"
+      ],
+      "jawaban": [
+        "DNS atau Domain Name System adalah sistem yang menerjemahkan nama domain menjadi alamat IP agar komputer dapat menemukan server tujuan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi dns",
+        "fungsi dns",
+        "kegunaan dns"
+      ],
+      "jawaban": [
+        "DNS berfungsi menghubungkan nama domain dengan alamat IP sehingga website dapat diakses menggunakan nama yang mudah diingat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu alamat ip",
+        "jelaskan ip address",
+        "pengertian ip address"
+      ],
+      "jawaban": [
+        "Alamat IP adalah identitas numerik yang digunakan untuk mengenali perangkat atau server di dalam jaringan komputer."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu subdomain",
+        "jelaskan subdomain",
+        "pengertian subdomain"
+      ],
+      "jawaban": [
+        "Subdomain adalah bagian tambahan dari sebuah domain yang digunakan untuk memisahkan layanan atau bagian tertentu dari sebuah website."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu tld",
+        "jelaskan top level domain",
+        "pengertian tld"
+      ],
+      "jawaban": [
+        "Top Level Domain atau TLD adalah akhiran pada nama domain, seperti .com, .id, .net, atau .org."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu nameserver",
+        "jelaskan nameserver",
+        "pengertian nameserver"
+      ],
+      "jawaban": [
+        "Nameserver adalah server yang menyimpan informasi DNS dan mengarahkan nama domain ke server yang sesuai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan domain dan hosting",
+        "beda domain dan hosting",
+        "hosting dengan domain"
+      ],
+      "jawaban": [
+        "Domain adalah alamat website, sedangkan hosting adalah tempat penyimpanan file dan data website."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara kerja dns",
+        "cara kerja dns",
+        "dns bekerja bagaimana"
+      ],
+      "jawaban": [
+        "Ketika pengguna mengetik nama domain, DNS mencari alamat IP yang sesuai, kemudian browser menghubungi server untuk menampilkan website."
+      ]
+    }
+  ]
+}
