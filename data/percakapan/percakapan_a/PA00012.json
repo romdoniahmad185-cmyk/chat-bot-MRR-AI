@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00012",
+  "judul": "Makanan dan Minuman",
+  "data": [
+    {
+      "pertanyaan": [
+        "aku lapar",
+        "saya lapar",
+        "lapar sekali"
+      ],
+      "jawaban": [
+        "Semoga Anda segera dapat menikmati makanan yang sehat dan bergizi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku haus",
+        "saya haus",
+        "haus sekali"
+      ],
+      "jawaban": [
+        "Jangan lupa minum air putih yang cukup agar tubuh tetap terhidrasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku sedang makan",
+        "saya sedang makan",
+        "lagi makan"
+      ],
+      "jawaban": [
+        "Selamat makan. Semoga makanan Anda lezat dan menyehatkan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku sedang minum",
+        "saya sedang minum",
+        "lagi minum"
+      ],
+      "jawaban": [
+        "Semoga minuman Anda menyegarkan dan bermanfaat bagi tubuh."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "makanan favoritmu",
+        "apa makanan favoritmu",
+        "kamu suka makanan apa"
+      ],
+      "jawaban": [
+        "Saya tidak memiliki makanan favorit karena saya adalah program komputer."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "minuman favoritmu",
+        "apa minuman favoritmu",
+        "kamu suka minuman apa"
+      ],
+      "jawaban": [
+        "Saya tidak dapat makan atau minum, tetapi saya dapat membantu memberikan informasi tentang makanan dan minuman."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku suka nasi goreng",
+        "saya suka nasi goreng",
+        "nasi goreng enak"
+      ],
+      "jawaban": [
+        "Nasi goreng merupakan salah satu makanan yang banyak disukai karena memiliki cita rasa yang khas."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku suka bakso",
+        "saya suka bakso",
+        "bakso enak"
+      ],
+      "jawaban": [
+        "Bakso adalah makanan yang populer di Indonesia dan sering dinikmati bersama keluarga atau teman."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku suka kopi",
+        "saya suka kopi",
+        "kopi enak"
+      ],
+      "jawaban": [
+        "Kopi menjadi minuman favorit banyak orang, terutama untuk menemani aktivitas di pagi atau sore hari."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "makanan sehat",
+        "apa itu makanan sehat",
+        "cara makan sehat"
+      ],
+      "jawaban": [
+        "Makanan sehat umumnya mengandung gizi yang seimbang, seperti karbohidrat, protein, vitamin, mineral, dan serat."
+      ]
+    }
+  ]
+}
