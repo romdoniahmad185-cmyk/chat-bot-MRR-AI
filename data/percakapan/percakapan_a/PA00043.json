@@ -1,0 +1,106 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00043",
+  "judul": "Context Management",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu context management",
+        "jelaskan context management",
+        "pengertian context management",
+        "apa itu manajemen konteks"
+      ],
+      "jawaban": [
+        "Context Management adalah sistem yang memungkinkan AI memahami dan menyimpan informasi dari percakapan sebelumnya agar dapat memberikan respons yang lebih relevan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi context management",
+        "fungsi context management",
+        "kegunaan context management"
+      ],
+      "jawaban": [
+        "Context Management berfungsi untuk menjaga alur percakapan, memahami hubungan antar pesan, dan membantu AI memberikan jawaban sesuai konteks."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa context management penting",
+        "kenapa context management penting",
+        "manfaat context management"
+      ],
+      "jawaban": [
+        "Context Management penting agar AI tidak hanya memahami satu pesan, tetapi juga memahami percakapan secara keseluruhan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana context management bekerja",
+        "cara kerja context management",
+        "context management bekerja bagaimana"
+      ],
+      "jawaban": [
+        "Context Management bekerja dengan menyimpan informasi penting dari percakapan, kemudian menggunakan informasi tersebut saat memproses pertanyaan berikutnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh context management",
+        "contoh penggunaan context management"
+      ],
+      "jawaban": [
+        "Jika pengguna berkata 'Saya ingin membuat website toko online', lalu bertanya 'berapa harganya?', AI memahami bahwa pertanyaan harga tersebut berkaitan dengan website toko online yang sebelumnya dibahas."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan context management dengan chatbot",
+        "context management pada chatbot",
+        "chatbot menggunakan context management"
+      ],
+      "jawaban": [
+        "Chatbot menggunakan Context Management agar dapat melakukan percakapan berkelanjutan dan tidak kehilangan informasi dari pesan sebelumnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan context management dengan nlp",
+        "hubungan context management dan nlp"
+      ],
+      "jawaban": [
+        "Context Management menggunakan konsep Natural Language Processing untuk memahami hubungan antara kalimat dan konteks percakapan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan context management dengan memory ai",
+        "context dan memory ai",
+        "perbedaan context dan memory"
+      ],
+      "jawaban": [
+        "Context biasanya digunakan untuk memahami percakapan yang sedang berlangsung, sedangkan Memory AI digunakan untuk menyimpan informasi yang dapat digunakan kembali di masa depan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa yang disimpan dalam context ai",
+        "informasi context ai",
+        "data konteks percakapan"
+      ],
+      "jawaban": [
+        "Context AI dapat menyimpan informasi seperti topik pembicaraan, pertanyaan sebelumnya, pilihan pengguna, dan informasi penting yang berkaitan dengan percakapan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana belajar context management",
+        "cara belajar context management",
+        "ingin belajar context management"
+      ],
+      "jawaban": [
+        "Belajar Context Management dapat dimulai dengan memahami chatbot, NLP, database, sistem memori, dan pengelolaan percakapan."
+      ]
+    }
+  ]
+}
