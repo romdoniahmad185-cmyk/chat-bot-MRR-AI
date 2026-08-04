@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00064",
+  "judul": "Prompt Engineering",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu prompt engineering",
+        "jelaskan prompt engineering",
+        "pengertian prompt engineering",
+        "apa itu rekayasa prompt"
+      ],
+      "jawaban": [
+        "Prompt Engineering adalah teknik membuat dan menyusun instruksi yang tepat agar AI dapat memahami tujuan pengguna dan menghasilkan jawaban yang sesuai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi prompt engineering",
+        "fungsi prompt engineering",
+        "kegunaan prompt engineering"
+      ],
+      "jawaban": [
+        "Prompt Engineering berfungsi meningkatkan kualitas hasil AI dengan memberikan instruksi yang jelas, terstruktur, dan sesuai tujuan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa prompt engineering penting",
+        "kenapa prompt engineering penting",
+        "manfaat prompt engineering"
+      ],
+      "jawaban": [
+        "Prompt Engineering penting karena kualitas jawaban AI sangat dipengaruhi oleh bagaimana instruksi diberikan kepada model."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara membuat prompt yang baik",
+        "cara membuat prompt ai",
+        "prompt yang bagus"
+      ],
+      "jawaban": [
+        "Prompt yang baik biasanya berisi tujuan yang jelas, konteks, informasi pendukung, format jawaban, dan batasan yang diperlukan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa saja bagian prompt",
+        "struktur prompt",
+        "komponen prompt"
+      ],
+      "jawaban": [
+        "Struktur prompt dapat terdiri dari peran AI, tujuan, konteks, instruksi, data pendukung, dan format output yang diinginkan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh prompt sederhana",
+        "contoh prompt ai"
+      ],
+      "jawaban": [
+        "Contoh prompt: 'Bertindak sebagai konsultan bisnis, analisis strategi pemasaran untuk usaha makanan kecil dan berikan langkah yang mudah dilakukan.'"
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan prompt engineering dengan llm",
+        "prompt engineering dan llm",
+        "llm membutuhkan prompt"
+      ],
+      "jawaban": [
+        "Prompt Engineering membantu pengguna memberikan instruksi yang lebih efektif kepada LLM agar menghasilkan jawaban yang lebih akurat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan prompt engineering dengan chatbot",
+        "prompt engineering pada chatbot",
+        "chatbot menggunakan prompt"
+      ],
+      "jawaban": [
+        "Pada chatbot AI, Prompt Engineering digunakan untuk mengatur karakter, gaya bahasa, dan cara AI merespons pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana prompt engineering digunakan pada webkita ai",
+        "prompt engineering webkita ai",
+        "prompt untuk webkita ai"
+      ],
+      "jawaban": [
+        "Pada WEBKITA AI, Prompt Engineering dapat digunakan untuk mengatur perilaku AI agar mampu menjawab sesuai tujuan bisnis, layanan, dan karakter WEBKITA."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat sistem prompt ai",
+        "cara membuat prompt system",
+        "system prompt ai"
+      ],
+      "jawaban": [
+        "Sistem Prompt AI dibuat dengan menentukan peran AI, aturan komunikasi, tujuan, batasan, dan cara AI menangani berbagai jenis pertanyaan."
+      ]
+    }
+  ]
+}
