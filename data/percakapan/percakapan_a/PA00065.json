@@ -1,0 +1,108 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00065",
+  "judul": "AI Agent",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu ai agent",
+        "jelaskan ai agent",
+        "pengertian ai agent",
+        "apa itu agen ai"
+      ],
+      "jawaban": [
+        "AI Agent adalah sistem kecerdasan buatan yang mampu memahami tujuan, mengambil keputusan, menggunakan alat, dan melakukan tindakan secara otomatis untuk menyelesaikan tugas tertentu."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi ai agent",
+        "fungsi ai agent",
+        "kegunaan ai agent"
+      ],
+      "jawaban": [
+        "AI Agent berfungsi membantu pengguna menyelesaikan pekerjaan secara otomatis seperti mencari informasi, mengolah data, membuat laporan, dan menjalankan tugas tertentu."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan chatbot dan ai agent",
+        "beda chatbot dengan ai agent",
+        "chatbot vs ai agent"
+      ],
+      "jawaban": [
+        "Chatbot biasanya fokus menjawab percakapan, sedangkan AI Agent dapat memahami tujuan, membuat rencana, menggunakan alat, dan melakukan tindakan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana ai agent bekerja",
+        "cara kerja ai agent",
+        "alur kerja ai agent"
+      ],
+      "jawaban": [
+        "AI Agent bekerja dengan menerima tujuan pengguna, memahami konteks, membuat rencana tindakan, menggunakan sumber informasi atau alat, lalu memberikan hasil."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "komponen ai agent",
+        "bagian ai agent",
+        "struktur ai agent"
+      ],
+      "jawaban": [
+        "Komponen AI Agent dapat terdiri dari model AI, memori, perencanaan, alat eksternal, sistem pengambilan keputusan, dan eksekusi tindakan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu memory pada ai agent",
+        "memori ai agent",
+        "fungsi memory ai"
+      ],
+      "jawaban": [
+        "Memory pada AI Agent berfungsi menyimpan informasi penting agar sistem dapat mengingat konteks, preferensi, atau riwayat interaksi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh ai agent",
+        "penggunaan ai agent",
+        "ai agent digunakan dimana"
+      ],
+      "jawaban": [
+        "AI Agent dapat digunakan sebagai asisten bisnis, customer service otomatis, admin digital, analis data, dan pengelola tugas."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan ai agent dengan llm",
+        "ai agent dan llm",
+        "llm sebagai otak ai agent"
+      ],
+      "jawaban": [
+        "LLM dapat menjadi otak bahasa AI Agent untuk memahami instruksi, sedangkan agent menambahkan kemampuan mengambil keputusan dan melakukan tindakan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana ai agent digunakan pada webkita ai",
+        "ai agent webkita ai",
+        "implementasi ai agent webkita"
+      ],
+      "jawaban": [
+        "Pada WEBKITA AI, AI Agent dapat digunakan sebagai asisten bisnis yang membantu pelanggan, memberikan rekomendasi layanan, mengelola informasi usaha, dan membantu pekerjaan digital."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat ai agent",
+        "cara membuat ai agent",
+        "ingin membuat agen ai"
+      ],
+      "jawaban": [
+        "Membuat AI Agent membutuhkan model AI, database pengetahuan, sistem memori, kemampuan mengambil keputusan, dan koneksi dengan berbagai alat atau layanan."
+      ]
+    }
+  ]
+}
