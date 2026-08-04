@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00025",
+  "judul": "Framework Web",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu framework",
+        "jelaskan framework",
+        "pengertian framework"
+      ],
+      "jawaban": [
+        "Framework adalah kumpulan alat, pustaka, dan aturan yang membantu pengembang membuat aplikasi dengan lebih cepat, rapi, dan terstruktur."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi framework",
+        "fungsi framework",
+        "kegunaan framework"
+      ],
+      "jawaban": [
+        "Framework membantu mempercepat proses pengembangan aplikasi, mengurangi penulisan kode yang berulang, dan menjaga struktur proyek tetap rapi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu fastapi",
+        "jelaskan fastapi",
+        "pengertian fastapi"
+      ],
+      "jawaban": [
+        "FastAPI adalah framework Python yang dirancang untuk membangun API dengan performa tinggi, mudah digunakan, dan mendukung dokumentasi otomatis."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu flask",
+        "jelaskan flask",
+        "pengertian flask"
+      ],
+      "jawaban": [
+        "Flask adalah framework web Python yang ringan dan fleksibel, cocok untuk aplikasi kecil hingga menengah."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu django",
+        "jelaskan django",
+        "pengertian django"
+      ],
+      "jawaban": [
+        "Django adalah framework web Python yang menyediakan banyak fitur bawaan sehingga cocok untuk membangun aplikasi web yang besar dan aman."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu laravel",
+        "jelaskan laravel",
+        "pengertian laravel"
+      ],
+      "jawaban": [
+        "Laravel adalah framework PHP yang mempermudah pengembangan aplikasi web dengan struktur kode yang rapi dan fitur yang lengkap."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu express js",
+        "jelaskan express",
+        "pengertian express js"
+      ],
+      "jawaban": [
+        "Express.js adalah framework berbasis Node.js yang digunakan untuk membangun aplikasi web dan REST API dengan cepat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "framework python apa saja",
+        "contoh framework python",
+        "framework untuk python"
+      ],
+      "jawaban": [
+        "Beberapa framework Python yang populer antara lain FastAPI, Flask, Django, Tornado, dan Pyramid."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa menggunakan framework",
+        "kenapa menggunakan framework",
+        "manfaat framework"
+      ],
+      "jawaban": [
+        "Framework membantu meningkatkan produktivitas, menjaga kualitas kode, mempercepat pengembangan, dan mempermudah pemeliharaan aplikasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "framework terbaik",
+        "framework web terbaik",
+        "framework paling populer"
+      ],
+      "jawaban": [
+        "Tidak ada framework yang paling baik untuk semua kebutuhan. Pilihan framework sebaiknya disesuaikan dengan bahasa pemrograman, jenis proyek, kebutuhan fitur, dan pengalaman pengembang."
+      ]
+    }
+  ]
+}
