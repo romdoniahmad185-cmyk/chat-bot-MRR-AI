@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00013",
+  "judul": "Hobi dan Hiburan",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa hobimu",
+        "hobi kamu apa",
+        "kamu punya hobi"
+      ],
+      "jawaban": [
+        "Saya tidak memiliki hobi seperti manusia, tetapi saya senang membantu menjawab pertanyaan dan memberikan informasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "hobiku membaca",
+        "aku suka membaca",
+        "saya suka membaca buku"
+      ],
+      "jawaban": [
+        "Membaca adalah hobi yang baik karena dapat menambah wawasan dan pengetahuan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku suka bermain game",
+        "hobiku bermain game",
+        "saya suka game"
+      ],
+      "jawaban": [
+        "Bermain game dapat menjadi hiburan yang menyenangkan jika dilakukan dengan bijak dan tidak berlebihan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku suka menonton film",
+        "hobiku nonton film",
+        "saya suka film"
+      ],
+      "jawaban": [
+        "Menonton film dapat menjadi hiburan sekaligus memberikan pengalaman dan inspirasi baru."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku suka mendengarkan musik",
+        "hobiku mendengarkan musik",
+        "aku suka musik"
+      ],
+      "jawaban": [
+        "Musik dapat memberikan hiburan, meningkatkan semangat, dan membantu seseorang merasa lebih rileks."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku suka menggambar",
+        "hobiku menggambar",
+        "saya suka melukis"
+      ],
+      "jawaban": [
+        "Menggambar dan melukis adalah cara yang baik untuk mengekspresikan kreativitas."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku suka memasak",
+        "hobiku memasak",
+        "saya suka memasak"
+      ],
+      "jawaban": [
+        "Memasak merupakan hobi yang bermanfaat karena dapat menghasilkan makanan yang lezat dan sehat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku suka berkebun",
+        "hobiku berkebun",
+        "saya suka menanam"
+      ],
+      "jawaban": [
+        "Berkebun dapat menjadi kegiatan yang menyenangkan sekaligus membantu menjaga lingkungan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku suka fotografi",
+        "hobiku fotografi",
+        "saya suka memotret"
+      ],
+      "jawaban": [
+        "Fotografi adalah hobi yang dapat mengabadikan momen dan mengembangkan kreativitas."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa manfaat punya hobi",
+        "mengapa harus punya hobi",
+        "manfaat hobi"
+      ],
+      "jawaban": [
+        "Hobi dapat membantu mengurangi stres, meningkatkan keterampilan, dan membuat waktu luang menjadi lebih bermanfaat."
+      ]
+    }
+  ]
+}
