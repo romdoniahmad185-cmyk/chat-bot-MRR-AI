@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00031",
+  "judul": "Deep Learning",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu deep learning",
+        "jelaskan deep learning",
+        "pengertian deep learning"
+      ],
+      "jawaban": [
+        "Deep Learning adalah cabang dari Machine Learning yang menggunakan jaringan saraf tiruan dengan banyak lapisan untuk mempelajari pola yang kompleks dari data."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi deep learning",
+        "fungsi deep learning",
+        "kegunaan deep learning"
+      ],
+      "jawaban": [
+        "Deep Learning digunakan untuk mengenali pola yang rumit pada data seperti gambar, suara, teks, dan video dengan tingkat akurasi yang tinggi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan deep learning dan machine learning",
+        "deep learning bagian dari machine learning",
+        "hubungan deep learning dengan ai"
+      ],
+      "jawaban": [
+        "Deep Learning merupakan bagian dari Machine Learning yang menggunakan jaringan saraf tiruan dengan banyak lapisan untuk mempelajari data."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh deep learning",
+        "contoh penggunaan deep learning",
+        "deep learning digunakan dimana"
+      ],
+      "jawaban": [
+        "Deep Learning digunakan pada pengenalan wajah, kendaraan otonom, penerjemah bahasa, chatbot, deteksi objek, dan pengenalan suara."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu neural network",
+        "jelaskan neural network",
+        "pengertian jaringan saraf tiruan"
+      ],
+      "jawaban": [
+        "Neural Network atau jaringan saraf tiruan adalah model komputasi yang terinspirasi dari cara kerja neuron pada otak manusia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa deep learning membutuhkan banyak data",
+        "kenapa deep learning perlu banyak data",
+        "deep learning butuh data besar"
+      ],
+      "jawaban": [
+        "Deep Learning membutuhkan banyak data agar model dapat mempelajari pola yang kompleks dan menghasilkan prediksi yang lebih akurat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa kelebihan deep learning",
+        "kelebihan deep learning",
+        "manfaat deep learning"
+      ],
+      "jawaban": [
+        "Deep Learning mampu mempelajari pola yang sangat kompleks, mengurangi kebutuhan rekayasa fitur manual, dan memberikan hasil yang baik pada berbagai tugas AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa kekurangan deep learning",
+        "kekurangan deep learning",
+        "kelemahan deep learning"
+      ],
+      "jawaban": [
+        "Deep Learning umumnya membutuhkan data yang besar, perangkat keras yang kuat, waktu pelatihan yang lebih lama, dan konsumsi daya komputasi yang tinggi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana deep learning bekerja",
+        "cara kerja deep learning",
+        "deep learning bekerja bagaimana"
+      ],
+      "jawaban": [
+        "Deep Learning bekerja dengan memproses data melalui banyak lapisan jaringan saraf sehingga mampu mengenali pola dan menghasilkan prediksi berdasarkan data yang dipelajari."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana belajar deep learning",
+        "cara belajar deep learning",
+        "ingin belajar deep learning"
+      ],
+      "jawaban": [
+        "Belajar Deep Learning sebaiknya dimulai dengan memahami Python, Machine Learning, matematika dasar, jaringan saraf tiruan, dan praktik menggunakan dataset."
+      ]
+    }
+  ]
+}
