@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00026",
+  "judul": "Server dan Hosting",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu server",
+        "jelaskan server",
+        "pengertian server"
+      ],
+      "jawaban": [
+        "Server adalah komputer atau sistem yang menyediakan layanan, data, atau sumber daya kepada perangkat lain melalui jaringan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi server",
+        "fungsi server",
+        "kegunaan server"
+      ],
+      "jawaban": [
+        "Server berfungsi untuk menyimpan data, menjalankan aplikasi, memproses permintaan dari pengguna, dan mengirimkan hasilnya kembali."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu hosting",
+        "jelaskan hosting",
+        "pengertian hosting"
+      ],
+      "jawaban": [
+        "Hosting adalah layanan yang menyediakan tempat untuk menyimpan file website atau aplikasi agar dapat diakses melalui internet."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi hosting",
+        "fungsi hosting",
+        "kegunaan hosting"
+      ],
+      "jawaban": [
+        "Hosting digunakan untuk menyimpan website atau aplikasi sehingga dapat diakses oleh pengguna kapan saja melalui internet."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu web server",
+        "jelaskan web server",
+        "pengertian web server"
+      ],
+      "jawaban": [
+        "Web server adalah perangkat lunak atau sistem yang menerima permintaan dari browser dan mengirimkan halaman website kepada pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu vps",
+        "jelaskan vps",
+        "pengertian virtual private server"
+      ],
+      "jawaban": [
+        "VPS atau Virtual Private Server adalah server virtual yang memberikan sumber daya khusus kepada setiap pengguna sehingga lebih fleksibel dibandingkan shared hosting."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu cloud server",
+        "jelaskan cloud server",
+        "pengertian cloud hosting"
+      ],
+      "jawaban": [
+        "Cloud server adalah server yang berjalan di lingkungan komputasi awan sehingga dapat diskalakan sesuai kebutuhan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan hosting dan server",
+        "hosting dan server",
+        "beda hosting dengan server"
+      ],
+      "jawaban": [
+        "Server adalah sistem yang menjalankan layanan, sedangkan hosting adalah layanan yang memanfaatkan server untuk menyimpan website atau aplikasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa website membutuhkan hosting",
+        "kenapa website perlu hosting",
+        "website harus pakai hosting"
+      ],
+      "jawaban": [
+        "Website memerlukan hosting agar file dan databasenya dapat disimpan serta diakses oleh pengguna melalui internet."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana memilih hosting",
+        "cara memilih hosting",
+        "tips memilih hosting"
+      ],
+      "jawaban": [
+        "Pilih hosting berdasarkan kebutuhan kapasitas penyimpanan, performa, keamanan, dukungan teknis, stabilitas layanan, dan anggaran yang tersedia."
+      ]
+    }
+  ]
+}
