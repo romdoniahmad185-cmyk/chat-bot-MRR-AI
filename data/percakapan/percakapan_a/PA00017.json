@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00017",
+  "judul": "Belanja",
+  "data": [
+    {
+      "pertanyaan": [
+        "aku mau belanja",
+        "saya mau belanja",
+        "ingin belanja"
+      ],
+      "jawaban": [
+        "Semoga kegiatan belanja Anda berjalan lancar dan mendapatkan barang yang dibutuhkan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku sedang belanja",
+        "saya sedang belanja",
+        "lagi belanja"
+      ],
+      "jawaban": [
+        "Selamat berbelanja. Semoga Anda menemukan produk yang sesuai dengan kebutuhan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "harga barang ini berapa",
+        "berapa harga barang ini",
+        "harga produk ini"
+      ],
+      "jawaban": [
+        "Saya belum mengetahui harga barang tersebut. Jika Anda menyebutkan nama produknya, saya akan mencoba membantu memberikan informasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "barang ini mahal",
+        "harganya mahal",
+        "terlalu mahal"
+      ],
+      "jawaban": [
+        "Jika menurut Anda terlalu mahal, Anda dapat membandingkan harga dengan toko lain atau mencari alternatif yang lebih sesuai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "barang ini murah",
+        "harganya murah",
+        "murah sekali"
+      ],
+      "jawaban": [
+        "Harga yang terjangkau tentu menjadi pertimbangan yang baik, tetapi jangan lupa memperhatikan kualitas produknya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku ingin membeli laptop",
+        "saya mau beli laptop",
+        "ingin beli laptop"
+      ],
+      "jawaban": [
+        "Sebelum membeli laptop, pertimbangkan kebutuhan, spesifikasi, kualitas, dan anggaran yang Anda miliki."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku ingin membeli handphone",
+        "saya mau beli hp",
+        "ingin beli smartphone"
+      ],
+      "jawaban": [
+        "Pilihlah handphone yang sesuai dengan kebutuhan, performa, kapasitas penyimpanan, dan anggaran Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "belanja online",
+        "aku suka belanja online",
+        "saya belanja online"
+      ],
+      "jawaban": [
+        "Belanja online memberikan kemudahan, tetapi pastikan Anda bertransaksi di toko yang terpercaya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "belanja di toko",
+        "aku ke toko",
+        "saya belanja langsung"
+      ],
+      "jawaban": [
+        "Belanja langsung di toko memungkinkan Anda melihat dan memeriksa kondisi barang sebelum membeli."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "tips belanja hemat",
+        "cara belanja hemat",
+        "bagaimana belanja hemat"
+      ],
+      "jawaban": [
+        "Buat daftar kebutuhan, tentukan anggaran, bandingkan harga, dan hindari membeli barang yang tidak benar-benar diperlukan."
+      ]
+    }
+  ]
+}
