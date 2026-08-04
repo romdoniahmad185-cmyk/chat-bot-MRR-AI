@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00022",
+  "judul": "Database",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu database",
+        "jelaskan database",
+        "pengertian database"
+      ],
+      "jawaban": [
+        "Database adalah kumpulan data yang disusun secara terstruktur sehingga mudah disimpan, dikelola, dan diakses."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi database",
+        "fungsi database",
+        "kegunaan database"
+      ],
+      "jawaban": [
+        "Database digunakan untuk menyimpan, mengelola, mencari, dan memperbarui data secara efisien."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu mysql",
+        "jelaskan mysql",
+        "pengertian mysql"
+      ],
+      "jawaban": [
+        "MySQL adalah sistem manajemen database relasional yang banyak digunakan dalam pengembangan website dan aplikasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu sqlite",
+        "jelaskan sqlite",
+        "pengertian sqlite"
+      ],
+      "jawaban": [
+        "SQLite adalah database ringan yang menyimpan seluruh data dalam satu file dan sering digunakan pada aplikasi kecil maupun perangkat seluler."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu mongodb",
+        "jelaskan mongodb",
+        "pengertian mongodb"
+      ],
+      "jawaban": [
+        "MongoDB adalah database NoSQL yang menyimpan data dalam bentuk dokumen sehingga lebih fleksibel dibandingkan database relasional."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu tabel database",
+        "jelaskan tabel",
+        "pengertian tabel database"
+      ],
+      "jawaban": [
+        "Tabel adalah tempat penyimpanan data dalam database yang terdiri dari baris dan kolom."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu kolom",
+        "jelaskan kolom database",
+        "pengertian field"
+      ],
+      "jawaban": [
+        "Kolom atau field adalah bagian dari tabel yang menyimpan jenis data tertentu, seperti nama, alamat, atau nomor telepon."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu baris",
+        "jelaskan baris database",
+        "pengertian record"
+      ],
+      "jawaban": [
+        "Baris atau record adalah satu kumpulan data lengkap yang tersimpan di dalam sebuah tabel."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu query",
+        "jelaskan query",
+        "pengertian query database"
+      ],
+      "jawaban": [
+        "Query adalah perintah yang digunakan untuk mengambil, menambah, mengubah, atau menghapus data pada database."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa database penting",
+        "kenapa database penting",
+        "manfaat database"
+      ],
+      "jawaban": [
+        "Database sangat penting karena memudahkan penyimpanan data dalam jumlah besar, mempercepat pencarian informasi, serta menjaga data tetap terorganisir."
+      ]
+    }
+  ]
+}
