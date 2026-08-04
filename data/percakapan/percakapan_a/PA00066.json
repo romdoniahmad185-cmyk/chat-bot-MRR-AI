@@ -1,0 +1,108 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00066",
+  "judul": "AI Memory System",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu ai memory system",
+        "jelaskan memory ai",
+        "pengertian sistem memori ai",
+        "apa itu memori ai"
+      ],
+      "jawaban": [
+        "AI Memory System adalah sistem yang memungkinkan AI menyimpan, mengingat, dan menggunakan informasi dari interaksi sebelumnya untuk memberikan respons yang lebih relevan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi memory ai",
+        "fungsi ai memory",
+        "kegunaan memory pada ai"
+      ],
+      "jawaban": [
+        "Memory AI berfungsi menyimpan konteks percakapan, informasi pengguna, pengalaman sebelumnya, dan data penting agar AI dapat memberikan respons yang lebih personal."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa ai membutuhkan memory",
+        "kenapa ai perlu memori",
+        "manfaat memory ai"
+      ],
+      "jawaban": [
+        "AI membutuhkan memory agar tidak selalu memulai percakapan dari awal dan dapat memahami hubungan antara informasi lama dengan pertanyaan baru."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana ai memory bekerja",
+        "cara kerja memory ai",
+        "alur kerja sistem memori ai"
+      ],
+      "jawaban": [
+        "AI Memory bekerja dengan menyimpan informasi penting, mengelola data tersebut, lalu mengambil kembali informasi yang relevan saat diperlukan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "jenis jenis memory ai",
+        "macam macam memory ai",
+        "tipe memori ai"
+      ],
+      "jawaban": [
+        "Jenis Memory AI dapat berupa short term memory untuk konteks percakapan sementara dan long term memory untuk menyimpan informasi dalam jangka panjang."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu short term memory ai",
+        "memori jangka pendek ai",
+        "fungsi short term memory"
+      ],
+      "jawaban": [
+        "Short Term Memory AI adalah kemampuan mengingat informasi selama percakapan berlangsung agar AI dapat memahami konteks saat ini."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu long term memory ai",
+        "memori jangka panjang ai",
+        "fungsi long term memory"
+      ],
+      "jawaban": [
+        "Long Term Memory AI adalah kemampuan menyimpan informasi penting untuk digunakan kembali pada interaksi berikutnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan memory ai dengan database",
+        "memory ai dan database",
+        "penyimpanan memori ai"
+      ],
+      "jawaban": [
+        "Memory AI menggunakan database untuk menyimpan informasi, sedangkan sistem AI menentukan informasi mana yang perlu disimpan dan digunakan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana memory ai digunakan pada webkita ai",
+        "memory system webkita ai",
+        "ai memory webkita"
+      ],
+      "jawaban": [
+        "Pada WEBKITA AI, Memory System dapat digunakan untuk mengingat informasi usaha pengguna, preferensi pelanggan, riwayat percakapan, dan kebutuhan bisnis."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat memory ai",
+        "cara membuat sistem memory ai",
+        "ingin membuat memori chatbot"
+      ],
+      "jawaban": [
+        "Membuat Memory AI dapat dilakukan dengan menyimpan data percakapan, membuat sistem pencarian informasi, menentukan data penting, dan menghubungkannya dengan mesin AI."
+      ]
+    }
+  ]
+}
