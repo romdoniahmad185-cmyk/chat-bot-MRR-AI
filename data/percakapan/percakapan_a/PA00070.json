@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00070",
+  "judul": "AI Automation System",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu ai automation system",
+        "jelaskan ai automation",
+        "pengertian ai automation system",
+        "apa itu otomatisasi ai"
+      ],
+      "jawaban": [
+        "AI Automation System adalah sistem yang menggunakan kecerdasan buatan untuk menjalankan tugas secara otomatis dengan sedikit atau tanpa campur tangan manusia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi ai automation",
+        "fungsi ai automation system",
+        "kegunaan otomatisasi ai"
+      ],
+      "jawaban": [
+        "AI Automation berfungsi mempercepat pekerjaan, mengurangi pekerjaan manual, meningkatkan efisiensi, dan membantu manusia menyelesaikan tugas berulang."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa ai automation penting",
+        "kenapa ai automation penting",
+        "manfaat ai automation"
+      ],
+      "jawaban": [
+        "AI Automation penting karena dapat menghemat waktu, mengurangi kesalahan manusia, dan memungkinkan bisnis bekerja lebih efektif."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana ai automation bekerja",
+        "cara kerja ai automation",
+        "alur ai automation"
+      ],
+      "jawaban": [
+        "AI Automation bekerja dengan menerima perintah atau kondisi tertentu, menganalisis informasi, lalu menjalankan tindakan otomatis berdasarkan aturan dan kemampuan AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh ai automation",
+        "contoh penggunaan ai automation"
+      ],
+      "jawaban": [
+        "Contoh AI Automation adalah chatbot customer service, pembuatan laporan otomatis, pengiriman pesan otomatis, analisis data, dan pembuatan konten."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan ai automation dengan ai agent",
+        "ai agent dan automation",
+        "agent melakukan otomatisasi"
+      ],
+      "jawaban": [
+        "AI Agent menggunakan AI Automation untuk menjalankan tindakan seperti mengirim informasi, mengelola data, dan melakukan tugas tertentu secara otomatis."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan ai automation dengan bisnis",
+        "otomatisasi ai untuk bisnis",
+        "ai automation bisnis"
+      ],
+      "jawaban": [
+        "AI Automation membantu bisnis mengotomatisasi pelayanan pelanggan, pemasaran, administrasi, analisis data, dan berbagai proses operasional."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh ai automation untuk webkita",
+        "automation webkita ai",
+        "ai automation webkita"
+      ],
+      "jawaban": [
+        "Pada WEBKITA AI, AI Automation dapat digunakan untuk layanan pelanggan otomatis, rekomendasi website, pembuatan strategi bisnis, dan pengelolaan informasi pelanggan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah ai automation bisa menggantikan manusia",
+        "ai menggantikan pekerjaan manusia",
+        "masa depan automation ai"
+      ],
+      "jawaban": [
+        "AI Automation tidak bertujuan menggantikan semua manusia, tetapi membantu manusia bekerja lebih cepat dan fokus pada pekerjaan yang membutuhkan kreativitas dan keputusan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat ai automation system",
+        "cara membuat sistem otomatisasi ai",
+        "ingin membuat automation ai"
+      ],
+      "jawaban": [
+        "Membuat AI Automation System membutuhkan AI model, data, aturan kerja, integrasi API, database, dan sistem eksekusi untuk menjalankan tugas otomatis."
+      ]
+    }
+  ]
+}
