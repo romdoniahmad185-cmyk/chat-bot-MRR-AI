@@ -1,0 +1,106 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00071",
+  "judul": "AI Data Pipeline",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu ai data pipeline",
+        "jelaskan data pipeline ai",
+        "pengertian ai data pipeline",
+        "apa itu alur data ai"
+      ],
+      "jawaban": [
+        "AI Data Pipeline adalah sistem yang mengatur proses pengumpulan, pembersihan, pengolahan, penyimpanan, dan pengiriman data agar dapat digunakan oleh sistem AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi ai data pipeline",
+        "fungsi data pipeline ai",
+        "kegunaan data pipeline"
+      ],
+      "jawaban": [
+        "AI Data Pipeline berfungsi memastikan data yang digunakan AI memiliki kualitas baik, terstruktur, dan siap diproses."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa data pipeline penting untuk ai",
+        "kenapa data pipeline penting",
+        "manfaat data pipeline"
+      ],
+      "jawaban": [
+        "Data Pipeline penting karena AI membutuhkan data yang bersih dan teratur agar dapat belajar dan menghasilkan keputusan yang lebih akurat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana ai data pipeline bekerja",
+        "cara kerja data pipeline",
+        "alur data pipeline"
+      ],
+      "jawaban": [
+        "AI Data Pipeline bekerja melalui beberapa tahap yaitu mengambil data, membersihkan data, mengubah format data, menyimpan data, dan menyediakan data untuk sistem AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "tahapan data pipeline ai",
+        "proses data pipeline"
+      ],
+      "jawaban": [
+        "Tahapan Data Pipeline AI meliputi data collection, data cleaning, data processing, data storage, data indexing, dan data retrieval."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan data pipeline dengan database ai",
+        "data pipeline dan database",
+        "pipeline untuk database ai"
+      ],
+      "jawaban": [
+        "Data Pipeline bertugas mengatur perjalanan data menuju database AI agar informasi tersimpan dengan struktur yang benar dan mudah digunakan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan data pipeline dengan machine learning",
+        "pipeline machine learning",
+        "data pipeline ml"
+      ],
+      "jawaban": [
+        "Machine Learning membutuhkan Data Pipeline untuk menyediakan data latihan yang telah diproses sehingga model dapat belajar dengan baik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh data pipeline ai",
+        "contoh penggunaan data pipeline"
+      ],
+      "jawaban": [
+        "Contoh Data Pipeline AI adalah sistem yang mengambil data percakapan pengguna, membersihkan teks, membuat embedding, lalu menyimpannya ke database AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana data pipeline digunakan pada mrr ai",
+        "data pipeline mrr ai",
+        "pipeline untuk ai pusat"
+      ],
+      "jawaban": [
+        "Pada MRR AI, Data Pipeline digunakan untuk mengelola jutaan data seperti percakapan, kosakata, matematika, dan pengetahuan agar siap digunakan oleh mesin AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat ai data pipeline",
+        "cara membuat pipeline ai",
+        "membangun data pipeline"
+      ],
+      "jawaban": [
+        "Membangun AI Data Pipeline membutuhkan sistem pengumpulan data, proses pembersihan, penyimpanan database, sistem pencarian, dan integrasi dengan mesin AI."
+      ]
+    }
+  ]
+}
