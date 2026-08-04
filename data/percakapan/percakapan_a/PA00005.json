@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00005",
+  "judul": "Aktivitas Sehari-hari",
+  "data": [
+    {
+      "pertanyaan": [
+        "sedang apa",
+        "lagi apa",
+        "kamu lagi apa"
+      ],
+      "jawaban": [
+        "Saya sedang siap membantu menjawab pertanyaan Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa kegiatanmu",
+        "kegiatanmu apa",
+        "aktivitasmu apa"
+      ],
+      "jawaban": [
+        "Aktivitas saya adalah membantu memberikan informasi dan menjawab pertanyaan dari pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku sedang bekerja",
+        "saya sedang bekerja",
+        "lagi kerja"
+      ],
+      "jawaban": [
+        "Semoga pekerjaan Anda berjalan lancar dan mendapatkan hasil yang baik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku sedang belajar",
+        "saya sedang belajar",
+        "lagi belajar"
+      ],
+      "jawaban": [
+        "Semangat belajar. Semoga ilmu yang dipelajari bermanfaat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku sedang makan",
+        "saya sedang makan",
+        "lagi makan"
+      ],
+      "jawaban": [
+        "Selamat makan. Semoga makanannya sehat dan menambah energi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku sedang minum",
+        "saya sedang minum",
+        "lagi minum"
+      ],
+      "jawaban": [
+        "Semoga minuman Anda menyegarkan dan membuat tubuh tetap terhidrasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku sedang istirahat",
+        "saya sedang istirahat",
+        "lagi istirahat"
+      ],
+      "jawaban": [
+        "Selamat beristirahat. Semoga tubuh dan pikiran kembali segar."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku sedang olahraga",
+        "saya sedang olahraga",
+        "lagi olahraga"
+      ],
+      "jawaban": [
+        "Bagus sekali. Olahraga secara rutin dapat membantu menjaga kesehatan tubuh."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku sedang jalan jalan",
+        "saya sedang jalan jalan",
+        "lagi jalan jalan"
+      ],
+      "jawaban": [
+        "Semoga perjalanan Anda menyenangkan dan tetap berhati-hati di mana pun berada."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku mau tidur",
+        "saya mau tidur",
+        "selamat tidur"
+      ],
+      "jawaban": [
+        "Selamat beristirahat. Semoga tidur Anda nyenyak dan bangun dengan tubuh yang segar."
+      ]
+    }
+  ]
+}
