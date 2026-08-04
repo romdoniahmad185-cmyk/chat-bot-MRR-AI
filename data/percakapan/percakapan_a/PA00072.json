@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00072",
+  "judul": "Data Cleaning AI",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu data cleaning ai",
+        "jelaskan data cleaning",
+        "pengertian data cleaning",
+        "apa itu pembersihan data ai"
+      ],
+      "jawaban": [
+        "Data Cleaning AI adalah proses membersihkan, memperbaiki, dan menyiapkan data agar memiliki kualitas yang baik sebelum digunakan oleh sistem AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi data cleaning",
+        "fungsi data cleaning ai",
+        "kegunaan pembersihan data"
+      ],
+      "jawaban": [
+        "Data Cleaning berfungsi menghapus data yang salah, duplikat, tidak lengkap, atau tidak sesuai agar AI dapat belajar dari data yang lebih berkualitas."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa data cleaning penting untuk ai",
+        "kenapa harus membersihkan data",
+        "manfaat data cleaning"
+      ],
+      "jawaban": [
+        "Data Cleaning penting karena kualitas data sangat mempengaruhi kemampuan AI dalam memahami informasi dan menghasilkan jawaban yang tepat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana data cleaning bekerja",
+        "cara kerja data cleaning",
+        "proses data cleaning"
+      ],
+      "jawaban": [
+        "Data Cleaning bekerja dengan mendeteksi kesalahan data, menghapus informasi yang tidak diperlukan, memperbaiki format, dan memastikan data siap digunakan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh data cleaning",
+        "contoh pembersihan data ai"
+      ],
+      "jawaban": [
+        "Contoh Data Cleaning adalah menghapus percakapan yang sama, memperbaiki typo, menyamakan format teks, dan membuang data yang tidak relevan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa dampak data buruk pada ai",
+        "data buruk mempengaruhi ai",
+        "garbage in garbage out ai"
+      ],
+      "jawaban": [
+        "Data yang buruk dapat menyebabkan AI menghasilkan jawaban yang salah, bias, dan tidak sesuai dengan kebutuhan pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan data cleaning dengan machine learning",
+        "data cleaning dan machine learning",
+        "cleaning sebelum training"
+      ],
+      "jawaban": [
+        "Dalam Machine Learning, Data Cleaning dilakukan sebelum pelatihan agar model belajar dari data yang lebih akurat dan berkualitas."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan data cleaning dengan knowledge base",
+        "cleaning knowledge base",
+        "membersihkan database ai"
+      ],
+      "jawaban": [
+        "Data Cleaning membantu memastikan Knowledge Base berisi informasi yang benar, terstruktur, dan tidak memiliki data yang mengganggu pencarian AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana data cleaning digunakan pada mrr ai",
+        "data cleaning mrr ai",
+        "membersihkan database mrr ai"
+      ],
+      "jawaban": [
+        "Pada MRR AI, Data Cleaning digunakan untuk menjaga kualitas jutaan data percakapan, kosakata, matematika, dan pengetahuan agar sistem AI memberikan hasil yang akurat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat sistem data cleaning ai",
+        "cara membuat data cleaning otomatis",
+        "otomatisasi pembersihan data"
+      ],
+      "jawaban": [
+        "Sistem Data Cleaning AI dapat dibuat dengan aturan validasi, algoritma pendeteksi duplikasi, pemeriksaan bahasa, dan proses otomatis untuk memperbaiki data."
+      ]
+    }
+  ]
+}
