@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00024",
+  "judul": "Git dan GitHub",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu git",
+        "jelaskan git",
+        "pengertian git"
+      ],
+      "jawaban": [
+        "Git adalah sistem kontrol versi yang digunakan untuk mencatat perubahan kode program sehingga memudahkan pengembangan dan kolaborasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu github",
+        "jelaskan github",
+        "pengertian github"
+      ],
+      "jawaban": [
+        "GitHub adalah layanan berbasis cloud yang digunakan untuk menyimpan repository Git, berkolaborasi, serta mengelola proyek perangkat lunak."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi git",
+        "fungsi git",
+        "kegunaan git"
+      ],
+      "jawaban": [
+        "Git berfungsi untuk melacak perubahan kode, mengembalikan versi sebelumnya, serta memudahkan kerja sama antar pengembang."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi github",
+        "fungsi github",
+        "kegunaan github"
+      ],
+      "jawaban": [
+        "GitHub digunakan untuk menyimpan kode secara online, berbagi proyek, melakukan kolaborasi, serta mengelola versi aplikasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu repository",
+        "jelaskan repository",
+        "pengertian repository"
+      ],
+      "jawaban": [
+        "Repository adalah tempat penyimpanan seluruh file, riwayat perubahan, dan konfigurasi suatu proyek."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu commit",
+        "jelaskan commit",
+        "pengertian commit"
+      ],
+      "jawaban": [
+        "Commit adalah proses menyimpan perubahan kode ke dalam riwayat proyek Git beserta pesan yang menjelaskan perubahan tersebut."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu branch",
+        "jelaskan branch",
+        "pengertian branch"
+      ],
+      "jawaban": [
+        "Branch adalah cabang pengembangan yang memungkinkan programmer membuat atau menguji fitur baru tanpa mengganggu kode utama."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu merge",
+        "jelaskan merge",
+        "pengertian merge"
+      ],
+      "jawaban": [
+        "Merge adalah proses menggabungkan perubahan dari satu branch ke branch lainnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu clone",
+        "jelaskan clone",
+        "pengertian git clone"
+      ],
+      "jawaban": [
+        "Clone adalah proses menyalin repository dari GitHub atau server Git ke komputer lokal."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa menggunakan github",
+        "kenapa menggunakan github",
+        "manfaat github"
+      ],
+      "jawaban": [
+        "GitHub memudahkan penyimpanan kode, kolaborasi tim, pencadangan proyek, serta distribusi aplikasi kepada pengguna."
+      ]
+    }
+  ]
+}
