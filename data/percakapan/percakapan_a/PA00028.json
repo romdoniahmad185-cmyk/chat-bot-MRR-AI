@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00028",
+  "judul": "Keamanan Siber",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu keamanan siber",
+        "jelaskan keamanan siber",
+        "pengertian cyber security"
+      ],
+      "jawaban": [
+        "Keamanan siber atau cyber security adalah upaya melindungi sistem komputer, jaringan, aplikasi, dan data dari ancaman atau serangan digital."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa keamanan siber penting",
+        "kenapa keamanan siber penting",
+        "manfaat keamanan siber"
+      ],
+      "jawaban": [
+        "Keamanan siber penting untuk menjaga kerahasiaan, keutuhan, dan ketersediaan data serta melindungi sistem dari penyalahgunaan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu virus komputer",
+        "jelaskan virus komputer",
+        "pengertian virus komputer"
+      ],
+      "jawaban": [
+        "Virus komputer adalah program berbahaya yang dapat menyebar, merusak file, mengganggu sistem, atau mencuri informasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu malware",
+        "jelaskan malware",
+        "pengertian malware"
+      ],
+      "jawaban": [
+        "Malware adalah perangkat lunak berbahaya yang dirancang untuk merusak sistem, mencuri data, atau mengganggu aktivitas komputer."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu phishing",
+        "jelaskan phishing",
+        "pengertian phishing"
+      ],
+      "jawaban": [
+        "Phishing adalah upaya penipuan untuk memperoleh informasi sensitif, seperti kata sandi atau data pribadi, dengan menyamar sebagai pihak yang terpercaya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu firewall",
+        "jelaskan firewall",
+        "pengertian firewall"
+      ],
+      "jawaban": [
+        "Firewall adalah sistem keamanan yang mengatur dan menyaring lalu lintas jaringan untuk mencegah akses yang tidak diizinkan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu antivirus",
+        "jelaskan antivirus",
+        "pengertian antivirus"
+      ],
+      "jawaban": [
+        "Antivirus adalah perangkat lunak yang digunakan untuk mendeteksi, mencegah, dan menghapus virus maupun malware dari komputer."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat password yang aman",
+        "cara membuat password kuat",
+        "tips password aman"
+      ],
+      "jawaban": [
+        "Gunakan kata sandi yang panjang, unik, menggabungkan huruf besar, huruf kecil, angka, dan simbol, serta hindari menggunakan informasi pribadi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana melindungi akun",
+        "cara mengamankan akun",
+        "tips keamanan akun"
+      ],
+      "jawaban": [
+        "Aktifkan autentikasi dua faktor, gunakan kata sandi yang kuat, jangan membagikan informasi login, dan selalu waspada terhadap tautan yang mencurigakan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu enkripsi",
+        "jelaskan enkripsi",
+        "pengertian enkripsi"
+      ],
+      "jawaban": [
+        "Enkripsi adalah proses mengubah data menjadi bentuk yang tidak dapat dibaca tanpa kunci tertentu sehingga membantu menjaga kerahasiaan informasi."
+      ]
+    }
+  ]
+}
