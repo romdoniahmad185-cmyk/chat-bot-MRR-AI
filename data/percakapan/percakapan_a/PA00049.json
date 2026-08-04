@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00049",
+  "judul": "Multi-step Reasoning",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu multi step reasoning",
+        "jelaskan multi step reasoning",
+        "pengertian multi step reasoning",
+        "apa itu penalaran bertahap"
+      ],
+      "jawaban": [
+        "Multi-step Reasoning adalah kemampuan AI untuk menyelesaikan masalah melalui beberapa tahap pemikiran, analisis, dan pengambilan keputusan sebelum menghasilkan jawaban."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi multi step reasoning",
+        "fungsi multi step reasoning",
+        "kegunaan multi step reasoning"
+      ],
+      "jawaban": [
+        "Multi-step Reasoning berfungsi membantu AI menyelesaikan pertanyaan kompleks dengan memecah masalah menjadi beberapa langkah yang lebih kecil."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa multi step reasoning penting",
+        "kenapa multi step reasoning penting",
+        "manfaat multi step reasoning"
+      ],
+      "jawaban": [
+        "Multi-step Reasoning penting karena banyak masalah tidak dapat diselesaikan hanya dengan satu pencarian informasi, tetapi membutuhkan analisis bertahap."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana multi step reasoning bekerja",
+        "cara kerja multi step reasoning",
+        "multi step reasoning bekerja bagaimana"
+      ],
+      "jawaban": [
+        "Multi-step Reasoning bekerja dengan memecah masalah, mencari informasi yang diperlukan, menghubungkan berbagai data, kemudian menghasilkan kesimpulan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh multi step reasoning",
+        "contoh penggunaan multi step reasoning"
+      ],
+      "jawaban": [
+        "Contohnya pengguna meminta rekomendasi website untuk bisnis. AI perlu memahami bisnis, menentukan kebutuhan fitur, menghitung perkiraan biaya, lalu memberikan solusi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan multi step reasoning dengan reasoning engine",
+        "multi step reasoning dan reasoning engine",
+        "hubungan penalaran bertahap dengan mesin penalaran"
+      ],
+      "jawaban": [
+        "Reasoning Engine adalah komponen yang melakukan proses penalaran, sedangkan Multi-step Reasoning adalah kemampuan melakukan penalaran melalui beberapa tahap."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan multi step reasoning dengan llm",
+        "multi step reasoning pada llm",
+        "llm menggunakan reasoning"
+      ],
+      "jawaban": [
+        "LLM modern dapat menggunakan kemampuan Multi-step Reasoning untuk memahami masalah kompleks dan menghasilkan jawaban yang lebih terstruktur."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan pencarian biasa dan multi step reasoning",
+        "beda search dan reasoning",
+        "pencarian data vs penalaran"
+      ],
+      "jawaban": [
+        "Pencarian biasa hanya menemukan informasi, sedangkan Multi-step Reasoning menganalisis beberapa informasi dan menghubungkannya untuk mendapatkan solusi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh multi step reasoning dalam bisnis",
+        "reasoning ai untuk bisnis",
+        "ai menganalisis bisnis"
+      ],
+      "jawaban": [
+        "Dalam bisnis, AI dapat menganalisis target pelanggan, kebutuhan pasar, strategi promosi, biaya, dan memberikan rekomendasi berdasarkan beberapa tahap analisis."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat multi step reasoning",
+        "cara membuat multi step reasoning",
+        "ingin membuat ai berpikir bertahap"
+      ],
+      "jawaban": [
+        "Membuat sistem Multi-step Reasoning dapat dilakukan dengan menggabungkan analisis masalah, pencarian informasi, aturan logika, database pengetahuan, dan mesin pengambilan keputusan."
+      ]
+    }
+  ]
+}
