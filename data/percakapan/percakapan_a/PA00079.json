@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00079",
+  "judul": "Semantic Search AI",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu semantic search ai",
+        "jelaskan semantic search",
+        "pengertian semantic search",
+        "apa itu pencarian semantik"
+      ],
+      "jawaban": [
+        "Semantic Search AI adalah teknologi pencarian yang memahami arti dan konteks dari pertanyaan pengguna, bukan hanya mencocokkan kata yang sama."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi semantic search",
+        "fungsi semantic search ai",
+        "kegunaan semantic search"
+      ],
+      "jawaban": [
+        "Semantic Search berfungsi menemukan informasi yang paling relevan berdasarkan makna, hubungan, dan konteks dari sebuah pertanyaan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa semantic search penting",
+        "kenapa menggunakan semantic search",
+        "manfaat semantic search"
+      ],
+      "jawaban": [
+        "Semantic Search penting karena membuat AI mampu memahami maksud pengguna meskipun kata yang digunakan berbeda dari data yang tersimpan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana semantic search bekerja",
+        "cara kerja semantic search",
+        "alur semantic search ai"
+      ],
+      "jawaban": [
+        "Semantic Search bekerja dengan mengubah pertanyaan menjadi embedding, membandingkan dengan data yang tersedia, lalu mengambil informasi yang memiliki makna paling dekat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan keyword search dan semantic search",
+        "beda pencarian kata dan pencarian makna",
+        "keyword search vs semantic search"
+      ],
+      "jawaban": [
+        "Keyword Search mencari berdasarkan kecocokan kata, sedangkan Semantic Search mencari berdasarkan arti dan hubungan konteks."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh semantic search",
+        "contoh pencarian semantik"
+      ],
+      "jawaban": [
+        "Contoh Semantic Search adalah ketika pengguna mengetik 'cara jualan online' dan AI tetap menemukan informasi tentang 'strategi toko digital' karena memiliki makna yang sama."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan semantic search dengan embedding",
+        "semantic search dan embedding",
+        "embedding untuk pencarian"
+      ],
+      "jawaban": [
+        "Semantic Search menggunakan Embedding untuk mengubah data menjadi vektor sehingga sistem dapat membandingkan kemiripan makna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan semantic search dengan rag",
+        "semantic search pada rag",
+        "rag menggunakan semantic search"
+      ],
+      "jawaban": [
+        "Dalam sistem RAG, Semantic Search digunakan untuk menemukan dokumen atau informasi yang paling relevan sebelum AI menghasilkan jawaban."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana semantic search digunakan pada mrr ai",
+        "semantic search mrr ai",
+        "pencarian pintar mrr ai"
+      ],
+      "jawaban": [
+        "Pada MRR AI, Semantic Search digunakan agar pengguna dapat bertanya dengan bahasa alami dan AI tetap menemukan data yang sesuai dari jutaan informasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat semantic search ai",
+        "cara membuat pencarian semantik",
+        "membangun semantic search"
+      ],
+      "jawaban": [
+        "Membangun Semantic Search membutuhkan embedding model, vector database, algoritma pencarian kemiripan, dan integrasi dengan sistem AI."
+      ]
+    }
+  ]
+}
