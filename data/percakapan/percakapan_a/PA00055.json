@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00055",
+  "judul": "Semantic Search",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu semantic search",
+        "jelaskan semantic search",
+        "pengertian semantic search",
+        "apa itu pencarian berdasarkan makna"
+      ],
+      "jawaban": [
+        "Semantic Search adalah metode pencarian yang memahami makna dan maksud dari sebuah pertanyaan, bukan hanya mencocokkan kata yang sama."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi semantic search",
+        "fungsi semantic search",
+        "kegunaan semantic search"
+      ],
+      "jawaban": [
+        "Semantic Search berfungsi menemukan informasi yang memiliki makna serupa dengan pertanyaan pengguna meskipun menggunakan kata yang berbeda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa semantic search penting",
+        "kenapa semantic search penting",
+        "manfaat semantic search"
+      ],
+      "jawaban": [
+        "Semantic Search penting karena bahasa manusia memiliki banyak variasi kata, sehingga pencarian berdasarkan kata saja sering menghasilkan hasil yang kurang tepat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana semantic search bekerja",
+        "cara kerja semantic search",
+        "semantic search bekerja bagaimana"
+      ],
+      "jawaban": [
+        "Semantic Search bekerja dengan mengubah teks menjadi representasi vektor menggunakan embedding, kemudian mencari data yang memiliki kemiripan makna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh semantic search",
+        "contoh penggunaan semantic search"
+      ],
+      "jawaban": [
+        "Jika pengguna bertanya 'berapa biaya membuat website?', sistem dapat menemukan data yang membahas 'harga pembuatan website' karena memiliki makna yang sama."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan keyword search dan semantic search",
+        "beda pencarian kata dan pencarian makna",
+        "keyword vs semantic search"
+      ],
+      "jawaban": [
+        "Keyword Search mencari berdasarkan kata yang sama, sedangkan Semantic Search mencari berdasarkan kesamaan arti dan konteks."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan semantic search dengan embedding",
+        "semantic search dan embedding",
+        "embedding untuk semantic search"
+      ],
+      "jawaban": [
+        "Embedding menjadi dasar Semantic Search karena mengubah teks menjadi vektor sehingga sistem dapat membandingkan kemiripan makna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan semantic search dengan vector database",
+        "semantic search menggunakan vector database",
+        "vector database untuk pencarian makna"
+      ],
+      "jawaban": [
+        "Vector Database digunakan untuk menyimpan dan mencari data berdasarkan jarak kemiripan antar vektor dalam Semantic Search."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana semantic search digunakan pada chatbot",
+        "semantic search chatbot",
+        "chatbot menggunakan semantic search"
+      ],
+      "jawaban": [
+        "Pada chatbot, Semantic Search membantu menemukan informasi yang paling relevan sebelum AI menyusun jawaban untuk pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat semantic search ai",
+        "cara membuat semantic search",
+        "ingin membuat pencarian makna"
+      ],
+      "jawaban": [
+        "Membuat Semantic Search dapat dilakukan dengan menggunakan model embedding, menyimpan vektor dalam Vector Database, dan membuat sistem pencarian berdasarkan kemiripan."
+      ]
+    }
+  ]
+}
