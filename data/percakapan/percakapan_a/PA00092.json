@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00092",
+  "judul": "AI Self Learning System",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu ai self learning system",
+        "jelaskan self learning ai",
+        "pengertian ai belajar sendiri",
+        "apa itu pembelajaran mandiri ai"
+      ],
+      "jawaban": [
+        "AI Self Learning System adalah sistem AI yang mampu meningkatkan kemampuannya dengan mempelajari data, pola, dan pengalaman baru tanpa harus selalu diprogram secara manual."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi self learning ai",
+        "fungsi ai belajar sendiri",
+        "kegunaan self learning system"
+      ],
+      "jawaban": [
+        "Self Learning AI berfungsi meningkatkan kemampuan AI dengan menemukan pola baru, memperbaiki hasil, dan menyesuaikan diri berdasarkan data."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa ai membutuhkan self learning",
+        "kenapa ai harus belajar sendiri",
+        "manfaat self learning ai"
+      ],
+      "jawaban": [
+        "Self Learning membantu AI menjadi lebih adaptif karena sistem dapat berkembang mengikuti perubahan kebutuhan dan informasi baru."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana ai self learning bekerja",
+        "cara kerja self learning ai",
+        "proses ai belajar"
+      ],
+      "jawaban": [
+        "AI Self Learning bekerja dengan mengumpulkan data, menganalisis pola, mengevaluasi hasil, lalu melakukan penyesuaian agar performa menjadi lebih baik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "jenis pembelajaran ai",
+        "macam macam machine learning",
+        "tipe belajar ai"
+      ],
+      "jawaban": [
+        "Jenis pembelajaran AI meliputi supervised learning, unsupervised learning, reinforcement learning, dan pembelajaran berbasis pengalaman."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan self learning dengan machine learning",
+        "self learning dan machine learning",
+        "machine learning ai"
+      ],
+      "jawaban": [
+        "Self Learning merupakan konsep yang berkaitan dengan Machine Learning, yaitu kemampuan sistem mempelajari pola dari data untuk meningkatkan kinerja."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan self learning dengan memory ai",
+        "self learning dan memory",
+        "memory untuk belajar ai"
+      ],
+      "jawaban": [
+        "Memory AI menyediakan informasi dan pengalaman sebelumnya yang dapat digunakan sistem untuk melakukan pembelajaran dan peningkatan kemampuan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh self learning ai",
+        "contoh ai belajar sendiri"
+      ],
+      "jawaban": [
+        "Contoh Self Learning AI adalah sistem rekomendasi, deteksi pola, pengenalan suara, dan AI yang meningkatkan hasil berdasarkan data pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana self learning digunakan pada mrr ai",
+        "self learning mrr ai",
+        "ai belajar sendiri mrr ai"
+      ],
+      "jawaban": [
+        "Pada MRR AI, Self Learning dapat digunakan untuk meningkatkan kualitas jawaban berdasarkan interaksi, evaluasi, dan data baru yang dikumpulkan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat self learning ai",
+        "cara membuat ai belajar sendiri",
+        "membangun sistem self learning"
+      ],
+      "jawaban": [
+        "Membangun Self Learning AI membutuhkan data berkualitas, sistem evaluasi, machine learning, memory, feedback pengguna, dan mekanisme peningkatan model."
+      ]
+    }
+  ]
+}
