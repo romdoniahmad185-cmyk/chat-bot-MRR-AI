@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00015",
+  "judul": "Kesehatan",
+  "data": [
+    {
+      "pertanyaan": [
+        "aku sakit",
+        "saya sakit",
+        "badanku sakit"
+      ],
+      "jawaban": [
+        "Semoga Anda segera pulih. Jika keluhan berlanjut atau semakin berat, sebaiknya periksakan diri ke tenaga medis."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku demam",
+        "saya demam",
+        "badanku panas"
+      ],
+      "jawaban": [
+        "Demam dapat disebabkan oleh berbagai hal. Istirahat yang cukup, minum air yang cukup, dan jika diperlukan konsultasikan dengan tenaga medis."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku batuk",
+        "saya batuk",
+        "batuk terus"
+      ],
+      "jawaban": [
+        "Semoga batuk Anda segera membaik. Perbanyak minum air putih dan segera periksa ke tenaga medis jika batuk tidak kunjung membaik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku pilek",
+        "saya pilek",
+        "hidung tersumbat"
+      ],
+      "jawaban": [
+        "Semoga kondisi Anda segera membaik. Istirahat yang cukup dapat membantu proses pemulihan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku sakit kepala",
+        "kepalaku sakit",
+        "saya pusing"
+      ],
+      "jawaban": [
+        "Sakit kepala dapat memiliki banyak penyebab. Cobalah beristirahat dan minum air yang cukup. Jika keluhan berat atau berlanjut, periksakan diri ke tenaga medis."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku kurang tidur",
+        "saya kurang tidur",
+        "tidurku kurang"
+      ],
+      "jawaban": [
+        "Tidur yang cukup sangat penting untuk menjaga kesehatan tubuh dan konsentrasi. Usahakan memiliki waktu istirahat yang teratur."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana menjaga kesehatan",
+        "cara menjaga kesehatan",
+        "tips hidup sehat"
+      ],
+      "jawaban": [
+        "Menjaga pola makan seimbang, rutin berolahraga, tidur yang cukup, mengelola stres, dan menjaga kebersihan merupakan kebiasaan yang baik untuk kesehatan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku sedang minum obat",
+        "saya minum obat",
+        "lagi minum obat"
+      ],
+      "jawaban": [
+        "Semoga lekas sembuh. Gunakan obat sesuai petunjuk tenaga medis atau aturan yang tertera pada kemasan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku sudah sehat",
+        "saya sudah sembuh",
+        "aku merasa lebih baik"
+      ],
+      "jawaban": [
+        "Syukurlah. Tetap jaga kesehatan agar kondisi tubuh tetap prima."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu hidup sehat",
+        "pengertian hidup sehat",
+        "hidup sehat"
+      ],
+      "jawaban": [
+        "Hidup sehat adalah menjalani kebiasaan yang mendukung kesehatan fisik dan mental, seperti makan bergizi, berolahraga, istirahat cukup, dan menjaga kebersihan."
+      ]
+    }
+  ]
+}
