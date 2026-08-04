@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00078",
+  "judul": "Embedding Model AI",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu embedding model ai",
+        "jelaskan embedding model",
+        "pengertian embedding ai",
+        "apa itu model embedding"
+      ],
+      "jawaban": [
+        "Embedding Model AI adalah model yang mengubah data seperti teks, gambar, atau suara menjadi representasi angka berupa vektor agar dapat dipahami dan dibandingkan oleh sistem AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi embedding model",
+        "fungsi embedding ai",
+        "kegunaan embedding model"
+      ],
+      "jawaban": [
+        "Embedding Model berfungsi mengubah informasi menjadi bentuk numerik sehingga AI dapat memahami hubungan, kemiripan, dan makna antar data."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa embedding penting untuk ai",
+        "kenapa ai membutuhkan embedding",
+        "manfaat embedding"
+      ],
+      "jawaban": [
+        "Embedding penting karena komputer tidak memahami bahasa manusia secara langsung, sehingga data perlu diubah menjadi bentuk yang dapat diproses oleh AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana embedding bekerja",
+        "cara kerja embedding ai",
+        "proses membuat embedding"
+      ],
+      "jawaban": [
+        "Embedding bekerja dengan menganalisis pola dalam data lalu mengubahnya menjadi kumpulan angka yang mewakili arti atau karakteristik data tersebut."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu vector dalam embedding",
+        "hubungan embedding dan vector",
+        "embedding menjadi vector"
+      ],
+      "jawaban": [
+        "Vector adalah kumpulan angka yang menjadi representasi dari sebuah data setelah melalui proses embedding."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh embedding teks",
+        "contoh penggunaan embedding"
+      ],
+      "jawaban": [
+        "Contoh embedding teks adalah mengubah kalimat 'saya ingin membuat website' menjadi angka yang memiliki hubungan makna dengan kalimat lain yang serupa."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan embedding dengan vector database",
+        "embedding dan vector database",
+        "vector database membutuhkan embedding"
+      ],
+      "jawaban": [
+        "Embedding menghasilkan vektor yang kemudian disimpan dalam Vector Database agar AI dapat melakukan pencarian berdasarkan kemiripan makna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan embedding dengan rag",
+        "embedding pada rag system",
+        "rag menggunakan embedding"
+      ],
+      "jawaban": [
+        "Dalam RAG, Embedding digunakan untuk mengubah dokumen atau data menjadi vektor sebelum disimpan dan dicari melalui Vector Database."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana embedding digunakan pada mrr ai",
+        "embedding mrr ai",
+        "model embedding untuk mrr ai"
+      ],
+      "jawaban": [
+        "Pada MRR AI, Embedding Model digunakan untuk mengubah data percakapan, kosakata, dan pengetahuan menjadi bentuk yang dapat dicari oleh sistem AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat sistem embedding ai",
+        "cara membuat embedding model",
+        "membangun embedding ai"
+      ],
+      "jawaban": [
+        "Membangun sistem embedding AI membutuhkan model embedding, proses pengubahan data menjadi vektor, penyimpanan vector database, dan sistem pencarian semantik."
+      ]
+    }
+  ]
+}
