@@ -1,0 +1,108 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00081",
+  "judul": "Natural Language Understanding AI",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu natural language understanding",
+        "jelaskan nlu ai",
+        "pengertian nlu",
+        "apa itu pemahaman bahasa alami"
+      ],
+      "jawaban": [
+        "Natural Language Understanding atau NLU adalah bagian dari NLP yang berfungsi memahami arti, tujuan, dan maksud dari bahasa manusia yang diberikan kepada AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi nlu ai",
+        "fungsi natural language understanding",
+        "kegunaan nlu"
+      ],
+      "jawaban": [
+        "NLU berfungsi membantu AI memahami maksud pengguna, mengenali konteks, mengidentifikasi tujuan pertanyaan, dan menentukan respons yang tepat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan nlp dan nlu",
+        "beda nlp dengan nlu",
+        "nlp vs nlu"
+      ],
+      "jawaban": [
+        "NLP adalah teknologi luas untuk memproses bahasa manusia, sedangkan NLU adalah bagian dari NLP yang fokus memahami makna dan tujuan dari bahasa tersebut."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa nlu penting untuk ai",
+        "kenapa ai membutuhkan nlu",
+        "manfaat nlu"
+      ],
+      "jawaban": [
+        "NLU penting karena membuat AI tidak hanya membaca kata, tetapi memahami apa yang sebenarnya ingin disampaikan oleh pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana nlu bekerja",
+        "cara kerja nlu ai",
+        "proses nlu"
+      ],
+      "jawaban": [
+        "NLU bekerja dengan menganalisis teks, mengenali maksud pengguna, menemukan informasi penting, memahami konteks, lalu menentukan tindakan atau jawaban."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu intent dalam nlu",
+        "intent ai",
+        "maksud pengguna dalam ai"
+      ],
+      "jawaban": [
+        "Intent adalah tujuan atau maksud pengguna ketika memberikan pertanyaan kepada AI, seperti meminta informasi, membeli produk, atau meminta bantuan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu entity dalam nlu",
+        "entity recognition ai",
+        "fungsi entity nlu"
+      ],
+      "jawaban": [
+        "Entity adalah informasi penting yang terdapat dalam kalimat pengguna seperti nama produk, lokasi, tanggal, angka, atau kategori tertentu."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan nlu dengan chatbot",
+        "nlu pada chatbot",
+        "chatbot menggunakan nlu"
+      ],
+      "jawaban": [
+        "NLU membantu chatbot memahami maksud pengguna sehingga chatbot dapat memberikan respons yang lebih tepat dibandingkan pencocokan kata sederhana."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana nlu digunakan pada mrr ai",
+        "nlu mrr ai",
+        "pemahaman bahasa mrr ai"
+      ],
+      "jawaban": [
+        "Pada MRR AI, NLU digunakan untuk memahami tujuan pengguna, mengelompokkan pertanyaan, mengambil informasi yang sesuai, dan memberikan solusi yang relevan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat sistem nlu ai",
+        "cara membuat nlu",
+        "membangun natural language understanding"
+      ],
+      "jawaban": [
+        "Membangun NLU membutuhkan dataset percakapan, sistem klasifikasi intent, pengenalan entity, model bahasa, dan proses pelatihan agar AI memahami berbagai bentuk bahasa."
+      ]
+    }
+  ]
+}
