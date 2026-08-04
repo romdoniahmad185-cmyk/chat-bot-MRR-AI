@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00047",
+  "judul": "Memory System",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu memory system",
+        "jelaskan memory system",
+        "pengertian memory system ai",
+        "apa itu sistem memori ai"
+      ],
+      "jawaban": [
+        "Memory System adalah komponen AI yang digunakan untuk menyimpan, mengelola, dan menggunakan kembali informasi dari interaksi sebelumnya agar AI dapat memberikan respons yang lebih personal."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi memory system",
+        "fungsi memory system",
+        "kegunaan memory system"
+      ],
+      "jawaban": [
+        "Memory System berfungsi untuk menyimpan informasi penting, mengingat preferensi pengguna, dan membantu AI memahami percakapan yang sudah pernah terjadi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa memory system penting",
+        "kenapa memory system penting",
+        "manfaat memory system"
+      ],
+      "jawaban": [
+        "Memory System penting karena membuat AI tidak perlu memulai percakapan dari awal setiap kali pengguna berinteraksi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana memory system bekerja",
+        "cara kerja memory system",
+        "memory system bekerja bagaimana"
+      ],
+      "jawaban": [
+        "Memory System bekerja dengan menyimpan informasi tertentu dari percakapan, kemudian mengambil informasi tersebut kembali ketika diperlukan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh memory system ai",
+        "contoh penggunaan memory system"
+      ],
+      "jawaban": [
+        "Contohnya AI mengingat bahwa pengguna memiliki bisnis toko online, sehingga ketika pengguna bertanya tentang promosi, AI dapat memberikan saran yang sesuai dengan bisnis tersebut."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan memory system dengan chatbot",
+        "memory system pada chatbot",
+        "chatbot menggunakan memory system"
+      ],
+      "jawaban": [
+        "Memory System membuat chatbot mampu mempertahankan informasi dari percakapan sebelumnya sehingga interaksi menjadi lebih alami."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan memory system dengan context management",
+        "perbedaan memory dan context",
+        "context management dan memory system"
+      ],
+      "jawaban": [
+        "Context Management digunakan untuk memahami percakapan yang sedang berlangsung, sedangkan Memory System menyimpan informasi yang dapat digunakan kembali di masa depan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "jenis memory pada ai",
+        "macam macam memory ai",
+        "tipe memory system"
+      ],
+      "jawaban": [
+        "Memory AI dapat berupa short-term memory untuk percakapan sementara dan long-term memory untuk menyimpan informasi dalam jangka panjang."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa yang disimpan memory ai",
+        "data apa yang disimpan ai",
+        "informasi memory ai"
+      ],
+      "jawaban": [
+        "Memory AI dapat menyimpan informasi seperti preferensi pengguna, riwayat percakapan, kebutuhan pengguna, dan informasi yang membantu memberikan respons lebih baik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat memory system ai",
+        "cara membuat memory system",
+        "ingin membuat memori ai"
+      ],
+      "jawaban": [
+        "Membuat Memory System AI dapat dilakukan dengan menggunakan database, penyimpanan riwayat percakapan, sistem pencarian informasi, dan aturan untuk menentukan informasi yang perlu disimpan."
+      ]
+    }
+  ]
+}
