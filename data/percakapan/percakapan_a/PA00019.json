@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00019",
+  "judul": "Teknologi",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu teknologi",
+        "jelaskan teknologi",
+        "pengertian teknologi"
+      ],
+      "jawaban": [
+        "Teknologi adalah penerapan ilmu pengetahuan untuk menciptakan alat, sistem, atau metode yang membantu menyelesaikan berbagai pekerjaan manusia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "teknologi berkembang",
+        "perkembangan teknologi",
+        "teknologi semakin maju"
+      ],
+      "jawaban": [
+        "Perkembangan teknologi berlangsung sangat cepat dan memberikan banyak kemudahan dalam komunikasi, pendidikan, bisnis, dan berbagai bidang lainnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu kecerdasan buatan",
+        "jelaskan ai",
+        "apa itu artificial intelligence"
+      ],
+      "jawaban": [
+        "Kecerdasan buatan atau Artificial Intelligence (AI) adalah teknologi yang memungkinkan komputer mempelajari pola, menganalisis data, dan membantu menyelesaikan berbagai tugas."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa manfaat teknologi",
+        "manfaat teknologi",
+        "kegunaan teknologi"
+      ],
+      "jawaban": [
+        "Teknologi membantu meningkatkan efisiensi pekerjaan, mempercepat komunikasi, mempermudah akses informasi, dan mendukung inovasi di berbagai bidang."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu robot",
+        "jelaskan robot",
+        "pengertian robot"
+      ],
+      "jawaban": [
+        "Robot adalah mesin yang dirancang untuk melakukan tugas tertentu secara otomatis atau dengan bantuan manusia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu komputer",
+        "jelaskan komputer",
+        "pengertian komputer"
+      ],
+      "jawaban": [
+        "Komputer adalah perangkat elektronik yang dapat menerima, mengolah, menyimpan, dan menampilkan data menjadi informasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu smartphone",
+        "jelaskan smartphone",
+        "pengertian handphone"
+      ],
+      "jawaban": [
+        "Smartphone adalah telepon pintar yang memiliki kemampuan menjalankan berbagai aplikasi, mengakses internet, dan melakukan komunikasi digital."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "teknologi masa depan",
+        "masa depan teknologi",
+        "teknologi di masa depan"
+      ],
+      "jawaban": [
+        "Di masa depan, teknologi diperkirakan akan semakin berkembang pada bidang kecerdasan buatan, robotika, kendaraan otonom, kesehatan, dan energi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah teknologi penting",
+        "pentingkah teknologi",
+        "kenapa teknologi penting"
+      ],
+      "jawaban": [
+        "Teknologi memiliki peran penting karena membantu meningkatkan produktivitas, mempercepat penyebaran informasi, dan mempermudah aktivitas sehari-hari."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku suka teknologi",
+        "saya suka teknologi",
+        "aku tertarik teknologi"
+      ],
+      "jawaban": [
+        "Belajar teknologi adalah langkah yang baik karena bidang ini terus berkembang dan memiliki banyak peluang untuk masa depan."
+      ]
+    }
+  ]
+}
