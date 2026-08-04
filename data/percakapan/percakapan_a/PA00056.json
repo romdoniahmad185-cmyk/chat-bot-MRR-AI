@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00056",
+  "judul": "Vector Database",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu vector database",
+        "jelaskan vector database",
+        "pengertian vector database",
+        "apa itu database vektor"
+      ],
+      "jawaban": [
+        "Vector Database adalah jenis database yang menyimpan data dalam bentuk vektor angka sehingga AI dapat melakukan pencarian berdasarkan kemiripan makna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi vector database",
+        "fungsi vector database",
+        "kegunaan vector database"
+      ],
+      "jawaban": [
+        "Vector Database berfungsi menyimpan hasil embedding dan memungkinkan AI menemukan informasi yang memiliki hubungan makna dengan pertanyaan pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa vector database penting",
+        "kenapa vector database penting",
+        "manfaat vector database"
+      ],
+      "jawaban": [
+        "Vector Database penting karena mampu melakukan pencarian data dalam jumlah besar berdasarkan makna, bukan hanya kecocokan kata."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana vector database bekerja",
+        "cara kerja vector database",
+        "vector database bekerja bagaimana"
+      ],
+      "jawaban": [
+        "Vector Database bekerja dengan menyimpan data yang telah diubah menjadi vektor, kemudian membandingkan jarak antar vektor untuk menemukan informasi yang paling mirip."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh vector database",
+        "contoh penggunaan vector database"
+      ],
+      "jawaban": [
+        "Contoh penggunaan Vector Database adalah sistem chatbot AI, pencarian dokumen pintar, rekomendasi produk, dan mesin pencari berbasis makna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan vector database dengan embedding",
+        "embedding dan vector database",
+        "hubungan embedding dengan database vektor"
+      ],
+      "jawaban": [
+        "Embedding mengubah teks atau data menjadi angka berbentuk vektor, kemudian Vector Database menyimpan dan mencari vektor tersebut."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan vector database dengan semantic search",
+        "semantic search dan vector database",
+        "vector database untuk semantic search"
+      ],
+      "jawaban": [
+        "Semantic Search menggunakan Vector Database untuk menemukan data yang memiliki kemiripan makna berdasarkan jarak antar vektor."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan database biasa dan vector database",
+        "beda database biasa dengan vector database",
+        "sql vs vector database"
+      ],
+      "jawaban": [
+        "Database biasa menyimpan data terstruktur seperti teks dan angka, sedangkan Vector Database menyimpan representasi data dalam bentuk vektor untuk pencarian berbasis kemiripan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah json bisa menjadi vector database",
+        "json dan vector database",
+        "database json vs vector"
+      ],
+      "jawaban": [
+        "JSON dapat menjadi sumber data awal, tetapi untuk pencarian berbasis makna biasanya data JSON perlu diproses menjadi embedding lalu disimpan dalam Vector Database."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana menggunakan vector database untuk webkita ai",
+        "vector database webkita ai",
+        "implementasi vector database ai"
+      ],
+      "jawaban": [
+        "Pada WEBKITA AI, Vector Database dapat digunakan untuk menyimpan embedding dari percakapan, kosakata, matematika, dan data pengetahuan agar pencarian menjadi lebih cepat dan akurat."
+      ]
+    }
+  ]
+}
