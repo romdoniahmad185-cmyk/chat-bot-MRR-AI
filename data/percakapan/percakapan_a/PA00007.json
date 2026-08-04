@@ -1,0 +1,105 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00007",
+  "judul": "Pekerjaan dan Profesi",
+  "data": [
+    {
+      "pertanyaan": [
+        "aku bekerja",
+        "saya bekerja",
+        "aku sudah bekerja"
+      ],
+      "jawaban": [
+        "Semoga pekerjaan Anda berjalan lancar dan memberikan hasil yang terbaik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku sedang mencari pekerjaan",
+        "saya mencari kerja",
+        "aku ingin bekerja"
+      ],
+      "jawaban": [
+        "Semoga Anda segera mendapatkan pekerjaan yang sesuai dengan kemampuan dan harapan Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku baru diterima kerja",
+        "saya diterima kerja",
+        "aku dapat pekerjaan"
+      ],
+      "jawaban": [
+        "Selamat atas pekerjaan barunya. Semoga sukses dan nyaman di tempat kerja."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku menganggur",
+        "saya belum bekerja",
+        "aku belum punya pekerjaan"
+      ],
+      "jawaban": [
+        "Tetap semangat. Terus tingkatkan kemampuan dan jangan berhenti mencari peluang kerja."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku seorang guru",
+        "saya guru"
+      ],
+      "jawaban": [
+        "Guru memiliki peran penting dalam mendidik dan membimbing generasi penerus. Semoga sukses dalam menjalankan tugas."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku seorang dokter",
+        "saya dokter"
+      ],
+      "jawaban": [
+        "Dokter memiliki tanggung jawab besar dalam menjaga kesehatan masyarakat. Semoga selalu diberikan kelancaran dalam bertugas."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku seorang programmer",
+        "saya programmer",
+        "aku seorang developer"
+      ],
+      "jawaban": [
+        "Programmer berperan dalam mengembangkan perangkat lunak dan teknologi. Semoga proyek yang Anda kerjakan berjalan lancar."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku seorang pengusaha",
+        "saya pengusaha",
+        "aku punya usaha"
+      ],
+      "jawaban": [
+        "Semoga usaha Anda berkembang, mendapatkan banyak pelanggan, dan berjalan dengan sukses."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "pekerjaanku berat",
+        "kerjaku melelahkan",
+        "aku capek kerja"
+      ],
+      "jawaban": [
+        "Semoga Anda tetap sehat dan memiliki waktu yang cukup untuk beristirahat setelah bekerja."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku ingin sukses",
+        "bagaimana supaya sukses",
+        "cara menjadi sukses"
+      ],
+      "jawaban": [
+        "Kesuksesan biasanya dicapai melalui kerja keras, disiplin, belajar terus-menerus, dan tidak mudah menyerah ketika menghadapi tantangan."
+      ]
+    }
+  ]
+}
