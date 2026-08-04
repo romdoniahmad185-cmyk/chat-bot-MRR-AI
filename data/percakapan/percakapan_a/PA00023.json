@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00023",
+  "judul": "API",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu api",
+        "jelaskan api",
+        "pengertian api programming"
+      ],
+      "jawaban": [
+        "API atau Application Programming Interface adalah sekumpulan aturan yang memungkinkan dua aplikasi atau lebih saling berkomunikasi dan bertukar data."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi api",
+        "fungsi api",
+        "kegunaan api"
+      ],
+      "jawaban": [
+        "API digunakan untuk menghubungkan aplikasi sehingga dapat saling bertukar data dan menjalankan fungsi tertentu tanpa harus mengetahui cara kerja sistem secara keseluruhan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu rest api",
+        "jelaskan rest api",
+        "pengertian rest api"
+      ],
+      "jawaban": [
+        "REST API adalah jenis API yang menggunakan protokol HTTP untuk mengirim dan menerima data antara client dan server."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu endpoint",
+        "jelaskan endpoint",
+        "pengertian endpoint api"
+      ],
+      "jawaban": [
+        "Endpoint adalah alamat atau URL tertentu yang digunakan untuk mengakses layanan atau data melalui API."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu request",
+        "jelaskan request",
+        "pengertian request api"
+      ],
+      "jawaban": [
+        "Request adalah permintaan yang dikirim oleh client kepada server untuk memperoleh atau mengubah data."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu response",
+        "jelaskan response",
+        "pengertian response api"
+      ],
+      "jawaban": [
+        "Response adalah balasan dari server yang berisi hasil permintaan client, seperti data, status, atau pesan kesalahan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu json pada api",
+        "api menggunakan json",
+        "mengapa api menggunakan json"
+      ],
+      "jawaban": [
+        "JSON sering digunakan pada API karena formatnya ringan, mudah dibaca manusia, dan mudah diproses oleh berbagai bahasa pemrograman."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu get post put delete",
+        "metode api",
+        "http method"
+      ],
+      "jawaban": [
+        "Metode HTTP yang umum digunakan adalah GET untuk mengambil data, POST untuk menambah data, PUT untuk memperbarui data, dan DELETE untuk menghapus data."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa api penting",
+        "kenapa api penting",
+        "manfaat api"
+      ],
+      "jawaban": [
+        "API memudahkan integrasi antar aplikasi, mempercepat pengembangan sistem, dan memungkinkan berbagai layanan saling bekerja sama."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh penggunaan api",
+        "api digunakan untuk apa",
+        "contoh api"
+      ],
+      "jawaban": [
+        "API digunakan pada berbagai layanan, seperti login dengan akun Google, pembayaran digital, peta, cuaca, chatbot, dan integrasi antar aplikasi."
+      ]
+    }
+  ]
+}
