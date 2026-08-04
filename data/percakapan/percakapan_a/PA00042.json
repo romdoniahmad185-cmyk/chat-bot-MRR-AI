@@ -1,0 +1,106 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00042",
+  "judul": "Entity Recognition",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu entity recognition",
+        "jelaskan entity recognition",
+        "pengertian entity recognition",
+        "apa itu pengenalan entitas"
+      ],
+      "jawaban": [
+        "Entity Recognition adalah proses mengenali informasi penting dalam sebuah kalimat, seperti nama orang, lokasi, organisasi, tanggal, waktu, angka, mata uang, dan objek lainnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi entity recognition",
+        "fungsi entity recognition",
+        "kegunaan entity recognition"
+      ],
+      "jawaban": [
+        "Entity Recognition digunakan untuk menemukan informasi penting dari sebuah kalimat agar AI dapat memahami isi pertanyaan dengan lebih baik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa entity recognition penting",
+        "kenapa entity recognition penting",
+        "manfaat entity recognition"
+      ],
+      "jawaban": [
+        "Entity Recognition membantu AI mengetahui informasi utama dalam sebuah pertanyaan sehingga jawaban dapat lebih tepat dan relevan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana entity recognition bekerja",
+        "cara kerja entity recognition",
+        "entity recognition bekerja bagaimana"
+      ],
+      "jawaban": [
+        "Entity Recognition bekerja dengan menganalisis kalimat, kemudian mengenali kata atau frasa yang termasuk kategori tertentu seperti nama, tempat, tanggal, angka, atau organisasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh entity recognition",
+        "contoh penggunaan entity recognition"
+      ],
+      "jawaban": [
+        "Pada kalimat 'Harga website perusahaan di Bandung berapa?', AI dapat mengenali entitas 'website perusahaan' sebagai layanan dan 'Bandung' sebagai lokasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan entity recognition dengan chatbot",
+        "entity recognition pada chatbot",
+        "chatbot menggunakan entity recognition"
+      ],
+      "jawaban": [
+        "Chatbot menggunakan Entity Recognition untuk mengambil informasi penting dari pertanyaan sebelum menentukan jawaban yang sesuai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan entity recognition dengan nlp",
+        "hubungan entity recognition dan nlp"
+      ],
+      "jawaban": [
+        "Entity Recognition merupakan salah satu teknik dalam Natural Language Processing yang digunakan untuk memahami isi teks."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan entity recognition dengan intent recognition",
+        "intent recognition dan entity recognition",
+        "beda intent dan entity"
+      ],
+      "jawaban": [
+        "Intent Recognition mengenali tujuan pertanyaan, sedangkan Entity Recognition mengenali informasi penting yang terdapat di dalam pertanyaan tersebut."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa saja jenis entity",
+        "jenis entity recognition",
+        "kategori entity"
+      ],
+      "jawaban": [
+        "Beberapa jenis entitas yang umum dikenali antara lain nama orang, lokasi, organisasi, tanggal, waktu, mata uang, angka, produk, dan berbagai objek penting lainnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana belajar entity recognition",
+        "cara belajar entity recognition",
+        "ingin belajar entity recognition"
+      ],
+      "jawaban": [
+        "Belajar Entity Recognition dapat dimulai dengan memahami Natural Language Processing, linguistik dasar, klasifikasi teks, dan pemrosesan bahasa alami."
+      ]
+    }
+  ]
+}
