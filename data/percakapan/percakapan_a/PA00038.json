@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00038",
+  "judul": "Embedding",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu embedding",
+        "jelaskan embedding",
+        "pengertian embedding"
+      ],
+      "jawaban": [
+        "Embedding adalah representasi data dalam bentuk vektor angka yang memungkinkan Artificial Intelligence memahami hubungan makna antar kata, kalimat, atau dokumen."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi embedding",
+        "fungsi embedding",
+        "kegunaan embedding"
+      ],
+      "jawaban": [
+        "Embedding digunakan untuk mengubah teks menjadi representasi numerik sehingga komputer dapat membandingkan makna dan kemiripan antar data."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan embedding dengan ai",
+        "embedding bagian dari ai",
+        "hubungan embedding dan artificial intelligence"
+      ],
+      "jawaban": [
+        "Embedding merupakan teknik yang banyak digunakan dalam Artificial Intelligence, khususnya Natural Language Processing dan Large Language Model."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan embedding dengan llm",
+        "embedding pada llm",
+        "llm menggunakan embedding"
+      ],
+      "jawaban": [
+        "Large Language Model menggunakan embedding untuk mengubah token menjadi representasi numerik sebelum diproses oleh model."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana embedding bekerja",
+        "cara kerja embedding",
+        "embedding bekerja bagaimana"
+      ],
+      "jawaban": [
+        "Embedding bekerja dengan memetakan setiap token atau teks menjadi vektor angka sehingga data yang memiliki makna serupa akan berada pada posisi yang berdekatan dalam ruang vektor."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa embedding penting",
+        "kenapa embedding penting",
+        "manfaat embedding"
+      ],
+      "jawaban": [
+        "Embedding memungkinkan AI memahami kemiripan makna, bukan hanya mencocokkan kata yang sama persis."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh penggunaan embedding",
+        "embedding digunakan dimana",
+        "contoh embedding"
+      ],
+      "jawaban": [
+        "Embedding digunakan pada chatbot, mesin pencari semantik, sistem rekomendasi, pencarian dokumen, analisis teks, dan Retrieval-Augmented Generation."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan token dan embedding",
+        "beda token dan embedding",
+        "token dengan embedding"
+      ],
+      "jawaban": [
+        "Token adalah bagian teks yang diproses oleh model, sedangkan embedding adalah representasi numerik dari token tersebut agar dapat dipahami oleh AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan embedding dengan vector database",
+        "embedding dan vector database",
+        "hubungan embedding dengan basis data vektor"
+      ],
+      "jawaban": [
+        "Embedding disimpan di dalam vector database agar AI dapat mencari informasi berdasarkan kemiripan makna secara cepat dan efisien."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana belajar embedding",
+        "cara belajar embedding",
+        "ingin belajar embedding"
+      ],
+      "jawaban": [
+        "Belajar embedding sebaiknya dimulai dengan memahami token, NLP, Machine Learning, dan cara Large Language Model memproses teks."
+      ]
+    }
+  ]
+}
