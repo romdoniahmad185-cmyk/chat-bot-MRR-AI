@@ -1,0 +1,108 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00063",
+  "judul": "Large Language Model",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu large language model",
+        "jelaskan llm",
+        "pengertian llm",
+        "apa itu model bahasa besar"
+      ],
+      "jawaban": [
+        "Large Language Model atau LLM adalah model AI yang dilatih menggunakan data teks dalam jumlah sangat besar untuk memahami, memproses, dan menghasilkan bahasa manusia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi llm",
+        "fungsi large language model",
+        "kegunaan llm"
+      ],
+      "jawaban": [
+        "LLM berfungsi memahami pertanyaan, membuat teks, menjawab percakapan, menganalisis informasi, dan membantu berbagai pekerjaan berbasis bahasa."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa llm penting",
+        "kenapa llm penting",
+        "manfaat llm"
+      ],
+      "jawaban": [
+        "LLM penting karena mampu memahami bahasa manusia dengan lebih baik dan dapat digunakan untuk berbagai aplikasi AI modern."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana llm bekerja",
+        "cara kerja llm",
+        "llm bekerja bagaimana"
+      ],
+      "jawaban": [
+        "LLM bekerja dengan mempelajari pola bahasa dari data besar menggunakan arsitektur Transformer, kemudian memprediksi dan menghasilkan teks berdasarkan konteks yang diberikan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan llm dengan transformer",
+        "llm menggunakan transformer",
+        "transformer pada llm"
+      ],
+      "jawaban": [
+        "Transformer menjadi dasar utama banyak LLM modern karena mampu memahami hubungan antar kata dan konteks dalam teks."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan llm dengan chatbot",
+        "llm pada chatbot",
+        "chatbot menggunakan llm"
+      ],
+      "jawaban": [
+        "LLM membuat chatbot mampu memahami percakapan yang lebih kompleks dan menghasilkan jawaban yang lebih alami."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh large language model",
+        "contoh llm",
+        "model bahasa besar apa saja"
+      ],
+      "jawaban": [
+        "Contoh LLM adalah model bahasa yang digunakan pada berbagai asisten AI, chatbot, sistem penulisan otomatis, dan aplikasi pemahaman bahasa."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan chatbot biasa dan llm",
+        "beda chatbot biasa dengan llm",
+        "chatbot rule based vs llm"
+      ],
+      "jawaban": [
+        "Chatbot biasa umumnya menggunakan aturan dan pencocokan data, sedangkan LLM mampu memahami konteks bahasa dan menghasilkan jawaban baru berdasarkan pola yang dipelajari."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah webkita ai bisa menggunakan llm",
+        "llm untuk webkita ai",
+        "webkita ai dengan llm"
+      ],
+      "jawaban": [
+        "WEBKITA AI dapat menggunakan konsep LLM dengan menggabungkan model bahasa, knowledge base, RAG, dan data khusus WEBKITA."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat llm sendiri",
+        "cara membuat model bahasa sendiri",
+        "ingin membuat llm"
+      ],
+      "jawaban": [
+        "Membuat LLM sendiri membutuhkan data dalam jumlah besar, infrastruktur komputasi tinggi, arsitektur model, proses training, dan evaluasi yang kompleks."
+      ]
+    }
+  ]
+}
