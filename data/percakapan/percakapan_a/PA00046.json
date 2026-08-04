@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00046",
+  "judul": "Response Generation",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu response generation",
+        "jelaskan response generation",
+        "pengertian response generation",
+        "apa itu mesin penyusun jawaban"
+      ],
+      "jawaban": [
+        "Response Generation adalah komponen AI yang bertugas menghasilkan jawaban dalam bentuk bahasa yang mudah dipahami berdasarkan informasi yang telah dianalisis."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi response generation",
+        "fungsi response generation",
+        "kegunaan response generation"
+      ],
+      "jawaban": [
+        "Response Generation berfungsi mengubah hasil analisis AI menjadi kalimat atau jawaban yang dapat dipahami oleh pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa response generation penting",
+        "kenapa response generation penting",
+        "manfaat response generation"
+      ],
+      "jawaban": [
+        "Response Generation penting karena membuat AI mampu memberikan jawaban yang alami, bukan hanya menampilkan data mentah dari database."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana response generation bekerja",
+        "cara kerja response generation",
+        "response generation bekerja bagaimana"
+      ],
+      "jawaban": [
+        "Response Generation bekerja dengan mengambil informasi dari Knowledge Base, hasil penalaran, dan konteks percakapan kemudian menyusunnya menjadi respons yang sesuai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh response generation",
+        "contoh penggunaan response generation"
+      ],
+      "jawaban": [
+        "Contohnya ketika pengguna bertanya harga website, AI mengambil data layanan, memahami kebutuhan pengguna, lalu menyusun jawaban seperti penjelasan harga dan fitur yang tersedia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan response generation dengan llm",
+        "response generation dan llm",
+        "llm menghasilkan jawaban"
+      ],
+      "jawaban": [
+        "LLM memiliki kemampuan Response Generation karena dapat memprediksi dan menyusun rangkaian kata berdasarkan konteks yang dipahami."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan response generation dengan reasoning engine",
+        "reasoning engine dan response generation",
+        "hubungan penalaran dan penyusunan jawaban"
+      ],
+      "jawaban": [
+        "Reasoning Engine menentukan informasi dan kesimpulan, sedangkan Response Generation mengubah hasil tersebut menjadi jawaban yang dapat dimengerti manusia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana ai merangkai kalimat",
+        "cara ai membuat kalimat",
+        "ai menyusun jawaban bagaimana"
+      ],
+      "jawaban": [
+        "AI merangkai kalimat dengan mempelajari pola bahasa, memahami konteks, memilih informasi yang relevan, lalu menghasilkan urutan kata yang sesuai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan mengambil jawaban dan response generation",
+        "beda chatbot biasa dan ai generatif",
+        "response generation vs pencarian jawaban"
+      ],
+      "jawaban": [
+        "Sistem pencarian jawaban hanya mengambil teks yang sudah tersedia, sedangkan Response Generation dapat membuat kalimat baru berdasarkan informasi yang ditemukan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat response generation",
+        "cara membuat response generation",
+        "ingin membuat mesin penyusun jawaban"
+      ],
+      "jawaban": [
+        "Membuat Response Generation dapat dilakukan dengan menggabungkan pemahaman bahasa, data referensi, sistem penalaran, template bahasa, atau model AI generatif."
+      ]
+    }
+  ]
+}
