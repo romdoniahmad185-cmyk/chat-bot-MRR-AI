@@ -1,0 +1,105 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00041",
+  "judul": "Intent Recognition",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu intent recognition",
+        "jelaskan intent recognition",
+        "pengertian intent recognition",
+        "apa itu pengenalan intent"
+      ],
+      "jawaban": [
+        "Intent Recognition adalah proses mengenali tujuan atau maksud dari pertanyaan maupun perintah yang diberikan oleh pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi intent recognition",
+        "fungsi intent recognition",
+        "kegunaan intent recognition"
+      ],
+      "jawaban": [
+        "Intent Recognition berfungsi untuk memahami apa yang sebenarnya diinginkan pengguna sehingga AI dapat memberikan respons yang sesuai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa intent recognition penting",
+        "kenapa intent recognition penting",
+        "manfaat intent recognition"
+      ],
+      "jawaban": [
+        "Intent Recognition penting karena membantu AI memahami tujuan pengguna meskipun pertanyaan disampaikan dengan kalimat yang berbeda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana intent recognition bekerja",
+        "cara kerja intent recognition",
+        "intent recognition bekerja bagaimana"
+      ],
+      "jawaban": [
+        "Intent Recognition bekerja dengan menganalisis kata, struktur kalimat, dan konteks untuk memperkirakan maksud utama dari pertanyaan pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh intent recognition",
+        "contoh penggunaan intent recognition"
+      ],
+      "jawaban": [
+        "Misalnya kalimat 'Berapa harga website?', 'Biaya membuat website berapa?', dan 'Berapa tarif jasa website?' memiliki maksud yang sama, yaitu menanyakan harga layanan website."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan intent recognition dengan chatbot",
+        "intent recognition pada chatbot",
+        "chatbot menggunakan intent recognition"
+      ],
+      "jawaban": [
+        "Chatbot menggunakan Intent Recognition untuk menentukan jenis pertanyaan sebelum mencari jawaban yang paling sesuai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan intent recognition dengan nlp",
+        "hubungan intent recognition dan nlp"
+      ],
+      "jawaban": [
+        "Intent Recognition merupakan salah satu penerapan Natural Language Processing untuk memahami maksud dari bahasa manusia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan intent recognition dengan llm",
+        "hubungan intent recognition dan llm"
+      ],
+      "jawaban": [
+        "Large Language Model dapat membantu mengenali intent dengan memahami konteks dan hubungan antar kata dalam kalimat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan intent dan kata kunci",
+        "beda intent dengan keyword",
+        "intent dan keyword"
+      ],
+      "jawaban": [
+        "Kata kunci hanya berfokus pada kata tertentu, sedangkan intent berfokus pada tujuan atau makna keseluruhan dari pertanyaan pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana belajar intent recognition",
+        "cara belajar intent recognition",
+        "ingin belajar intent recognition"
+      ],
+      "jawaban": [
+        "Belajar Intent Recognition dapat dimulai dengan memahami NLP, klasifikasi teks, Machine Learning, dan analisis konteks percakapan."
+      ]
+    }
+  ]
+}
