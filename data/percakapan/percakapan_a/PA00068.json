@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00068",
+  "judul": "Reasoning Engine",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu reasoning engine",
+        "jelaskan reasoning engine",
+        "pengertian reasoning engine",
+        "apa itu mesin penalaran ai"
+      ],
+      "jawaban": [
+        "Reasoning Engine adalah bagian dari sistem AI yang bertugas melakukan analisis, menarik kesimpulan, dan menentukan tindakan berdasarkan informasi yang tersedia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi reasoning engine",
+        "fungsi reasoning engine",
+        "kegunaan reasoning engine"
+      ],
+      "jawaban": [
+        "Reasoning Engine berfungsi membantu AI memahami masalah, menghubungkan informasi, membuat keputusan, dan menghasilkan solusi yang lebih logis."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa reasoning engine penting",
+        "kenapa reasoning engine penting",
+        "manfaat reasoning engine"
+      ],
+      "jawaban": [
+        "Reasoning Engine penting karena membuat AI tidak hanya mengambil data, tetapi juga mampu menganalisis dan memberikan keputusan berdasarkan konteks."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana reasoning engine bekerja",
+        "cara kerja reasoning engine",
+        "alur reasoning ai"
+      ],
+      "jawaban": [
+        "Reasoning Engine bekerja dengan menerima informasi, menganalisis hubungan antar data, mempertimbangkan konteks, lalu menghasilkan kesimpulan atau tindakan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan search engine dan reasoning engine",
+        "beda search engine dengan reasoning engine",
+        "search vs reasoning ai"
+      ],
+      "jawaban": [
+        "Search Engine mencari informasi yang tersedia, sedangkan Reasoning Engine menganalisis informasi tersebut untuk menghasilkan pemahaman atau keputusan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan reasoning engine dengan llm",
+        "reasoning engine dan llm",
+        "llm melakukan reasoning"
+      ],
+      "jawaban": [
+        "LLM dapat membantu proses reasoning dengan memahami bahasa dan konteks, sedangkan Reasoning Engine mengatur proses analisis dan pengambilan keputusan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan reasoning engine dengan rag",
+        "reasoning dan rag",
+        "rag menggunakan reasoning"
+      ],
+      "jawaban": [
+        "Dalam sistem RAG, Reasoning Engine membantu AI menentukan informasi mana yang relevan dan bagaimana menggunakannya untuk menjawab pertanyaan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh reasoning engine",
+        "contoh penalaran ai"
+      ],
+      "jawaban": [
+        "Contoh Reasoning Engine adalah AI yang menganalisis kebutuhan bisnis pengguna lalu memberikan rekomendasi berdasarkan data yang tersedia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana reasoning engine digunakan pada webkita ai",
+        "reasoning engine webkita ai",
+        "implementasi reasoning ai"
+      ],
+      "jawaban": [
+        "Pada WEBKITA AI, Reasoning Engine dapat digunakan untuk menganalisis kebutuhan pelanggan, memilih informasi yang tepat, dan memberikan solusi bisnis yang sesuai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat reasoning engine ai",
+        "cara membuat mesin penalaran ai",
+        "ingin membuat reasoning engine"
+      ],
+      "jawaban": [
+        "Membuat Reasoning Engine dapat dilakukan dengan menggabungkan aturan logika, sistem pencarian, knowledge base, memory, dan kemampuan model AI."
+      ]
+    }
+  ]
+}
