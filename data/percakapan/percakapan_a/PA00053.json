@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00053",
+  "judul": "Tokenization",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu tokenization",
+        "jelaskan tokenization",
+        "pengertian tokenization",
+        "apa itu tokenisasi"
+      ],
+      "jawaban": [
+        "Tokenization adalah proses memecah teks menjadi bagian-bagian kecil yang disebut token agar dapat diproses dan dipahami oleh sistem AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi tokenization",
+        "fungsi tokenization",
+        "kegunaan tokenization"
+      ],
+      "jawaban": [
+        "Tokenization berfungsi mengubah teks menjadi bentuk yang lebih terstruktur sehingga komputer dapat melakukan analisis terhadap bahasa manusia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa tokenization penting",
+        "kenapa tokenization penting",
+        "manfaat tokenization"
+      ],
+      "jawaban": [
+        "Tokenization penting karena komputer tidak memahami kalimat seperti manusia, sehingga teks perlu dipecah menjadi bagian kecil yang dapat diproses."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana tokenization bekerja",
+        "cara kerja tokenization",
+        "tokenization bekerja bagaimana"
+      ],
+      "jawaban": [
+        "Tokenization bekerja dengan membaca teks kemudian memecahnya berdasarkan aturan tertentu, seperti pemisahan kata, karakter, atau bagian dari kata."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh tokenization",
+        "contoh tokenisasi teks"
+      ],
+      "jawaban": [
+        "Kalimat 'Saya belajar AI' dapat dipecah menjadi beberapa token seperti ['Saya', 'belajar', 'AI']."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan tokenization dengan nlp",
+        "tokenization pada nlp",
+        "nlp menggunakan tokenization"
+      ],
+      "jawaban": [
+        "Tokenization merupakan salah satu tahap awal dalam NLP sebelum teks dianalisis oleh model AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan tokenization dengan transformer",
+        "tokenization dan transformer",
+        "transformer menggunakan token"
+      ],
+      "jawaban": [
+        "Transformer memproses teks dalam bentuk token karena model tidak membaca kalimat secara langsung seperti manusia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan token dan tokenization",
+        "beda token dan tokenization",
+        "token vs tokenisasi"
+      ],
+      "jawaban": [
+        "Token adalah hasil potongan dari teks, sedangkan Tokenization adalah proses yang digunakan untuk membuat token tersebut."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "jenis tokenization",
+        "macam macam tokenization",
+        "metode tokenisasi"
+      ],
+      "jawaban": [
+        "Jenis Tokenization dapat berupa word tokenization yang memecah berdasarkan kata, character tokenization berdasarkan karakter, dan subword tokenization berdasarkan bagian kata."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat tokenization",
+        "cara membuat tokenization",
+        "ingin belajar tokenisasi"
+      ],
+      "jawaban": [
+        "Tokenization dapat dibuat menggunakan aturan pemisahan teks sederhana atau menggunakan library NLP seperti NLTK, spaCy, dan tokenizer khusus model AI."
+      ]
+    }
+  ]
+}
