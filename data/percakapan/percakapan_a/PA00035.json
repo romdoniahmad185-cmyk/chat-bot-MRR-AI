@@ -1,0 +1,108 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00035",
+  "judul": "Large Language Model",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu llm",
+        "apa itu large language model",
+        "jelaskan llm",
+        "pengertian large language model"
+      ],
+      "jawaban": [
+        "Large Language Model atau LLM adalah model kecerdasan buatan yang dilatih menggunakan data teks dalam jumlah sangat besar sehingga mampu memahami, menghasilkan, dan merespons bahasa manusia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi llm",
+        "fungsi llm",
+        "kegunaan large language model"
+      ],
+      "jawaban": [
+        "LLM digunakan untuk memahami pertanyaan, menghasilkan teks, menjawab percakapan, menerjemahkan bahasa, merangkum informasi, dan membantu berbagai tugas berbasis bahasa."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan llm dengan ai",
+        "llm bagian dari ai",
+        "hubungan llm dan artificial intelligence"
+      ],
+      "jawaban": [
+        "LLM merupakan salah satu penerapan Artificial Intelligence yang berfokus pada pemahaman dan pembangkitan bahasa alami."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan llm dengan nlp",
+        "hubungan llm dan nlp",
+        "llm menggunakan nlp"
+      ],
+      "jawaban": [
+        "LLM dibangun menggunakan teknik Natural Language Processing dan Deep Learning untuk memahami serta menghasilkan bahasa manusia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana llm bekerja",
+        "cara kerja llm",
+        "llm bekerja bagaimana"
+      ],
+      "jawaban": [
+        "LLM bekerja dengan mempelajari pola hubungan antar kata dari data dalam jumlah besar, kemudian memprediksi kata berikutnya untuk menghasilkan jawaban yang relevan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa yang dibutuhkan llm",
+        "llm membutuhkan apa",
+        "kebutuhan llm"
+      ],
+      "jawaban": [
+        "LLM membutuhkan dataset yang besar, proses pelatihan menggunakan Deep Learning, sumber daya komputasi yang tinggi, dan evaluasi untuk meningkatkan kualitas hasil."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh penggunaan llm",
+        "contoh llm",
+        "llm digunakan dimana"
+      ],
+      "jawaban": [
+        "LLM digunakan pada chatbot, asisten virtual, mesin pencari, penulisan teks, penerjemahan bahasa, analisis dokumen, dan berbagai aplikasi berbasis bahasa."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa kelebihan llm",
+        "kelebihan large language model",
+        "manfaat llm"
+      ],
+      "jawaban": [
+        "LLM mampu memahami berbagai konteks bahasa, menghasilkan teks yang alami, membantu menjawab pertanyaan, dan mendukung banyak tugas bahasa dalam satu model."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa kekurangan llm",
+        "kelemahan llm",
+        "kekurangan large language model"
+      ],
+      "jawaban": [
+        "LLM dapat menghasilkan jawaban yang kurang tepat jika data atau konteks tidak memadai, serta membutuhkan sumber daya komputasi yang besar."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana belajar llm",
+        "cara belajar llm",
+        "ingin belajar large language model"
+      ],
+      "jawaban": [
+        "Belajar LLM dapat dimulai dengan memahami Python, Machine Learning, Deep Learning, Neural Network, NLP, dan arsitektur Transformer."
+      ]
+    }
+  ]
+}
