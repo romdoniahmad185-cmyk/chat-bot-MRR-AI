@@ -1,0 +1,108 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00095",
+  "judul": "AI Evaluation System",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu ai evaluation system",
+        "jelaskan evaluasi ai",
+        "pengertian sistem evaluasi ai",
+        "apa itu penilaian kinerja ai"
+      ],
+      "jawaban": [
+        "AI Evaluation System adalah sistem yang digunakan untuk mengukur, menguji, dan menilai kualitas, kemampuan, serta performa sebuah sistem AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi ai evaluation system",
+        "fungsi evaluasi ai",
+        "kegunaan ai evaluation"
+      ],
+      "jawaban": [
+        "AI Evaluation System berfungsi mengetahui tingkat akurasi, kualitas jawaban, keamanan, dan kemampuan AI dalam menyelesaikan tugas."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa evaluasi ai penting",
+        "kenapa ai perlu dievaluasi",
+        "manfaat evaluasi sistem ai"
+      ],
+      "jawaban": [
+        "Evaluasi AI penting agar sistem dapat diperbaiki, mengurangi kesalahan, dan memberikan hasil yang lebih berkualitas kepada pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana ai evaluation bekerja",
+        "cara kerja evaluasi ai",
+        "proses pengujian ai"
+      ],
+      "jawaban": [
+        "AI Evaluation bekerja dengan menguji sistem menggunakan data tertentu, mengukur hasil, membandingkan performa, lalu menentukan bagian yang perlu diperbaiki."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "parameter evaluasi ai",
+        "ukuran performa ai",
+        "metrik evaluasi ai"
+      ],
+      "jawaban": [
+        "Parameter evaluasi AI meliputi akurasi, relevansi jawaban, kecepatan respons, keamanan, konsistensi, dan kepuasan pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu ai benchmark",
+        "benchmark model ai",
+        "pengujian kemampuan ai"
+      ],
+      "jawaban": [
+        "AI Benchmark adalah standar pengujian yang digunakan untuk membandingkan kemampuan dan performa berbagai sistem AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan evaluation dengan feedback learning",
+        "evaluasi dan feedback ai",
+        "feedback digunakan untuk evaluasi"
+      ],
+      "jawaban": [
+        "Evaluation System mengukur performa AI, sedangkan Feedback Learning menggunakan hasil evaluasi tersebut untuk meningkatkan kemampuan AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan evaluation dengan self learning",
+        "evaluasi dan self learning ai",
+        "ai belajar dari evaluasi"
+      ],
+      "jawaban": [
+        "Self Learning membutuhkan Evaluation System agar AI dapat mengetahui hasil pembelajaran dan melakukan peningkatan berdasarkan performa sebelumnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana evaluation system digunakan pada mrr ai",
+        "evaluation system mrr ai",
+        "evaluasi kinerja mrr ai"
+      ],
+      "jawaban": [
+        "Pada MRR AI, Evaluation System digunakan untuk mengukur kualitas jawaban, mendeteksi kesalahan, dan meningkatkan kemampuan sistem AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat ai evaluation system",
+        "cara membuat evaluasi ai",
+        "membangun sistem penilaian ai"
+      ],
+      "jawaban": [
+        "Membangun AI Evaluation System membutuhkan dataset pengujian, standar penilaian, sistem monitoring, analisis hasil, dan mekanisme perbaikan."
+      ]
+    }
+  ]
+}
