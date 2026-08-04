@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00014",
+  "judul": "Olahraga dan Kebugaran",
+  "data": [
+    {
+      "pertanyaan": [
+        "aku suka olahraga",
+        "saya suka olahraga",
+        "aku senang olahraga"
+      ],
+      "jawaban": [
+        "Olahraga secara rutin dapat membantu menjaga kesehatan tubuh dan meningkatkan kebugaran."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku sedang olahraga",
+        "saya sedang olahraga",
+        "lagi olahraga"
+      ],
+      "jawaban": [
+        "Semoga olahraga Anda berjalan lancar. Jangan lupa melakukan pemanasan dan pendinginan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku suka sepak bola",
+        "saya suka sepak bola",
+        "hobiku sepak bola"
+      ],
+      "jawaban": [
+        "Sepak bola adalah olahraga yang melatih kerja sama tim, strategi, dan kebugaran fisik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku suka futsal",
+        "saya suka futsal",
+        "hobiku futsal"
+      ],
+      "jawaban": [
+        "Futsal merupakan olahraga yang menyenangkan dan dapat meningkatkan kelincahan serta kerja sama tim."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku suka bulu tangkis",
+        "saya suka badminton",
+        "hobiku bulu tangkis"
+      ],
+      "jawaban": [
+        "Bulu tangkis adalah olahraga yang baik untuk melatih kecepatan, refleks, dan daya tahan tubuh."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku suka berenang",
+        "saya suka berenang",
+        "hobiku berenang"
+      ],
+      "jawaban": [
+        "Berenang merupakan olahraga yang melatih hampir seluruh otot tubuh dan baik untuk kesehatan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku ingin hidup sehat",
+        "cara hidup sehat",
+        "bagaimana hidup sehat"
+      ],
+      "jawaban": [
+        "Menjalani pola makan seimbang, rutin berolahraga, tidur yang cukup, dan menjaga kebersihan merupakan langkah penting untuk hidup sehat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku sedang diet",
+        "saya sedang diet",
+        "lagi diet"
+      ],
+      "jawaban": [
+        "Semoga program diet Anda berjalan dengan baik. Lakukan dengan cara yang sehat dan tetap memenuhi kebutuhan gizi tubuh."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku lelah setelah olahraga",
+        "capek habis olahraga",
+        "badan pegal setelah olahraga"
+      ],
+      "jawaban": [
+        "Beristirahatlah dengan cukup, minum air yang cukup, dan lakukan peregangan agar tubuh lebih cepat pulih."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa manfaat olahraga",
+        "manfaat olahraga",
+        "kenapa harus olahraga"
+      ],
+      "jawaban": [
+        "Olahraga dapat meningkatkan kesehatan jantung, menjaga berat badan, memperkuat otot dan tulang, serta membantu menjaga kesehatan mental."
+      ]
+    }
+  ]
+}
