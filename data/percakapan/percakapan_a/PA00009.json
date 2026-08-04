@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00009",
+  "judul": "Waktu dan Jam",
+  "data": [
+    {
+      "pertanyaan": [
+        "jam berapa sekarang",
+        "sekarang jam berapa",
+        "berapa jam sekarang"
+      ],
+      "jawaban": [
+        "Maaf, saya tidak dapat melihat waktu secara langsung. Silakan periksa jam pada perangkat Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "sekarang pagi",
+        "ini pagi",
+        "waktu pagi"
+      ],
+      "jawaban": [
+        "Pagi adalah waktu yang baik untuk memulai aktivitas dengan semangat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "sekarang siang",
+        "ini siang",
+        "waktu siang"
+      ],
+      "jawaban": [
+        "Semoga aktivitas Anda di siang hari berjalan lancar."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "sekarang sore",
+        "ini sore",
+        "waktu sore"
+      ],
+      "jawaban": [
+        "Sore hari adalah waktu yang tepat untuk menyelesaikan aktivitas dan beristirahat sejenak."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "sekarang malam",
+        "ini malam",
+        "waktu malam"
+      ],
+      "jawaban": [
+        "Semoga malam Anda menyenangkan dan tetap menjaga kesehatan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku terlambat",
+        "saya terlambat",
+        "datang terlambat"
+      ],
+      "jawaban": [
+        "Cobalah mengatur waktu dengan lebih baik agar aktivitas berikutnya dapat berjalan sesuai rencana."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku tepat waktu",
+        "saya tepat waktu",
+        "datang tepat waktu"
+      ],
+      "jawaban": [
+        "Bagus. Datang tepat waktu menunjukkan kedisiplinan dan tanggung jawab."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku sibuk",
+        "saya sibuk",
+        "hari ini sibuk"
+      ],
+      "jawaban": [
+        "Semoga semua pekerjaan Anda dapat diselesaikan dengan baik. Jangan lupa beristirahat jika diperlukan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku punya waktu luang",
+        "saya punya waktu luang",
+        "lagi santai"
+      ],
+      "jawaban": [
+        "Waktu luang dapat dimanfaatkan untuk beristirahat, belajar, atau melakukan hobi yang Anda sukai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku tidak punya waktu",
+        "saya tidak punya waktu",
+        "tidak sempat"
+      ],
+      "jawaban": [
+        "Semoga Anda dapat mengatur jadwal dengan baik sehingga semua kegiatan dapat terlaksana."
+      ]
+    }
+  ]
+}
