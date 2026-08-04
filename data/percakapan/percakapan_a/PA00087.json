@@ -1,0 +1,106 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00087",
+  "judul": "AI Reasoning Engine",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu ai reasoning engine",
+        "jelaskan reasoning engine ai",
+        "pengertian mesin penalaran ai",
+        "apa itu penalaran ai"
+      ],
+      "jawaban": [
+        "AI Reasoning Engine adalah sistem yang memungkinkan AI melakukan proses berpikir, menganalisis informasi, membuat hubungan antar data, dan mengambil keputusan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi reasoning engine ai",
+        "fungsi mesin penalaran ai",
+        "kegunaan reasoning engine"
+      ],
+      "jawaban": [
+        "Reasoning Engine berfungsi membantu AI memahami masalah, melakukan analisis, menarik kesimpulan, dan memberikan solusi berdasarkan informasi yang tersedia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa reasoning penting untuk ai",
+        "kenapa ai membutuhkan reasoning",
+        "manfaat reasoning engine"
+      ],
+      "jawaban": [
+        "Reasoning penting karena membuat AI tidak hanya mengambil informasi, tetapi juga mampu menganalisis dan menghubungkan berbagai informasi untuk menghasilkan keputusan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana reasoning engine bekerja",
+        "cara kerja reasoning ai",
+        "proses penalaran ai"
+      ],
+      "jawaban": [
+        "Reasoning Engine bekerja dengan menerima informasi, memahami konteks, menganalisis hubungan antar data, menerapkan logika, lalu menghasilkan kesimpulan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "jenis reasoning dalam ai",
+        "macam macam penalaran ai",
+        "tipe reasoning ai"
+      ],
+      "jawaban": [
+        "Jenis reasoning AI meliputi deductive reasoning, inductive reasoning, abductive reasoning, dan probabilistic reasoning."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu deductive reasoning ai",
+        "penalaran deduktif ai"
+      ],
+      "jawaban": [
+        "Deductive Reasoning adalah proses mengambil kesimpulan berdasarkan aturan atau fakta yang sudah diketahui."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu inductive reasoning ai",
+        "penalaran induktif ai"
+      ],
+      "jawaban": [
+        "Inductive Reasoning adalah proses menemukan pola atau membuat kesimpulan umum berdasarkan contoh data yang tersedia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan reasoning dengan llm",
+        "reasoning dan llm",
+        "llm memiliki reasoning"
+      ],
+      "jawaban": [
+        "Reasoning membantu LLM melakukan analisis lebih dalam sehingga AI dapat menyelesaikan masalah yang membutuhkan pemahaman dan logika."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana reasoning engine digunakan pada mrr ai",
+        "reasoning engine mrr ai",
+        "mesin berpikir mrr ai"
+      ],
+      "jawaban": [
+        "Pada MRR AI, Reasoning Engine digunakan untuk menganalisis pertanyaan, menghubungkan informasi dari Knowledge Base, dan menghasilkan keputusan atau solusi yang lebih cerdas."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat reasoning engine ai",
+        "cara membuat mesin penalaran ai",
+        "membangun reasoning system"
+      ],
+      "jawaban": [
+        "Membangun Reasoning Engine AI membutuhkan sistem logika, knowledge base, memory, model AI, aturan pengambilan keputusan, dan kemampuan analisis."
+      ]
+    }
+  ]
+}
