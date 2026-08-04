@@ -1,0 +1,108 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00086",
+  "judul": "AI Knowledge Base Architecture",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu ai knowledge base architecture",
+        "jelaskan arsitektur knowledge base ai",
+        "pengertian knowledge base ai",
+        "apa itu basis pengetahuan ai"
+      ],
+      "jawaban": [
+        "AI Knowledge Base Architecture adalah rancangan sistem yang mengatur bagaimana pengetahuan AI dikumpulkan, disimpan, dikelola, dan digunakan untuk memberikan informasi kepada pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi knowledge base ai",
+        "fungsi basis pengetahuan ai",
+        "kegunaan knowledge base"
+      ],
+      "jawaban": [
+        "Knowledge Base AI berfungsi sebagai tempat penyimpanan informasi yang digunakan AI untuk memahami pertanyaan dan memberikan jawaban berdasarkan data yang tersedia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa knowledge base penting untuk ai",
+        "kenapa ai membutuhkan knowledge base",
+        "manfaat knowledge base"
+      ],
+      "jawaban": [
+        "Knowledge Base penting karena memberikan sumber informasi yang dapat digunakan AI untuk meningkatkan akurasi dan kualitas jawaban."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana knowledge base ai bekerja",
+        "cara kerja knowledge base",
+        "alur knowledge base ai"
+      ],
+      "jawaban": [
+        "Knowledge Base AI bekerja dengan menyimpan informasi terstruktur, melakukan pencarian data yang relevan, lalu menyediakan informasi tersebut kepada sistem AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "komponen knowledge base ai",
+        "bagian knowledge base",
+        "struktur knowledge base"
+      ],
+      "jawaban": [
+        "Komponen Knowledge Base AI meliputi sumber data, penyimpanan informasi, sistem pencarian, pengelompokan data, dan integrasi dengan mesin AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan database dan knowledge base",
+        "beda database dengan knowledge base",
+        "database vs knowledge base"
+      ],
+      "jawaban": [
+        "Database menyimpan data, sedangkan Knowledge Base menyimpan informasi yang telah diolah agar dapat dipahami dan digunakan untuk membantu pengambilan keputusan AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan knowledge base dengan rag",
+        "knowledge base dan rag",
+        "rag menggunakan knowledge base"
+      ],
+      "jawaban": [
+        "Dalam sistem RAG, Knowledge Base menjadi sumber informasi yang dicari oleh AI sebelum menghasilkan jawaban."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan knowledge base dengan memory ai",
+        "knowledge base dan memory",
+        "perbedaan memory dan knowledge base"
+      ],
+      "jawaban": [
+        "Knowledge Base menyimpan pengetahuan umum, sedangkan Memory AI menyimpan informasi khusus seperti riwayat interaksi dan preferensi pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana knowledge base digunakan pada mrr ai",
+        "knowledge base mrr ai",
+        "basis pengetahuan mrr ai"
+      ],
+      "jawaban": [
+        "Pada MRR AI, Knowledge Base digunakan untuk menyimpan data percakapan, ilmu pengetahuan, teknologi, bisnis, dan informasi lainnya yang menjadi sumber kecerdasan AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat knowledge base ai",
+        "cara membuat basis pengetahuan ai",
+        "membangun knowledge base"
+      ],
+      "jawaban": [
+        "Membangun Knowledge Base AI membutuhkan pengumpulan data, proses cleaning, pengelompokan informasi, penyimpanan terstruktur, dan sistem pencarian yang cerdas."
+      ]
+    }
+  ]
+}
