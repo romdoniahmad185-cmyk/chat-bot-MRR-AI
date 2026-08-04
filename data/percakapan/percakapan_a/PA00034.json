@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00034",
+  "judul": "Computer Vision",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu computer vision",
+        "jelaskan computer vision",
+        "pengertian computer vision"
+      ],
+      "jawaban": [
+        "Computer Vision adalah cabang Artificial Intelligence yang memungkinkan komputer memahami, menganalisis, dan mengolah informasi dari gambar maupun video."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi computer vision",
+        "fungsi computer vision",
+        "kegunaan computer vision"
+      ],
+      "jawaban": [
+        "Computer Vision digunakan untuk mengenali objek, mendeteksi wajah, membaca teks dari gambar, menganalisis video, dan memahami isi visual."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan computer vision dengan ai",
+        "computer vision bagian dari ai",
+        "hubungan computer vision dan artificial intelligence"
+      ],
+      "jawaban": [
+        "Computer Vision merupakan salah satu cabang Artificial Intelligence yang berfokus pada pemrosesan gambar dan video."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh computer vision",
+        "contoh penggunaan computer vision",
+        "computer vision digunakan dimana"
+      ],
+      "jawaban": [
+        "Computer Vision digunakan pada pengenalan wajah, kendaraan otonom, kamera keamanan, diagnosis citra medis, pembacaan plat nomor, dan inspeksi kualitas produk."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu image classification",
+        "jelaskan image classification",
+        "pengertian klasifikasi gambar"
+      ],
+      "jawaban": [
+        "Image Classification adalah proses mengelompokkan sebuah gambar ke dalam kategori tertentu berdasarkan isi gambar tersebut."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu object detection",
+        "jelaskan object detection",
+        "pengertian deteksi objek"
+      ],
+      "jawaban": [
+        "Object Detection adalah teknik untuk mendeteksi keberadaan sekaligus menentukan lokasi objek di dalam gambar atau video."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu image segmentation",
+        "jelaskan image segmentation",
+        "pengertian segmentasi gambar"
+      ],
+      "jawaban": [
+        "Image Segmentation adalah proses membagi gambar menjadi beberapa bagian agar setiap objek atau area dapat dianalisis secara lebih rinci."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana computer vision bekerja",
+        "cara kerja computer vision",
+        "computer vision bekerja bagaimana"
+      ],
+      "jawaban": [
+        "Computer Vision bekerja dengan memproses gambar atau video menggunakan algoritma dan model AI untuk mengenali pola, objek, serta informasi visual lainnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa computer vision penting",
+        "kenapa computer vision penting",
+        "manfaat computer vision"
+      ],
+      "jawaban": [
+        "Computer Vision membantu komputer memahami dunia visual sehingga dapat digunakan untuk otomatisasi, analisis, dan pengambilan keputusan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana belajar computer vision",
+        "cara belajar computer vision",
+        "ingin belajar computer vision"
+      ],
+      "jawaban": [
+        "Belajar Computer Vision dapat dimulai dengan memahami Python, pengolahan citra digital, Machine Learning, Deep Learning, dan dataset gambar."
+      ]
+    }
+  ]
+}
