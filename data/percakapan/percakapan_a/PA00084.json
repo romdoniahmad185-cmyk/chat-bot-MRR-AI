@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00084",
+  "judul": "Context Management AI",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu context management ai",
+        "jelaskan context management",
+        "pengertian context management",
+        "apa itu pengelolaan konteks ai"
+      ],
+      "jawaban": [
+        "Context Management AI adalah sistem yang mengelola informasi dan konteks dalam percakapan agar AI dapat memahami hubungan antara pesan sebelumnya dan pertanyaan saat ini."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi context management",
+        "fungsi context management ai",
+        "kegunaan pengelolaan konteks"
+      ],
+      "jawaban": [
+        "Context Management berfungsi menjaga informasi penting dalam percakapan, memahami situasi pengguna, dan membuat respons AI lebih relevan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa konteks penting untuk ai",
+        "kenapa ai membutuhkan konteks",
+        "manfaat context ai"
+      ],
+      "jawaban": [
+        "Konteks penting karena tanpa konteks AI hanya memahami pesan secara terpisah dan sulit mengikuti percakapan yang panjang."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana context management bekerja",
+        "cara kerja context management",
+        "alur konteks ai"
+      ],
+      "jawaban": [
+        "Context Management bekerja dengan menyimpan informasi percakapan, menganalisis hubungan antar pesan, dan menyediakan konteks yang diperlukan saat AI memberikan jawaban."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "jenis konteks dalam ai",
+        "macam macam context ai",
+        "tipe konteks percakapan"
+      ],
+      "jawaban": [
+        "Jenis konteks AI meliputi konteks percakapan, konteks pengguna, konteks waktu, konteks tujuan, dan konteks informasi sebelumnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan context management dengan memory ai",
+        "context management dan memory",
+        "konteks menggunakan memory"
+      ],
+      "jawaban": [
+        "Context Management menggunakan Memory AI untuk menyimpan dan mengambil informasi penting agar AI dapat memahami percakapan sebelumnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan context management dengan dialogue management",
+        "context dan dialogue management",
+        "pengelolaan dialog dan konteks"
+      ],
+      "jawaban": [
+        "Dialogue Management mengatur alur percakapan, sedangkan Context Management memastikan AI memahami informasi yang ada dalam percakapan tersebut."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh context management ai",
+        "contoh penggunaan konteks ai"
+      ],
+      "jawaban": [
+        "Contoh Context Management adalah ketika AI mengingat bahwa pengguna sedang membahas bisnis makanan lalu tetap memberikan jawaban terkait bisnis tersebut."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana context management digunakan pada mrr ai",
+        "context management mrr ai",
+        "konteks percakapan mrr ai"
+      ],
+      "jawaban": [
+        "Pada MRR AI, Context Management digunakan agar AI dapat memahami kebutuhan pengguna, riwayat percakapan, dan memberikan solusi yang sesuai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat context management ai",
+        "cara membuat sistem konteks ai",
+        "membangun context manager"
+      ],
+      "jawaban": [
+        "Membangun Context Management AI membutuhkan penyimpanan riwayat percakapan, sistem memory, pengelolaan informasi penting, dan mekanisme pengambilan konteks."
+      ]
+    }
+  ]
+}
