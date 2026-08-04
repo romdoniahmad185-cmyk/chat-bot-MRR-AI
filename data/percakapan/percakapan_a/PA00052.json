@@ -1,0 +1,108 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00052",
+  "judul": "Text Preprocessing",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu text preprocessing",
+        "jelaskan text preprocessing",
+        "pengertian text preprocessing",
+        "apa itu pemrosesan awal teks"
+      ],
+      "jawaban": [
+        "Text Preprocessing adalah proses membersihkan dan mempersiapkan teks sebelum diproses oleh sistem AI agar data lebih mudah dipahami dan dianalisis."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi text preprocessing",
+        "fungsi text preprocessing",
+        "kegunaan text preprocessing"
+      ],
+      "jawaban": [
+        "Text Preprocessing berfungsi menghilangkan data yang tidak diperlukan, menyamakan format teks, dan meningkatkan kualitas analisis AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa text preprocessing penting",
+        "kenapa text preprocessing penting",
+        "manfaat text preprocessing"
+      ],
+      "jawaban": [
+        "Text Preprocessing penting karena data teks manusia memiliki banyak variasi seperti huruf besar kecil, tanda baca, typo, dan kata yang tidak diperlukan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana text preprocessing bekerja",
+        "cara kerja text preprocessing",
+        "text preprocessing bekerja bagaimana"
+      ],
+      "jawaban": [
+        "Text Preprocessing bekerja dengan melakukan beberapa tahap seperti membersihkan teks, mengubah format, memecah kata, dan menyiapkan data untuk analisis."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa saja tahap text preprocessing",
+        "tahapan text preprocessing",
+        "proses text preprocessing"
+      ],
+      "jawaban": [
+        "Tahapan Text Preprocessing dapat meliputi case folding, cleaning, tokenisasi, filtering, stopword removal, dan stemming."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu case folding",
+        "fungsi case folding",
+        "contoh case folding"
+      ],
+      "jawaban": [
+        "Case Folding adalah proses mengubah seluruh teks menjadi format yang sama, biasanya huruf kecil, agar sistem AI tidak menganggap kata dengan huruf berbeda sebagai kata yang berbeda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu tokenisasi",
+        "fungsi tokenisasi",
+        "contoh tokenisasi"
+      ],
+      "jawaban": [
+        "Tokenisasi adalah proses memecah kalimat menjadi bagian kecil seperti kata atau token agar dapat diproses oleh sistem AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu stopword removal",
+        "fungsi stopword removal",
+        "penghapusan kata tidak penting"
+      ],
+      "jawaban": [
+        "Stopword Removal adalah proses menghapus kata-kata umum yang kurang memiliki makna penting dalam analisis, seperti kata penghubung tertentu."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu stemming",
+        "fungsi stemming",
+        "contoh stemming"
+      ],
+      "jawaban": [
+        "Stemming adalah proses mengubah kata menjadi bentuk dasar agar AI dapat memahami hubungan antar kata yang memiliki akar yang sama."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana text preprocessing digunakan pada webkita ai",
+        "text preprocessing webkita ai",
+        "nlp webkita ai"
+      ],
+      "jawaban": [
+        "Pada WEBKITA AI, Text Preprocessing digunakan untuk membersihkan pertanyaan pengguna sebelum dilakukan pencarian data, analisis intent, dan proses pembuatan jawaban."
+      ]
+    }
+  ]
+}
