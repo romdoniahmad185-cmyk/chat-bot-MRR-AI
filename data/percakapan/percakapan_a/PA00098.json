@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00098",
+  "judul": "AI Scalability System",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu ai scalability system",
+        "jelaskan skalabilitas ai",
+        "pengertian sistem skalabilitas ai",
+        "apa itu ai scaling"
+      ],
+      "jawaban": [
+        "AI Scalability System adalah sistem yang memungkinkan AI berkembang dan menangani peningkatan jumlah pengguna, data, serta beban kerja tanpa mengalami penurunan performa."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi ai scalability",
+        "fungsi scalability ai",
+        "kegunaan sistem scaling ai"
+      ],
+      "jawaban": [
+        "AI Scalability berfungsi memastikan sistem AI tetap cepat, stabil, dan mampu melayani banyak pengguna meskipun jumlah data dan permintaan terus meningkat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa scalability penting untuk ai",
+        "kenapa ai membutuhkan scaling",
+        "manfaat scalability ai"
+      ],
+      "jawaban": [
+        "Scalability penting karena sistem AI besar harus mampu berkembang dari pengguna sedikit menjadi jutaan pengguna tanpa kehilangan kualitas layanan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana ai scalability bekerja",
+        "cara kerja scaling ai",
+        "proses skalabilitas ai"
+      ],
+      "jawaban": [
+        "AI Scalability bekerja dengan menambah kapasitas server, mengoptimalkan model, membagi beban kerja, dan menggunakan infrastruktur yang dapat berkembang."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "jenis scalability ai",
+        "macam macam scaling ai",
+        "tipe skalabilitas sistem"
+      ],
+      "jawaban": [
+        "Jenis scalability AI meliputi horizontal scaling dengan menambah server, vertical scaling dengan meningkatkan kemampuan server, dan optimasi sistem."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan scalability dengan cloud ai",
+        "scaling menggunakan cloud",
+        "cloud untuk ai"
+      ],
+      "jawaban": [
+        "Cloud AI membantu skalabilitas dengan menyediakan sumber daya komputasi yang dapat ditambah sesuai kebutuhan sistem."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan scalability dengan database ai",
+        "database scaling ai",
+        "penyimpanan data besar ai"
+      ],
+      "jawaban": [
+        "Scalability Database AI diperlukan agar sistem dapat menyimpan dan mengakses data dalam jumlah besar dengan cepat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh ai scalability system",
+        "contoh scaling ai"
+      ],
+      "jawaban": [
+        "Contoh AI Scalability adalah sistem chatbot yang awalnya melayani ribuan pengguna lalu dapat berkembang melayani jutaan pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana scalability digunakan pada mrr ai",
+        "scalability mrr ai",
+        "sistem besar mrr ai"
+      ],
+      "jawaban": [
+        "Pada MRR AI, Scalability System digunakan agar platform dapat berkembang dari skala kecil menjadi sistem AI besar yang mampu melayani banyak pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat ai scalability system",
+        "cara membuat sistem ai yang scalable",
+        "membangun infrastruktur ai besar"
+      ],
+      "jawaban": [
+        "Membangun AI Scalability System membutuhkan arsitektur yang baik, server fleksibel, database yang kuat, optimasi model, dan sistem distribusi beban."
+      ]
+    }
+  ]
+}
