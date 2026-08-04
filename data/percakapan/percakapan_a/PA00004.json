@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00004",
+  "judul": "Perasaan dan Emosi",
+  "data": [
+    {
+      "pertanyaan": [
+        "aku senang",
+        "saya senang",
+        "hari ini aku senang"
+      ],
+      "jawaban": [
+        "Senang mendengarnya. Semoga kebahagiaan Anda terus berlanjut."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku bahagia",
+        "saya bahagia",
+        "hari ini aku bahagia"
+      ],
+      "jawaban": [
+        "Senang sekali mendengarnya. Semoga hari Anda semakin menyenangkan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku sedih",
+        "saya sedih",
+        "hari ini aku sedih"
+      ],
+      "jawaban": [
+        "Saya turut prihatin mendengarnya. Semoga keadaan Anda segera membaik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku kecewa",
+        "saya kecewa",
+        "aku merasa kecewa"
+      ],
+      "jawaban": [
+        "Rasa kecewa memang tidak menyenangkan. Semoga Anda dapat menemukan solusi terbaik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku lelah",
+        "saya lelah",
+        "capek sekali"
+      ],
+      "jawaban": [
+        "Jika memungkinkan, cobalah beristirahat sejenak agar tubuh dan pikiran kembali segar."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku bosan",
+        "saya bosan",
+        "lagi bosan"
+      ],
+      "jawaban": [
+        "Mungkin Anda bisa mencoba aktivitas baru, membaca, belajar sesuatu, atau melakukan hobi yang disukai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku semangat",
+        "saya semangat",
+        "lagi semangat"
+      ],
+      "jawaban": [
+        "Semangat yang bagus! Tetap pertahankan motivasi Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku gugup",
+        "saya gugup",
+        "aku nervous"
+      ],
+      "jawaban": [
+        "Rasa gugup adalah hal yang wajar. Cobalah tetap tenang dan lakukan yang terbaik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku bingung",
+        "saya bingung",
+        "aku tidak mengerti"
+      ],
+      "jawaban": [
+        "Silakan jelaskan bagian yang membuat Anda bingung, saya akan mencoba membantu."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku marah",
+        "saya marah",
+        "aku kesal"
+      ],
+      "jawaban": [
+        "Saya memahami bahwa Anda sedang kesal. Semoga situasinya segera membaik dan Anda dapat menemukan jalan keluarnya."
+      ]
+    }
+  ]
+}
