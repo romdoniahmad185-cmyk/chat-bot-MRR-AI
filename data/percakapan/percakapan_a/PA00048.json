@@ -1,0 +1,106 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00048",
+  "judul": "Conversation Management",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu conversation management",
+        "jelaskan conversation management",
+        "pengertian conversation management",
+        "apa itu manajemen percakapan"
+      ],
+      "jawaban": [
+        "Conversation Management adalah sistem yang mengatur jalannya percakapan antara pengguna dan AI agar komunikasi tetap terstruktur, relevan, dan sesuai tujuan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi conversation management",
+        "fungsi conversation management",
+        "kegunaan conversation management"
+      ],
+      "jawaban": [
+        "Conversation Management berfungsi mengatur alur dialog, mengelola konteks, menentukan langkah percakapan berikutnya, dan menjaga kualitas interaksi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa conversation management penting",
+        "kenapa conversation management penting",
+        "manfaat conversation management"
+      ],
+      "jawaban": [
+        "Conversation Management penting agar AI dapat menangani percakapan panjang tanpa kehilangan informasi atau memberikan respons yang tidak sesuai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana conversation management bekerja",
+        "cara kerja conversation management",
+        "conversation management bekerja bagaimana"
+      ],
+      "jawaban": [
+        "Conversation Management bekerja dengan memantau pesan pengguna, menyimpan konteks, menentukan tujuan percakapan, dan mengatur respons AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh conversation management",
+        "contoh penggunaan conversation management"
+      ],
+      "jawaban": [
+        "Contohnya ketika pengguna ingin membuat website, AI dapat menanyakan jenis website, fitur yang dibutuhkan, target pengguna, dan anggaran secara bertahap."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan conversation management dengan chatbot",
+        "conversation management pada chatbot",
+        "chatbot menggunakan conversation management"
+      ],
+      "jawaban": [
+        "Conversation Management merupakan bagian penting dalam chatbot agar percakapan dapat berjalan secara alami seperti komunikasi manusia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan conversation management dengan context management",
+        "beda conversation management dan context management",
+        "context dan conversation management"
+      ],
+      "jawaban": [
+        "Context Management berfokus pada memahami informasi dalam percakapan, sedangkan Conversation Management mengatur bagaimana percakapan tersebut berjalan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan conversation management dengan memory system",
+        "conversation management dan memory system"
+      ],
+      "jawaban": [
+        "Memory System menyimpan informasi, sedangkan Conversation Management menggunakan informasi tersebut untuk mengatur percakapan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana ai mengatur percakapan",
+        "cara ai mengelola dialog",
+        "ai mengatur percakapan bagaimana"
+      ],
+      "jawaban": [
+        "AI mengatur percakapan dengan memahami maksud pengguna, menyimpan konteks, mengambil informasi yang diperlukan, lalu menentukan respons berikutnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat conversation management",
+        "cara membuat conversation management",
+        "ingin membuat sistem percakapan ai"
+      ],
+      "jawaban": [
+        "Membuat Conversation Management dapat dilakukan dengan menggabungkan sistem intent, context, memory, aturan percakapan, dan mesin pembuat respons."
+      ]
+    }
+  ]
+}
