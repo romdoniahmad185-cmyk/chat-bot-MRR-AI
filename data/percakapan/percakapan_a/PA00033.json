@@ -1,0 +1,108 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00033",
+  "judul": "Natural Language Processing",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu nlp",
+        "apa itu natural language processing",
+        "jelaskan nlp",
+        "pengertian natural language processing"
+      ],
+      "jawaban": [
+        "Natural Language Processing atau NLP adalah cabang Artificial Intelligence yang mempelajari cara agar komputer dapat memahami, mengolah, dan menghasilkan bahasa manusia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi nlp",
+        "fungsi nlp",
+        "kegunaan natural language processing"
+      ],
+      "jawaban": [
+        "NLP digunakan agar komputer dapat memahami teks atau ucapan manusia, mencari makna, serta menghasilkan respons yang sesuai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan nlp dengan ai",
+        "nlp bagian dari ai",
+        "hubungan nlp dan artificial intelligence"
+      ],
+      "jawaban": [
+        "Natural Language Processing merupakan salah satu cabang Artificial Intelligence yang berfokus pada pengolahan bahasa manusia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh nlp",
+        "contoh penggunaan nlp",
+        "nlp digunakan dimana"
+      ],
+      "jawaban": [
+        "NLP digunakan pada chatbot, mesin pencari, penerjemah bahasa, asisten virtual, analisis sentimen, dan pemeriksa tata bahasa."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu tokenisasi",
+        "jelaskan tokenisasi",
+        "pengertian tokenisasi"
+      ],
+      "jawaban": [
+        "Tokenisasi adalah proses memecah kalimat menjadi bagian-bagian yang lebih kecil, seperti kata atau simbol, agar dapat diproses oleh komputer."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu stemming",
+        "jelaskan stemming",
+        "pengertian stemming"
+      ],
+      "jawaban": [
+        "Stemming adalah proses mengubah kata menjadi bentuk dasarnya agar lebih mudah dianalisis oleh sistem."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu stopword",
+        "jelaskan stopword",
+        "pengertian stopword"
+      ],
+      "jawaban": [
+        "Stopword adalah kata-kata yang sering muncul tetapi memiliki makna yang kecil dalam pencarian informasi, sehingga terkadang diabaikan saat pemrosesan teks."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana nlp bekerja",
+        "cara kerja nlp",
+        "nlp bekerja bagaimana"
+      ],
+      "jawaban": [
+        "NLP bekerja dengan menganalisis struktur bahasa, mengenali kata, memahami konteks, dan menghasilkan keluaran berdasarkan pola yang dipelajari."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa nlp penting",
+        "kenapa nlp penting",
+        "manfaat nlp"
+      ],
+      "jawaban": [
+        "NLP memungkinkan manusia berinteraksi dengan komputer menggunakan bahasa alami sehingga komunikasi menjadi lebih mudah."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana belajar nlp",
+        "cara belajar nlp",
+        "ingin belajar natural language processing"
+      ],
+      "jawaban": [
+        "Belajar NLP dapat dimulai dengan memahami Python, linguistik dasar, Machine Learning, serta teknik pengolahan teks."
+      ]
+    }
+  ]
+}
