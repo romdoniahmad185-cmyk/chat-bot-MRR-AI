@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00094",
+  "judul": "AI Feedback Learning System",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu ai feedback learning system",
+        "jelaskan feedback learning ai",
+        "pengertian pembelajaran feedback ai",
+        "apa itu ai belajar dari feedback"
+      ],
+      "jawaban": [
+        "AI Feedback Learning System adalah sistem yang memungkinkan AI meningkatkan kualitasnya dengan memanfaatkan masukan, penilaian, dan koreksi dari pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi feedback learning ai",
+        "fungsi ai feedback",
+        "kegunaan feedback system"
+      ],
+      "jawaban": [
+        "Feedback Learning berfungsi membantu AI mengetahui apakah jawabannya sudah benar, sesuai kebutuhan pengguna, atau perlu diperbaiki."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa feedback penting untuk ai",
+        "kenapa ai membutuhkan feedback",
+        "manfaat feedback pengguna"
+      ],
+      "jawaban": [
+        "Feedback penting karena membantu AI memahami kesalahan, meningkatkan akurasi, dan menyesuaikan respons agar lebih baik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana feedback learning bekerja",
+        "cara kerja ai feedback",
+        "proses belajar dari feedback"
+      ],
+      "jawaban": [
+        "Feedback Learning bekerja dengan mengumpulkan penilaian pengguna, menganalisis hasil respons AI, lalu menggunakan informasi tersebut untuk meningkatkan performa sistem."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "jenis feedback untuk ai",
+        "macam feedback ai",
+        "tipe masukan pengguna"
+      ],
+      "jawaban": [
+        "Jenis feedback AI meliputi rating pengguna, koreksi jawaban, komentar, data penggunaan, dan hasil evaluasi performa."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu human feedback ai",
+        "human feedback pada ai",
+        "manusia melatih ai"
+      ],
+      "jawaban": [
+        "Human Feedback AI adalah proses ketika manusia memberikan penilaian atau koreksi agar AI dapat memahami respons yang lebih baik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan feedback learning dengan self learning",
+        "feedback dan self learning",
+        "ai belajar dari pengalaman"
+      ],
+      "jawaban": [
+        "Feedback Learning menjadi salah satu sumber bagi Self Learning karena AI menggunakan masukan pengguna sebagai pengalaman untuk berkembang."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh feedback learning ai",
+        "contoh ai belajar dari pengguna"
+      ],
+      "jawaban": [
+        "Contoh Feedback Learning adalah ketika pengguna menandai jawaban AI salah, lalu sistem menggunakan informasi tersebut untuk meningkatkan jawaban berikutnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana feedback learning digunakan pada mrr ai",
+        "feedback learning mrr ai",
+        "sistem evaluasi mrr ai"
+      ],
+      "jawaban": [
+        "Pada MRR AI, Feedback Learning digunakan untuk mengumpulkan evaluasi pengguna dan meningkatkan kualitas jawaban, layanan, serta kemampuan AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat feedback learning ai",
+        "cara membuat sistem feedback ai",
+        "membangun ai feedback system"
+      ],
+      "jawaban": [
+        "Membangun Feedback Learning AI membutuhkan sistem pengumpulan feedback, penyimpanan data evaluasi, analisis performa, dan mekanisme peningkatan AI."
+      ]
+    }
+  ]
+}
