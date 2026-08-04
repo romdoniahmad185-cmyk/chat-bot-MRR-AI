@@ -1,0 +1,108 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00060",
+  "judul": "Deep Learning",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu deep learning",
+        "jelaskan deep learning",
+        "pengertian deep learning",
+        "apa itu pembelajaran mendalam"
+      ],
+      "jawaban": [
+        "Deep Learning adalah cabang dari Machine Learning yang menggunakan jaringan saraf tiruan dengan banyak lapisan untuk mempelajari pola kompleks dari data."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi deep learning",
+        "fungsi deep learning",
+        "kegunaan deep learning"
+      ],
+      "jawaban": [
+        "Deep Learning berfungsi untuk mengenali pola yang sangat kompleks seperti bahasa manusia, gambar, suara, dan berbagai jenis data besar."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa deep learning penting",
+        "kenapa deep learning penting",
+        "manfaat deep learning"
+      ],
+      "jawaban": [
+        "Deep Learning penting karena mampu memproses data dalam jumlah besar dan menemukan pola yang sulit dilakukan oleh metode biasa."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana deep learning bekerja",
+        "cara kerja deep learning",
+        "deep learning bekerja bagaimana"
+      ],
+      "jawaban": [
+        "Deep Learning bekerja menggunakan jaringan saraf dengan banyak lapisan yang belajar dari data melalui proses pelatihan dan penyesuaian parameter."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu neural network",
+        "jelaskan neural network",
+        "jaringan saraf tiruan"
+      ],
+      "jawaban": [
+        "Neural Network adalah sistem komputasi yang terinspirasi dari cara kerja otak manusia dan terdiri dari neuron buatan yang saling terhubung."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan deep learning dengan machine learning",
+        "deep learning dan machine learning",
+        "beda deep learning dan machine learning"
+      ],
+      "jawaban": [
+        "Deep Learning adalah bagian dari Machine Learning yang menggunakan jaringan saraf dengan banyak lapisan untuk menangani masalah yang lebih kompleks."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan deep learning dengan ai",
+        "deep learning dan artificial intelligence",
+        "ai menggunakan deep learning"
+      ],
+      "jawaban": [
+        "Deep Learning merupakan salah satu teknologi utama dalam AI modern yang memungkinkan sistem memahami bahasa, gambar, dan suara."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh deep learning",
+        "penggunaan deep learning",
+        "deep learning digunakan dimana"
+      ],
+      "jawaban": [
+        "Deep Learning digunakan pada chatbot AI, pengenalan wajah, kendaraan otomatis, penerjemah bahasa, dan sistem rekomendasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan deep learning dengan chatbot",
+        "deep learning pada chatbot",
+        "chatbot menggunakan deep learning"
+      ],
+      "jawaban": [
+        "Deep Learning membantu chatbot memahami pola bahasa, mengenali konteks percakapan, dan menghasilkan respons yang lebih alami."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana deep learning digunakan pada webkita ai",
+        "deep learning webkita ai",
+        "implementasi deep learning webkita"
+      ],
+      "jawaban": [
+        "Pada WEBKITA AI, Deep Learning dapat digunakan untuk meningkatkan pemahaman bahasa, analisis data pengguna, klasifikasi informasi, dan pembuatan respons yang lebih cerdas."
+      ]
+    }
+  ]
+}
