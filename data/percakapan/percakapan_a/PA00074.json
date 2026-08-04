@@ -1,0 +1,108 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00074",
+  "judul": "Dataset AI",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu dataset ai",
+        "jelaskan dataset ai",
+        "pengertian dataset kecerdasan buatan",
+        "apa itu kumpulan data ai"
+      ],
+      "jawaban": [
+        "Dataset AI adalah kumpulan data yang digunakan untuk melatih, menguji, dan meningkatkan kemampuan sistem kecerdasan buatan agar dapat memahami pola dan membuat keputusan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi dataset ai",
+        "fungsi dataset untuk ai",
+        "kegunaan dataset ai"
+      ],
+      "jawaban": [
+        "Dataset AI berfungsi sebagai sumber pembelajaran bagi model AI agar dapat mengenali pola, memahami informasi, dan menghasilkan prediksi atau jawaban."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa dataset penting untuk ai",
+        "kenapa ai membutuhkan dataset",
+        "manfaat dataset ai"
+      ],
+      "jawaban": [
+        "Dataset sangat penting karena kualitas dan jumlah data akan mempengaruhi kemampuan AI dalam belajar dan menghasilkan hasil yang akurat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana dataset ai dibuat",
+        "cara membuat dataset ai",
+        "proses pembuatan dataset"
+      ],
+      "jawaban": [
+        "Dataset AI dibuat melalui proses pengumpulan data, pembersihan data, pemberian label, pengaturan struktur, dan validasi kualitas data."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "jenis jenis dataset ai",
+        "macam macam dataset ai",
+        "tipe dataset"
+      ],
+      "jawaban": [
+        "Jenis Dataset AI meliputi dataset teks, gambar, suara, video, angka, percakapan, dan data terstruktur lainnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan dataset dan database",
+        "beda dataset dengan database",
+        "dataset vs database"
+      ],
+      "jawaban": [
+        "Dataset adalah kumpulan data yang digunakan untuk analisis atau pembelajaran AI, sedangkan Database adalah sistem untuk menyimpan dan mengelola data."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan dataset dengan machine learning",
+        "dataset untuk machine learning",
+        "training dataset"
+      ],
+      "jawaban": [
+        "Machine Learning menggunakan Dataset sebagai bahan latihan agar model dapat mempelajari pola dan membuat prediksi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu training dataset",
+        "validation dataset",
+        "testing dataset"
+      ],
+      "jawaban": [
+        "Training Dataset digunakan untuk melatih model, Validation Dataset digunakan untuk mengevaluasi proses pembelajaran, dan Testing Dataset digunakan untuk menguji kemampuan akhir model."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana dataset digunakan pada mrr ai",
+        "dataset mrr ai",
+        "database data ai pusat"
+      ],
+      "jawaban": [
+        "Pada MRR AI, Dataset digunakan sebagai fondasi pengetahuan yang berisi percakapan, kosakata, matematika, pemrograman, bisnis, dan berbagai informasi lainnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membangun dataset ai besar",
+        "cara membuat dataset ai raksasa",
+        "dataset ai skala besar"
+      ],
+      "jawaban": [
+        "Membangun Dataset AI besar membutuhkan pengumpulan data berkualitas, sistem penyimpanan, proses cleaning, annotation, validasi, dan pengelolaan data secara berkelanjutan."
+      ]
+    }
+  ]
+}
