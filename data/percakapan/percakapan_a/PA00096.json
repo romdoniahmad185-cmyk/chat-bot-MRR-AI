@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00096",
+  "judul": "AI Monitoring System",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu ai monitoring system",
+        "jelaskan monitoring ai",
+        "pengertian sistem pemantauan ai",
+        "apa itu pemantauan kinerja ai"
+      ],
+      "jawaban": [
+        "AI Monitoring System adalah sistem yang digunakan untuk memantau aktivitas, performa, keamanan, dan kondisi operasional AI secara terus menerus."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi ai monitoring system",
+        "fungsi monitoring ai",
+        "kegunaan sistem monitoring ai"
+      ],
+      "jawaban": [
+        "AI Monitoring System berfungsi mengawasi kinerja AI, mendeteksi masalah, melihat penggunaan sumber daya, dan memastikan sistem berjalan dengan baik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa monitoring ai penting",
+        "kenapa ai perlu dipantau",
+        "manfaat monitoring sistem ai"
+      ],
+      "jawaban": [
+        "Monitoring AI penting agar masalah dapat diketahui lebih cepat, performa tetap stabil, dan kualitas layanan AI tetap terjaga."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana ai monitoring bekerja",
+        "cara kerja monitoring ai",
+        "proses pemantauan ai"
+      ],
+      "jawaban": [
+        "AI Monitoring bekerja dengan mengumpulkan data aktivitas AI, menganalisis performa, mendeteksi anomali, dan memberikan laporan kondisi sistem."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa yang dipantau dalam ai",
+        "parameter monitoring ai",
+        "data pemantauan ai"
+      ],
+      "jawaban": [
+        "Hal yang dipantau dalam AI meliputi kecepatan respons, penggunaan server, akurasi jawaban, error sistem, keamanan, dan aktivitas pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan monitoring dengan evaluation ai",
+        "monitoring dan evaluation ai",
+        "evaluasi menggunakan monitoring"
+      ],
+      "jawaban": [
+        "Monitoring mengawasi kondisi AI secara berjalan, sedangkan Evaluation mengukur kualitas dan performa AI berdasarkan hasil tertentu."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan monitoring dengan ai security",
+        "monitoring keamanan ai",
+        "keamanan sistem ai"
+      ],
+      "jawaban": [
+        "AI Monitoring membantu keamanan dengan mendeteksi aktivitas mencurigakan, kesalahan sistem, dan potensi ancaman terhadap AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh ai monitoring system",
+        "contoh monitoring ai"
+      ],
+      "jawaban": [
+        "Contoh AI Monitoring System adalah dashboard performa AI, pemantauan server, laporan penggunaan API, dan deteksi error otomatis."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana monitoring digunakan pada mrr ai",
+        "monitoring system mrr ai",
+        "pemantauan mrr ai"
+      ],
+      "jawaban": [
+        "Pada MRR AI, Monitoring System digunakan untuk mengawasi performa AI, jumlah pengguna, penggunaan data, error, dan kesehatan seluruh sistem."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat ai monitoring system",
+        "cara membuat monitoring ai",
+        "membangun sistem monitoring ai"
+      ],
+      "jawaban": [
+        "Membangun AI Monitoring System membutuhkan sistem log, dashboard, analisis performa, notifikasi otomatis, dan alat pemantauan server."
+      ]
+    }
+  ]
+}
