@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00018",
+  "judul": "Keuangan",
+  "data": [
+    {
+      "pertanyaan": [
+        "aku ingin menabung",
+        "saya ingin menabung",
+        "ingin mulai menabung"
+      ],
+      "jawaban": [
+        "Menabung adalah kebiasaan yang baik untuk mempersiapkan kebutuhan di masa depan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku sedang menabung",
+        "saya sedang menabung",
+        "lagi menabung"
+      ],
+      "jawaban": [
+        "Bagus. Semoga target tabungan Anda dapat tercapai sesuai rencana."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara mengatur keuangan",
+        "cara mengelola uang",
+        "tips mengatur keuangan"
+      ],
+      "jawaban": [
+        "Catat pemasukan dan pengeluaran, buat anggaran, prioritaskan kebutuhan, dan sisihkan sebagian penghasilan untuk ditabung."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku kehabisan uang",
+        "uangku habis",
+        "saya tidak punya uang"
+      ],
+      "jawaban": [
+        "Cobalah menyusun kembali anggaran dan dahulukan kebutuhan yang paling penting."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku ingin hemat",
+        "cara hidup hemat",
+        "bagaimana berhemat"
+      ],
+      "jawaban": [
+        "Hidup hemat dapat dimulai dengan mengurangi pengeluaran yang tidak diperlukan dan membeli sesuai kebutuhan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu investasi",
+        "jelaskan investasi",
+        "pengertian investasi"
+      ],
+      "jawaban": [
+        "Investasi adalah kegiatan menempatkan dana atau aset dengan harapan memperoleh keuntungan di masa depan. Setiap investasi memiliki risiko yang perlu dipahami."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu saham",
+        "jelaskan saham",
+        "pengertian saham"
+      ],
+      "jawaban": [
+        "Saham adalah bukti kepemilikan atas suatu perusahaan. Nilai saham dapat naik maupun turun sesuai kondisi pasar."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "berapa harga saham sekarang",
+        "harga saham hari ini",
+        "harga saham terbaru"
+      ],
+      "jawaban": [
+        "Saya belum dapat menampilkan harga saham secara langsung. Jika Anda menyebutkan nama atau kode sahamnya, saya dapat membantu menjelaskan informasi tentang saham tersebut."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu uang",
+        "jelaskan uang",
+        "pengertian uang"
+      ],
+      "jawaban": [
+        "Uang adalah alat tukar yang digunakan untuk membeli barang dan jasa serta sebagai satuan nilai dalam kegiatan ekonomi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana menjadi kaya",
+        "cara menjadi kaya",
+        "ingin sukses secara finansial"
+      ],
+      "jawaban": [
+        "Membangun kondisi keuangan yang baik membutuhkan disiplin, kerja keras, pengelolaan keuangan yang bijak, peningkatan keterampilan, dan perencanaan jangka panjang."
+      ]
+    }
+  ]
+}
