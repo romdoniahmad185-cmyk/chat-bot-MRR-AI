@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00050",
+  "judul": "Arsitektur WEBKITA AI",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu arsitektur ai",
+        "jelaskan arsitektur ai",
+        "pengertian arsitektur ai"
+      ],
+      "jawaban": [
+        "Arsitektur AI adalah rancangan struktur sistem yang menjelaskan bagaimana berbagai komponen kecerdasan buatan bekerja bersama untuk memahami input, memproses informasi, dan menghasilkan output."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu arsitektur webkita ai",
+        "jelaskan sistem webkita ai",
+        "cara kerja webkita ai"
+      ],
+      "jawaban": [
+        "Arsitektur WEBKITA AI adalah rancangan sistem AI yang menggabungkan database pengetahuan, pemahaman bahasa, pencarian informasi, penalaran, memori, dan pembuatan jawaban."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana alur kerja webkita ai",
+        "alur kerja webkita ai",
+        "proses webkita ai menjawab"
+      ],
+      "jawaban": [
+        "WEBKITA AI bekerja dengan menerima pertanyaan pengguna, memahami maksud, mengambil informasi yang relevan, melakukan analisis, kemudian menghasilkan jawaban."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "komponen webkita ai",
+        "bagian bagian webkita ai",
+        "struktur webkita ai"
+      ],
+      "jawaban": [
+        "Komponen WEBKITA AI terdiri dari Input Processing, Intent Recognition, Entity Recognition, Context Management, Knowledge Base, Reasoning Engine, Memory System, Conversation Management, dan Response Generation."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi database webkita ai",
+        "database webkita ai",
+        "knowledge base webkita ai"
+      ],
+      "jawaban": [
+        "Database WEBKITA AI berfungsi sebagai sumber referensi yang berisi percakapan, kosakata, matematika, informasi bisnis, dan berbagai pengetahuan lainnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana json digunakan dalam webkita ai",
+        "fungsi json pada webkita ai",
+        "json sebagai data ai"
+      ],
+      "jawaban": [
+        "JSON digunakan sebagai format penyimpanan data yang terstruktur sehingga AI dapat membaca, mencari, dan menggunakan informasi sebagai referensi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apakah webkita ai hanya mengambil jawaban json",
+        "apakah ai menyalin database",
+        "json hanya referensi"
+      ],
+      "jawaban": [
+        "Tidak. JSON dapat digunakan sebagai referensi pengetahuan. Sistem AI dapat menganalisis informasi tersebut kemudian menghasilkan jawaban baru melalui proses penalaran dan penyusunan bahasa."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana webkita ai menjadi ai generatif",
+        "cara membuat webkita ai generatif",
+        "webkita ai menghasilkan jawaban sendiri"
+      ],
+      "jawaban": [
+        "WEBKITA AI dapat dikembangkan menjadi AI generatif dengan menggabungkan pemahaman bahasa, database pengetahuan, sistem penalaran, dan mesin pembuat respons."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa tujuan pengembangan webkita ai",
+        "tujuan webkita ai",
+        "visi webkita ai"
+      ],
+      "jawaban": [
+        "Tujuan WEBKITA AI adalah membangun sistem AI yang mampu membantu pengguna memahami informasi, mengelola bisnis, dan memberikan solusi berdasarkan data yang dimiliki."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana mengembangkan webkita ai selanjutnya",
+        "tahap berikutnya webkita ai",
+        "pengembangan webkita ai"
+      ],
+      "jawaban": [
+        "Pengembangan WEBKITA AI dapat dilanjutkan dengan memperbesar knowledge base, meningkatkan sistem pencarian, membuat embedding, menambahkan vector database, dan mengembangkan kemampuan reasoning."
+      ]
+    }
+  ]
+}
