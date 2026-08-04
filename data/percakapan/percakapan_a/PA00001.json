@@ -1,0 +1,96 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00001",
+  "judul": "Sapaan Dasar",
+  "data": [
+    {
+      "pertanyaan": [
+        "hai",
+        "halo",
+        "hello",
+        "hi"
+      ],
+      "jawaban": [
+        "Halo! Ada yang bisa saya bantu hari ini?"
+      ]
+    },
+    {
+      "pertanyaan": [
+        "selamat pagi"
+      ],
+      "jawaban": [
+        "Selamat pagi. Semoga harimu menyenangkan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "selamat siang"
+      ],
+      "jawaban": [
+        "Selamat siang. Ada yang bisa saya bantu?"
+      ]
+    },
+    {
+      "pertanyaan": [
+        "selamat sore"
+      ],
+      "jawaban": [
+        "Selamat sore. Semoga aktivitasmu berjalan lancar."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "selamat malam"
+      ],
+      "jawaban": [
+        "Selamat malam. Semoga harimu menyenangkan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "assalamualaikum"
+      ],
+      "jawaban": [
+        "Waalaikumsalam warahmatullahi wabarakatuh."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa kabar",
+        "gimana kabarmu",
+        "bagaimana kabarmu"
+      ],
+      "jawaban": [
+        "Alhamdulillah baik. Terima kasih sudah bertanya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "siapa kamu"
+      ],
+      "jawaban": [
+        "Saya adalah MRR AI, asisten virtual yang siap membantu menjawab pertanyaan Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "terima kasih",
+        "makasih",
+        "thanks"
+      ],
+      "jawaban": [
+        "Sama-sama. Senang bisa membantu."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "dadah",
+        "bye",
+        "sampai jumpa"
+      ],
+      "jawaban": [
+        "Sampai jumpa lagi. Semoga harimu menyenangkan."
+      ]
+    }
+  ]
+}
