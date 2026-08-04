@@ -1,0 +1,108 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00085",
+  "judul": "AI Memory Architecture",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu ai memory architecture",
+        "jelaskan arsitektur memori ai",
+        "pengertian memory system ai",
+        "apa itu memori ai"
+      ],
+      "jawaban": [
+        "AI Memory Architecture adalah rancangan sistem yang mengatur bagaimana AI menyimpan, mengelola, dan menggunakan informasi untuk meningkatkan kualitas interaksi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi memory ai",
+        "fungsi ai memory",
+        "kegunaan memori ai"
+      ],
+      "jawaban": [
+        "AI Memory berfungsi membuat sistem dapat mengingat informasi penting, memahami konteks, dan memberikan respons yang lebih personal."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa ai membutuhkan memory",
+        "kenapa ai perlu memori",
+        "manfaat memory ai"
+      ],
+      "jawaban": [
+        "AI membutuhkan Memory agar tidak melupakan informasi penting dan dapat melakukan percakapan yang berkelanjutan dengan pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "jenis jenis memory ai",
+        "macam macam memori ai",
+        "tipe memory system"
+      ],
+      "jawaban": [
+        "Jenis Memory AI meliputi short-term memory untuk konteks sementara, long-term memory untuk informasi jangka panjang, dan external memory yang tersimpan di database."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu short term memory ai",
+        "memori pendek ai",
+        "temporary memory ai"
+      ],
+      "jawaban": [
+        "Short-term Memory AI adalah memori yang menyimpan informasi selama percakapan berlangsung agar AI dapat mengikuti konteks saat ini."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu long term memory ai",
+        "memori jangka panjang ai",
+        "long term memory system"
+      ],
+      "jawaban": [
+        "Long-term Memory AI adalah sistem penyimpanan informasi yang memungkinkan AI mengingat data penting dalam jangka waktu lama."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan memory ai dengan database",
+        "memory ai dan database",
+        "penyimpanan memori ai"
+      ],
+      "jawaban": [
+        "Memory AI menggunakan database atau penyimpanan khusus untuk menyimpan dan mengambil kembali informasi yang diperlukan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan memory ai dengan context management",
+        "memory dan context ai",
+        "konteks menggunakan memory"
+      ],
+      "jawaban": [
+        "Context Management menggunakan Memory AI untuk mengambil informasi sebelumnya sehingga AI dapat memahami percakapan secara lengkap."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana memory ai digunakan pada mrr ai",
+        "memory system mrr ai",
+        "memori ai pusat"
+      ],
+      "jawaban": [
+        "Pada MRR AI, Memory System digunakan untuk menyimpan riwayat percakapan, pengetahuan pengguna, dan informasi penting agar AI menjadi lebih pintar."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat arsitektur memory ai",
+        "cara membuat memory system ai",
+        "membangun memori ai"
+      ],
+      "jawaban": [
+        "Membangun AI Memory Architecture membutuhkan database, sistem penyimpanan konteks, mekanisme pencarian informasi, dan aturan pengelolaan memori."
+      ]
+    }
+  ]
+}
