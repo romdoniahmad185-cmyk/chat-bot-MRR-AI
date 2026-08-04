@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00091",
+  "judul": "AI Autonomous System",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu ai autonomous system",
+        "jelaskan ai autonomous",
+        "pengertian sistem ai otonom",
+        "apa itu autonomous ai"
+      ],
+      "jawaban": [
+        "AI Autonomous System adalah sistem AI yang mampu menjalankan tugas, mengambil keputusan, dan melakukan tindakan secara mandiri berdasarkan tujuan yang diberikan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi autonomous ai",
+        "fungsi ai otonom",
+        "kegunaan autonomous system"
+      ],
+      "jawaban": [
+        "AI Autonomous System berfungsi menjalankan pekerjaan secara otomatis dengan kemampuan memahami kondisi, membuat keputusan, dan menyesuaikan tindakan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa ai otonom penting",
+        "kenapa membutuhkan autonomous ai",
+        "manfaat ai autonomous"
+      ],
+      "jawaban": [
+        "AI Otonom penting karena memungkinkan sistem AI bekerja lebih mandiri, mengurangi pekerjaan manual, dan membantu manusia menyelesaikan tugas kompleks."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana ai autonomous bekerja",
+        "cara kerja autonomous ai",
+        "alur sistem ai otonom"
+      ],
+      "jawaban": [
+        "AI Autonomous bekerja melalui proses memahami tujuan, mengamati kondisi, melakukan perencanaan, menjalankan tindakan, dan mengevaluasi hasil."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "komponen ai autonomous system",
+        "bagian autonomous ai",
+        "struktur sistem ai otonom"
+      ],
+      "jawaban": [
+        "Komponen AI Autonomous meliputi AI model, memory, reasoning engine, planning system, tools, sensor atau data input, dan sistem evaluasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan ai biasa dan ai autonomous",
+        "beda ai biasa dengan ai otonom",
+        "ai vs autonomous ai"
+      ],
+      "jawaban": [
+        "AI biasa biasanya memberikan respons berdasarkan permintaan, sedangkan AI Autonomous dapat mengambil langkah dan melakukan tindakan untuk mencapai tujuan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh ai autonomous",
+        "contoh sistem ai otonom"
+      ],
+      "jawaban": [
+        "Contoh AI Autonomous adalah robot pintar, kendaraan otonom, AI Agent bisnis, sistem otomatisasi industri, dan asisten digital mandiri."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan autonomous ai dengan ai agent",
+        "autonomous ai dan ai agent",
+        "agent otonom"
+      ],
+      "jawaban": [
+        "AI Agent adalah salah satu bentuk Autonomous AI yang mampu merencanakan dan menjalankan tugas berdasarkan tujuan pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana autonomous ai digunakan pada mrr ai",
+        "autonomous system mrr ai",
+        "ai otonom mrr ai"
+      ],
+      "jawaban": [
+        "Pada MRR AI, Autonomous System digunakan agar AI dapat membantu pekerjaan secara mandiri seperti analisis, pelayanan pelanggan, dan pengelolaan sistem."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat autonomous ai system",
+        "cara membuat ai otonom",
+        "membangun autonomous agent"
+      ],
+      "jawaban": [
+        "Membangun Autonomous AI membutuhkan model AI, memory, reasoning, planning, tools, data, serta sistem kontrol agar AI dapat bertindak secara aman dan efektif."
+      ]
+    }
+  ]
+}
