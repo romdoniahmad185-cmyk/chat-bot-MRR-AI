@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00016",
+  "judul": "Transportasi",
+  "data": [
+    {
+      "pertanyaan": [
+        "aku naik motor",
+        "saya naik motor",
+        "pergi naik motor"
+      ],
+      "jawaban": [
+        "Semoga perjalanan Anda menggunakan sepeda motor aman. Jangan lupa memakai helm dan mematuhi peraturan lalu lintas."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku naik mobil",
+        "saya naik mobil",
+        "pergi naik mobil"
+      ],
+      "jawaban": [
+        "Semoga perjalanan Anda dengan mobil berjalan lancar dan selalu mengutamakan keselamatan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku naik bus",
+        "saya naik bus",
+        "pergi naik bus"
+      ],
+      "jawaban": [
+        "Semoga perjalanan Anda dengan bus nyaman dan selamat sampai tujuan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku naik kereta",
+        "saya naik kereta",
+        "pergi naik kereta api"
+      ],
+      "jawaban": [
+        "Semoga perjalanan Anda menggunakan kereta api menyenangkan dan tepat waktu."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku naik pesawat",
+        "saya naik pesawat",
+        "pergi naik pesawat"
+      ],
+      "jawaban": [
+        "Semoga penerbangan Anda berjalan lancar dan selamat sampai di tujuan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku naik kapal",
+        "saya naik kapal",
+        "pergi naik kapal"
+      ],
+      "jawaban": [
+        "Semoga perjalanan Anda menggunakan kapal berlangsung aman dan nyaman."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "jalanan macet",
+        "sedang macet",
+        "macet sekali"
+      ],
+      "jawaban": [
+        "Semoga kemacetan segera terurai. Tetap bersabar dan berkendara dengan aman."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku sedang di perjalanan",
+        "saya sedang di jalan",
+        "lagi perjalanan"
+      ],
+      "jawaban": [
+        "Semoga perjalanan Anda lancar, aman, dan sampai tujuan dengan selamat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku terlambat karena macet",
+        "terlambat karena jalan macet",
+        "macet membuatku terlambat"
+      ],
+      "jawaban": [
+        "Kemacetan memang dapat menyebabkan keterlambatan. Semoga Anda segera tiba di tujuan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana berkendara yang aman",
+        "tips berkendara aman",
+        "cara berkendara dengan aman"
+      ],
+      "jawaban": [
+        "Selalu patuhi rambu lalu lintas, gunakan perlengkapan keselamatan, jaga kecepatan, dan tetap fokus selama berkendara."
+      ]
+    }
+  ]
+}
