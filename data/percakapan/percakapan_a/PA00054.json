@@ -1,0 +1,106 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00054",
+  "judul": "Word Embedding",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu word embedding",
+        "jelaskan word embedding",
+        "pengertian word embedding",
+        "apa itu embedding kata"
+      ],
+      "jawaban": [
+        "Word Embedding adalah teknik dalam AI yang mengubah kata atau teks menjadi bentuk angka berupa vektor agar komputer dapat memahami hubungan dan kemiripan makna antar kata."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi word embedding",
+        "fungsi word embedding",
+        "kegunaan word embedding"
+      ],
+      "jawaban": [
+        "Word Embedding berfungsi mengubah bahasa manusia menjadi representasi numerik yang dapat diproses oleh sistem AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa word embedding penting",
+        "kenapa word embedding penting",
+        "manfaat word embedding"
+      ],
+      "jawaban": [
+        "Word Embedding penting karena komputer tidak memahami arti kata secara langsung, sehingga kata perlu diubah menjadi bentuk angka yang memiliki hubungan makna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana word embedding bekerja",
+        "cara kerja word embedding",
+        "word embedding bekerja bagaimana"
+      ],
+      "jawaban": [
+        "Word Embedding bekerja dengan mempelajari pola penggunaan kata dalam jumlah besar data, kemudian membuat representasi vektor berdasarkan hubungan antar kata."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh word embedding",
+        "contoh embedding kata"
+      ],
+      "jawaban": [
+        "Dalam Word Embedding, kata 'mobil' dan 'kendaraan' akan memiliki posisi vektor yang lebih dekat karena memiliki hubungan makna yang mirip."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan word embedding dengan nlp",
+        "word embedding pada nlp",
+        "nlp menggunakan embedding"
+      ],
+      "jawaban": [
+        "Word Embedding merupakan salah satu teknologi penting dalam NLP karena membantu AI memahami hubungan antar kata."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan word embedding dengan tokenization",
+        "tokenization dan embedding",
+        "setelah tokenization apa"
+      ],
+      "jawaban": [
+        "Tokenization memecah teks menjadi token, kemudian Word Embedding mengubah token tersebut menjadi representasi angka yang dapat dipahami AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan word embedding dengan vector database",
+        "embedding dan vector database",
+        "vector database menyimpan embedding"
+      ],
+      "jawaban": [
+        "Vector Database menyimpan hasil embedding agar AI dapat melakukan pencarian berdasarkan kemiripan makna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh penggunaan word embedding",
+        "word embedding digunakan dimana"
+      ],
+      "jawaban": [
+        "Word Embedding digunakan pada chatbot AI, mesin pencari, rekomendasi produk, analisis teks, dan sistem tanya jawab."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat word embedding",
+        "cara membuat word embedding",
+        "ingin belajar embedding"
+      ],
+      "jawaban": [
+        "Word Embedding dapat dibuat menggunakan metode seperti Word2Vec, GloVe, FastText, atau model embedding modern berbasis Transformer."
+      ]
+    }
+  ]
+}
