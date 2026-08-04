@@ -1,0 +1,108 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00067",
+  "judul": "Knowledge Base",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu knowledge base",
+        "jelaskan knowledge base",
+        "pengertian knowledge base",
+        "apa itu basis pengetahuan"
+      ],
+      "jawaban": [
+        "Knowledge Base adalah kumpulan informasi atau data yang digunakan oleh sistem AI sebagai sumber pengetahuan untuk memahami pertanyaan dan memberikan jawaban."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi knowledge base",
+        "fungsi knowledge base",
+        "kegunaan knowledge base"
+      ],
+      "jawaban": [
+        "Knowledge Base berfungsi menyediakan informasi yang dapat digunakan AI untuk menjawab pertanyaan, mengambil keputusan, dan memberikan solusi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa knowledge base penting",
+        "kenapa knowledge base penting",
+        "manfaat knowledge base"
+      ],
+      "jawaban": [
+        "Knowledge Base penting karena membuat AI memiliki sumber informasi khusus yang sesuai dengan tujuan dan kebutuhan sistem."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana knowledge base bekerja",
+        "cara kerja knowledge base",
+        "knowledge base bekerja bagaimana"
+      ],
+      "jawaban": [
+        "Knowledge Base bekerja dengan menyimpan data, mengatur informasi, lalu menyediakan data yang relevan ketika AI membutuhkan jawaban."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "isi knowledge base",
+        "data dalam knowledge base",
+        "komponen knowledge base"
+      ],
+      "jawaban": [
+        "Knowledge Base dapat berisi dokumen, FAQ, percakapan, data produk, aturan bisnis, panduan, dan informasi khusus lainnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan knowledge base dengan ai",
+        "knowledge base dan ai",
+        "ai menggunakan knowledge base"
+      ],
+      "jawaban": [
+        "Knowledge Base menjadi sumber informasi bagi AI sehingga AI dapat memberikan jawaban berdasarkan data yang telah disediakan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan knowledge base dengan rag",
+        "knowledge base dan rag",
+        "rag menggunakan knowledge base"
+      ],
+      "jawaban": [
+        "Dalam sistem RAG, Knowledge Base menjadi tempat penyimpanan informasi yang akan dicari dan digunakan AI sebelum menghasilkan jawaban."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan knowledge base dengan vector database",
+        "knowledge base dan vector database",
+        "database vektor untuk knowledge base"
+      ],
+      "jawaban": [
+        "Vector Database dapat digunakan untuk menyimpan representasi data Knowledge Base dalam bentuk embedding agar dapat dicari berdasarkan makna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat knowledge base webkita ai",
+        "knowledge base webkita",
+        "database pengetahuan ai webkita"
+      ],
+      "jawaban": [
+        "Knowledge Base WEBKITA AI dapat dibuat dari data percakapan, kosakata, informasi layanan, panduan bisnis, matematika, dan data pengguna yang telah disusun secara terstruktur."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana mengelola knowledge base ai",
+        "cara mengembangkan knowledge base",
+        "memperbesar database ai"
+      ],
+      "jawaban": [
+        "Mengembangkan Knowledge Base dapat dilakukan dengan menambah data berkualitas, memperbaiki struktur informasi, melakukan validasi, dan memperbarui pengetahuan secara berkala."
+      ]
+    }
+  ]
+}
