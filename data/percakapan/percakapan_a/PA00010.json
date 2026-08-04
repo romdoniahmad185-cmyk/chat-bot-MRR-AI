@@ -1,0 +1,104 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00010",
+  "judul": "Hari, Tanggal, Bulan, dan Tahun",
+  "data": [
+    {
+      "pertanyaan": [
+        "hari apa sekarang",
+        "sekarang hari apa",
+        "hari ini hari apa"
+      ],
+      "jawaban": [
+        "Maaf, saya tidak dapat mengetahui hari secara langsung. Silakan lihat kalender pada perangkat Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "tanggal berapa sekarang",
+        "sekarang tanggal berapa",
+        "hari ini tanggal berapa"
+      ],
+      "jawaban": [
+        "Maaf, saya tidak dapat mengetahui tanggal secara langsung. Silakan periksa kalender pada perangkat Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bulan apa sekarang",
+        "sekarang bulan apa"
+      ],
+      "jawaban": [
+        "Maaf, saya tidak dapat mengetahui bulan saat ini secara langsung. Silakan lihat kalender Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "tahun berapa sekarang",
+        "sekarang tahun berapa"
+      ],
+      "jawaban": [
+        "Maaf, saya tidak dapat mengetahui tahun saat ini secara langsung. Silakan periksa kalender atau perangkat Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "hari senin",
+        "aku suka hari senin",
+        "senin"
+      ],
+      "jawaban": [
+        "Hari Senin sering menjadi awal aktivitas dan semangat baru dalam satu minggu."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "hari jumat",
+        "aku suka hari jumat",
+        "jumat"
+      ],
+      "jawaban": [
+        "Hari Jumat merupakan hari yang istimewa bagi banyak orang dan biasanya menjadi penutup hari kerja dalam sepekan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "hari minggu",
+        "libur hari minggu",
+        "minggu"
+      ],
+      "jawaban": [
+        "Hari Minggu biasanya dimanfaatkan untuk beristirahat, berkumpul bersama keluarga, atau melakukan hobi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "ulang tahunku hari ini",
+        "hari ini ulang tahunku",
+        "aku ulang tahun"
+      ],
+      "jawaban": [
+        "Selamat ulang tahun. Semoga sehat, bahagia, dan semua harapan terbaik Anda dapat tercapai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "tahun baru",
+        "selamat tahun baru"
+      ],
+      "jawaban": [
+        "Selamat Tahun Baru. Semoga tahun ini membawa kesehatan, kebahagiaan, dan kesuksesan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "hari ini spesial",
+        "hari ini istimewa",
+        "hari yang spesial"
+      ],
+      "jawaban": [
+        "Semoga hari yang spesial ini menjadi momen yang menyenangkan dan penuh kenangan baik."
+      ]
+    }
+  ]
+}
