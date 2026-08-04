@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00088",
+  "judul": "AI Planning System",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu ai planning system",
+        "jelaskan planning system ai",
+        "pengertian sistem perencanaan ai",
+        "apa itu perencanaan ai"
+      ],
+      "jawaban": [
+        "AI Planning System adalah sistem yang memungkinkan AI membuat rencana, menentukan langkah, dan memilih tindakan untuk mencapai tujuan tertentu."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi ai planning system",
+        "fungsi planning system ai",
+        "kegunaan ai planning"
+      ],
+      "jawaban": [
+        "AI Planning System berfungsi membantu AI menyusun strategi, mengatur urutan tindakan, dan mencapai tujuan secara lebih terstruktur."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa ai membutuhkan planning",
+        "kenapa ai perlu perencanaan",
+        "manfaat ai planning"
+      ],
+      "jawaban": [
+        "AI membutuhkan Planning agar dapat menyelesaikan tugas kompleks dengan menentukan langkah yang tepat sebelum melakukan tindakan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana ai planning bekerja",
+        "cara kerja ai planning",
+        "proses perencanaan ai"
+      ],
+      "jawaban": [
+        "AI Planning bekerja dengan memahami tujuan, menganalisis kondisi saat ini, menentukan langkah yang diperlukan, lalu menjalankan rencana untuk mencapai hasil."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "komponen ai planning system",
+        "bagian planning ai",
+        "struktur sistem perencanaan ai"
+      ],
+      "jawaban": [
+        "Komponen AI Planning meliputi tujuan, kondisi awal, aturan tindakan, strategi pencarian, evaluasi hasil, dan pengambilan keputusan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh ai planning",
+        "contoh perencanaan ai"
+      ],
+      "jawaban": [
+        "Contoh AI Planning adalah membuat jadwal kerja, menyusun strategi bisnis, mengatur perjalanan, atau menentukan langkah penyelesaian masalah."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan planning dengan reasoning ai",
+        "planning dan reasoning",
+        "reasoning menggunakan planning"
+      ],
+      "jawaban": [
+        "Reasoning membantu AI memahami masalah, sedangkan Planning membantu AI menentukan langkah untuk menyelesaikan masalah tersebut."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan planning dengan ai agent",
+        "planning pada ai agent",
+        "agent menggunakan planning"
+      ],
+      "jawaban": [
+        "AI Agent menggunakan Planning System agar dapat menentukan tindakan, menjalankan tugas, dan mencapai tujuan secara otomatis."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana ai planning digunakan pada mrr ai",
+        "planning system mrr ai",
+        "perencanaan ai mrr ai"
+      ],
+      "jawaban": [
+        "Pada MRR AI, Planning System digunakan untuk membantu AI membuat strategi, memberikan rekomendasi, dan menjalankan tugas berdasarkan tujuan pengguna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat ai planning system",
+        "cara membuat sistem perencanaan ai",
+        "membangun ai planner"
+      ],
+      "jawaban": [
+        "Membangun AI Planning System membutuhkan tujuan yang jelas, database pengetahuan, reasoning engine, aturan tindakan, dan sistem evaluasi hasil."
+      ]
+    }
+  ]
+}
