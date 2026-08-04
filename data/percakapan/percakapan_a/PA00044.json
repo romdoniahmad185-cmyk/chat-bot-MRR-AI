@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00044",
+  "judul": "Knowledge Base",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu knowledge base",
+        "jelaskan knowledge base",
+        "pengertian knowledge base",
+        "apa itu basis pengetahuan"
+      ],
+      "jawaban": [
+        "Knowledge Base adalah kumpulan informasi atau pengetahuan yang digunakan oleh sistem AI sebagai sumber referensi untuk menjawab pertanyaan dan menyelesaikan masalah."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi knowledge base",
+        "fungsi knowledge base",
+        "kegunaan knowledge base"
+      ],
+      "jawaban": [
+        "Knowledge Base berfungsi menyimpan informasi, fakta, aturan, dan data yang dapat digunakan AI untuk memberikan jawaban yang lebih tepat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa knowledge base penting",
+        "kenapa knowledge base penting",
+        "manfaat knowledge base"
+      ],
+      "jawaban": [
+        "Knowledge Base penting karena menjadi sumber informasi yang membantu AI memahami suatu bidang dan memberikan respons berdasarkan data yang tersedia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana knowledge base bekerja",
+        "cara kerja knowledge base",
+        "knowledge base bekerja bagaimana"
+      ],
+      "jawaban": [
+        "Knowledge Base bekerja dengan menyimpan informasi terstruktur, kemudian sistem AI mengambil dan menggunakan informasi tersebut saat diperlukan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh knowledge base",
+        "contoh penggunaan knowledge base"
+      ],
+      "jawaban": [
+        "Contoh Knowledge Base adalah database FAQ, dokumentasi produk, kumpulan artikel, data perusahaan, dan kumpulan file JSON yang berisi informasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan knowledge base dengan chatbot",
+        "knowledge base pada chatbot",
+        "chatbot menggunakan knowledge base"
+      ],
+      "jawaban": [
+        "Chatbot menggunakan Knowledge Base sebagai sumber informasi agar dapat menjawab pertanyaan pengguna berdasarkan data yang telah disediakan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan knowledge base dengan ai",
+        "knowledge base dalam artificial intelligence",
+        "ai menggunakan knowledge base"
+      ],
+      "jawaban": [
+        "Knowledge Base membantu AI memiliki pengetahuan tertentu sehingga AI dapat memberikan jawaban yang sesuai dengan bidang yang dipelajari."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan knowledge base dengan json",
+        "knowledge base menggunakan json",
+        "json sebagai knowledge base"
+      ],
+      "jawaban": [
+        "File JSON dapat digunakan sebagai bagian dari Knowledge Base karena mampu menyimpan data secara terstruktur dan mudah dibaca oleh program."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan knowledge base dan database biasa",
+        "beda knowledge base dengan database",
+        "knowledge base vs database"
+      ],
+      "jawaban": [
+        "Database biasa berfokus pada penyimpanan data, sedangkan Knowledge Base berfokus pada penyimpanan informasi yang memiliki makna dan dapat digunakan untuk membantu pengambilan keputusan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat knowledge base ai",
+        "cara membuat knowledge base",
+        "ingin membuat knowledge base"
+      ],
+      "jawaban": [
+        "Membuat Knowledge Base AI dapat dimulai dengan mengumpulkan informasi, menyusun data secara terstruktur, menyimpan dalam format tertentu, dan membuat sistem pencarian untuk mengaksesnya."
+      ]
+    }
+  ]
+}
