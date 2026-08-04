@@ -1,0 +1,108 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00075",
+  "judul": "Data Storage AI",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu data storage ai",
+        "jelaskan penyimpanan data ai",
+        "pengertian data storage ai",
+        "apa itu sistem penyimpanan ai"
+      ],
+      "jawaban": [
+        "Data Storage AI adalah sistem yang digunakan untuk menyimpan, mengatur, dan mengelola data yang diperlukan oleh sistem kecerdasan buatan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi data storage ai",
+        "fungsi penyimpanan data ai",
+        "kegunaan storage ai"
+      ],
+      "jawaban": [
+        "Data Storage AI berfungsi menjaga data agar tersimpan dengan aman, mudah dicari, dan dapat digunakan oleh mesin AI saat dibutuhkan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa penyimpanan data penting untuk ai",
+        "kenapa ai membutuhkan storage",
+        "manfaat data storage"
+      ],
+      "jawaban": [
+        "Penyimpanan data penting karena AI membutuhkan akses ke data dalam jumlah besar untuk belajar, mencari informasi, dan menghasilkan jawaban."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "jenis penyimpanan data ai",
+        "macam macam storage ai",
+        "database untuk ai"
+      ],
+      "jawaban": [
+        "Jenis penyimpanan AI dapat berupa database relasional, database dokumen, data warehouse, data lake, dan vector database."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu vector database",
+        "jelaskan vector database",
+        "database vektor ai"
+      ],
+      "jawaban": [
+        "Vector Database adalah sistem penyimpanan yang menyimpan data dalam bentuk embedding atau representasi angka sehingga AI dapat mencari informasi berdasarkan makna."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan storage dengan knowledge base",
+        "storage dan knowledge base ai",
+        "penyimpanan knowledge base"
+      ],
+      "jawaban": [
+        "Data Storage menjadi tempat penyimpanan Knowledge Base agar informasi dapat dikelola dan diambil kembali oleh sistem AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan storage dengan memory ai",
+        "memory ai menggunakan storage",
+        "penyimpanan memori ai"
+      ],
+      "jawaban": [
+        "AI Memory System membutuhkan Storage untuk menyimpan informasi percakapan, preferensi pengguna, dan data penting lainnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana penyimpanan data mrr ai",
+        "storage mrr ai",
+        "database pusat mrr ai"
+      ],
+      "jawaban": [
+        "Pada MRR AI, Data Storage digunakan untuk menyimpan seluruh data seperti percakapan, kosakata, dataset, knowledge base, dan informasi AI lainnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana memilih storage untuk ai",
+        "storage terbaik untuk ai",
+        "database besar untuk ai"
+      ],
+      "jawaban": [
+        "Pemilihan Storage AI harus mempertimbangkan ukuran data, kecepatan pencarian, keamanan, skalabilitas, dan kebutuhan sistem AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat sistem penyimpanan ai",
+        "cara membuat storage ai",
+        "membangun database ai"
+      ],
+      "jawaban": [
+        "Membuat sistem penyimpanan AI membutuhkan database, struktur data yang baik, sistem pencarian, keamanan data, dan pengelolaan data secara berkelanjutan."
+      ]
+    }
+  ]
+}
