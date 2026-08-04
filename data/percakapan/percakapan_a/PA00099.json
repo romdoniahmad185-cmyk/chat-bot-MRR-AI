@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00099",
+  "judul": "AI Distributed System",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu ai distributed system",
+        "jelaskan sistem ai terdistribusi",
+        "pengertian distributed ai",
+        "apa itu distribusi sistem ai"
+      ],
+      "jawaban": [
+        "AI Distributed System adalah sistem yang membagi proses AI ke beberapa komputer, server, atau perangkat yang saling terhubung agar dapat bekerja bersama."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi ai distributed system",
+        "fungsi distributed ai",
+        "kegunaan sistem ai terdistribusi"
+      ],
+      "jawaban": [
+        "AI Distributed System berfungsi meningkatkan kemampuan komputasi, mempercepat proses AI, dan memungkinkan sistem menangani pekerjaan dalam skala besar."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa ai membutuhkan distributed system",
+        "kenapa ai menggunakan sistem terdistribusi",
+        "manfaat distributed ai"
+      ],
+      "jawaban": [
+        "AI membutuhkan Distributed System karena model dan data yang besar membutuhkan banyak sumber daya komputasi yang tidak cukup jika hanya menggunakan satu mesin."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana ai distributed system bekerja",
+        "cara kerja distributed ai",
+        "alur sistem ai terdistribusi"
+      ],
+      "jawaban": [
+        "AI Distributed System bekerja dengan membagi tugas ke beberapa node, memproses data secara bersamaan, lalu menggabungkan hasil menjadi satu keluaran."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "komponen ai distributed system",
+        "bagian sistem ai terdistribusi",
+        "struktur distributed ai"
+      ],
+      "jawaban": [
+        "Komponen AI Distributed System meliputi node komputer, jaringan komunikasi, server AI, database terdistribusi, dan sistem pengelolaan beban kerja."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan ai biasa dan distributed ai",
+        "beda ai terpusat dan terdistribusi",
+        "centralized ai vs distributed ai"
+      ],
+      "jawaban": [
+        "AI biasa dapat berjalan pada satu sistem, sedangkan Distributed AI menggunakan banyak sistem yang bekerja bersama untuk meningkatkan kemampuan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "contoh ai distributed system",
+        "contoh distributed ai"
+      ],
+      "jawaban": [
+        "Contoh Distributed AI adalah jaringan server AI besar, sistem cloud AI, pelatihan model AI skala besar, dan sistem AI yang menggunakan banyak komputer."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa hubungan distributed system dengan scalability ai",
+        "distributed dan scalability",
+        "scaling menggunakan distributed system"
+      ],
+      "jawaban": [
+        "Distributed System mendukung Scalability karena memungkinkan penambahan mesin atau server untuk meningkatkan kapasitas AI."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana distributed system digunakan pada mrr ai",
+        "distributed system mrr ai",
+        "infrastruktur ai pusat mrr ai"
+      ],
+      "jawaban": [
+        "Pada MRR AI, Distributed System digunakan untuk membagi proses AI, database, dan layanan agar sistem dapat berjalan besar, cepat, dan stabil."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana membuat ai distributed system",
+        "cara membuat sistem ai terdistribusi",
+        "membangun distributed ai"
+      ],
+      "jawaban": [
+        "Membangun AI Distributed System membutuhkan banyak server, jaringan komunikasi, sistem pembagian tugas, database terdistribusi, dan pengelolaan sumber daya."
+      ]
+    }
+  ]
+}
