@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00142",
+  "judul": "Kesehatan Mental dan Kesejahteraan",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu kesehatan mental",
+        "pengertian mental health",
+        "mengapa kesehatan mental penting"
+      ],
+      "jawaban": [
+        "Kesehatan mental mencakup kesejahteraan emosional, psikologis, dan sosial seseorang yang memengaruhi cara berpikir, merasa, serta bertindak dalam kehidupan sehari-hari."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa arti istilah burnout",
+        "ciri ciri kecapekan mental burnout",
+        "cara mengatasi kondisi burnout"
+      ],
+      "jawaban": [
+        "Burnout adalah kondisi kelelahan emosional, fisik, dan mental yang ekstrem akibat stres berkepanjangan terkait pekerjaan atau aktivitas rutin."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara mengatasi rasa cemas berlebihan",
+        "tips meredakan anxiety",
+        "cara mengatasi kecemasan"
+      ],
+      "jawaban": [
+        "Lakukan latihan pernapasan dalam, berolahraga secara teratur, hindari konsumsi kafein berlebih, dan ceritakan masalah kepada orang yang dipercaya atau profesional."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan antara stres dan depresi",
+        "bedanya stres vs depresi",
+        "gejala depresi"
+      ],
+      "jawaban": [
+        "Stres adalah respons sementara terhadap tekanan dari luar, sedangkan depresi adalah gangguan suasana hati jangka panjang yang memengaruhi emosi dan fungsi harian."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu praktik mindfulness",
+        "pengertian mindfulness",
+        "manfaat kesadaran penuh"
+      ],
+      "jawaban": [
+        "Mindfulness adalah praktik memfokuskan perhatian penuh pada momen saat ini secara sadar dan tanpa memberikan penilaian atau prasangka."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa tidur yang cukup penting untuk kesehatan mental",
+        "hubungan kurang tidur dan mood",
+        "manfaat tidur cukup bagi otak"
+      ],
+      "jawaban": [
+        "Tidur yang cukup membantu memulihkan fungsi otak, mengontrol emosi, mengurangi tingkat stres, dan meningkatkan konsentrasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "kapan seseorang harus berkonsultasi ke psikolog atau psikiater",
+        "tanda butuh bantuan psikolog",
+        "bedanya psikolog dan psikiater"
+      ],
+      "jawaban": [
+        "Seseorang perlu berkonsultasi ketika emosi negatif atau kecemasan sudah mengganggu aktivitas harian, produktivitas, serta hubungan dengan orang lain."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu impostor syndrome",
+        "pengertian sindrom impostor",
+        "ciri orang yang mengalami impostor syndrome"
+      ],
+      "jawaban": [
+        "Impostor syndrome adalah pola psikologis di mana seseorang meragukan pencapaian atau kemampuannya dan merasa seperti penipu yang tidak pantas sukses."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa dampak negatif media sosial pada kesehatan mental",
+        "bahaya medsos bagi mental",
+        "pengaruh sosmed terhadap kecemasan"
+      ],
+      "jawaban": [
+        "Media sosial berpotensi memicu timbulnya rasa cemas, kecanduan, pembandingan diri yang tidak sehat, serta rasa terisolasi secara sosial."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara membangun ketahanan mental atau resilience",
+        "tips menjadi tangguh secara emosional",
+        "pengertian resilensi"
+      ],
+      "jawaban": [
+        "Resiliensi dibangun dengan cara mengembangkan pemikiran positif, menjaga hubungan sosial yang sehat, serta belajar memetik pelajaran dari setiap kegagalan."
+      ]
+    }
+  ]
+}

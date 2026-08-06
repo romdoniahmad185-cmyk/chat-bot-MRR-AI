@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00149",
+  "judul": "Pendidikan dan Pembelajaran",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu pembelajaran seumur hidup atau lifelong learning",
+        "pengertian lifelong learning",
+        "mengapa belajar sepanjang hayat penting"
+      ],
+      "jawaban": [
+        "Pembelajaran seumur hidup adalah kesadaran dan komitmen untuk terus mengembangkan pengetahuan, keterampilan, dan kompetensi sepanjang hidup, baik secara formal maupun informal."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa bedanya pendidikan formal nonformal dan informal",
+        "perbedaan jenis pendidikan",
+        "contoh pendidikan nonformal"
+      ],
+      "jawaban": [
+        "Pendidikan formal diselenggarakan secara berjenjang di sekolah/perguruan tinggi, nonformal melalui kursus/pelatihan terstruktur, sedangkan informal diperoleh melalui pengalaman harian dan keluarga."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu teknik belajar pomodoro",
+        "pengertian pomodoro technique",
+        "cara menerapkan metode belajar pomodoro"
+      ],
+      "jawaban": [
+        "Teknik Pomodoro adalah metode manajemen waktu belajar dengan fokus penuh selama 25 menit diselingi istirahat singkat selama 5 menit secara berulang."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa yang dimaksud dengan berpikir kritis atau critical thinking",
+        "pengertian berpikir kritis",
+        "cara melatih kemampuan berpikir kritis"
+      ],
+      "jawaban": [
+        "Berpikir kritis adalah kemampuan menganalisis informasi secara objektif, mengevaluasi bukti, serta mempertanyakan asumsi secara logis sebelum mengambil keputusan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu gaya belajar visual auditori dan kinestetik",
+        "jenis jenis gaya belajar VAK",
+        "cara mengetahui gaya belajar diri sendiri"
+      ],
+      "jawaban": [
+        "Gaya belajar visual mengandalkan penglihatan/gambar, auditori mengandalkan pendengaran/suara, sedangkan kinestetik mengandalkan peragaan/praktik langsung."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi dari portofolio pembelajaran",
+        "pengertian portofolio akademik",
+        "manfaat menyusun portofolio hasil karya"
+      ],
+      "jawaban": [
+        "Portofolio berfungsi mencatat dan merangkum kumpulan karya, pencapaian, serta perkembangan kemampuan seseorang dari waktu ke waktu sebagai bukti kompetensi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu metode pembelajaran active learning",
+        "pengertian pembelajar aktif",
+        "bedanya active learning dan passive learning"
+      ],
+      "jawaban": [
+        "Active learning adalah pendekatan pembelajaran yang melibatkan siswa secara aktif melalui diskusi, pemecahan masalah, atau praktik langsung daripada sekadar mendengarkan ceramah."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa membaca buku penting untuk perkembangan otak",
+        "manfaat rajin membaca",
+        "pengaruh membaca terhadap kognitif"
+      ],
+      "jawaban": [
+        "Membaca memperluas kosakata, meningkatkan daya konsentrasi, merangsang imajinasi, memperkuat daya ingat, serta melatih kemampuan berpikir analitis."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu literasi digital",
+        "pengertian digital literacy",
+        "mengapa literasi digital penting di era modern"
+      ],
+      "jawaban": [
+        "Literasi digital adalah kemampuan untuk menemukan, mengevaluasi, memanfaatkan, dan membagikan informasi menggunakan teknologi digital secara aman dan bijak."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa arti istilah Growth Mindset",
+        "pengertian pola pikir berkembang",
+        "bedanya growth mindset dan fixed mindset"
+      ],
+      "jawaban": [
+        "Growth mindset adalah keyakinan bahwa bakat dan kecerdasan dapat terus berkembang melalui usaha, strategi yang tepat, dan pembelajaran dari kegagalan."
+      ]
+    }
+  ]
+}

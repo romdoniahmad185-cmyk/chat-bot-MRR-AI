@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00128",
+  "judul": "Wisata dan Perjalanan",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa manfaat liburan atau berwisata",
+        "mengapa penting untuk liburan",
+        "dampak positif traveling"
+      ],
+      "jawaban": [
+        "Berwisata bermanfaat untuk mengurangi stres, menyegarkan pikiran, serta memperluas wawasan budaya dan pengalaman hidup."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara merencanakan anggaran liburan",
+        "tips hemat saat traveling",
+        "cara susun budget wisata"
+      ],
+      "jawaban": [
+        "Tentukan destinasi, pesan tiket dan akomodasi jauh hari, buat rincian pengeluaran harian, serta siapkan dana darurat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu ekowisata",
+        "pengertian ecotourism",
+        "contoh wisata ramah lingkungan"
+      ],
+      "jawaban": [
+        "Ekowisata adalah kegiatan perjalanan ke area alami yang bertanggung jawab dengan menjaga kelestarian lingkungan dan menyejahterakan masyarakat lokal."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa saja barang wajib yang harus dibawa saat solo traveling",
+        "perlengkapan solo traveler",
+        "tips liburan sendiri"
+      ],
+      "jawaban": [
+        "Bawa dokumen penting, obat-obatan pribadi, pemancar daya (powerbank), dana tunai secukupnya, dan barang bawaan seperlunya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa keuntungan menggunakan transportasi umum saat berwisata",
+        "mengapa naik angkutan umum saat traveling",
+        "kelebihan naik kereta atau bus wisata"
+      ],
+      "jawaban": [
+        "Transportasi umum lebih menghemat biaya, ramah lingkungan, dan memberikan pengalaman berinteraksi langsung dengan warga lokal."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara menjaga keselamatan saat liburan",
+        "tips aman saat traveling",
+        "hal yang harus diwaspadai saat berwisata"
+      ],
+      "jawaban": [
+        "Simpan barang berharga di tempat aman, hindari bepergian sendirian di malam hari pada tempat asing, dan simpan kontak darurat setempat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu wisata kuliner",
+        "pengertian culinary tourism",
+        "manfaat mencoba makanan khas daerah"
+      ],
+      "jawaban": [
+        "Wisata kuliner adalah kegiatan perjalanan untuk mengeksplorasi, mencicipi, dan mempelajari makanan khas serta tradisi memasak suatu daerah."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa bedanya paspor dan visa",
+        "perbedaan paspor vs visa",
+        "syarat bepergian ke luar negeri"
+      ],
+      "jawaban": [
+        "Paspor adalah dokumen identitas resmi kewarganegaraan, sedangkan visa adalah izin resmi masuk ke suatu negara tujuan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu staycation",
+        "arti istilah staycation",
+        "konsep liburan dekat rumah"
+      ],
+      "jawaban": [
+        "Staycation adalah konsep liburan dengan menetap di hotel lokal atau menikmati waktu santai di dalam rumah/kota sendiri tanpa bepergian jauh."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa penting membeli asuransi perjalanan",
+        "manfaat travel insurance",
+        "fungsi asuransi wisata"
+      ],
+      "jawaban": [
+        "Asuransi perjalanan memberikan perlindungan finansial dari risiko pembatalan penerbangan, kehilangan bagasi, hingga darurat medis."
+      ]
+    }
+  ]
+}

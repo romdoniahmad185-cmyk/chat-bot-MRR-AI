@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00143",
+  "judul": "Sains dan Astronomi",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu teori relativitas",
+        "pengertian teori relativitas einstein",
+        "penjelasan sederhana relativitas"
+      ],
+      "jawaban": [
+        "Teori relativitas dikembangkan oleh Albert Einstein yang menjelaskan bagaimana ruang dan waktu saling berhubungan serta dipengaruhi oleh gravitasi dan kecepatan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan antara bintang dan planet",
+        "bedanya bintang vs planet",
+        "ciri ciri bintang dan planet"
+      ],
+      "jawaban": [
+        "Bintang memancarkan cahayanya sendiri dari reaksi nuklir di intinya, sedangkan planet tidak memancarkan cahaya sendiri dan memantulkan cahaya dari bintang utamanya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu lubang hitam atau black hole",
+        "pengertian lubang hitam",
+        "bagaimana lubang hitam terbentuk"
+      ],
+      "jawaban": [
+        "Lubang hitam adalah wilayah di ruang angkasa dengan gaya gravitasi yang sangat kuat sehingga tidak ada materi atau cahaya yang dapat meloloskan diri darinya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa Pluto tidak lagi dianggap sebagai planet",
+        "alasan pluto bukan planet",
+        "sejarah pluto dikeluarkannya dari tata surya"
+      ],
+      "jawaban": [
+        "Pluto dikategorikan sebagai planet kerdil pada tahun 2006 karena tidak memenuhi syarat untuk 'bersihan lingkungan' orbitnya dari benda langit lain."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu galaksi Bima Sakti atau Milky Way",
+        "pengertian galaksi bima sakti",
+        "bentuk galaksi kita"
+      ],
+      "jawaban": [
+        "Bima Sakti adalah galaksi berbentuk spiral yang memuat ratusan miliar bintang, termasuk Tata Surya dan planet Bumi yang kita huni."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana proses terjadinya gerhana matahari",
+        "pengertian gerhana matahari",
+        "bedanya gerhana matahari dan bulan"
+      ],
+      "jawaban": [
+        "Gerhana matahari terjadi ketika Bulan berada di antara Bumi dan Matahari sehingga menutupi sebagian atau seluruh cahaya matahari yang menuju Bumi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu materi gelap atau dark matter",
+        "pengertian dark matter",
+        "mengapa materi gelap penting"
+      ],
+      "jawaban": [
+        "Materi gelap adalah jenis materi hipotetis di alam semesta yang tidak memancarkan atau menyerap cahaya, namun efek gravitasinya memengaruhi pergerakan galaksi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu teleskop luar angkasa James Webb",
+        "fungsi james webb space telescope",
+        "bedanya james webb dan hubble"
+      ],
+      "jawaban": [
+        "Teleskop Luar Angkasa James Webb adalah observatorium inframerah canggih yang dirancang untuk mengamati objek terjauh di alam semesta dan pembentukan galaksi awal."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa arti istilah exoplanet",
+        "pengertian exoplanet",
+        "contoh planet luar tata surya"
+      ],
+      "jawaban": [
+        "Exoplanet atau planet luar tata surya adalah planet yang mengorbit bintang di luar sistem Tata Surya kita."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa langit berwarna biru pada siang hari",
+        "alasan langit biru",
+        "penjelasan ilmiah warna langit"
+      ],
+      "jawaban": [
+        "Langit tampak biru karena efek hamburan Rayleigh, di mana atmosfer bumi menghamburkan cahaya matahari berkulit gelombang pendek (biru) ke segala arah."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00140",
+  "judul": "Pendidikan dan Pembelajaran",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu pembelajaran sepanjang hayat",
+        "pengertian lifelong learning",
+        "mengapa penting belajar terus menerus"
+      ],
+      "jawaban": [
+        "Pembelajaran sepanjang hayat adalah proses belajar secara sukarela dan mandiri yang dilakukan terus-menerus sepanjang hidup untuk pengembangan diri maupun profesional."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa bedanya pendidikan formal informal dan nonformal",
+        "perbedaan jenis pendidikan",
+        "contoh pendidikan nonformal"
+      ],
+      "jawaban": [
+        "Pendidikan formal diselenggarakan terstruktur di sekolah/kampus, nonformal melalui lembaga kursus atau pelatihan, sedangkan informal terjadi di lingkungan keluarga dan masyarakat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu metode belajar efektif active recall",
+        "pengertian active recall",
+        "cara menerapkan active recall"
+      ],
+      "jawaban": [
+        "Active recall adalah metode belajar dengan cara menguji ingatan secara aktif memanggil kembali informasi yang telah dipelajari tanpa melihat catatan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa keunggulan dan tantangan pembelajaran jarak jauh atau online",
+        "kelebihan sekolah online",
+        "dampak e-learning"
+      ],
+      "jawaban": [
+        "Keunggulannya menawarkan fleksibilitas waktu dan tempat, sedangkan tantangannya membutuhkan kedisiplinan tinggi serta koneksi internet yang stabil."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu keterampilan abad ke 21",
+        "skill penting untuk masa depan",
+        "contoh keterampilan abad 21"
+      ],
+      "jawaban": [
+        "Keterampilan abad ke-21 mencakup berpikir kritis, kreativitas, komunikasi, kolaborasi, pemikiran komputasi, dan literasi digital."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa peran guru dalam pendidikan modern",
+        "fungsi guru saat ini",
+        "mengapa guru menjadi fasilitator"
+      ],
+      "jawaban": [
+        "Dalam pendidikan modern, guru bertindak sebagai fasilitator, mentor, dan motivator yang membimbing siswa untuk belajar secara mandiri dan kritis."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu teknik belajar pomodoro",
+        "pengertian teknik pomodoro",
+        "cara belajar fokus dengan timer"
+      ],
+      "jawaban": [
+        "Teknik Pomodoro adalah metode manajemen waktu dengan membagi waktu belajar menjadi interval 25 menit fokus penuh diikuti 5 menit istirahat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa literasi membaca penting bagi pelajar",
+        "manfaat tingkat literasi tinggi",
+        "fungsi kemampuan membaca"
+      ],
+      "jawaban": [
+        "Literasi membaca mengasah kemampuan analisis, memperluas cakrawala berpikir, dan menjadi fondasi utama untuk memahami berbagai disiplin ilmu."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa arti STEM dalam dunia pendidikan",
+        "pengertian pendidikan STEM",
+        "kepanjangan STEM"
+      ],
+      "jawaban": [
+        "STEM adalah pendekatan pembelajaran interdisipliner yang menggabungkan Science, Technology, Engineering, dan Mathematics untuk memecahkan masalah dunia nyata."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara meningkatkan motivasi belajar anak",
+        "tips mendidik anak rajin belajar",
+        "cara agar tidak malas belajar"
+      ],
+      "jawaban": [
+        "Ciptakan lingkungan belajar yang nyaman, berikan apresiasi atas proses usaha anak, buat target yang realistis, dan kaitkan pelajaran dengan kehidupan sehari-hari."
+      ]
+    }
+  ]
+}

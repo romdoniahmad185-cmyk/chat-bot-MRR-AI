@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00130",
+  "judul": "Psikologi dan Perkembangan Diri",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu kecerdasan emosional",
+        "pengertian emotional quotient",
+        "manfaat EQ dalam kehidupan"
+      ],
+      "jawaban": [
+        "Kecerdasan emosional adalah kemampuan memahami, mengelola, dan mengekspresikan emosi diri sendiri serta memahami emosi orang lain."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara membangun kebiasaan positif",
+        "tips membentuk habit baru",
+        "cara konsisten berbenah diri"
+      ],
+      "jawaban": [
+        "Mulai dari langkah kecil, lakukan secara konsisten setiap hari, gabungkan dengan rutinitas yang ada, dan beri apresiasi pada diri sendiri."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa arti pemikiran berkembang atau growth mindset",
+        "bedanya fixed mindset dan growth mindset",
+        "pengertian pola pikir berkembang"
+      ],
+      "jawaban": [
+        "Growth mindset adalah keyakinan bahwa kemampuan dan kecerdasan dapat berkembang melalui usaha, strategi, dan pembelajaran dari kegagalan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara mengatasi sindrom impostor",
+        "apa itu impostor syndrome",
+        "tips percaya pada kemampuan diri"
+      ],
+      "jawaban": [
+        "Akui pencapaian diri, berhenti membandingkan diri dengan orang lain, catat bukti keberhasilan, dan bicarakan perasaan tersebut pada kerabat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa pentingnya manajemen waktu",
+        "manfaat mengatur waktu",
+        "cara mengelola waktu dengan efektif"
+      ],
+      "jawaban": [
+        "Manajemen waktu membantu meningkatkan produktivitas, mengurangi tingkat stres, dan memberikan keseimbangan antara kerja serta istirahat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu kesehatan mental",
+        "mengapa kesehatan mental penting",
+        "tanda mental sehat"
+      ],
+      "jawaban": [
+        "Kesehatan mental mencakup keharmonisan emosional, psikologis, dan sosial yang memengaruhi cara seseorang berpikir, merasa, dan bertindak."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara mengatasi prokrastinasi atau menunda pekerjaan",
+        "tips tidak menunda tugas",
+        "sebab orang suka menunda"
+      ],
+      "jawaban": [
+        "Bagi tugas besar menjadi langkah-langkah kecil, gunakan teknik Pomodoro, dan singkirkan gangguan saat mulai bekerja."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa arti kepribadian introvert dan ekstrovert",
+        "perbedaan introvert dan ekstrovert",
+        "ciri ekstrovert vs introvert"
+      ],
+      "jawaban": [
+        "Introvert mengisi ulang energi melalui waktu sendiri, sedangkan ekstrovert mendapatkan energi dari interaksi sosial dengan orang lain."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu self-love atau mencintai diri sendiri",
+        "cara menerapkan self love",
+        "pentingnya menghargai diri sendiri"
+      ],
+      "jawaban": [
+        "Self-love adalah sikap menerima, menghargai, dan merawat diri sendiri secara fisik maupun mental tanpa menghakimi kekurangan diri."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara melatih fokus dan konsentrasi",
+        "tips konsentrasi belajar",
+        "cara agar tidak mudah terdistraksi"
+      ],
+      "jawaban": [
+        "Lakukan meditasi mindfulness, buat ruang kerja yang rapi, batasi multitasking, dan tidur yang cukup setiap malam."
+      ]
+    }
+  ]
+}

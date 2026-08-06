@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00131",
+  "judul": "Pendidikan dan Pembelajaran",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa pentingnya pendidikan karakter sejak dini",
+        "manfaat pendidikan karakter",
+        "mengapa karakter anak harus dibentuk"
+      ],
+      "jawaban": [
+        "Pendidikan karakter sejak dini membantu membentuk nilai moral, integritas, serta kepribadian yang kuat untuk menghadapi masa depan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu metode pembelajaran aktif",
+        "pengertian active learning",
+        "contoh pembelajaran aktif"
+      ],
+      "jawaban": [
+        "Metode pembelajaran aktif melibatkan siswa secara langsung melalui diskusi, pemecahan masalah, dan praktik, bukan sekadar mendengarkan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa keunggulan pendidikan berbasis teknologi",
+        "manfaat e-learning",
+        "dampak digitalisasi pendidikan"
+      ],
+      "jawaban": [
+        "Pendidikan berbasis teknologi mempermudah akses informasi, memungkinkan pembelajaran jarak jauh, dan menyediakan materi interaktif."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara meningkatkan minat baca anak",
+        "tips anak suka membaca",
+        "menumbuhkan budaya literasi"
+      ],
+      "jawaban": [
+        "Sediakan buku yang sesuai dengan minat mereka, luangkan waktu membaca bersama, dan ciptakan lingkungan belajar yang menyenangkan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu berfikir kritis atau critical thinking",
+        "mengapa harus berpikir kritis",
+        "cara mengasah kemampuan berpikir kritis"
+      ],
+      "jawaban": [
+        "Berpikir kritis adalah kemampuan menganalisis informasi secara objektif, mengevaluasi argumen, dan membuat keputusan yang rasional."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa bedanya pendidikan formal nonformal dan informal",
+        "jenis jenis jalur pendidikan",
+        "perbedaan sekolah dan kursus"
+      ],
+      "jawaban": [
+        "Pendidikan formal terstruktur di sekolah, nonformal berupa kursus atau pelatihan, sedangkan informal berlangsung di lingkungan keluarga dan masyarakat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi beasiswa dalam pendidikan",
+        "manfaat program beasiswa",
+        "mengapa harus daftar beasiswa"
+      ],
+      "jawaban": [
+        "Beasiswa meringankan beban finansial studi, memberikan apresiasi atas prestasi, dan memperluas akses pendidikan bagi yang membutuhkan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara mengatasi rasa malas belajar",
+        "tips fokus belajar",
+        "cara menumbuhkan motivasi belajar"
+      ],
+      "jawaban": [
+        "Tetapkan target yang jelas, buat jadwal belajar yang teratur, gunakan teknik belajar interaktif, dan hindari gangguan di sekitar."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa pentingnya literasi digital bagi pelajar",
+        "mengapa harus paham literasi digital",
+        "manfaat pemahaman internet sehat"
+      ],
+      "jawaban": [
+        "Literasi digital membekali siswa untuk memanfaatkan teknologi secara bijak, memilah informasi akurat, dan terhindar dari bahaya siber."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu kurikulum pembelajaran",
+        "fungsi kurikulum sekolah",
+        "mengapa kurikulum sering berganti"
+      ],
+      "jawaban": [
+        "Kurikulum adalah seperangkat rencana dan pengaturan mengenai tujuan, isi, serta bahan pelajaran sebagai pedoman penyelenggaraan kegiatan pembelajaran."
+      ]
+    }
+  ]
+}

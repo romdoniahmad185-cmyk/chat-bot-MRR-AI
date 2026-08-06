@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00127",
+  "judul": "Lingkungan dan Ekologi",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu perubahan iklim",
+        "pengertian climate change",
+        "penyebab perubahan iklim"
+      ],
+      "jawaban": [
+        "Perubahan iklim adalah perubahan jangka panjang pada suhu dan pola cuaca bumi yang sebagian besar dipicu oleh aktivitas manusia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa pentingnya daur ulang sampah",
+        "manfaat recycling",
+        "mengapa harus memilah sampah"
+      ],
+      "jawaban": [
+        "Daur ulang mengurangi volume sampah di TPA, menghemat sumber daya alam, serta mengurangi pencemaran lingkungan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu energi terbarukan",
+        "contoh energi terbarukan",
+        "manfaat energi bersih"
+      ],
+      "jawaban": [
+        "Energi terbarukan adalah sumber energi alami yang tidak akan habis, seperti energi surya, angin, air, dan panas bumi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa dampak pembabatan hutan atau deforestasi",
+        "bahaya deforestasi",
+        "akibat penebangan liar"
+      ],
+      "jawaban": [
+        "Deforestasi menyebabkan hilangnya habitat satwa, erosi tanah, krisis air, serta mempercepat pemanasan global."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara mengurangi penggunaan plastik sekali pakai",
+        "tips kurangi plastik",
+        "gaya hidup bebas plastik"
+      ],
+      "jawaban": [
+        "Gunakan tas belanja kain, bawa botol minum sendiri, hindari sedotan plastik, dan pilih produk dengan kemasan ramah lingkungan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu reboisasi",
+        "manfaat penanaman pohon kembali",
+        "tujuan reboisasi"
+      ],
+      "jawaban": [
+        "Reboisasi adalah kegiatan penanaman kembali hutan yang gundul untuk memulihkan fungsi ekosistem dan mencegah bencana alam."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa akibat dari pencemaran laut",
+        "bahaya sampah di laut",
+        "dampak mikroplastik bagi ekosistem laut"
+      ],
+      "jawaban": [
+        "Pencemaran laut merusak terumbu karang, mengancam kehidupan biota laut, dan dapat meracuni rantai makanan manusia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu konsep komposting",
+        "cara membuat pupuk kompos",
+        "manfaat mengolah sampah organik"
+      ],
+      "jawaban": [
+        "Komposting adalah proses penguraian sampah organik menjadi pupuk yang bermanfaat untuk menyuburkan tanah secara alami."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi ruang terbuka hijau di perkotaan",
+        "manfaat RTH",
+        "mengapa kota butuh taman"
+      ],
+      "jawaban": [
+        "Ruang terbuka hijau menyerap polusi udara, mencegah banjir, memberikan penyejuk kota, serta menyediakan sarana rekreasi warga."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu jejak karbon atau carbon footprint",
+        "cara menghitung jejak karbon",
+        "tips mengurangi emisi karbon"
+      ],
+      "jawaban": [
+        "Jejak karbon adalah total emisi gas rumah kaca yang dihasilkan oleh aktivitas individu, organisasi, atau produk tertentu."
+      ]
+    }
+  ]
+}

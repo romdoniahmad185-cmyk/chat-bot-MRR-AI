@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00147",
+  "judul": "Lingkungan dan Geografi",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu perubahan iklim atau climate change",
+        "pengertian iklim global",
+        "dampak perubahan iklim"
+      ],
+      "jawaban": [
+        "Perubahan iklim adalah pergeseran jangka panjang dalam suhu dan pola cuaca bumi, yang utamanya dipicu oleh aktivitas manusia seperti pembakaran bahan bakar fosil."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa yang dimaksud dengan efek rumah kaca",
+        "pengertian efek rumah kaca",
+        "penyebab pemanasan global"
+      ],
+      "jawaban": [
+        "Efek rumah kaca adalah proses terperangkapnya panas matahari di atmosfer bumi oleh gas-gas tertentu sehingga suhu permukaan bumi menjadi lebih hangat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu keanekaragaman hayati atau kehati",
+        "pengertian biodiversitas",
+        "mengapa biodiversitas penting"
+      ],
+      "jawaban": [
+        "Keanekaragaman hayati adalah keanekaragaman organisme hidup dari semua sumber, termasuk ekosistem darat, laut, dan ekosistem akuatik lainnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan antara cuaca dan iklim",
+        "bedanya cuaca vs iklim",
+        "contoh fenomena iklim"
+      ],
+      "jawaban": [
+        "Cuaca merujuk pada kondisi atmosfer jangka pendek di lokasi tertentu, sedangkan iklim adalah rata-rata kondisi cuaca dalam jangka waktu yang panjang (biasanya 30 tahun)."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu konsep energi terbarukan",
+        "pengertian energi terbarukan",
+        "contoh sumber energi terbarukan"
+      ],
+      "jawaban": [
+        "Energi terbarukan adalah sumber energi yang berasal dari sumber daya alam yang dapat diperbarui secara alami dan tidak akan habis, seperti matahari, angin, dan air."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa penyebab utama deforestasi",
+        "pengertian deforestasi",
+        "dampak penebangan hutan liar"
+      ],
+      "jawaban": [
+        "Deforestasi adalah pembersihan atau penebangan hutan secara besar-besaran, yang disebabkan oleh pembukaan lahan pertanian, pembalokan, dan ekspansi pemukiman."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa yang dimaksud dengan jejak karbon atau carbon footprint",
+        "pengertian carbon footprint",
+        "cara mengurangi jejak karbon"
+      ],
+      "jawaban": [
+        "Jejak karbon adalah total jumlah gas rumah kaca (termasuk karbondioksida dan metana) yang dihasilkan oleh tindakan atau aktivitas manusia secara langsung maupun tidak."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu konsep zero waste",
+        "pengertian gaya hidup zero waste",
+        "cara mengurangi sampah plastik"
+      ],
+      "jawaban": [
+        "Zero waste adalah filosofi dan gaya hidup yang mendorong pengoperasian kembali siklus sumber daya sehingga produk digunakan kembali tanpa menghasilkan sampah ke tempat pembuangan akhir."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu lempeng tektonik",
+        "pengertian pergerakan lempeng tektonik",
+        "penyebab terjadinya gempa bumi"
+      ],
+      "jawaban": [
+        "Lempeng tektonik adalah lapisan luar kerak bumi yang terpecah menjadi beberapa bagian besar yang terus bergerak dan berinteraksi sehingga memicu gempa bumi serta pembentukan pegunungan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi dari lapisan ozon",
+        "manfaat lapisan ozon bagi bumi",
+        "penyebab kerusakan ozon"
+      ],
+      "jawaban": [
+        "Lapisan ozon berfungsi menyerap sebagian besar radiasi sinar ultraviolet (UV) berbahaya dari matahari sehingga melindungi kehidupan makhluk hidup di bumi."
+      ]
+    }
+  ]
+}

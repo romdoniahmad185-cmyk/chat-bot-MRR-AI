@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00122",
+  "judul": "Karier dan Dunia Kerja",
+  "data": [
+    {
+      "pertanyaan": [
+        "bagaimana cara membuat CV yang menarik",
+        "tips buat curicullum vitae",
+        "format CV profesional"
+      ],
+      "jawaban": [
+        "Gunakan format yang rapi dan mudah dibaca (ATS-friendly), cantumkan pengalaman relevan, serta sertakan pencapaian kuantitatif."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara menghadapi wawancara kerja",
+        "tips interview kerja",
+        "persiapan wawancara kerja"
+      ],
+      "jawaban": [
+        "Pelajari profil perusahaan, pahami posisi yang dilamar, berlatih menjawab pertanyaan umum, dan tunjukkan sikap percaya diri serta profesional."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu work-life balance",
+        "pentingnya keseimbangan kerja dan kehidupan",
+        "cara menjaga work-life balance"
+      ],
+      "jawaban": [
+        "Work-life balance adalah keseimbangan antara tuntutan pekerjaan dan kehidupan pribadi agar terhindar dari stres serta burnout."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa bedanya hard skill dan soft skill",
+        "pengertian keahlian kerja",
+        "perbedaan ketrampilan teknis dan interpersonal"
+      ],
+      "jawaban": [
+        "Hard skill adalah kemampuan teknis yang dapat dipelajari dan diukur, sedangkan soft skill adalah kepribadian serta kemampuan interpersonal dalam berinteraksi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu kerja remote atau WFH",
+        "manfaat work from home",
+        "sistem kerja jarak jauh"
+      ],
+      "jawaban": [
+        "Kerja remote atau WFH adalah sistem kerja fleksibel yang memungkinkan karyawan menyelesaikan tugas tanpa harus datang ke kantor fisik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara membangun jejaring profesional",
+        "tips networking dunia kerja",
+        "pentingnya koneksi kerja"
+      ],
+      "jawaban": [
+        "Aktif di platform profesional seperti LinkedIn, ikuti seminar atau acara industri, serta jaga hubungan baik dengan rekan sejawat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu budaya kerja perusahaan",
+        "pengertian corporate culture",
+        "mengapa budaya kerja penting"
+      ],
+      "jawaban": [
+        "Budaya kerja adalah nilai, norma, dan kebiasaan bersama yang membentuk lingkungan kerja serta perilaku karyawan di suatu organisasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara mengatasi burnout kerja",
+        "tips cegah stres pekerjaan",
+        "tanda kena burnout"
+      ],
+      "jawaban": [
+        "Ambil waktu istirahat yang cukup, tetapkan batasan jam kerja, konsultasikan kendala ke atasan, dan lakukan kegiatan penyeimbang di luar pekerjaan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu pekerja lepas atau freelancer",
+        "keuntungan jadi freelancer",
+        "cara kerja freelance"
+      ],
+      "jawaban": [
+        "Freelancer adalah pekerja mandiri yang menawarkan keahlian proyek ke berbagai klien tanpa terikat kontrak jangka panjang satu perusahaan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa pengembangan karier itu penting",
+        "manfaat naik jabatan",
+        "cara meningkatkan karier"
+      ],
+      "jawaban": [
+        "Pengembangan karier membantu meningkatkan keahlian, memperluas tanggung jawab, serta membuka peluang pendapatan dan posisi yang lebih tinggi."
+      ]
+    }
+  ]
+}

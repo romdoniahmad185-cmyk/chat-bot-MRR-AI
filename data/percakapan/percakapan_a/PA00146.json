@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00146",
+  "judul": "Kuliner dan Nutrisi",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa bedanya gizi mikro dan gizi makro",
+        "perbedaan mikronutrien dan makronutrien",
+        "pengertian nutrisi makro mikro"
+      ],
+      "jawaban": [
+        "Makronutrien (karbohidrat, protein, lemak) dibutuhkan tubuh dalam jumlah besar untuk energi, sedangkan mikronutrien (vitamin, mineral) dibutuhkan dalam jumlah kecil untuk memelihara fungsi organ."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu makanan terproses atau ultra processed food",
+        "pengertian ultra processed food",
+        "bahaya bahaya makanan olahan pabrik"
+      ],
+      "jawaban": [
+        "Ultra-processed food adalah makanan yang telah melalui pengolahan industri bertingkat dengan tambahan gula, garam, lemak jenuh, dan bahan aditif buatan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa manfaat minum air putih cukup setiap hari",
+        "mengapa harus minum air putih cukup",
+        "dampak minum 2 liter air sehari"
+      ],
+      "jawaban": [
+        "Minum air putih yang cukup membantu menjaga keseimbangan cairan tubuh, memperlancar pencernaan, melumasi sendi, dan menjaga konsentrasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu diet gizi seimbang",
+        "pengertian piring makanku",
+        "cara mengatur isi piring yang sehat"
+      ],
+      "jawaban": [
+        "Diet gizi seimbang adalah pola makan yang menyajikan proporsi seimbang antara karbohidrat, protein, sayuran, dan buah-buahan sesuai kebutuhan harian."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan antara gula alami dan gula tambahan",
+        "bedanya gula buah dan gula pasir",
+        "bahaya konsumsi gula tambahan berlebih"
+      ],
+      "jawaban": [
+        "Gula alami terdapat secara alami dalam buah atau susu bersama serat dan nutrisi, sedangkan gula tambahan dimasukkan selama proses pengolahan makanan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa manfaat makanan fermentasi bagi pencernaan",
+        "mengapa tempeh dan yogurt baik untuk usus",
+        "pengertian makanan probiotik"
+      ],
+      "jawaban": [
+        "Makanan fermentasi kaya akan probiotik (bakteri baik) yang membantu menjaga kesehatan mikrobioma usus dan memperlancar sistem pencernaan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu indeks glikemik pada makanan",
+        "pengertian glycemic index",
+        "contoh makanan indeks glikemik rendah"
+      ],
+      "jawaban": [
+        "Indeks glikemik adalah skala indikator seberapa cepat makanan berdampak pada peningkatan kadar gula darah setelah dikonsumsi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi antioksidan dalam bahan pangan",
+        "manfaat antioksidan untuk tubuh",
+        "sumber makanan kaya antioksidan"
+      ],
+      "jawaban": [
+        "Antioksidan berfungsi melindung sel-sel tubuh dari kerusakan akibat radikal bebas yang dapat memicu risiko penyakit kronis."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa makan perlahan baik untuk pencernaan",
+        "manfaat mengunyah makanan lama",
+        "hubungan makan lambat dan rasa kenyang"
+      ],
+      "jawaban": [
+        "Makan perlahan memudahkan kinerja saluran pencernaan dan memberi waktu bagi otak untuk menerima sinyal kenyang sehingga mencegah makan berlebihan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa arti istilah vegetarian dan vegan",
+        "perbedaan vegetarian vs vegan",
+        "pengertian gaya hidup vegan"
+      ],
+      "jawaban": [
+        "Vegetarian tidak mengonsumsi daging tetapi masih mungkin mengonsumsi produk turunan hewan seperti susu/telur, sedangkan vegan menghindari seluruh produk hewani."
+      ]
+    }
+  ]
+}

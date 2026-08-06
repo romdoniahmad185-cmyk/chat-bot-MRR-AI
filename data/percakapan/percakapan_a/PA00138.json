@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00138",
+  "judul": "Geografi dan Pariwisata",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu pariwisata berkelanjutan",
+        "pengertian sustainable tourism",
+        "manfaat wisata berkelanjutan"
+      ],
+      "jawaban": [
+        "Pariwisata berkelanjutan adalah konsep berwisata yang memperhitungkan dampak ekonomi, sosial, dan lingkungan untuk masa kini serta masa depan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa bedanya benua dan samudera",
+        "perbedaan benua vs samudera",
+        "pengertian benua dan samudra"
+      ],
+      "jawaban": [
+        "Benua adalah daratan yang sangat luas di permukaan bumi, sedangkan samudera adalah lautan luas yang mengelilingi daratan benua."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu ekowisata atau ecotourism",
+        "contoh tempat ekowisata",
+        "prinsip utama ekowisata"
+      ],
+      "jawaban": [
+        "Ekowisata adalah bentuk perjalanan ke area alami yang bertujuan untuk melestarikan lingkungan, mendukung kesejahteraan masyarakat lokal, dan memberikan edukasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa Indonesia dinamakan negara kepulauan",
+        "sebab indonesia negara kepulauan",
+        "apa itu negara maritim"
+      ],
+      "jawaban": [
+        "Indonesia disebut negara kepulauan karena memiliki belasan ribu pulau yang terbentang dari Sabang sampai Merauke serta dihubungkan oleh perairan laut."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu garis khatulistiwa atau ekuator",
+        "fungsi garis khatulistiwa",
+        "dampak daerah yang dilewati khatulistiwa"
+      ],
+      "jawaban": [
+        "Garis khatulistiwa adalah garis khayal yang membagi bumi menjadi bagian utara dan selatan, menyebabkan daerah di sekitarnya beriklim tropis."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa pentingnya sektor pariwisata bagi ekonomi daerah",
+        "manfaat pariwisata untuk masyarakat",
+        "dampak pariwisata bagi ekonomi"
+      ],
+      "jawaban": [
+        "Sektor pariwisata membuka lapangan kerja baru, meningkatkan pendapatan UMKM lokal, memicu pembangunan infrastruktur, dan menambah devisa negara."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan iklim dan cuaca",
+        "perbedaan cuaca vs iklim",
+        "pengertian cuaca dan iklim"
+      ],
+      "jawaban": [
+        "Cuaca adalah kondisi atmosfer dalam waktu singkat dan area sempit, sedangkan iklim adalah pola rata-rata cuaca dalam jangka waktu panjang di wilayah yang luas."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu keajaiban dunia",
+        "siapa yang menentukan keajaiban dunia",
+        "contoh situs keajaiban dunia"
+      ],
+      "jawaban": [
+        "Keajaiban dunia adalah daftar situs atau landmark alam maupun buatan manusia di seluruh dunia yang dinilai memiliki nilai sejarah, arsitektur, dan kebudayaan yang luar biasa."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa arti konsep geopark atau taman bumi",
+        "pengertian geopark",
+        "tujuan pembentukan geopark"
+      ],
+      "jawaban": [
+        "Geopark adalah wilayah geografis tunggal atau terpadu yang mengelola situs geologi bernilai internasional dengan konsep konservasi, edukasi, dan pembangunan ekonomi berkelanjutan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana tips menjadi wisatawan yang bertanggung jawab",
+        "cara berwisata bijak",
+        "etika saat liburan ke daerah orang"
+      ],
+      "jawaban": [
+        "Hormati adat dan budaya lokal, tidak membuang sampah sembarangan, beli produk/jasa dari warga lokal, serta jaga kebersihan dan kelestarian destinasi."
+      ]
+    }
+  ]
+}

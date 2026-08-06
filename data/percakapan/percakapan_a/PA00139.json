@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00139",
+  "judul": "Psikologi dan Hubungan Antar Manusia",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu kecerdasan emosional atau emotional intelligence",
+        "pengertian EQ",
+        "mengapa kecerdasan emosional penting"
+      ],
+      "jawaban": [
+        "Kecerdasan emosional adalah kemampuan seseorang untuk mengenali, memahami, mengelola, dan mengekspresikan emosi diri sendiri serta emosi orang lain."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu empati dan mengapa penting",
+        "pengertian empati",
+        "bedanya empati dan simpati"
+      ],
+      "jawaban": [
+        "Empati adalah kemampuan untuk merasakan dan memahami apa yang dirasakan orang lain dari sudut pandang mereka, yang penting untuk membangun ikatan sosial yang kuat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara mengatasi konflik dalam hubungan",
+        "tips meredakan pertengkaran",
+        "cara komunikasi efektif dengan pasangan"
+      ],
+      "jawaban": [
+        "Dengarkan dengan aktif tanpa memotong, fokus pada masalah utama bukan menyerang pribadi, dan gunakan kalimat berbasis 'saya' untuk mengekspresikan perasaan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa arti istilah toxic relationship",
+        "ciri ciri hubungan tidak sehat",
+        "bahaya toxic relationship"
+      ],
+      "jawaban": [
+        "Toxic relationship adalah hubungan tidak sehat yang ditandai oleh perilaku manipulatif, rasa tidak aman, kurangnya dukungan, atau dominasi berlebih dari satu pihak."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu batasan diri atau personal boundaries",
+        "mengapa harus punya batasan diri",
+        "cara menetapkan boundaries"
+      ],
+      "jawaban": [
+        "Batasan diri adalah garis panduan emosional dan fisik yang ditetapkan seseorang untuk menentukan perilaku apa yang dapat diterima dari orang lain demi menjaga kesehatan mental."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu komunikasi asertif",
+        "pengertian asertif",
+        "contoh bersikap asertif"
+      ],
+      "jawaban": [
+        "Komunikasi asertif adalah kemampuan menyampaikan pikiran, perasaan, dan kebutuhan secara jujur dan tegas tanpa bersikap agresif atau merendahkan orang lain."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa bedanya introvert ekstrovert dan ambivert",
+        "perbedaan tipe kepribadian",
+        "apa itu ambivert"
+      ],
+      "jawaban": [
+        "Introvert mengisi energi dengan menyendiri, ekstrovert dengan berinteraksi sosial, sedangkan ambivert memiliki keseimbangan sifat di antara keduanya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu gaslighting dalam hubungan",
+        "pengertian gaslighting",
+        "ciri orang yang melakuakan gaslighting"
+      ],
+      "jawaban": [
+        "Gaslighting adalah bentuk manipulasi psikologis di mana seseorang membuat korban meragukan ingatan, persepsi, atau kesehatan mental mereka sendiri."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa self love atau mencintai diri sendiri itu penting",
+        "arti self love",
+        "cara melatih mencintai diri sendiri"
+      ],
+      "jawaban": [
+        "Self-love penting untuk membangun kepercayaan diri, mengurangi tingkat stres, dan membantu kita menetapkan standar hubungan yang sehat dengan orang lain."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu konsep bahasa cinta atau love language",
+        "5 jenis love language",
+        "mengapa harus tahu love language pasangan"
+      ],
+      "jawaban": [
+        "Love language adalah cara seseorang mengekspresikan dan menerima kasih sayang, yang terdiri dari kata-kata apresiasi, waktu berkualitas, hadiah, pelayanan, dan sentuhan fisik."
+      ]
+    }
+  ]
+}

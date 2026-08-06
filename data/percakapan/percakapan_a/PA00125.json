@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00125",
+  "judul": "Sains dan Pengetahuan Alam",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu fotosintesis",
+        "proses fotosintesis pada tumbuhan",
+        "bagaimana tumbuhan membuat makanan"
+      ],
+      "jawaban": [
+        "Fotosintesis adalah proses pemuatan makanan oleh tumbuhan hijau menggunakan sinar matahari, air, dan karbon dioksida."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa terjadi gerhana matahari",
+        "penyebab gerhana matahari",
+        "posisi bulan saat gerhana matahari"
+      ],
+      "jawaban": [
+        "Gerhana matahari terjadi ketika Bulan berada di antara Bumi dan Matahari sehingga menghalangi cahaya Matahari menuju Bumi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu siklus air",
+        "bagaimana hujan terjadi",
+        "tahapan siklus hidrologi"
+      ],
+      "jawaban": [
+        "Siklus air adalah sirkulasi air yang terus-menerus dari bumi ke atmosfer melalui penguapan (evaporasi), kondensasi, dan presipitasi (hujan)."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan antara planet dan bintang",
+        "bedanya bintang dan planet",
+        "kenapa bintang bersinar sendiri"
+      ],
+      "jawaban": [
+        "Bintang dapat memancarkan cahayanya sendiri hasil dari reaksi nuklir, sedangkan planet tidak memancarkan cahaya dan memantulkan cahaya bintang."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu efek rumah kaca",
+        "penyebab efek rumah kaca",
+        "dampak pemanasan global"
+      ],
+      "jawaban": [
+        "Efek rumah kaca adalah proses terperangkapnya panas matahari di atmosfer bumi oleh gas-gas tertentu sehingga suhu bumi meningkat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa terjadi gempa bumi",
+        "penyebab gempa",
+        "apa itu pergeseran lempeng tektonik"
+      ],
+      "jawaban": [
+        "Gempa bumi terjadi akibat pelepasan energi secara tiba-tiba di dalam bumi yang disebabkan oleh pergerakan lempeng tektonik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi lapisan ozon",
+        "manfaat ozon bagi bumi",
+        "bahaya penipisan ozon"
+      ],
+      "jawaban": [
+        "Lapisan ozon berfungsi menyerap dan melindungi permukaan bumi dari radiasi sinar ultraviolet (UV) berbahaya dari matahari."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu keanekaragaman hayati",
+        "pengertian biodiversitas",
+        "pentingnya menjaga biodiversitas"
+      ],
+      "jawaban": [
+        "Keanekaragaman hayati merujuk pada variasi kehidupan berupa spesies tumbuhan, hewan, dan mikroorganisme di dalam suatu ekosistem."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan hewan karnivora herbivora dan omnivora",
+        "jenis makanan hewan",
+        "pengelompokan hewan berdasarkan makanan"
+      ],
+      "jawaban": [
+        "Karnivora memakan pemakan daging, herbivora memakan tumbuhan, sedangkan omnivora memakan daging dan tumbuhan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu teori relativitas",
+        "penjelasan singkat teori relativitas einstein",
+        "relativitas fisika"
+      ],
+      "jawaban": [
+        "Teori relativitas karya Albert Einstein menjelaskan bahwa ruang dan waktu bersifat relatif serta dipengaruhi oleh gravitasi dan kecepatan."
+      ]
+    }
+  ]
+}

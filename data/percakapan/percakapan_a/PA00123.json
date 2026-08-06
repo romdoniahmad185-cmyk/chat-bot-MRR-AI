@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00123",
+  "judul": "Sosial dan Kemasyarakatan",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa arti gotong royong",
+        "mengapa gotong royong penting",
+        "contoh kebiasaan gotong royong"
+      ],
+      "jawaban": [
+        "Gotong royong adalah kegiatan bekerja bersama-sama untuk mencapai hasil yang diinginkan demi kepentingan bersama."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa penting memiliki rasa empati",
+        "manfaat empati sosial",
+        "cara melatih empati"
+      ],
+      "jawaban": [
+        "Empati membantu memahami perasaan orang lain, membangun hubungan sosial yang harmonis, serta mencegah konflik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu norma sosial",
+        "fungsi norma masyarakat",
+        "jenis jenis norma"
+      ],
+      "jawaban": [
+        "Norma sosial adalah aturan tidak tertulis atau tertulis yang mengatur tingkah laku masyarakat agar tercipta ketertiban."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa pentingnya menjaga toleransi beragama",
+        "manfaat toleransi antarumat beragama",
+        "sikap toleran di masyarakat"
+      ],
+      "jawaban": [
+        "Toleransi beragama menciptakan kedamaian, persatuan, dan saling menghormati di tengah perbedaan keyakinan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara mengatasi konflik sosial",
+        "tips penyelesaian masalah warga",
+        "musyawarah mufakat"
+      ],
+      "jawaban": [
+        "Konflik sosial dapat diatasi melalui dialog, musyawarah mufakat, mediasi pihak ketiga, dan mengutamakan rasa kekeluargaan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu kegiatan sukarela atau volunteer",
+        "manfaat jadi relawan",
+        "pengalaman sukarelawan"
+      ],
+      "jawaban": [
+        "Kegiatan sukarela adalah aksi memberikan waktu, tenaga, atau keahlian secara ikhlas untuk membantu sesama dan lingkungan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa pentingnya ketaatan pada hukum",
+        "mengapa harus patuh hukum",
+        "fungsi hukum bagi warga"
+      ],
+      "jawaban": [
+        "Mematuhi hukum menjaga keadilan, rasa aman, serta menjamin hak dan kewajiban setiap warga negara terpenuhi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa arti solidaritas sosial",
+        "mengapa solidaritas penting",
+        "contoh rasa kepedulian sosial"
+      ],
+      "jawaban": [
+        "Solidaritas sosial adalah rasa kesetiakawanan, kebersamaan, dan kepedulian antaranggota masyarakat dalam menghadapi masalah."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara menjaga hubungan baik dengan tetangga",
+        "tips rukun tetangga",
+        "etiket bertetangga"
+      ],
+      "jawaban": [
+        "Saling menyapa, menjaga ketenangan lingkungan, membantu saat ada musibah, dan ikut serta dalam kegiatan RT/RW."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu inklusi sosial",
+        "pengertian kesetaraan hak",
+        "pentingnya masyarakat inklusif"
+      ],
+      "jawaban": [
+        "Inklusi sosial adalah upaya memastikan semua individu, termasuk kelompok rentan dan disabilitas, memiliki kesempatan yang sama dalam masyarakat."
+      ]
+    }
+  ]
+}

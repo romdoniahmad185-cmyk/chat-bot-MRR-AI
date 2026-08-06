@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00126",
+  "judul": "Seni dan Kebudayaan",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa arti seni rupa",
+        "pengertian seni rupa",
+        "jenis seni rupa"
+      ],
+      "jawaban": [
+        "Seni rupa adalah cabang seni yang membentuk karya seni dengan media yang bisa ditangkap mata dan dirasakan dengan rabaan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa pentingnya melestarikan budaya lokal",
+        "mengapa budaya daerah harus dijaga",
+        "manfaat melestarikan kebudayaan"
+      ],
+      "jawaban": [
+        "Melestarikan budaya lokal penting untuk menjaga identitas bangsa, memperkaya warisan tradisi, dan mempererat persatuan masyarakat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa bedanya seni musik tradisional dan modern",
+        "perbedaan musik daerah dan modern",
+        "ciri musik tradisional"
+      ],
+      "jawaban": [
+        "Musik tradisional berakar dari adat serta diwariskan turun-temurun dengan alat khas daerah, sedangkan musik modern berkembang mengikuti teknologi dan tren global."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu seni tari",
+        "fungsi seni tari",
+        "pengertian tarian tradisional"
+      ],
+      "jawaban": [
+        "Seni tari adalah gerak tubuh secara berirama yang dilakukan di tempat dan waktu tertentu untuk mengekspresikan perasaan dan menyampaikan pesan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi teater dalam masyarakat",
+        "manfaat seni pertunjukan",
+        "apa itu seni teater"
+      ],
+      "jawaban": [
+        "Seni teater berfungsi sebagai sarana hiburan, hiburan edukatif, pemersatu komunitas, serta media kritik sosial."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu warisan budaya takbenda",
+        "contoh intangible cultural heritage",
+        "pengertian warisan budaya takbenda"
+      ],
+      "jawaban": [
+        "Warisan budaya takbenda meliputi tradisi lisan, seni pertunjukan, adat istiadat, dan kerajinan tradisional yang diwariskan antar-generasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa arti museum bagi sejarah dan seni",
+        "fungsi museum",
+        "mengapa harus berkunjung ke museum"
+      ],
+      "jawaban": [
+        "Museum berfungsi sebagai lembaga penyimpanan, perawatan, penelitian, dan pameran benda-benda bernilai sejarah serta seni bagi masyarakat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu seni kontemporer",
+        "pengertian seni masa kini",
+        "ciri seni kontemporer"
+      ],
+      "jawaban": [
+        "Seni kontemporer adalah seni yang terikat pada era kekinian, bebas dari pakem tradisional, serta mencerminkan dinamika zaman modern."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa manfaat memperlajari sastra",
+        "mengapa sastra itu penting",
+        "fungsi karya sastra"
+      ],
+      "jawaban": [
+        "Belajar sastra memperhalus bahasa, mengasah empati, serta memberikan wawasan mendalam tentang kehidupan dan kebudayaan manusia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara mengenalkan budaya Indonesia ke luar negeri",
+        "tips promosi budaya",
+        "cara diplomasi budaya"
+      ],
+      "jawaban": [
+        "Melalui pameran seni internasional, pertunjukan budaya, festival kuliner, serta pemanfaatan media digital dan media sosial."
+      ]
+    }
+  ]
+}

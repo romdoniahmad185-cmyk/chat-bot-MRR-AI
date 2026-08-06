@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00150",
+  "judul": "Sejarah dan Peradaban",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu revolusi industri",
+        "pengertian revolusi industri",
+        "sejarah revolusi industri pertama"
+      ],
+      "jawaban": [
+        "Revolusi Industri adalah periode perubahan besar-besaran dalam bidang pertanian, manufaktur, pertambangan, transportasi, dan teknologi yang mengubah struktur sosio-ekonomi dunia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa yang dimaksud dengan peradaban sungai nil",
+        "sejarah mesir kuno",
+        "kejayaan peradaban mesir kuno"
+      ],
+      "jawaban": [
+        "Peradaban Sungai Nil adalah peradaban Mesir Kuno yang berkembang di sepanjang Sungai Nil, terkenal dengan arsitektur piramida, tulisan hieroglif, dan sistem irigasi canggih."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa penyebab utama terjadinya perang dunia pertama",
+        "sejarah perang dunia 1",
+        "pemicu perang dunia i"
+      ],
+      "jawaban": [
+        "Perang Dunia I dipicu oleh pembunuhan Putera Mahkota Austria Archduke Franz Ferdinand pada tahun 1914, yang memperkeruh ketegangan politik dan aliansi antarnegara Eropa."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu zaman renaisans atau renaissance",
+        "pengertian renaissance di eropa",
+        "sejarah abad pertengahan ke modern"
+      ],
+      "jawaban": [
+        "Renaisans adalah gerakan kebudayaan di Eropa abad ke-14 hingga ke-17 yang menandai lahirnya kembali minat terhadap seni, sains, sastra, dan pemikiran humanisme."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa pentingnya peristiwa sumpah pemuda 1928",
+        "sejarah sumpah pemuda",
+        "makna sumpah pemuda bagi indonesia"
+      ],
+      "jawaban": [
+        "Sumpah Pemuda 1928 adalah momen bersejarah penegasan persatuan bangsa Indonesia melalui komitmen bersama: satu tumpah darah, satu bangsa, dan menjunjung bahasa persatuan, bahasa Indonesia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu Jalur Sutra atau Silk Road",
+        "pengertian jalur sutra",
+        "sejarah perdagangan jalur sutra"
+      ],
+      "jawaban": [
+        "Jalur Sutra adalah jaringan rute perdagangan kuno yang menghubungkan wilayah Wilayah Timur (Asia) dan Barat (Eropa/Afrika) yang memfasilitasi pertukaran barang, budaya, dan teknologi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa yang dimaksud dengan zaman pencerahan atau aufklarung",
+        "pengertian enlightenment era",
+        "tokoh abad pencerahan"
+      ],
+      "jawaban": [
+        "Zaman Pencerahan adalah gerakan intelektual Eropa pada abad ke-18 yang menekankan penggunaan akal budi, rasionalitas, sains, dan kebebasan individu di atas tradisi dogmatis."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa penyebab jatuhnya kekaisaran romawi barat",
+        "runtuhnya kekaisaran romawi",
+        "sejarah romawi kuno"
+      ],
+      "jawaban": [
+        "Kekaisaran Romawi Barat runtuh akibat kombinasi krisis politik internal, kemunduran ekonomi, korupsi pemerintah, serta invasi bertubi-tubi dari suku-suku Barbar."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu perang dingin atau cold war",
+        "pengertian perang dingin",
+        "konflik as vs uni soviet"
+      ],
+      "jawaban": [
+        "Perang Dingin adalah periode ketegangan politik, militer, dan ideologi antara blok Barat (dipimpin Amerika Serikat) dan blok Timur (dipimpin Uni Soviet) tanpa pertempuran militer langsung secara besar-besaran."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa arti istilah artefak dalam ilmu sejarah",
+        "pengertian artefak arkeologi",
+        "bedanya artefak dan fosil"
+      ],
+      "jawaban": [
+        "Artefak adalah benda peninggalan bersejarah buatan atau modifikasi manusia di masa lalu yang dapat memberikan informasi mengenai kebudayaan dan taraf hidup masyarakat pembuatnya."
+      ]
+    }
+  ]
+}

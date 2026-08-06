@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00136",
+  "judul": "Lingkungan dan Ekologi",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu pemanasan global",
+        "pengertian global warming",
+        "penyebab pemanasan global"
+      ],
+      "jawaban": [
+        "Pemanasan global adalah proses peningkatan suhu rata-rata atmosfer, laut, dan daratan bumi akibat peningkatkan emisi gas rumah kaca."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa manfaat melakukan daur ulang sampah",
+        "mengapa harus mendaur ulang",
+        "keuntungan recycling"
+      ],
+      "jawaban": [
+        "Daur ulang mengurangi penumpukan sampah di TPA, menghemat sumber daya alam, menghemat energi, serta mengurangi pencemaran lingkungan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu jejak karbon atau carbon footprint",
+        "pengertian jejak karbon",
+        "cara mengurangi jejak karbon"
+      ],
+      "jawaban": [
+        "Jejak karbon adalah total jumlah emisi gas rumah kaca yang dihasilkan dari seluruh aktivitas manusia secara langsung maupun tidak langsung."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa pentingnya menjaga keanekaragaman hayati",
+        "manfaat biodiversitas",
+        "mengapa biodiversitas harus dilindungi"
+      ],
+      "jawaban": [
+        "Keanekaragaman hayati menjaga keseimbangan ekosistem, menyediakan sumber pangan dan obat-obatan, serta mendukung kelangsungan hidup manusia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu energi terbarukan",
+        "contoh energi terbarukan",
+        "manfaat energi bersih"
+      ],
+      "jawaban": [
+        "Energi terbarukan adalah sumber energi yang berasal dari alam dan tidak akan habis, seperti energi matahari, angin, air, dan panas bumi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa dampak pembabatan hutan atau deforestasi",
+        "bahaya deforestasi",
+        "akibat gundulnya hutan"
+      ],
+      "jawaban": [
+        "Deforestasi menyebabkan hilangnya habitat satwa, memicu banjir dan tanah longsor, serta mempercepat perubahan iklim global."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu mikroplastik dan bahayanya",
+        "pengertian mikroplastik",
+        "dampak mikroplastik bagi laut"
+      ],
+      "jawaban": [
+        "Mikroplastik adalah potongan plastik berukuran sangat kecil yang dapat mencemari perairan dan masuk ke dalam rantai makanan organisme laut hingga manusia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara menerapkan gaya hidup minim sampah atau zero waste",
+        "tips zero waste",
+        "konsep gaya hidup bebas sampah"
+      ],
+      "jawaban": [
+        "Terapkan prinsip 5R: Refuse (menolak), Reduce (mengurangi), Reuse (menggunakan kembali), Recycle (mendaur ulang), dan Rot (membuat kompos)."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi hutan mangrove bagi ekosistem pesisir",
+        "manfaat bakau",
+        "peran hutan mangrove"
+      ],
+      "jawaban": [
+        "Hutan mangrove mencegah abrasi pantai, menahan gelombang tsunami, serta menjadi habitat perkembangbiakan berbagai spesies laut."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu konsep ekonomi sirkular",
+        "pengertian circular economy",
+        "bedanya ekonomi linier dan sirkular"
+      ],
+      "jawaban": [
+        "Ekonomi sirkular adalah model ekonomi yang berfokus pada pengurangan limbah dengan merancang produk agar dapat digunakan kembali, diperbaiki, dan didaur ulang secara berkelanjutan."
+      ]
+    }
+  ]
+}

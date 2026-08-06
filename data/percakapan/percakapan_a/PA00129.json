@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00129",
+  "judul": "Teknologi Informatika dan Komputer",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu kecerdasan buatan atau AI",
+        "pengertian artificial intelligence",
+        "manfaat teknologi AI"
+      ],
+      "jawaban": [
+        "Kecerdasan buatan (AI) adalah simulasi kecerdasan manusia dalam mesin yang dirancang untuk berpikir dan belajar seperti manusia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi sistem operasi komputer",
+        "pengertian OS komputer",
+        "contoh sistem operasi"
+      ],
+      "jawaban": [
+        "Sistem operasi mengelola perangkat keras dan perangkat lunak komputer serta menyediakan antarmuka bagi pengguna untuk menjalankan program."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu komputasi awan atau cloud computing",
+        "manfaat layanan cloud",
+        "contoh cloud storage"
+      ],
+      "jawaban": [
+        "Cloud computing adalah penyediaan layanan komputasi—seperti server, penyimpanan, dan database—melalui internet secara fleksibel."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara menjaga keamanan data pribadi di internet",
+        "tips keamanan siber",
+        "cara cegah kebocoran data"
+      ],
+      "jawaban": [
+        "Gunakan kata sandi yang kuat dan berbeda, aktifkan otentikasi dua faktor (2FA), dan hindari mengklik tautan mencurigakan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa bedanya perangkat keras dan perangkat lunak",
+        "perbedaan hardware dan software",
+        "contoh hardware dan software"
+      ],
+      "jawaban": [
+        "Perangkat keras (hardware) adalah komponen fisik komputer yang dapat disentuh, sedangkan perangkat lunak (software) adalah program/instruksi yang dijalankan di dalamnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu jaringan internet",
+        "bagaimana internet bekerja",
+        "pengertian koneksi jaringan"
+      ],
+      "jawaban": [
+        "Internet adalah jaringan global yang menghubungkan miliaran perangkat komputer di seluruh dunia menggunakan protokol komunikasi standar."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi bahasa pemrograman",
+        "pengertian coding",
+        "mengapa harus belajar pemrograman"
+      ],
+      "jawaban": [
+        "Bahasa pemrograman digunakan untuk memberikan instruksi kepada komputer agar dapat menjalankan fungsi, aplikasi, atau perangkat lunak tertentu."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu basis data atau database",
+        "fungsi database komputer",
+        "contoh aplikasi database"
+      ],
+      "jawaban": [
+        "Database adalah kumpulan data terstruktur yang disimpan secara elektronik di dalam sistem komputer agar mudah diakses, dikelola, dan diperbarui."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa arti malware dan virus komputer",
+        "bahaya virus komputer",
+        "cara mengatasi malware"
+      ],
+      "jawaban": [
+        "Malware dan virus adalah perangkat lunak berbahaya yang dirancang untuk merusak, menginfeksi, atau mengakses sistem komputer tanpa izin."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu teknologi blockchain",
+        "konsep dasar blockchain",
+        "fungsi blockchain"
+      ],
+      "jawaban": [
+        "Blockchain adalah teknologi pencatatan transaksi terdesentralisasi dan terenkripsi yang aman, transparan, serta sulit diubah."
+      ]
+    }
+  ]
+}

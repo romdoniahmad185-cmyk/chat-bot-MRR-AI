@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00124",
+  "judul": "Olahraga dan Kebugaran",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa manfaat olahraga rutin",
+        "mengapa harus berolahraga",
+        "keuntungan fisik dari olahraga"
+      ],
+      "jawaban": [
+        "Olahraga rutin meningkatkan kebugaran kardiovaskular, memperkuat otot dan tulang, serta menjaga berat badan ideal."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu latihan kardio",
+        "contoh olahraga kardio",
+        "manfaat latihan aerobik"
+      ],
+      "jawaban": [
+        "Latihan kardio adalah aktivitas fisik yang meningkatkan detak jantung dan pernapasan, seperti berlari, bersepeda, dan berenang."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa pemanasan sebelum olahraga itu penting",
+        "manfaat pemanasan",
+        "apa akibat tidak pemanasan"
+      ],
+      "jawaban": [
+        "Pemanasan menyiapkan otot dan sendi untuk aktivitas fisik berat guna mencegah cedera dan meningkatkan fleksibilitas."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa pendinginan setelah olahraga diperlukan",
+        "fungsi pendinginan",
+        "manfaat stretching setelah latihan"
+      ],
+      "jawaban": [
+        "Pendinginan membantu menurunkan detak jantung secara bertahap dan mengurangi penumpukan asam laktat penyebab nyeri otot."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa bedanya latihan kekuatan dan latihan ketahanan",
+        "perbedaan kekuatan dan ketahanan otot",
+        "latihan beban vs kardio"
+      ],
+      "jawaban": [
+        "Latihan kekuatan berfokus pada meningkatkan tenaga dan massa otot, sedangkan latihan ketahanan berfokus pada daya tahan otot dalam durasi lama."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu olahraga yoga",
+        "manfaat latihan yoga",
+        "mengapa yoga baik untuk pikiran"
+      ],
+      "jawaban": [
+        "Yoga adalah olah tubuh dan pikiran yang menggabungkan postur fisik, teknik pernapasan, dan meditasi untuk keseimbangan tubuh serta kedamaian mental."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara mencegah cedera saat berolahraga",
+        "tips aman berolahraga",
+        "cegah cedera otot"
+      ],
+      "jawaban": [
+        "Gunakan perlengkapan yang tepat, lakukan pemanasan, perhatikan teknik yang benar, dan jangan memaksakan diri melampaui batas kemampuan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu indeks massa tubuh atau BMI",
+        "cara menghitung BMI",
+        "pengertian Body Mass Index"
+      ],
+      "jawaban": [
+        "BMI adalah pengukuran yang membandingkan berat badan dengan tinggi badan untuk mengategorikan status berat badan seseorang."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "berapa durasi olahraga yang ideal dalam seminggu",
+        "standar durasi olahraga",
+        "berapa lama harus berolahraga"
+      ],
+      "jawaban": [
+        "Rekomendasi umum adalah minimal 150 menit olahraga intensitas sedang atau 75 menit olahraga intensitas tinggi per minggu."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa pentingnya hidrasi saat berolahraga",
+        "mengapa harus minum air saat latihan",
+        "bahaya dehidrasi saat olahraga"
+      ],
+      "jawaban": [
+        "Hidrasi yang cukup menjaga keseimbangan cairan tubuh, mencegah kram otot, dan mempertahankan performa fisik selama berolahraga."
+      ]
+    }
+  ]
+}

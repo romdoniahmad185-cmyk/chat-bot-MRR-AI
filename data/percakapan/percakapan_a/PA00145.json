@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00145",
+  "judul": "Olahraga dan Kebugaran",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa pentingnya melakukan pemanasan sebelum olahraga",
+        "manfaat pemanasan",
+        "mengapa harus stretching sebelum latihan"
+      ],
+      "jawaban": [
+        "Pemanasan penting untuk meningkatkan suhu tubuh, memperlancar sirkulasi darah ke otot, serta mengurangi risiko cedera dan kram."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa bedanya latihan aerobik dan anaerobik",
+        "perbedaan kardio vs angkat beban",
+        "contoh olahraga anaerobik"
+      ],
+      "jawaban": [
+        "Latihan aerobik mengandalkan pasokan oksigen untuk daya tahan seperti lari, sedangkan latihan anaerobik menggunakan energi tanpa oksigen untuk kekuatan intensitas tinggi seperti angkat beban."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu indeks massa tubuh atau BMI",
+        "cara menghitung BMI",
+        "fungsi indeks massa tubuh"
+      ],
+      "jawaban": [
+        "BMI adalah ukuran yang digunakan untuk menilai apakah seseorang memiliki berat badan ideal, kurang, atau berlebih berdasarkan perbandingan berat dan tinggi badan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa manfaat olahraga kardio secara rutin",
+        "keuntungan latihan kardio",
+        "mengapa lari baik untuk jantung"
+      ],
+      "jawaban": [
+        "Olahraga kardio memperkuat stamina, menjaga kesehatan jantung dan paru-paru, membakar kalori, serta membantu menurunkan tekanan darah."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa pentingnya hidrasi saat berolahraga",
+        "mengapa harus minum saat latihan",
+        "dampak dehidrasi saat olahraga"
+      ],
+      "jawaban": [
+        "Hidrasi menjaga keseimbangan cairan tubuh, mencegah dehidrasi dan kram otot, serta membantu menjaga performa dan suhu tubuh tetap stabil."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu latihan HIIT atau High Intensity Interval Training",
+        "pengertian HIIT",
+        "manfaat latihan HIIT"
+      ],
+      "jawaban": [
+        "HIIT adalah metode latihan yang menggabungkan periode intensitas tinggi yang singkat dengan periode pemulihan intensitas rendah secara berulang."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan antara kebugaran fisik dan kesehatan",
+        "bedanya fit dan sehat",
+        "pengertian kebugaran jasmani"
+      ],
+      "jawaban": [
+        "Kesehatan merujuk pada kondisi bebas dari penyakit, sedangkan kebugaran fisik adalah kemampuan tubuh untuk melakukan aktivitas harian tanpa kelelahan berlebih."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi protein bagi tubuh setelah olahraga",
+        "mengapa butuh protein setelah latihan",
+        "manfaat asupan protein untuk otot"
+      ],
+      "jawaban": [
+        "Protein membantu memperbaiki jaringan otot yang rusak serta mendukung proses pembentukan dan pemulihan massa otot pasca latihan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa arti istilah rest day atau hari istirahat",
+        "mengapa butuh rest day saat berolahraga",
+        "manfaat istirahat dalam olahraga"
+      ],
+      "jawaban": [
+        "Rest day adalah hari libur latihan yang krusial untuk memberi waktu bagi jaringan otot memulihkan diri, memulihkan energi, dan mencegah overtraining."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara meningkatkan daya tahan tubuh atau stamina",
+        "tips menambah stamina",
+        "cara agar tidak cepat lelah saat olahraga"
+      ],
+      "jawaban": [
+        "Tingkatkan stamina dengan latihan kardio konsisten, atur pola makan bergizi seimbang, cukupi kebutuhan tidur, dan tingkatkan intensitas latihan secara bertahap."
+      ]
+    }
+  ]
+}

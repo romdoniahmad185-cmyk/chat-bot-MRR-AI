@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00132",
+  "judul": "Hobi dan Hiburan",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa manfaat memiliki hobi",
+        "mengapa penting punya hobi",
+        "manfaat hobi bagi kesehatan mental"
+      ],
+      "jawaban": [
+        "Memiliki hobi dapat melepaskan stres, mengasah kreativitas, mengisi waktu luang secara produktif, serta memperluas relasi sosial."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa saja contoh hobi yang menghasilkan uang",
+        "hobi jadi bisnis",
+        "monetisasi hobi"
+      ],
+      "jawaban": [
+        "Contoh hobi yang dapat menghasilkan uang antara lain fotografi, menulis, memasak, desain grafis, dan berkebun."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa dampak positif dan negatif bermain game",
+        "efek game online bagi anak",
+        "manfaat dan bahaya video game"
+      ],
+      "jawaban": [
+        "Dampak positifnya melatih pemecahan masalah dan kecerdasan strategi, sedangkan dampak negatifnya risiko kecanduan dan gangguan kesehatan mata jika berlebihan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa mendengarkan musik bisa menenangkan pikiran",
+        "manfaat musik bagi otak",
+        "pengaruh musik pada suasana hati"
+      ],
+      "jawaban": [
+        "Musik memicu pelepasan hormon dopamin di otak yang dapat meredakan kecemasan, memperbaiki suasana hati, dan memberikan efek relaksasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa keuntungan membaca buku sebagai hobi",
+        "manfaat membaca novel atau buku",
+        "mengapa hobi membaca itu baik"
+      ],
+      "jawaban": [
+        "Membaca buku meningkatkan kosakata, memperkuat kemampuan konsentrasi, merangsang imajinasi, serta memperluas wawasan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu hobi berkebun atau gardening",
+        "manfaat berkebun di rumah",
+        "mengapa berkebun bikin bahagia"
+      ],
+      "jawaban": [
+        "Berkebun adalah aktivitas merawat tanaman yang bermanfaat menyegarkan udara rumah, melatih kesabaran, dan menjadi terapi alami pereda stres."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara menemukan hobi yang cocok",
+        "tips memilih hobi baru",
+        "cara mencari kegiatan waktu luang"
+      ],
+      "jawaban": [
+        "Coba hal-hal baru yang menarik perhatian, sesuaikan dengan anggaran dan waktu luang, serta eksplorasi aktivitas yang membuat Anda merasa rileks."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa manfaat fotografi sebagai hobi",
+        "mengapa menyukai fotografi",
+        "keuntungan belajar fotografi"
+      ],
+      "jawaban": [
+        "Fotografi melatih kepekaan visual, mengabadikan momen berharga, serta menjadi media ekspresi seni dan penyampaian pesan non-verbal."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa pengaruh menonton film bagi hiburan",
+        "manfaat menonton film",
+        "fungsi hiburan sinema"
+      ],
+      "jawaban": [
+        "Menonton film menjadi sarana pelepasan penat, memberikan inspirasi cerita, serta mengenalkan ragam budaya dan perspektif baru."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa pentingnya menjaga keseimbangan antara hobi dan pekerjaan",
+        "work life balance dengan hobi",
+        "mengapa jangan hanya fokus kerja"
+      ],
+      "jawaban": [
+        "Keseimbangan ini mencegah kejenuhan (burnout), menjaga kesehatan emosional, serta membuat kinerja bekerja menjadi lebih segar dan produktif."
+      ]
+    }
+  ]
+}

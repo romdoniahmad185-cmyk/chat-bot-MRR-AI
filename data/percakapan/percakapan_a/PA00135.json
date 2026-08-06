@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00135",
+  "judul": "Seni dan Budaya",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu kebudayaan",
+        "pengertian budaya",
+        "unsur kebudayaan manusia"
+      ],
+      "jawaban": [
+        "Kebudayaan adalah keseluruhan sistem gagasan, tindakan, dan hasil karya manusia yang diperoleh melalui proses belajar dalam kehidupan masyarakat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi seni bagi kehidupan manusia",
+        "manfaat karya seni",
+        "mengapa manusia membutuhkan seni"
+      ],
+      "jawaban": [
+        "Seni berfungsi sebagai media ekspresi emosional, sarana komunikasi, hiburan, sarana ritual keagamaan, serta penanda identitas budaya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa bedanya seni rupa dua dimensi dan tiga dimensi",
+        "perbedaan seni 2D dan 3D",
+        "contoh seni 2 dimensi dan 3 dimensi"
+      ],
+      "jawaban": [
+        "Seni rupa dua dimensi hanya memiliki panjang dan lebar (seperti lukisan), sedangkan seni rupa tiga dimensi memiliki panjang, lebar, dan volume/ruang (seperti patung)."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu warisan budaya takbenda",
+        "pengertian intangible cultural heritage",
+        "contoh warisan budaya takbenda"
+      ],
+      "jawaban": [
+        "Warisan budaya takbenda adalah tradisi, ekspresi lisan, seni pertunjukan, atau adat istiadat yang diwariskan dari generasi ke generasi tanpa wujud fisik permanen."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa pentingnya melestarikan tarian tradisional",
+        "manfaat menjaga tari daerah",
+        "mengapa tari tradisional harus dijaga"
+      ],
+      "jawaban": [
+        "Melestarikan tarian tradisional penting untuk menjaga jati diri bangsa, memperkaya keberagaman budaya, dan mewariskannya kepada generasi penerus."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu alat musik tradisional",
+        "contoh alat musik daerah",
+        "fungsi musik tradisional"
+      ],
+      "jawaban": [
+        "Alat musik tradisional adalah instrumen musik yang berkembang secara turun-temurun di suatu daerah untuk mengiringi upacara, tarian, atau hiburan rakyat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa arti akulturasi budaya",
+        "pengertian akulturasi",
+        "bedanya akulturasi dan asimilasi"
+      ],
+      "jawaban": [
+        "Akulturasi adalah percampuran dua budaya atau lebih yang saling memengaruhi tanpa menghilangkan kepribadian atau ciri khas budaya aslinya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu seni teater atau drama",
+        "pengertian seni peran",
+        "unsur-unsur teater"
+      ],
+      "jawaban": [
+        "Seni teater adalah seni pertunjukan yang mementaskan kisah kehidupan manusia di atas panggung melalui tata peran, dialog, gerak, dan perwujudan karakter."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa yang dimaksud dengan kearifan lokal",
+        "pengertian local wisdom",
+        "contoh kearifan lokal di masyarakat"
+      ],
+      "jawaban": [
+        "Kearifan lokal adalah pandangan hidup, nilai-nilai, dan pengetahuan lokal yang bijaksana serta dihayati oleh masyarakat setempat secara turun-temurun."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara generasi muda menjaga kelestarian budaya",
+        "tips melestarikan budaya bangsa",
+        "peran pemuda dalam kebudayaan"
+      ],
+      "jawaban": [
+        "Generasi muda dapat mempelajari seni lokal, mengenakan pakaian adat/khas pada momen tertentu, serta mempromosikan budaya daerah lewat media sosial."
+      ]
+    }
+  ]
+}

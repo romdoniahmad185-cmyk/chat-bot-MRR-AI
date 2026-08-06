@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00137",
+  "judul": "Ekonomi dan Keuangan Perorangan",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu investasi",
+        "pengertian investasi",
+        "manfaat berinvestasi sejak dini"
+      ],
+      "jawaban": [
+        "Investasi adalah penanaman modal atau aset untuk jangka waktu tertentu dengan harapan dapat menghasilkan keuntungan atau kenaikan nilai di masa depan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa pentingnya memiliki dana darurat",
+        "fungsi dana darurat",
+        "berapa besarnya dana darurat ideal"
+      ],
+      "jawaban": [
+        "Dana darurat penting untuk mengantisipasi kejadian tak terduga seperti pemutusan hubungan kerja atau sakit, idealnya setara 3 hingga 6 kali pengeluaran bulanan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa bedanya inflasi dan deflasi",
+        "perbedaan inflasi vs deflasi",
+        "dampak inflasi pada uang"
+      ],
+      "jawaban": [
+        "Inflasi adalah kenaikan harga barang dan jasa secara umum yang menurunkan daya beli uang, sedangkan deflasi adalah penurunan harga secara umum."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa arti diversifikasi investasi",
+        "mengapa jangan menaruh semua telur di satu keranjang",
+        "manfaat diversifikasi"
+      ],
+      "jawaban": [
+        "Diversifikasi adalah strategi membagikan modal ke beberapa jenis aset investasi yang berbeda untuk meminimalkan risiko kerugian."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu instrumen reksa dana",
+        "pengertian reksadana",
+        "cara kerja reksa dana"
+      ],
+      "jawaban": [
+        "Reksa dana adalah wadah untuk menghimpun dana masyarakat pemodal yang selanjutnya dikelola oleh Manajer Investasi ke dalam portofolio efek."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara menyusun anggaran keuangan bulanan",
+        "tips budgeting bulanan",
+        "metode penganggaran 50 30 20"
+      ],
+      "jawaban": [
+        "Alokasikan pendapatan menggunakan metode seperti 50-30-20: 50% untuk kebutuhan pokok, 30% untuk keinginan, dan 20% untuk tabungan atau investasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa perbedaan utang produktif dan utang konsumtif",
+        "ciri utang produktif",
+        "bahaya utang konsumtif"
+      ],
+      "jawaban": [
+        "Utang produktif digunakan untuk hal yang menghasilkan arus kas atau meningkatkan nilai aset, sedangkan utang konsumtif digunakan untuk barang yang nilainya terus turun."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu suku bunga dan fungsinya",
+        "pengertian suku bunga bank",
+        "pengaruh suku bunga bagi pinjaman"
+      ],
+      "jawaban": [
+        "Suku bunga adalah balas jasa atau biaya yang dibayarkan peminjam atas penggunaan uang yang dipinjamkan oleh kreditur atau bank."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa pentingnya memiliki asuransi kesehatan",
+        "manfaat asuransi kesehatan",
+        "mengapa butuh asuransi"
+      ],
+      "jawaban": [
+        "Asuransi kesehatan melindungi tabungan dan finansial keluarga dari risiko biaya medis yang tinggi akibat sakit atau kecelakaan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu pendapatan pasif atau passive income",
+        "contoh passive income",
+        "cara mendapatkan uang secara pasif"
+      ],
+      "jawaban": [
+        "Pendapatan pasif adalah penghasilan yang diperoleh seseorang tanpa memerlukan keterlibatan kerja secara aktif terus-menerus, seperti dividen saham atau sewa properti."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00133",
+  "judul": "Olahraga dan Kebugaran",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa manfaat rutin berolahraga bagi tubuh",
+        "mengapa harus olahraga tiap hari",
+        "manfaat kebugaran jasmani"
+      ],
+      "jawaban": [
+        "Rutin berolahraga dapat meningkatkan stamina, menjaga daya tahan tubuh, mengontrol berat badan, serta meningkatkan fungsi jantung dan paru-paru."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa bedanya olahraga kardio dan latihan beban",
+        "perbedaan cardio dan weightlifting",
+        "pilih kardio atau angkat beban"
+      ],
+      "jawaban": [
+        "Olahraga kardio berfokus pada pembakaran kalori dan kesehatan jantung, sedangkan latihan beban bertujuan membakar lemak serta membentuk dan memperkuat massa otot."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa pemanasan penting sebelum olahraga",
+        "manfaat pemanasan",
+        "bahaya olahraga tanpa pemanasan"
+      ],
+      "jawaban": [
+        "Pemanasan dapat meningkatkan suhu tubuh, melenturkan otot, serta meminimalkan risiko cedera saat melakukan aktivitas fisik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu olahraga yoga dan manfaatnya",
+        "pengertian yoga",
+        "manfaat meditasi dan yoga"
+      ],
+      "jawaban": [
+        "Yoga adalah latihan fisik, mental, dan spiritual yang menggabungkan olah tubuh, pernapasan, dan meditasi untuk kelenturan tubuh serta ketenangan pikiran."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara menjaga konsistensi berolahraga",
+        "tips tidak malas olahraga",
+        "cara jadwalkan olahraga"
+      ],
+      "jawaban": [
+        "Pilihlah jenis olahraga yang disukai, tetapkan target secara bertahap, buat jadwal rutin, dan ajak teman untuk berolahraga bersama."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa pentingnya hidrasi saat berolahraga",
+        "mengapa harus minum saat olahraga",
+        "bahaya dehidrasi saat latihan"
+      ],
+      "jawaban": [
+        "Hidrasi yang cukup menjaga keseimbangan cairan tubuh, mencegah kram otot, mengontrol suhu tubuh, dan menjaga kinerja fisik tetap optimal."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa fungsi pendinginan setelah olahraga",
+        "manfaat pendinginan atau cooling down",
+        "mengapa perlu pendinginan"
+      ],
+      "jawaban": [
+        "Pendinginan membantu menurunkan detak jantung secara bertahap, meredakan ketegangan otot, dan mengurangi risiko pusing setelah latihan berat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa arti indeks massa tubuh atau BMI",
+        "cara menghitung BMI",
+        "fungsi kriteria berat badan ideal"
+      ],
+      "jawaban": [
+        "Indeks Massa Tubuh (BMI) adalah ukuran rasio berat terhadap tinggi badan yang digunakan untuk menilai apakah seseorang memiliki berat badan ideal, kurang, atau berlebih."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa saja contoh olahraga rendah dampak atau low-impact",
+        "olahraga aman untuk sendi",
+        "jenis low impact exercise"
+      ],
+      "jawaban": [
+        "Contoh olahraga low-impact adalah berenang, bersepeda, jalan santai, dan yoga yang aman bagi kesehatan sendi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa istirahat penting dalam program olahraga",
+        "fungsi rest day",
+        "bahaya overtraining"
+      ],
+      "jawaban": [
+        "Hari istirahat (rest day) memberikan waktu bagi jaringan otot untuk memulihkan diri, mencegah kelelahan berlebih, dan menghindari risiko cedera."
+      ]
+    }
+  ]
+}
