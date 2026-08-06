@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00114",
+  "judul": "Sosial dan Kemasyarakatan",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa arti gotong royong",
+        "mengapa harus gotong royong",
+        "manfaat gotong royong"
+      ],
+      "jawaban": [
+        "Gotong royong adalah tradisi bekerja bersama-sama untuk mencapai hasil yang diinginkan demi kepentingan bersama dan mempererat kebersamaan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa pentingnya norma sosial",
+        "fungsi norma di masyarakat",
+        "kenapa ada aturan sosial"
+      ],
+      "jawaban": [
+        "Norma sosial berfungsi menjaga ketertiban, keharmonisan, dan keteraturan dalam kehidupan bermasyarakat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara menjaga kerukunan warga",
+        "tips hidup rukun dengan tetangga",
+        "cara menjaga kedamaian lingkungan"
+      ],
+      "jawaban": [
+        "Saling menghormati, menjaga komunikasi yang baik, bersikap toleran terhadap perbedaan, serta aktif dalam kegiatan lingkungan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu toleransi",
+        "mengapa toleransi itu penting",
+        "arti bersikap toleran"
+      ],
+      "jawaban": [
+        "Toleransi adalah sikap saling menghargai dan menghormati perbedaan suku, agama, ras, maupun antargolongan di masyarakat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa arti menjadi sukarelawan",
+        "manfaat kegiatan volunteer",
+        "kenapa ikut bakti sosial"
+      ],
+      "jawaban": [
+        "Menjadi sukarelawan memberikan kesempatan untuk membantu sesama, memperluas wawasan sosial, dan mengasah rasa empati."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara mengatasi konflik sosial",
+        "solusi perselisihan warga",
+        "cara musyawarah yang baik"
+      ],
+      "jawaban": [
+        "Utamakan musyawarah untuk mufakat, dengarkan sudut pandang semua pihak, dan cari jalan keluar yang adil bagi bersama."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa peran pemuda dalam masyarakat",
+        "kontribusi generasi muda",
+        "pentingnya peran pemuda"
+      ],
+      "jawaban": [
+        "Pemuda berperan sebagai agen perubahan, penggerak inovasi, serta pelestari nilai-nilai positif di lingkungan sosialnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu komunikasi efektif",
+        "cara bicara yang baik dengan orang lain",
+        "tips komunikasi sosial"
+      ],
+      "jawaban": [
+        "Komunikasi efektif terjadi ketika pesan dapat disampaikan dengan jelas, dipahami lawan bicara, serta diiringi dengan kemampuan mendengarkan yang baik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa kita harus taat hukum",
+        "pentingnya mematuhi hukum",
+        "manfaat taat aturan"
+      ],
+      "jawaban": [
+        "Mentaati hukum menjamin keadilan, melindungi hak-hak setiap individu, dan mencegah terjadinya kekacauan di masyarakat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu simpati dan empati",
+        "beda simpati dan empati",
+        "penjelasan empati sosial"
+      ],
+      "jawaban": [
+        "Simpati adalah rasa peduli terhadap perasaan orang lain, sedangkan empati adalah kemampuan untuk merasakan atau menempatkan diri pada posisi orang tersebut."
+      ]
+    }
+  ]
+}

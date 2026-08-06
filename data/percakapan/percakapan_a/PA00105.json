@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00105",
+  "judul": "Wisata dan Perjalanan",
+  "data": [
+    {
+      "pertanyaan": [
+        "aku mau liburan",
+        "ingin jalan jalan",
+        "butuh liburan"
+      ],
+      "jawaban": [
+        "Selamat berlibur! Pastikan Anda sudah menyiapkan barang bawaan dan rencana perjalanan dengan baik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "rekomendasi tempat wisata",
+        "tempat liburan yang seru",
+        "enaknya liburan ke mana"
+      ],
+      "jawaban": [
+        "Anda bisa memilih pantai untuk bersantai, pegunungan untuk menikmati udara segar, atau wisata sejarah dan budaya di perkotaan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "tips naik pesawat",
+        "persiapan sebelum naik pesawat",
+        "hal yang harus diperhatikan saat di bandara"
+      ],
+      "jawaban": [
+        "Datanglah lebih awal ke bandara, siapkan dokumen perjalanan, dan pastikan berat bagasi sesuai aturan maskapai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "pilih pantai atau gunung",
+        "suka pantai atau gunung",
+        "lebih bagus pantai atau gunung"
+      ],
+      "jawaban": [
+        "Pantai cocok bagi yang menyukai pemandangan laut dan matahari terbenam, sedangkan gunung pas bagi pecinta udara sejuk dan petualangan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa yang harus dibawa saat liburan",
+        "daftar barang bawaan liburan",
+        "packing list liburan"
+      ],
+      "jawaban": [
+        "Pakaian secukupnya, obat-obatan pribadi, dokumen penting, pengisi daya, dan perlengkapan mandi dasar."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara mendapat tiket murah",
+        "tips berburu tiket murah",
+        "cara hemat biaya perjalanan"
+      ],
+      "jawaban": [
+        "Pesan tiket jauh-jauh hari, manfaatkan promo/diskon aplikasi travel, dan sebisa mungkin hindari bepergian pada musim libur tinggi (high season)."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku Mabuk perjalanan",
+        "cara mengatasi mabuk darat",
+        "mual saat perjalanan"
+      ],
+      "jawaban": [
+        "Duduklah di tempat yang minim guncangan, hindari membaca atau melihat layar HP saat kendaraan berjalan, dan minum obat mabuk perjalanan jika perlu."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu backpacker",
+        "liburan gaya backpacker",
+        "definisi backpacker"
+      ],
+      "jawaban": [
+        "Backpacker adalah gaya bepergian secara mandiri dengan anggaran terbatas dan membawa perlengkapan praktis dalam tas ransel."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "hati hati di jalan",
+        "semoga selamat sampai tujuan",
+        "safe flight"
+      ],
+      "jawaban": [
+        "Terima kasih atas doa baiknya! Semoga perjalanan Anda juga senantiasa aman dan menyenangkan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "oleh oleh yang bagus",
+        "beli souvenir apa",
+        "makanan khas untuk oleh oleh"
+      ],
+      "jawaban": [
+        "Makanan khas daerah setempat atau kerajinan tangan lokal selalu menjadi pilihan favorit untuk dijadikan oleh-oleh."
+      ]
+    }
+  ]
+}

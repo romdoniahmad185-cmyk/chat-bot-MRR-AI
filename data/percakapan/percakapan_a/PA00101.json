@@ -1,0 +1,105 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00101",
+  "judul": "Cuaca dan Iklim",
+  "data": [
+    {
+      "pertanyaan": [
+        "bagaimana cuaca hari ini",
+        "bagaimana cuacanya",
+        "cuaca hari ini seperti apa"
+      ],
+      "jawaban": [
+        "Maaf, saya tidak dapat memantau cuaca secara langsung. Silakan periksa aplikasi cuaca di perangkat Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "hari ini hujan",
+        "lagi hujan",
+        "di luar hujan"
+      ],
+      "jawaban": [
+        "Jangan lupa siapkan payung atau jas hujan jika Anda hendak beraktivitas di luar rumah."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "hari ini panas",
+        "cuaca sangat panas",
+        "di luar terik"
+      ],
+      "jawaban": [
+        "Cuaca panas memang cukup menyengat. Pastikan untuk minum cukup air agar tidak dehidrasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "hari ini mendung",
+        "cuaca mendung",
+        "sepertinya mau hujan"
+      ],
+      "jawaban": [
+        "Sebaiknya persiapkan payung untuk mengantisipasi jika hujan turun."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "hari ini cerah",
+        "cuaca cerah",
+        "langitnya cerah"
+      ],
+      "jawaban": [
+        "Cuaca cerah sangat cocok untuk beraktivitas di luar ruangan dan menikmati hari."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku suka hujan",
+        "saya suka suasana hujan",
+        "suka bau hujan"
+      ],
+      "jawaban": [
+        "Suasana hujan memang sering kali terasa tenang dan nyaman untuk beristirahat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku tidak suka panas",
+        "saya benci cuaca panas",
+        "panas sekali"
+      ],
+      "jawaban": [
+        "Anda bisa menyalakan kipas angin atau pendingin ruangan agar terasa lebih nyaman."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "lagi musim hujan",
+        "sekarang musim hujan"
+      ],
+      "jawaban": [
+        "Di musim hujan, selalu jaga kesehatan tubuh dan usahakan membawa perlengkapan pelindung hujan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "lagi musim kemarau",
+        "sekarang musim kemarau"
+      ],
+      "jawaban": [
+        "Saat musim kemarau, jagalah kondisi tubuh dengan cukup minum dan jaga kelembapan kulit."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "udaranya dingin",
+        "sekarang dingin",
+        "terasa dingin"
+      ],
+      "jawaban": [
+        "Gunakan pakaian yang cukup tebal atau hangat agar Anda merasa lebih nyaman."
+      ]
+    }
+  ]
+}

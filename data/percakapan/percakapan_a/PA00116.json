@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00116",
+  "judul": "Lingkungan dan Alam",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu perubahan iklim",
+        "pengertian pemanasan global",
+        "dampak perubahan iklim"
+      ],
+      "jawaban": [
+        "Perubahan iklim adalah pergeseran jangka panjang dalam suhu dan pola cuaca yang terutama disebabkan oleh aktivitas manusia seperti pembakaran bahan bakar fosil."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara mengurangi sampah plastik",
+        "tips kurangi limbah plastik",
+        "cara bijak kelola sampah"
+      ],
+      "jawaban": [
+        "Gunakan kantong belanja kain, bawa botol minum sendiri, dan hindari penggunaan produk plastik sekali pakai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa pentingnya daur ulang",
+        "manfaat 3R",
+        "mengapa harus daur ulang"
+      ],
+      "jawaban": [
+        "Daur ulang membantu mengurangi penumpukan sampah di TPA, menghemat energi, dan menjaga kelestarian sumber daya alam."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu energi terbarukan",
+        "contoh energi ramah lingkungan",
+        "pengertian energi bersih"
+      ],
+      "jawaban": [
+        "Energi terbarukan adalah sumber energi yang berasal dari alam dan tidak akan habis, seperti energi surya, angin, dan air."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa hutan sangat penting bagi bumi",
+        "fungsi hutan",
+        "manfaat reboisasi"
+      ],
+      "jawaban": [
+        "Hutan berfungsi sebagai paru-paru dunia yang menghasilkan oksigen, menyerap karbon relatif tinggi, serta menjadi habitat biodiversitas."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara menghemat air rumah tangga",
+        "tips hemat penggunaan air",
+        "cara cegah pemborosan air"
+      ],
+      "jawaban": [
+        "Matikan keran saat tidak digunakan, perbaiki kebocoran saluran air, dan gunakan air secukupnya saat mencuci atau mandi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu jejak karbon",
+        "cara menghitung jejak karbon",
+        "pengertian carbon footprint"
+      ],
+      "jawaban": [
+        "Jejak karbon adalah total jumlah emisi gas rumah kaca yang dihasilkan dari aktivitas manusia secara langsung maupun tidak langsung."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa kita harus menjaga keanekaragaman hayati",
+        "pentingnya biodiversitas",
+        "manfaat flora dan fauna"
+      ],
+      "jawaban": [
+        "Keanekaragaman hayati menjaga keseimbangan ekosistem, menyediakan rantai makanan, serta mendukung kelangsungan hidup manusia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu kompos",
+        "cara membuat pupuk kompos",
+        "manfaat sampah organik"
+      ],
+      "jawaban": [
+        "Kompos adalah pupuk organik yang dihasilkan dari penguraian sisa-sisa bahan organik seperti sisa makanan, daun, dan sisa sayuran."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara menjaga kebersihan lingkungan rumah",
+        "tips lingkungan bersih",
+        "pola hidup bersih dan sehat"
+      ],
+      "jawaban": [
+        "Sapu dan pel rumah secara rutin, buang sampah pada tempatnya, serta pastikan sirkulasi udara dan sanitasi berjalan baik."
+      ]
+    }
+  ]
+}

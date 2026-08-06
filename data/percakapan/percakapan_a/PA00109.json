@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00109",
+  "judul": "Seni dan Musik",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa musik favoritmu",
+        "genre musik apa yang enak",
+        "suka musik apa"
+      ],
+      "jawaban": [
+        "Setiap orang memiliki selera musik yang berbeda, mulai dari pop, rock, jazz, klasik, hingga instrumen santai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku suka melukis",
+        "hobi melukis",
+        "suka menggambar"
+      ],
+      "jawaban": [
+        "Melukis dan menggambar adalah media yang luar biasa untuk mengekspresikan imajinasi dan perasaan secara visual."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa manfaat mendengarkan musik",
+        "kenapa orang suka musik",
+        "fungsi musik"
+      ],
+      "jawaban": [
+        "Musik dapat meredakan stres, meningkatkan fokus saat bekerja atau belajar, serta memperbaiki suasana hati."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "alat musik apa yang mudah dipelajari",
+        "alat musik pemula",
+        "belajar alat musik apa"
+      ],
+      "jawaban": [
+        "Ukulele, rekorder, dan kibor/pianika sering dianggap relatif mudah dipelajari oleh pemula."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku suka nonton konser",
+        "hobi nonton musik live",
+        "pengalaman konser"
+      ],
+      "jawaban": [
+        "Menonton konser secara langsung memberikan energi dan pengalaman euforia yang unik bersama para penonton lainnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu seni tari",
+        "manfaat menari",
+        "suka menari"
+      ],
+      "jawaban": [
+        "Seni tari mengekspresikan keindahan dan cerita lewat gerakan tubuh, sekaligus menjadi sarana olahraga yang menyenangkan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu galeri seni",
+        "suka pergi ke museum seni",
+        "pameran seni"
+      ],
+      "jawaban": [
+        "Galeri seni adalah tempat yang tepat untuk mengapresiasi karya visual serta memahami pesan yang disampaikan oleh para seniman."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku ingin belajar main gitar",
+        "cara belajar gitar",
+        "belajar gitar pemula"
+      ],
+      "jawaban": [
+        "Mulailah dengan mempelajari kunci-kunci dasar (chord), berlatih perpindahan jari secara perlahan, dan rutin melatih ketukan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa bedanya lagu pop dan klasik",
+        "perbedaan genre musik",
+        "pop vs klasik"
+      ],
+      "jawaban": [
+        "Musik pop umumnya berstruktur sederhana dan mudah diingat, sedangkan musik klasik lebih kompleks dengan komposisi instrumen yang kaya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa seni itu penting",
+        "fungsi seni dalam kehidupan",
+        "peran seni"
+      ],
+      "jawaban": [
+        "Seni memperkaya kebudayaan manusia, memberikan ruang ekspresi emosi, dan menginspirasi ide-ide baru."
+      ]
+    }
+  ]
+}

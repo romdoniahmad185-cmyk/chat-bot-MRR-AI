@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00119",
+  "judul": "Pariwisata dan Wisata",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa manfaat liburan",
+        "mengapa harus liburan",
+        "pentingnya bertamasya"
+      ],
+      "jawaban": [
+        "Liburan membantu mengurangi tingkat stres, menyegarkan pikiran, serta mempererat hubungan dengan keluarga atau teman."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara merencanakan liburan hemat",
+        "tips wisata murah",
+        "cara hemat saat travelling"
+      ],
+      "jawaban": [
+        "Pesan tiket dan akomodasi jauh hari, buat anggaran harian, gunakan transportasi umum, dan pilih kuliner lokal."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu pariwisata berkelanjutan",
+        "pengertian ecotourism",
+        "konsep wisata ramah lingkungan"
+      ],
+      "jawaban": [
+        "Pariwisata berkelanjutan adalah konsep berwisata yang memperhitungkan dampak ekonomi, sosial, dan lingkungan untuk masa depan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa saja persiapan sebelum berlibur ke luar negeri",
+        "tips travelling ke luar negeri",
+        "syarat jalan jalan ke luar negeri"
+      ],
+      "jawaban": [
+        "Pastikan masa berlaku paspor cukup, siapkan visa jika diperlukan, tukar mata uang, serta siapkan asuransi perjalanan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu solo travelling",
+        "manfaat jalan jalan sendiri",
+        "tips solo travelling aman"
+      ],
+      "jawaban": [
+        "Solo travelling adalah perjalanan wisata yang dilakukan seorang diri untuk melatih kemandirian, keberanian, dan kebebasan mengeksplorasi tempat baru."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa pentingnya menjaga kebersihan di tempat wisata",
+        "etiket saat berwisata",
+        "kenapa tidak boleh buang sampah di tempat wisata"
+      ],
+      "jawaban": [
+        "Menjaga kebersihan menjaga keindahan objek wisata, melindungi ekosistem setempat, serta memberikan kenyamanan bagi pengunjung lain."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa bedanya hotel, hostel, dan guesthouse",
+        "jenis jenis akomodasi wisata",
+        "tempat menginap saat liburan"
+      ],
+      "jawaban": [
+        "Hotel menawarkan fasilitas lengkap dan privasi tinggi, hostel berkonsep berbagi kamar (dormitory) yang lebih ekonomis, sedangkan guesthouse memberikan suasana penginapan keluarga."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu wisata kuliner",
+        "mengapa suka wisata kuliner",
+        "kegiatan berburu makanan lokal"
+      ],
+      "jawaban": [
+        "Wisata kuliner adalah aktivitas menjelajahi dan menikmati hidangan atau jajanan khas dari suatu daerah untuk mengenal kebudayaan setempat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu souvenir",
+        "mengapa membeli oleh oleh itu penting",
+        "makna cenderamata"
+      ],
+      "jawaban": [
+        "Souvenir atau cenderamata adalah benda yang dibeli sebagai kenang-kenangan dari tempat yang dikunjungi sekaligus mendukung ekonomi perajin lokal."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara mengatasi jet lag",
+        "tips kurangi jet lag",
+        "cara mengatasi lelah setelah penerbangan jauh"
+      ],
+      "jawaban": [
+        "Sesuaikan pola tidur sebelum berangkat, penuhi kebutuhan cairan tubuh, dan usahakan terkena sinar matahari alami di destinasi tujuan."
+      ]
+    }
+  ]
+}

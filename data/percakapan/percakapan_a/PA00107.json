@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00107",
+  "judul": "Olahraga dan Kebugaran Jasmani",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa manfaat sepak bola",
+        "kenapa suka main bola",
+        "manfaat bermain sepak bola"
+      ],
+      "jawaban": [
+        "Sepak bola membantu meningkatkan stamina, kelincahan, serta melatih kerja sama tim."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa manfaat berenang",
+        "kenapa berenang bagus",
+        "manfaat olahraga renang"
+      ],
+      "jawaban": [
+        "Berenang melatih seluruh otot tubuh, meningkatkan kapasitas paru-paru, dan minim risiko cedera sendi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa manfaat berlarilari atau jogging",
+        "manfaat jogging pagi",
+        "efek rutin jogging"
+      ],
+      "jawaban": [
+        "Jogging secara rutin dapat memperkuat jantung, membakar kalori, dan memperbaiki suasana hati."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa harus pemanasan sebelum olahraga",
+        "pentingnya pemanasan",
+        "fungsi pemanasan"
+      ],
+      "jawaban": [
+        "Pemanasan menyiapkan otot dan sendi agar lebih fleksibel serta mencegah risiko cedera saat berolahraga."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa harus pendinginan setelah olahraga",
+        "pentingnya pendinginan",
+        "fungsi pendinginan"
+      ],
+      "jawaban": [
+        "Pendinginan membantu menurunkan detak jantung secara bertahap dan mengurangi pusing atau pegal setelah beraktivitas berat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "berapa kali idealnya olahraga dalam seminggu",
+        "frekuensi olahraga yang baik",
+        "sebaiknya olahraga berapa kali"
+      ],
+      "jawaban": [
+        "Idealnya berolahraga 3 hingga 5 kali seminggu dengan durasi total sekitar 150 menit per minggu."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu badminton",
+        "manfaat main bulu tangkis",
+        "suka main badminton"
+      ],
+      "jawaban": [
+        "Bulu tangkis adalah olahraga raket yang sangat baik untuk melatih refleks, kecepatan, dan daya tahan tubuh."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa manfaat yoga",
+        "kenapa orang melakukan yoga",
+        "keuntungan latihan yoga"
+      ],
+      "jawaban": [
+        "Yoga melatih kelenturan tubuh, memperbaiki postur, serta membantu menenangkan pikiran dan meredakan stres."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu gym",
+        "manfaat latihan di gym",
+        "fitnes di gym"
+      ],
+      "jawaban": [
+        "Latihan di gym dengan beban membantu membentuk serta memperkuat otot tubuh dan meningkatkan kepadatan tulang."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "kenapa otot terasa pegal setelah olahraga",
+        "kenapa badan sakit setelah fitnes",
+        "penyebab nyeri otot"
+      ],
+      "jawaban": [
+        "Rasa pegal atau DOMS terjadi akibat robekan mikroskopis pada serat otot yang sedang beradaptasi dan berkembang menjadi lebih kuat."
+      ]
+    }
+  ]
+}

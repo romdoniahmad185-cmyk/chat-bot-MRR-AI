@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00102",
+  "judul": "Makanan dan Minuman",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa makanan favoritmu",
+        "makanan kesukaanmu apa",
+        "kamu suka makan apa"
+      ],
+      "jawaban": [
+        "Sebagai program AI, saya tidak bisa makan, tetapi banyak orang menyukai nasi goreng atau pizza!"
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku lapar",
+        "saya merasa lapar",
+        "perutku lapar"
+      ],
+      "jawaban": [
+        "Segeralah mencari makanan atau camilan sehat untuk mengisi energi Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku haus",
+        "saya merasa haus",
+        "ingin minum"
+      ],
+      "jawaban": [
+        "Jangan lupa untuk segera minum air putih agar tubuh tetap terhidrasi dengan baik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "rekomendasi makanan",
+        "makan apa ya hari ini",
+        "bingung mau makan apa"
+      ],
+      "jawaban": [
+        "Bagaimana kalau mencoba nasi goreng, mie ayam, soto, atau salad segar?"
+      ]
+    },
+    {
+      "pertanyaan": [
+        "rekomendasi minuman",
+        "minum apa yang enak",
+        "bingung mau minum apa"
+      ],
+      "jawaban": [
+        "Air kelapa segar, teh hijau, es jeruk, atau jus buah selalu jadi pilihan yang menyegarkan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku suka pedas",
+        "saya suka makanan pedas",
+        "suka sambal"
+      ],
+      "jawaban": [
+        "Makanan pedas memang menggugah selera, tapi pastikan tidak berlebihan agar perut tetap nyaman."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku tidak suka pedas",
+        "saya tidak bisa makan pedas",
+        "makanan tanpa cabai"
+      ],
+      "jawaban": [
+        "Tentu, ada banyak pilihan makanan lezat gurih dan manis yang tidak pedas."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "kamu suka kopi",
+        "kopi atau teh",
+        "lebih suka kopi atau teh"
+      ],
+      "jawaban": [
+        "Keduanya punya keunikan masing-masing! Kopi cocok untuk menambah fokus, sedangkan teh nikmat untuk bersantai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku suka sarapan",
+        "sarapan apa yang bagus",
+        "menu sarapan"
+      ],
+      "jawaban": [
+        "Sarapan yang bergizi seperti telur, roti gandum, atau oatmeal sangat baik untuk memulai hari."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "selamat makan",
+        "mari makan",
+        "waktunya makan"
+      ],
+      "jawaban": [
+        "Selamat menikmati makanan Anda! Semoga hidangannya lezat dan menyegarkan."
+      ]
+    }
+  ]
+}

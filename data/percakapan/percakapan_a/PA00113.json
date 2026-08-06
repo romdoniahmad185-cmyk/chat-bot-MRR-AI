@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00113",
+  "judul": "Gaya Hidup dan Produktivitas",
+  "data": [
+    {
+      "pertanyaan": [
+        "bagaimana cara meningkatkan produktivitas",
+        "tips produktif harian",
+        "cara agar tidak malas"
+      ],
+      "jawaban": [
+        "Buat daftar prioritas (to-do list), eliminasi gangguan saat bekerja, dan gunakan skala waktu yang teratur untuk setiap tugas."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu metode pomodoro",
+        "bagaimana teknik pomodoro bekerja",
+        "tips fokus belajar pomodoro"
+      ],
+      "jawaban": [
+        "Metode Pomodoro adalah teknik manajemen waktu dengan bekerja fokus selama 25 menit, lalu diistirahatkan selama 5 menit secara berulang."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara membangun kebiasaan baru",
+        "tips konsisten membentuk habit",
+        "cara membiasakan hal positif"
+      ],
+      "jawaban": [
+        "Mulailah dari langkah kecil yang konsisten setiap hari, hubungkan dengan kebiasaan lama yang sudah ada, dan berikan penghargaan pada diri sendiri."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa arti gaya hidup minimalis",
+        "kenapa memilih hidup minimalis",
+        "konsep minimalisme"
+      ],
+      "jawaban": [
+        "Gaya hidup minimalis menitikberatkan pada hidup dengan barang atau hal yang benar-benar esensial dan memberi nilai tambah, serta mengurangi kepemilikan berlebih."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara mengatasi prokrastinasi",
+        "tips berhenti menunda pekerjaan",
+        "cara mengatasi suka nunda"
+      ],
+      "jawaban": [
+        "Pecah tugas besar menjadi bagian-bagian kecil yang mudah dikerjakan, tetapkan batas waktu singkat, dan langsung mulai tanpa terlalu banyak berpikir."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa pentingnya jadwal harian",
+        "manfaat membuat schedule",
+        "kenapa harus ada rencana harian"
+      ],
+      "jawaban": [
+        "Jadwal harian membantu memberikan arah yang jelas, mengurangi kebingungan menentukan tugas selanjutnya, dan menjaga ritme kerja tetap teratur."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara bangun pagi secara konsisten",
+        "tips jadi morning person",
+        "cara cepat bangun pagi"
+      ],
+      "jawaban": [
+        "Tidurlah lebih awal secara konsisten, hindari melihat layar hp sebelum tidur, dan letakkan alarm di tempat yang agak jauh dari tempat tidur."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu mindfulness",
+        "manfaat berlatih mindfulness",
+        "arti kesadaran penuh"
+      ],
+      "jawaban": [
+        "Mindfulness adalah kondisi di mana seseorang memusatkan perhatian secara penuh pada momen saat ini tanpa memberikan penilaian berlebih."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara mengatur waktu yang efisien",
+        "tips manajemen waktu",
+        "cara membagi waktu harian"
+      ],
+      "jawaban": [
+        "Gunakan matriks prioritas (penting/mendesak), delegasikan tugas jika memungkinkan, serta fokus pada satu pekerjaan pada satu waktu (no multitasking)."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa istirahat itu penting",
+        "dampak kurang istirahat",
+        "manfaat taking a break"
+      ],
+      "jawaban": [
+        "Istirahat membantu memulihkan energi fisik dan mental, meningkatkan konsentrasi kembali, serta mencegah kelelahan berlebih (burnout)."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00104",
+  "judul": "Teknologi dan Gadget",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu ai",
+        "jelaskan kecerdasan buatan",
+        "definisi artificial intelligence"
+      ],
+      "jawaban": [
+        "Artificial Intelligence (AI) atau kecerdasan buatan adalah simulasi kecerdasan manusia yang diterapkan pada sistem komputer."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "HP saya lemot",
+        "kenapa smartphone lambat",
+        "cara mengatasi HP lemot"
+      ],
+      "jawaban": [
+        "Coba hapus memori tembolok (cache), tutup aplikasi yang tidak digunakan, atau bersihkan ruang penyimpanan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "internet lambat",
+        "kenapa koneksi jelek",
+        "koneksi lemot"
+      ],
+      "jawaban": [
+        "Cobalah untuk mengaktifkan mode pesawat sejenak lalu matikan kembali, atau muat ulang (restart) router/perangkat Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara menjaga keamanan data",
+        "tips privasi digital",
+        "agar akun tidak di-hack"
+      ],
+      "jawaban": [
+        "Gunakan kata sandi yang kuat dan unik, aktifkan autentikasi dua faktor (2FA), dan hindari mengklik tautan mencurigakan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "laptop panas",
+        "laptop cepat panas",
+        "kenapa laptop overheated"
+      ],
+      "jawaban": [
+        "Pastikan ventilasi laptop tidak tersumbat, gunakan cooling pad, dan hindari menggunakan laptop di atas kasur."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "rekomendasi aplikasi berguna",
+        "aplikasi apa yang bagus",
+        "aplikasi wajib di HP"
+      ],
+      "jawaban": [
+        "Aplikasi pengelola catatan, kalender pengatur waktu, serta aplikasi kesehatan/olahraga sangat membantu produktivitas harian."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu cloud storage",
+        "penyimpanan awan adalah",
+        "fungsi cloud storage"
+      ],
+      "jawaban": [
+        "Cloud storage adalah media penyimpanan berkas secara online yang memungkinkan Anda mengakses data dari mana saja melalui internet."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara menghemat baterai HP",
+        "baterai cepat habis",
+        "tips hemat baterai"
+      ],
+      "jawaban": [
+        "Kurangi kecerahan layar, matikan lokasi/GPS jika tidak digunakan, dan gunakan mode hemat daya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa bedanya laptop dan desktop",
+        "bedanya komputer dan laptop",
+        "pilih laptop atau PC"
+      ],
+      "jawaban": [
+        "Laptop mengutamakan portabilitas sehingga mudah dibawa, sedangkan PC desktop umumnya menawarkan performa lebih tinggi dan fleksibilitas upgrade."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu backup data",
+        "mengapa harus backup",
+        "fungsi pencadangan data"
+      ],
+      "jawaban": [
+        "Backup data adalah proses membuat salinan cadangan dokumen penting agar tidak hilang jika perangkat rusak atau terhapus."
+      ]
+    }
+  ]
+}

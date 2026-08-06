@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00110",
+  "judul": "Buku dan Literasi",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa manfaat membaca buku",
+        "kenapa harus rajin membaca",
+        "keuntungan membaca buku"
+      ],
+      "jawaban": [
+        "Membaca buku dapat memperluas wawasan, meningkatkan kosa kata, melatih konsentrasi, serta mengurangi stres."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa bedanya fiksi dan non fiksi",
+        "beda buku fiksi dan non fiksi",
+        "jelaskan fiksi dan non fiksi"
+      ],
+      "jawaban": [
+        "Buku fiksi berisikan cerita rekaan atau imajinatif, sedangkan buku non-fiksi berdasarkan fakta, data, dan realitas."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara membangun hobi membaca",
+        "tips agar suka membaca",
+        "cara konsisten membaca buku"
+      ],
+      "jawaban": [
+        "Mulailah dengan topik yang Anda sukai, sisihkan waktu 10-15 menit setiap hari, dan tidak perlu terburu-buru menghabiskan satu buku."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu audiobook",
+        "kelebihan audiobook",
+        "definisi audiobook"
+      ],
+      "jawaban": [
+        "Audiobook adalah rekaman narasi suara dari sebuah buku yang memungkinkan Anda 'membaca' buku dengan cara mendengarkannya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "lebih bagus buku fisik atau ebook",
+        "buku fisik vs ebook",
+        "pilih cetak atau digital"
+      ],
+      "jawaban": [
+        "Buku fisik memberikan sensasi menyentuh kertas dan aromanya yang khas, sedangkan e-book lebih praktis dibawa kemana saja dalam jumlah banyak."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu perpustakaan",
+        "manfaat pergi ke perpustakaan",
+        "fungsi perpustakaan"
+      ],
+      "jawaban": [
+        "Perpustakaan adalah tempat penyimpanan koleksi buku dan publikasi lain yang dapat dipinjam atau dibaca untuk sarana belajar dan penelitian."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "rekomendasi buku bagus",
+        "buku apa yang enak dibaca",
+        "saran buku terbaik"
+      ],
+      "jawaban": [
+        "Pilihan buku tergantung minat Anda; genre pengembangan diri, novel misteri, sejarah, atau sains populer bisa menjadi pilihan awal yang menarik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu novel",
+        "pengertian novel",
+        "ciri ciri novel"
+      ],
+      "jawaban": [
+        "Novel adalah karya sastra prosa panjang yang memuat rangkaian cerita kehidupan seseorang dengan orang-orang di sekelilingnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara mengingat isi buku",
+        "tips paham bacaan",
+        "agar tidak lupa isi buku"
+      ],
+      "jawaban": [
+        "Buat catatan ringkas atau bagikan kembali poin-poin menarik dari buku tersebut kepada orang lain setelah Anda selesai membaca."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa tingkat literasi penting",
+        "pentingnya literasi",
+        "manfaat literasi bagi bangsa"
+      ],
+      "jawaban": [
+        "Literasi yang tinggi membantu masyarakat berpikir kritis, memahami informasi dengan akurat, serta meningkatkan kualitas hidup secara keseluruhan."
+      ]
+    }
+  ]
+}

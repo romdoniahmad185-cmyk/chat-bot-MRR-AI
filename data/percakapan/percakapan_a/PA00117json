@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00117",
+  "judul": "Seni dan Kebudayaan",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu seni budaya",
+        "pengertian kebudayaan",
+        "pentingnya melestarikan budaya"
+      ],
+      "jawaban": [
+        "Seni dan kebudayaan adalah bentuk ekspresi, hasil pemikiran, serta kebiasaan masyarakat yang diwariskan dari generasi ke generasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa kita harus melestarikan tarian tradisional",
+        "manfaat tari daerah",
+        "pentingnya tarian tradisional"
+      ],
+      "jawaban": [
+        "Melestarikan tarian tradisional membantu menjaga identitas bangsa, memperkaya nilai sejarah, dan memperkenalkan keindahan budaya ke kancah dunia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu alat musik tradisional",
+        "contoh alat musik daerah",
+        "fungsi musik tradisional"
+      ],
+      "jawaban": [
+        "Alat musik tradisional adalah instrumen musik yang berkembang secara turun-temurun di suatu daerah untuk mengiringi upacara adat maupun hiburan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa arti museum bagi masyarakat",
+        "manfaat berkunjung ke museum",
+        "fungsi museum"
+      ],
+      "jawaban": [
+        "Museum berfungsi sebagai tempat menyimpan, merawat, dan memamerkan benda-benda bersejarah untuk edukasi serta penelitian."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa bedanya seni rupa murni dan seni rupa terapan",
+        "pengertian seni rupa",
+        "perbedaan seni murni dan terapan"
+      ],
+      "jawaban": [
+        "Seni rupa murni berfokus pada keindahan dan ekspresi estetis semata, sedangkan seni rupa terapan mengutamakan fungsi praktis dalam kehidupan sehari-hari."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa pentingnya kearifan lokal",
+        "contoh kearifan lokal",
+        "pengertian kearifan lokal"
+      ],
+      "jawaban": [
+        "Kearifan lokal adalah nilai-nilai pandangan hidup yang bijaksana dan diturunkan secara lokal untuk menjaga keseimbangan dengan alam dan sesama."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu seni sastra",
+        "contoh karya sastra",
+        "manfaat membaca puisi dan novel"
+      ],
+      "jawaban": [
+        "Seni sastra adalah keindahan gagasan atau cerita yang dituangkan melalui bahasa lisan maupun tulisan, seperti puisi, cerpen, dan novel."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara mengenalkan budaya lokal ke generasi muda",
+        "tips lestarikan budaya",
+        "edukasi kebudayaan"
+      ],
+      "jawaban": [
+        "Melalui kegiatan ekstrakurikuler seni di sekolah, festival budaya interaktif, serta pembuatan konten kreatif di media sosial."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa pentingnya pakaian adat",
+        "fungsi busana tradisional",
+        "makna baju daerah"
+      ],
+      "jawaban": [
+        "Pakaian adat melambangkan identitas, simbol status sosial, serta bentuk penghormatan terhadap tradisi dan warisan leluhur."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu festival budaya",
+        "manfaat acara kebudayaan",
+        "tujuan festival seni"
+      ],
+      "jawaban": [
+        "Festival budaya adalah perayaan publik yang menampilkan berbagai ragam kesenian dan kebiasaan tradisional untuk menghibur serta mengedukasi masyarakat."
+      ]
+    }
+  ]
+}

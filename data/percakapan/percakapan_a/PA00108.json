@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00108",
+  "judul": "Hewan Peliharaan dan Alam",
+  "data": [
+    {
+      "pertanyaan": [
+        "aku punya kucing",
+        "saya pelihara kucing",
+        "suka kucing"
+      ],
+      "jawaban": [
+        "Kucing adalah hewan peliharaan yang sangat menggemaskan dan bisa menjadi teman yang menyenangkan di rumah."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku punya anjing",
+        "saya pelihara anjing",
+        "suka anjing"
+      ],
+      "jawaban": [
+        "Anjing dikenal sebagai hewan peliharaan yang sangat setia, cerdas, dan bersahabat dengan manusia."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara merawat hewan peliharaan",
+        "tips merawat hewan",
+        "cara merawat peliharaan dengan baik"
+      ],
+      "jawaban": [
+        "Berikan makanan yang bernutrisi, sediakan air bersih, rutin membersihkan kandang/sangkang, dan berikan kasih sayang serta perhatian."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa manfaat memelihara hewan",
+        "keuntungan punya peliharaan",
+        "kenapa suka memelihara hewan"
+      ],
+      "jawaban": [
+        "Memelihara hewan dapat meredakan stres, melatih rasa tanggung jawab, dan memberikan rasa kesepian yang berkurang."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku suka berkebun",
+        "hobi menanam tanaman",
+        "suka tanaman hias"
+      ],
+      "jawaban": [
+        "Berkebun adalah kegiatan yang sangat menenangkan dan dapat membuat lingkungan sekitar rumah terasa lebih asri."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara merawat tanaman",
+        "tips menyiram tanaman",
+        "cara menjaga tanaman tetap segar"
+      ],
+      "jawaban": [
+        "Siram secara teratur sesuai kebutuhan jenis tanaman, berikan sinar matahari yang cukup, dan beri pupuk secara berkala."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa kita harus menjaga alam",
+        "pentingnya menjaga lingkungan",
+        "alasan merawat bumi"
+      ],
+      "jawaban": [
+        "Menjaga alam sangat penting agar ekosistem tetap seimbang dan sumber daya alam dapat dinikmati oleh generasi mendatang."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu daur ulang",
+        "manfaat daur ulang sampah",
+        "pengertian recycling"
+      ],
+      "jawaban": [
+        "Daur ulang adalah proses mengolah kembali barang bekas atau sampah menjadi produk baru yang berguna untuk mengurangi penumpukan limbah."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara mengurangi sampah plastik",
+        "tips kurangi plastik",
+        "bebas sampah plastik"
+      ],
+      "jawaban": [
+        "Gunakan tas belanja ramah lingkungan, bawa botol minum sendiri, dan hindari penggunaan sedotan atau wadah plastik sekali pakai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku suka pemandangan alam",
+        "suka melihat pepohonan",
+        "suka udara segar"
+      ],
+      "jawaban": [
+        "Pemandangan alam yang hijau dan udara segar memang sangat ampuh untuk menyegarkan pikiran kembali."
+      ]
+    }
+  ]
+}

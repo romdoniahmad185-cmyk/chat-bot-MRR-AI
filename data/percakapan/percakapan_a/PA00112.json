@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00112",
+  "judul": "Pendidikan dan Karir",
+  "data": [
+    {
+      "pertanyaan": [
+        "bagaimana cara memilih jurusan kuliah",
+        "tips pilih jurusan",
+        "bingung pilih jurusan kuliah"
+      ],
+      "jawaban": [
+        "Kenali minat dan bakat Anda, riset prospek kerja jurusan tersebut, dan konsultasikan dengan orang tua atau guru bimbingan konseling."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa pentingnya pendidikan tinggi",
+        "mengapa harus kuliah",
+        "manfaat kuliah"
+      ],
+      "jawaban": [
+        "Pendidikan tinggi membantu memperluas wawasan akademis, melatih pola pikir kritis, serta membuka peluang jejaring dan karir yang lebih luas."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara membuat CV yang baik",
+        "tips bikin CV menarik",
+        "format CV lamaran kerja"
+      ],
+      "jawaban": [
+        "Gunakan format yang rapi dan ringkas, cantumkan pengalaman relevan beserta pencapaian, dan pastikan tidak ada kesalahan ketik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "tips menghadapi wawancara kerja",
+        "persiapan interview kerja",
+        "cara menjawab pertanyaan interview"
+      ],
+      "jawaban": [
+        "Pelajari profil perusahaan, pahami posisi yang dilamar, berlatih menjawab pertanyaan umum, dan datang tepat waktu dengan pakaian rapi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu magang",
+        "manfaat magang bagi mahasiswa",
+        "pentingnya internship"
+      ],
+      "jawaban": [
+        "Magang adalah program pelatihan kerja untuk mendapatkan pengalaman praktis di dunia industri sebelum benar-benar memasuki dunia kerja."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara menjaga keseimbangan kerja dan kehidupan",
+        "tips work life balance",
+        "mengatasi burnout kerja"
+      ],
+      "jawaban": [
+        "Tetapkan batas waktu kerja yang jelas, luangkan waktu untuk hobi dan keluarga, serta istirahat yang cukup di akhir minggu."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa bedanya hard skill dan soft skill",
+        "beda hardskill dan softskill",
+        "penjelasan soft skill dan hard skill"
+      ],
+      "jawaban": [
+        "Hard skill adalah kemampuan teknis yang dapat dipelajari dan diukur, sedangkan soft skill adalah kemampuan interpersonal dan karakter diri."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara naik jabatan di tempat kerja",
+        "tips promosi karir",
+        "cara berkembang di kantor"
+      ],
+      "jawaban": [
+        "Tunjukkan kinerja yang konsisten, berinisiatif tinggi, tingkatkan keterampilan diri, dan bangun hubungan kerja sama yang baik dengan tim."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu kerja remote",
+        "bekerja dari rumah",
+        "sistem kerja WFH"
+      ],
+      "jawaban": [
+        "Kerja remote atau WFH adalah sistem kerja yang memungkinkan karyawan menyelesaikan tugasnya dari luar kantor tanpa harus datang secara fisik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara belajar efisien",
+        "tips belajar cepat paham",
+        "metode belajar efektif"
+      ],
+      "jawaban": [
+        "Gunakan teknik seperti Pomodoro, buat peta konsep (mind map), dan ajarkan kembali materi yang dipelajari kepada orang lain."
+      ]
+    }
+  ]
+}

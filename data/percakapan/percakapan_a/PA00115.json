@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00115",
+  "judul": "Hiburan dan Hiburan Populer",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa genre film favoritmu",
+        "suka nonton film apa",
+        "rekomendasi genre film"
+      ],
+      "jawaban": [
+        "Setiap orang memiliki minat berbeda, ada yang menyukai petualangan, komedi, aksi, drama, hingga fiksi ilmiah."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu permainan video",
+        "mengapa orang suka main game",
+        "manfaat main game"
+      ],
+      "jawaban": [
+        "Video game adalah media hiburan interaktif yang dapat melatih refleks, kemampuan memecahkan masalah, dan strategi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara memilih film yang bagus",
+        "tips cari film seru",
+        "rekomendasi nonton film"
+      ],
+      "jawaban": [
+        "Anda bisa melihat ulasan ringkas, sinopsis, daftar pemeran, atau cuplikan (trailer) sebelum memutuskan untuk menontonnya."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu komik atau manga",
+        "kenapa suka baca komik",
+        "definisi komik"
+      ],
+      "jawaban": [
+        "Komik adalah media visual yang menggabungkan gambar dan teks untuk menyampaikan suatu cerita atau informasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa manfaat hiburan bagi kesehatan mental",
+        "kenapa butuh hiburan",
+        "fungsi hiburan"
+      ],
+      "jawaban": [
+        "Hiburan membantu meredakan stres setelah beraktivitas, memberi ruang untuk bersantai, dan meningkatkan rasa gembira."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu pertunjukan teater",
+        "suka nonton teater",
+        "pengertian teater"
+      ],
+      "jawaban": [
+        "Teater adalah seni pertunjukan langsung yang memadukan akting, dialog, musik, dan tata panggung secara dramatis."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu komedi tunggal atau stand up comedy",
+        "kenapa suka stand up comedy",
+        "pengertian stand up comedy"
+      ],
+      "jawaban": [
+        "Stand-up comedy adalah seni pertunjukan di mana seorang komika menyampaikan lelucon secara langsung di hadapan penonton."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu teka teki silang",
+        "manfaat main TTS",
+        "suka main teka teki"
+      ],
+      "jawaban": [
+        "Teka-teki silang adalah permainan kata yang melatih ingatan, menambah kosa kata, dan menjaga ketajaman fungsi otak."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara mengisi waktu luang",
+        "kegiatan mengisi waktu luang",
+        "ide aktivitas akhir pekan"
+      ],
+      "jawaban": [
+        "Anda bisa mencoba hobi baru, mendengarkan musik, menonton film, berkumpul dengan teman, atau berolahraga ringan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu taman hiburan",
+        "suka pergi ke wahana permainan",
+        "pengalaman ke theme park"
+      ],
+      "jawaban": [
+        "Taman hiburan adalah tempat rekreasi dengan berbagai wahana permainan seru yang dirancang untuk hiburan keluarga dan masyarakat."
+      ]
+    }
+  ]
+}

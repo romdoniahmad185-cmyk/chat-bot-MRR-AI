@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00106",
+  "judul": "Keuangan dan Belanja",
+  "data": [
+    {
+      "pertanyaan": [
+        "bagaimana cara menghemat uang",
+        "tips hemat keuangan",
+        "cara mengatur keuangan"
+      ],
+      "jawaban": [
+        "Buat anggaran bulanan, catat setiap pengeluaran, dan prioritaskan kebutuhan di atas keinginan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu dana darurat",
+        "mengapa butuh dana darurat",
+        "fungsi dana darurat"
+      ],
+      "jawaban": [
+        "Dana darurat adalah simpanan uang yang disiapkan khusus untuk menghadapi situasi tak terduga, seperti sakit atau kehilangan pekerjaan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara mulai berinvestasi",
+        "tips investasi pemula",
+        "investasi yang aman"
+      ],
+      "jawaban": [
+        "Mulailah dengan memahami profil risiko Anda, pelajari instrumen investasi seperti reksa dana atau emas, dan gunakan dana dingin."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku suka belanja",
+        "hobi belanja online",
+        "sering checkout barang"
+      ],
+      "jawaban": [
+        "Belanja memang menyenangkan, namun pastikan tetap sesuai anggaran agar tidak mengganggu keuangan harian Anda."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa bedanya kebutuhan dan keinginan",
+        "beda butuh dan ingin",
+        "cara membedakan kebutuhan dan keinginan"
+      ],
+      "jawaban": [
+        "Kebutuhan adalah hal pokok yang harus dipenuhi untuk bertahan hidup, sedangkan keinginan adalah hal tambahan yang sifatnya melengkapi kesenangan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara menghindari belanja impulsif",
+        "agar tidak boros",
+        "tips menahan diri dari belanja"
+      ],
+      "jawaban": [
+        "Terapkan aturan tunggu 24 jam sebelum membeli barang yang tidak direncanakan, dan buat daftar belanja sebelum bepergian."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu dompet digital",
+        "keuntungan e-wallet",
+        "fungsi e-wallet"
+      ],
+      "jawaban": [
+        "Dompet digital adalah layanan elektronik untuk menyimpan uang dan melakukan transaksi pembayaran secara praktis tanpa uang tunai."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara melunasi hutang",
+        "tips bebas hutang",
+        "cara membayar utang dengan cepat"
+      ],
+      "jawaban": [
+        "Prioritaskan pelunasan hutang dengan bunga tertinggi terlebih dahulu, dan kurangi pengeluaran yang tidak mendesak."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku ingin menabung",
+        "bagaimana cara menabung yang efektif",
+        "tips konsisten menabung"
+      ],
+      "jawaban": [
+        "Sisihkan sebagian penghasilan di awal bulan sebelum digunakan untuk belanja, bukan menyisakan sisa pengeluaran."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu inflasi",
+        "jelaskan tentang inflasi",
+        "dampak inflasi"
+      ],
+      "jawaban": [
+        "Inflasi adalah proses meningkatnya harga barang dan jasa secara umum dan terus-menerus dalam jangka waktu tertentu."
+      ]
+    }
+  ]
+}

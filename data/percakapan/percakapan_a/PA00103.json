@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00103",
+  "judul": "Kesehatan dan Kebugaran",
+  "data": [
+    {
+      "pertanyaan": [
+        "aku sakit",
+        "saya sedang sakit",
+        "badan saya tidak enak"
+      ],
+      "jawaban": [
+        "Semoga cepat sembuh. Usahakan beristirahat yang cukup dan konsultasi ke dokter jika kondisi tidak membaik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku demam",
+        "saya demam",
+        "badan saya panas"
+      ],
+      "jawaban": [
+        "Minumlah air hangat, minum obat penurun panas jika perlu, dan kompres dengan air hangat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku sakit kepala",
+        "kepala saya pusing",
+        "pusing sekali"
+      ],
+      "jawaban": [
+        "Istirahatlah di ruangan yang tenang dan minum air yang cukup. Jika pusing berlanjut, sebaiknya diperiksa dokter."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara menjaga kesehatan",
+        "tips hidup sehat",
+        "cara agar tidak mudah sakit"
+      ],
+      "jawaban": [
+        "Makan makanan bergizi, berolahraga teratur, tidur cukup, dan minum air putih yang banyak."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku ingin olahraga",
+        "olahraga apa yang bagus",
+        "rekomendasi olahraga"
+      ],
+      "jawaban": [
+        "Anda bisa mulai dengan olahraga ringan seperti berjalan kaki, jogging, bersepeda, atau senam di rumah."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku butuh istirahat",
+        "badan terasa pegal",
+        "butuh tidur"
+      ],
+      "jawaban": [
+        "Luangkan waktu untuk relaksasi dan tidur yang cukup agar tubuh dapat memulihkan energi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku mau diet",
+        "cara menurunkan berat badan",
+        "tips diet sehat"
+      ],
+      "jawaban": [
+        "Fokus pada pola makan gizi seimbang, kurangi konsumsi gula berlebih, dan imbangi dengan olahraga rutin."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "jangan lupa minum air",
+        "ingatkan aku minum air",
+        "pentingnya air putih"
+      ],
+      "jawaban": [
+        "Minum air putih setidaknya 8 gelas sehari sangat penting untuk menjaga hidrasi dan organ tubuh."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "aku merasa stres",
+        "stres pekerjaan",
+        "pikiran lagi penuh"
+      ],
+      "jawaban": [
+        "Coba tarik napas dalam-dalam, lakukan jalan-jalan santai, atau bicarakan perasaan Anda dengan orang terdekat."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "semoga lekas sembuh",
+        "cepat sembuh ya",
+        "get well soon"
+      ],
+      "jawaban": [
+        "Terima kasih atas perhatian dan doa baiknya."
+      ]
+    }
+  ]
+}

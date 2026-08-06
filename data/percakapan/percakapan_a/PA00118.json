@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00118",
+  "judul": "Ekonomi dan Keuangan",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu inflasi",
+        "pengertian inflasi",
+        "dampak inflasi bagi masyarakat"
+      ],
+      "jawaban": [
+        "Inflasi adalah proses kenaikan harga-harga barang dan jasa secara umum dan terus-menerus dalam jangka waktu tertentu."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara mengatur keuangan pribadi",
+        "tips manajemen keuangan",
+        "cara hemat uang bulanan"
+      ],
+      "jawaban": [
+        "Buat anggaran bulanan, bedakan antara kebutuhan dan keinginan, sisihkan dana darurat, serta investasi sejak dini."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu dana darurat",
+        "mengapa dana darurat penting",
+        "berapa idealnya dana darurat"
+      ],
+      "jawaban": [
+        "Dana darurat adalah simpanan kas yang disiapkan khusus untuk menghadapi situasi tak terduga, seperti sakit atau kehilangan pekerjaan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa arti investasi",
+        "manfaat berinvestasi",
+        "contoh instrumen investasi"
+      ],
+      "jawaban": [
+        "Investasi adalah penanaman modal atau aset untuk jangka waktu tertentu dengan harapan mendapatkan keuntungan di masa depan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa bedanya saham dan reksadana",
+        "pengertian saham vs reksadana",
+        "pilih saham atau reksadana"
+      ],
+      "jawaban": [
+        "Saham adalah kepemilikan langsung pada suatu perusahaan, sedangkan reksadana adalah wadah pemutaran dana pemodal yang dikelola oleh manajer investasi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu utang produktif dan konsumtif",
+        "beda utang baik dan utang buruk",
+        "penjelasan utang"
+      ],
+      "jawaban": [
+        "Utang produktif digunakan untuk kegiatan yang menambah nilai atau menghasilkan pendapatan, sedangkan utang konsumtif digunakan untuk barang yang nilainya menurun."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "mengapa penting memiliki asuransi",
+        "manfaat asuransi",
+        "fungsi asuransi kesehatan"
+      ],
+      "jawaban": [
+        "Asuransi memberikan perlindungan finansial dari risiko kerugian keuangan akibat kejadian tak terduga seperti sakit atau kecelakaan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu sistem pembayaran digital",
+        "manfaat e-wallet",
+        "penggunaan uang elektronik"
+      ],
+      "jawaban": [
+        "Sistem pembayaran digital memungkinkan transaksi keuangan secara elektronik tanpa memerlukan uang tunai fisik."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara memulai bisnis kecil",
+        "tips usaha pemula",
+        "cara buka usaha sendiri"
+      ],
+      "jawaban": [
+        "Riset pasar, tentukan produk atau jasa yang unik, susun rencana bisnis sederhana, dan mulai dari skala kecil sesuai modal."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu suku bunga",
+        "pengertian suku bunga acuan",
+        "dampak suku bunga naik"
+      ],
+      "jawaban": [
+        "Suku bunga adalah balas jasa atau imbalan yang dibayarkan oleh peminjam atas penggunaan dana yang dipinjamkan."
+      ]
+    }
+  ]
+}

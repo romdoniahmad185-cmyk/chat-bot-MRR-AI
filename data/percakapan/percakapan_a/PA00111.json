@@ -1,0 +1,107 @@
+{
+  "kategori": "percakapan",
+  "kode": "PA00111",
+  "judul": "Teknologi dan Digital",
+  "data": [
+    {
+      "pertanyaan": [
+        "apa itu kecerdasan buatan",
+        "pengertian AI",
+        "apa arti artificial intelligence"
+      ],
+      "jawaban": [
+        "Kecerdasan buatan (AI) adalah simulasi dari kecerdasan manusia yang dimodelkan di dalam mesin dan diprogram untuk berpikir serta belajar."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara menjaga keamanan data pribadi",
+        "tips privasi online",
+        "agar akun tidak diretas"
+      ],
+      "jawaban": [
+        "Gunakan kata sandi yang kuat dan unik, aktifkan autentikasi dua faktor (2FA), dan hindari mengklik tautan mencurigakan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu komputasi awan",
+        "pengertian cloud computing",
+        "manfaat cloud"
+      ],
+      "jawaban": [
+        "Komputasi awan adalah pengiriman layanan daya komputasi, termasuk penyimpanan dan basis data, melalui internet tanpa perlu mengelola server fisik sendiri."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa keuntungan menggunakan internet",
+        "manfaat internet",
+        "dampak positif internet"
+      ],
+      "jawaban": [
+        "Internet mempermudah akses informasi, mempercepat komunikasi global, serta mendukung sarana pembelajaran dan bisnis digital."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa bedanya smartphone dan hp biasa",
+        "beda smartphone dan feature phone",
+        "kelebihan smartphone"
+      ],
+      "jawaban": [
+        "Smartphone dilengkapi sistem operasi canggih yang mendukung instalasi berbagai aplikasi, akses internet cepat, dan fungsi komputasi tinggi."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "bagaimana cara mengatasi kecanduan gadget",
+        "tips kurangi main hp",
+        "cara mengatasi screen time tinggi"
+      ],
+      "jawaban": [
+        "Tetapkan batas waktu penggunaan (screen time), matikan notifikasi yang tidak penting, dan perbanyak aktivitas fisik di luar ruangan."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu media sosial",
+        "fungsi sosmed",
+        "contoh media sosial"
+      ],
+      "jawaban": [
+        "Media sosial adalah platform digital yang memungkinkan pengguna untuk saling berinteraksi, berbagi konten, dan membangun jejaring secara daring."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa arti koneksi jaringan 5G",
+        "kelebihan jaringan 5G",
+        "apa itu 5G"
+      ],
+      "jawaban": [
+        "5G adalah generasi kelima dari teknologi seluler pita lebar yang menawarkan kecepatan transfer data jauh lebih tinggi dan latensi lebih rendah."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa itu pemograman komputer",
+        "belajar koding",
+        "pengertian coding"
+      ],
+      "jawaban": [
+        "Pemrograman adalah proses menulis instruksi menggunakan bahasa komputer agar mesin atau perangkat lunak dapat menjalankan tugas tertentu."
+      ]
+    },
+    {
+      "pertanyaan": [
+        "apa dampak negatif dari teknologi",
+        "bahaya terlalu bergantung pada teknologi",
+        "kerugian teknologi"
+      ],
+      "jawaban": [
+        "Dampak negatifnya meliputi potensi isolasi sosial, ketergantungan layar, risiko kebocoran data, dan penyebaran berita bohong (hoaks)."
+      ]
+    }
+  ]
+}
