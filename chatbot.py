@@ -342,3 +342,215 @@ class Chatbot:
 
 
         return NOT_FOUND_MESSAGE
+# =====================================
+# Menghitung Kemiripan Kalimat
+# =====================================
+
+from difflib import SequenceMatcher
+
+def similarity(self, text1, text2):
+
+    return SequenceMatcher(
+        None,
+        text1.lower(),
+        text2.lower()
+    ).ratio()
+
+
+# =====================================
+# Mencari Berdasarkan Kemiripan Kalimat
+# =====================================
+
+def cari_kalimat(self, pertanyaan):
+
+    hasil = None
+
+    skor_tertinggi = 0
+
+    for item in self.data:
+
+        if "pertanyaan" not in item:
+            continue
+
+        for kalimat in item["pertanyaan"]:
+
+            skor = self.similarity(
+                pertanyaan,
+                kalimat
+            )
+
+            if skor > skor_tertinggi:
+
+                skor_tertinggi = skor
+
+                hasil = item
+
+    return hasil, skor_tertinggi
+
+
+# =====================================
+# Koreksi Kata Sederhana
+# =====================================
+
+from difflib import get_close_matches
+
+def koreksi_kata(self, kata):
+
+    daftar = []
+
+    for item in self.data:
+
+        if "kata" in item:
+
+            daftar.append(
+                item["kata"]
+            )
+
+    hasil = get_close_matches(
+        kata,
+        daftar,
+        n=1,
+        cutoff=0.75
+    )
+
+    if hasil:
+
+        return hasil[0]
+
+    return kata
+
+
+# =====================================
+# Mengambil Confidence Score
+# =====================================
+
+def confidence(self, skor):
+
+    return round(
+        skor * 100,
+        2
+    )
+
+
+# =====================================
+# Riwayat Percakapan
+# =====================================
+
+def simpan_history(
+    self,
+    pertanyaan,
+    jawaban
+):
+
+    if not hasattr(
+        self,
+        "history"
+    ):
+
+        self.history = []
+
+    self.history.append({
+
+        "pertanyaan": pertanyaan,
+
+        "jawaban": jawaban
+
+    })
+
+
+# =====================================
+# Menampilkan Riwayat
+# =====================================
+
+def get_history(self):
+
+    if not hasattr(
+        self,
+        "history"
+    ):
+
+        return []
+
+    return self.history
+
+
+# =====================================
+# Cache Jawaban
+# =====================================
+
+def simpan_cache(
+    self,
+    pertanyaan,
+    jawaban
+):
+
+    if not hasattr(
+        self,
+        "cache"
+    ):
+
+        self.cache = {}
+
+    self.cache[
+        pertanyaan
+    ] = jawaban
+
+
+def cek_cache(
+    self,
+    pertanyaan
+):
+
+    if not hasattr(
+        self,
+        "cache"
+    ):
+
+        return None
+
+    return self.cache.get(
+        pertanyaan
+    )
+
+
+# =====================================
+# Menyimpan Pertanyaan Tidak Diketahui
+# =====================================
+
+def simpan_unknown(
+    self,
+    pertanyaan
+):
+
+    file = "unknown.json"
+
+    data = []
+
+    if os.path.exists(file):
+
+        with open(
+            file,
+            "r",
+            encoding="utf-8"
+        ) as f:
+
+            data = json.load(f)
+
+    data.append({
+
+        "pertanyaan": pertanyaan
+
+    })
+
+    with open(
+        file,
+        "w",
+        encoding="utf-8"
+    ) as f:
+
+        json.dump(
+            data,
+            f,
+            ensure_ascii=False,
+            indent=4
+        )
